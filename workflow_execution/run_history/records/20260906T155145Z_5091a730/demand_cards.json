@@ -1,0 +1,145 @@
+[
+  {
+    "demand_id": "S1-ffa357f9bf2b25ab",
+    "method": "S1",
+    "status": "历史或其他市场线索",
+    "scope": "historical_or_other_market",
+    "product_id": "1732381281439289620",
+    "issue": "fit_unspecified",
+    "category": "trousers",
+    "source_titles_as_reported": [
+      "Available in packs of 1/2/3; unisex Y2K Street Style cool pants—original long pants. Casual design with two waistband areas for a faux two-piece look, star print, loose straight fit, and drawstring. Soft, comfortable athletic pants, perfect for everyday f"
+    ],
+    "statement": "评价者表示不合身但方向未明确",
+    "population": null,
+    "scenario": null,
+    "must_conditions": [
+      {
+        "condition": "评价者表示不合身但方向未明确，需明确可检验目标",
+        "evidence_ids": [
+          "EV-02cb288a376d7ac5"
+        ]
+      }
+    ],
+    "preferences": [],
+    "target_measurements": null,
+    "unknown": [
+      "偏差方向、部位、所购尺码和目标尺寸",
+      "采购数量、目标价格、交付要求",
+      "其他独立使用者的证据"
+    ],
+    "hypotheses": [],
+    "support_evidence_ids": [
+      "EV-02cb288a376d7ac5"
+    ],
+    "counter_evidence_ids": [],
+    "counter_limit": "合身正面评价仅为同商品对照；买家和尺码可能不同",
+    "distinct_text_signals": 1,
+    "window": {
+      "start": "2026-08-30T09:05:42Z",
+      "end": "2026-09-06T09:05:42Z"
+    },
+    "market_basis": "Actor country field; buyer residence not independently verified",
+    "manual_review": {
+      "status": "pending",
+      "version": 1
+    },
+    "extraction_method": "finite_rules_v1"
+  },
+  {
+    "demand_id": "S1-e48d6cc49442d13b",
+    "method": "S1",
+    "status": "历史或其他市场线索",
+    "scope": "historical_or_other_market",
+    "product_id": "1732410109013955024",
+    "issue": "fit_unspecified",
+    "category": "trousers",
+    "source_titles_as_reported": [
+      "Women's High-Waisted Harem Pants, Casual Pleated Drawstring, Wide Leg Trousers"
+    ],
+    "statement": "评价者表示不合身但方向未明确",
+    "population": null,
+    "scenario": null,
+    "must_conditions": [
+      {
+        "condition": "评价者表示不合身但方向未明确，需明确可检验目标",
+        "evidence_ids": [
+          "EV-8323b971c7d767ad",
+          "EV-eba780869061ccda"
+        ]
+      }
+    ],
+    "preferences": [],
+    "target_measurements": null,
+    "unknown": [
+      "偏差方向、部位、所购尺码和目标尺寸",
+      "采购数量、目标价格、交付要求",
+      "其他独立使用者的证据"
+    ],
+    "hypotheses": [],
+    "support_evidence_ids": [
+      "EV-8323b971c7d767ad",
+      "EV-eba780869061ccda"
+    ],
+    "counter_evidence_ids": [],
+    "counter_limit": "合身正面评价仅为同商品对照；买家和尺码可能不同",
+    "distinct_text_signals": 1,
+    "window": {
+      "start": "2026-08-30T09:05:42Z",
+      "end": "2026-09-06T09:05:42Z"
+    },
+    "market_basis": "Actor country field; buyer residence not independently verified",
+    "manual_review": {
+      "status": "pending",
+      "version": 1
+    },
+    "extraction_method": "finite_rules_v1"
+  },
+  {
+    "demand_id": "S1-a9119f3aa0ae5dbd",
+    "method": "S1",
+    "status": "待补证据",
+    "scope": "current",
+    "product_id": "1732331935794958838",
+    "issue": "too_big",
+    "category": "top",
+    "source_titles_as_reported": [
+      "CHICME Women's Striped Halter Golden Button Decor Tank Causal Sleeveless Breathable Knit Top Casual Camisole"
+    ],
+    "statement": "评价者认为衣物偏大",
+    "population": null,
+    "scenario": null,
+    "must_conditions": [
+      {
+        "condition": "评价者认为衣物偏大，需明确可检验目标",
+        "evidence_ids": [
+          "EV-204349979393ffa2"
+        ]
+      }
+    ],
+    "preferences": [],
+    "target_measurements": null,
+    "unknown": [
+      "偏大部位、所购尺码、目标尺寸和原商品尺寸",
+      "采购数量、目标价格、交付要求",
+      "其他独立使用者的证据"
+    ],
+    "hypotheses": [],
+    "support_evidence_ids": [
+      "EV-204349979393ffa2"
+    ],
+    "counter_evidence_ids": [],
+    "counter_limit": "合身正面评价仅为同商品对照；买家和尺码可能不同",
+    "distinct_text_signals": 1,
+    "window": {
+      "start": "2026-08-30T09:05:42Z",
+      "end": "2026-09-06T09:05:42Z"
+    },
+    "market_basis": "Actor country field; buyer residence not independently verified",
+    "manual_review": {
+      "status": "pending",
+      "version": 1
+    },
+    "extraction_method": "finite_rules_v1"
+  }
+]

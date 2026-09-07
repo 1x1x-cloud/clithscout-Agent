@@ -1,0 +1,202 @@
+{
+  "record_type": "original_product_size_research",
+  "checked_at": "2026-09-06T17:46:50.041146+00:00",
+  "status": "product_charts_found_conflicting_purchased_sku_unresolved",
+  "review_anchor_ref": "review_anchor.json",
+  "page_evidence_ref": "tiktok_page_evidence.json",
+  "product_id": "1732331935794958838",
+  "review_id": "7679900019943687949",
+  "sku_id": "1732475515663127030",
+  "purchased_size_label": null,
+  "purchased_color": null,
+  "selected_size_chart": null,
+  "measurement_basis": null,
+  "review_target_measurements": null,
+  "charts": [
+    {
+      "chart_id": "tiktok_A",
+      "source_platform": "tiktok",
+      "source_product_id": "1732331935794958838",
+      "source_page": "https://shop.tiktok.com/us/pdp/chicme-womens-striped-halter-tank-viscose-gold-buttons/1732331935794958838",
+      "source_file": "tiktok_description_40.jpg",
+      "source_file_sha256": "9a79062632f6b1c8fdb422d89c62f2822425a942268ba9866d17c0c1ab45a9ba",
+      "transcription": "Manual visual reading, independently checked by second agent",
+      "unit_original": "inch",
+      "measurement_type_label": "Product measurement",
+      "row_headers_original": [
+        "Size",
+        "Length(in)",
+        "Bust(in)"
+      ],
+      "measurement_protocol_confirmed": false,
+      "sku_binding_confirmed": false,
+      "rows": [
+        {
+          "size_label": "S",
+          "bust_in": 33.4,
+          "length_in": 20.8,
+          "bust_cm_derived": 84.8,
+          "length_cm_derived": 52.8
+        },
+        {
+          "size_label": "M",
+          "bust_in": 35.0,
+          "length_in": 21.2,
+          "bust_cm_derived": 88.9,
+          "length_cm_derived": 53.8
+        },
+        {
+          "size_label": "L",
+          "bust_in": 37.4,
+          "length_in": 21.8,
+          "bust_cm_derived": 95.0,
+          "length_cm_derived": 55.4
+        },
+        {
+          "size_label": "XL",
+          "bust_in": 39.7,
+          "length_in": 22.4,
+          "bust_cm_derived": 100.8,
+          "length_cm_derived": 56.9
+        },
+        {
+          "size_label": "XXL",
+          "bust_in": 42.1,
+          "length_in": 23.0,
+          "bust_cm_derived": 106.9,
+          "length_cm_derived": 58.4
+        }
+      ]
+    },
+    {
+      "chart_id": "tiktok_B",
+      "source_platform": "tiktok",
+      "source_product_id": "1732331935794958838",
+      "source_page": "https://shop.tiktok.com/us/pdp/chicme-womens-striped-halter-tank-viscose-gold-buttons/1732331935794958838",
+      "source_file": "tiktok_description_41.jpg",
+      "source_file_sha256": "82e3131cdce6ba4e2c5926a43634f507c147e73d0ef9686be386515b39cc2595",
+      "transcription": "Manual visual reading, independently checked by second agent",
+      "unit_original": "inch",
+      "measurement_type_label": null,
+      "row_headers_original": [
+        "Size(US)",
+        "Bust",
+        "Length"
+      ],
+      "measurement_protocol_confirmed": false,
+      "sku_binding_confirmed": false,
+      "rows": [
+        {
+          "size_label": "S",
+          "bust_in": 33.5,
+          "length_in": 21.7,
+          "bust_cm_derived": 85.1,
+          "length_cm_derived": 55.1,
+          "us_size_display": "4-6"
+        },
+        {
+          "size_label": "M",
+          "bust_in": 35.0,
+          "length_in": 22.0,
+          "bust_cm_derived": 88.9,
+          "length_cm_derived": 55.9,
+          "us_size_display": "8-10"
+        },
+        {
+          "size_label": "L",
+          "bust_in": 37.4,
+          "length_in": 22.6,
+          "bust_cm_derived": 95.0,
+          "length_cm_derived": 57.4,
+          "us_size_display": "12-14"
+        },
+        {
+          "size_label": "XL",
+          "bust_in": 39.8,
+          "length_in": 23.2,
+          "bust_cm_derived": 101.1,
+          "length_cm_derived": 58.9,
+          "us_size_display": "14-16"
+        },
+        {
+          "size_label": "XXL",
+          "bust_in": 42.1,
+          "length_in": 23.8,
+          "bust_cm_derived": 106.9,
+          "length_cm_derived": 60.5,
+          "us_size_display": "16-18"
+        }
+      ]
+    }
+  ],
+  "tiktok_chart_conflicts": [
+    {
+      "size_label": "S",
+      "field": "bust_in",
+      "chart_A_in": 33.4,
+      "chart_B_in": 33.5,
+      "difference_B_minus_A_in": 0.1
+    },
+    {
+      "size_label": "S",
+      "field": "length_in",
+      "chart_A_in": 20.8,
+      "chart_B_in": 21.7,
+      "difference_B_minus_A_in": 0.9
+    },
+    {
+      "size_label": "M",
+      "field": "length_in",
+      "chart_A_in": 21.2,
+      "chart_B_in": 22.0,
+      "difference_B_minus_A_in": 0.8
+    },
+    {
+      "size_label": "L",
+      "field": "length_in",
+      "chart_A_in": 21.8,
+      "chart_B_in": 22.6,
+      "difference_B_minus_A_in": 0.8
+    },
+    {
+      "size_label": "XL",
+      "field": "bust_in",
+      "chart_A_in": 39.7,
+      "chart_B_in": 39.8,
+      "difference_B_minus_A_in": 0.1
+    },
+    {
+      "size_label": "XL",
+      "field": "length_in",
+      "chart_A_in": 22.4,
+      "chart_B_in": 23.2,
+      "difference_B_minus_A_in": 0.8
+    },
+    {
+      "size_label": "XXL",
+      "field": "length_in",
+      "chart_A_in": 23.0,
+      "chart_B_in": 23.8,
+      "difference_B_minus_A_in": 0.8
+    }
+  ],
+  "brand_comparison_refs": [
+    "brand_research.md",
+    "brand_size_chart_transcription.json",
+    "brand_handle_matched_chart.json"
+  ],
+  "brand_to_tiktok_sku_mapping_confirmed": false,
+  "conversion": {
+    "factor_cm_per_inch": "2.54",
+    "derived_cm_rounding": "0.1 cm, ROUND_HALF_UP",
+    "is_new_measurement": false
+  },
+  "ready_for_sku_evidence_import": false,
+  "production_sku_records_written": 0,
+  "required_next_evidence": [
+    "Reliable mapping of TikTok SKU 1732475515663127030 to purchased color and size",
+    "Evidence identifying chart applicable to that variant, resolving differing values",
+    "Measurement method and stretched/unstretched state; review body part and desired fit/measurements before numeric candidate target"
+  ],
+  "decision": "Keep original SKU dimensions and review target unknown. Do not choose chart or infer S from default selection; do not judge candidates as resolving too_big."
+}

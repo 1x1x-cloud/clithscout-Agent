@@ -1,0 +1,17 @@
+{
+  "command": [
+    "D:\\clothscout\\runtime_support\\python_environment\\venv\\Scripts\\python.exe",
+    "-B",
+    "D:\\clothscout\\workflow_execution\\launcher\\scripts\\launch.py",
+    "--reviews",
+    "D:\\clothscout\\data_acquisition\\apify_reviews\\records\\keyword_products_apify_20260907\\api_reviews.json",
+    "--review-evidence",
+    "D:\\clothscout\\demand_discovery\\analysis_workflow\\records\\keyword_reviews_20260907\\review_evidence.json",
+    "--output-root",
+    "D:\\clothscout\\demand_discovery\\analysis_workflow\\records\\keyword_reviews_20260907\\program_baseline"
+  ],
+  "returncode": 0,
+  "stdout": "{\n  \"output_directory\": \"D:\\\\clothscout\\\\demand_discovery\\\\analysis_workflow\\\\records\\\\keyword_reviews_20260907\\\\program_baseline\\\\20260907T054158Z_43c85f7c\",\n  \"status\": \"completed\",\n  \"counts\": {\n    \"raw_rows\": 366,\n    \"in_window_rows\": 63,\n    \"outside_window_rows\": 303,\n    \"unknown_time_rows\": 0,\n    \"duplicate_rows\": 0,\n    \"id_conflict_rows\": 0,\n    \"kinds\": {\n      \"manual_review\": 171,\n      \"empty\": 153,\n      \"praise_or_unclear\": 33,\n      \"specific_complaint\": 8,\n      \"delivery\": 1\n    },\n    \"independent_buyers\": null,\n    \"negative_review_rate\": null,\n    \"current_cards\": 0,\n    \"current_problem_signals\": 0,\n    \"unhandled_rows\": 171,\n    \"search_calls\": 0,\n    \"product_matches\": 0,\n    \"qualified_candidates\": 0\n  },\n  \"errors\": []\n}\n",
+  "stderr": "",
+  "network_enabled_by_cli": false
+}

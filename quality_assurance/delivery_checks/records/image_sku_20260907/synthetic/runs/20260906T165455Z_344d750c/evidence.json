@@ -1,0 +1,36 @@
+[
+  {
+    "evidence_id": "EV-410f86324f335cee",
+    "raw_row": 1,
+    "review_id": "synthetic-new-id",
+    "product_id": "synthetic-product",
+    "sku_id": "synthetic-sku",
+    "original_text": "The pants are too long and I had to hem them.",
+    "source_url": "https://example.invalid/pants",
+    "product_title_as_reported": "Casual pants",
+    "product_main_image_as_reported": "https://example.invalid/product-main.jpg",
+    "source_shop_id_as_reported": null,
+    "published_at": "2026-09-01T12:00:00Z",
+    "read_at_as_reported": null,
+    "market_as_reported": "US",
+    "market_basis": "Actor country field; buyer residence not independently verified",
+    "verified_purchase_as_reported": null,
+    "rating": 1,
+    "in_window": true,
+    "category": "trousers",
+    "kind": "specific_complaint",
+    "extractions": [
+      {
+        "issue": "too_long",
+        "quote": "too long",
+        "start": 14,
+        "end": 22
+      }
+    ],
+    "flags": [],
+    "duplicate_of": null,
+    "id_conflict": false,
+    "text_signal_group": "bd8ea39449817a5e",
+    "independent_buyer_verified": false
+  }
+]

@@ -1,0 +1,106 @@
+{
+  "evidence": [
+    {
+      "evidence_id": "EV-30a739e8cdbdba9a",
+      "flags": [
+        "uncovered_expression"
+      ],
+      "text": "Product quality: Polyester, looks like polyester, feels like polyester, it is polyester"
+    },
+    {
+      "evidence_id": "EV-e0a5e04a755ac3c9",
+      "flags": [
+        "negation_needs_review"
+      ],
+      "text": "They are really bad quality and not what you expect !!DO NOT BUY!!"
+    },
+    {
+      "evidence_id": "EV-20fb3cf8ff32352d",
+      "flags": [
+        "negation_needs_review"
+      ],
+      "text": "These were not what I thought.  The  is not as flowy. I returned."
+    },
+    {
+      "evidence_id": "EV-00cf024eee5435aa",
+      "flags": [
+        "uncovered_expression"
+      ],
+      "text": "I havent received my order!"
+    },
+    {
+      "evidence_id": "EV-a6e80bfd49379e9f",
+      "flags": [
+        "negation_needs_review"
+      ],
+      "text": "This was not delivered"
+    },
+    {
+      "evidence_id": "EV-ceba665af1663697",
+      "flags": [
+        "ambiguous_or_contrastive_language"
+      ],
+      "text": "Sorry, I wasn’t impressed with the fabric felt cheap"
+    }
+  ],
+  "demands": [
+    {
+      "demand_id": "S1-ffa357f9bf2b25ab",
+      "scope": "historical_or_other_market",
+      "unknown": [
+        "偏差方向、部位、所购尺码和目标尺寸",
+        "采购数量、目标价格、交付要求",
+        "其他独立使用者的证据"
+      ],
+      "search_executed": false,
+      "search_limit": "Historical, unknown category, query cap or unrequested search may defer retrieval"
+    },
+    {
+      "demand_id": "S1-e48d6cc49442d13b",
+      "scope": "historical_or_other_market",
+      "unknown": [
+        "偏差方向、部位、所购尺码和目标尺寸",
+        "采购数量、目标价格、交付要求",
+        "其他独立使用者的证据"
+      ],
+      "search_executed": false,
+      "search_limit": "Historical, unknown category, query cap or unrequested search may defer retrieval"
+    },
+    {
+      "demand_id": "S1-a9119f3aa0ae5dbd",
+      "scope": "current",
+      "unknown": [
+        "偏大部位、所购尺码、目标尺寸和原商品尺寸",
+        "采购数量、目标价格、交付要求",
+        "其他独立使用者的证据"
+      ],
+      "search_executed": true,
+      "search_limit": "Historical, unknown category, query cap or unrequested search may defer retrieval"
+    }
+  ],
+  "products": [
+    {
+      "product_id": "987356590864",
+      "sku_id": "5951931560170",
+      "demand_id": "S1-a9119f3aa0ae5dbd",
+      "decision": "待人工核验",
+      "action": "补原商品所购尺码和目标尺寸；对齐替代商品SKU后核验规格及供货"
+    },
+    {
+      "product_id": "1070057395626",
+      "sku_id": "6285878162405",
+      "demand_id": "S1-a9119f3aa0ae5dbd",
+      "decision": "待人工核验",
+      "action": "补原商品所购尺码和目标尺寸；对齐替代商品SKU后核验规格及供货"
+    },
+    {
+      "product_id": "1072384600169",
+      "sku_id": "6120447568484",
+      "demand_id": "S1-a9119f3aa0ae5dbd",
+      "decision": "待人工核验",
+      "action": "补原商品所购尺码和目标尺寸；对齐替代商品SKU后核验规格及供货"
+    }
+  ],
+  "image_searches": [],
+  "sku_specifications": []
+}

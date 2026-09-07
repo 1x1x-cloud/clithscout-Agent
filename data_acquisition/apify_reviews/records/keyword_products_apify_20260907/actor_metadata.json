@@ -1,0 +1,102 @@
+{
+  "read_at": "2026-09-07T05:07:36.408084+00:00",
+  "http_status": 200,
+  "new_runs_started": 0,
+  "response_sha256": "7852732687c9f8973e5a703057df2a4d1d3b6bf0df361052a5b05b347f10299c",
+  "actor_selected_fields": {
+    "id": "zk1NwTZ5eTPYhRcvF",
+    "name": "tiktok-shop-reviews-scraper",
+    "username": "lurkapi",
+    "title": "TikTok Shop Reviews Scraper",
+    "description": "Scrape TikTok Shop product reviews by product URL, product ID, or shop URL. Returns review text, rating, date, author, photos, and product context per row.",
+    "isPublic": true,
+    "isDeprecated": false,
+    "defaultRunOptions": {
+      "build": "stable",
+      "timeoutSecs": 3600,
+      "memoryMbytes": 512,
+      "maxItems": null,
+      "maxTotalChargeUsd": null
+    },
+    "taggedBuilds": {
+      "stable": {
+        "buildId": "WYpz9tfujbBp1yK0S",
+        "finishedAt": "2026-08-02T05:13:16.661Z",
+        "buildNumberInt": 8,
+        "buildNumber": "0.0.8"
+      },
+      "latest": {
+        "buildId": "WYpz9tfujbBp1yK0S",
+        "finishedAt": "2026-08-02T05:13:16.661Z",
+        "buildNumberInt": 8,
+        "buildNumber": "0.0.8"
+      }
+    },
+    "pricingInfos": [
+      {
+        "minimalMaxTotalChargeUsd": null,
+        "pricingModel": "PAY_PER_EVENT",
+        "isPriceChangeNotificationSuppressed": false,
+        "pricingPerEvent": {
+          "actorChargeEvents": {
+            "apify-actor-start": {
+              "eventTitle": "Actor Start",
+              "eventDescription": "Charged when the Actor starts running. Number of events charged depends on Actor memory (one event per GB, minimum one event).",
+              "isOneTimeEvent": true,
+              "eventPriceUsd": 5e-05
+            },
+            "review-scraped": {
+              "eventTitle": "Reviews Scraped",
+              "eventDescription": "Charged once per review delivered to your dataset.",
+              "isOneTimeEvent": false,
+              "eventPriceUsd": 0.002,
+              "isPrimaryEvent": true
+            }
+          }
+        },
+        "startedAt": "2026-05-26T12:05:29.555Z",
+        "createdAt": "2026-05-26T12:05:30.469Z",
+        "apifyMarginPercentage": 0.2
+      }
+    ],
+    "modifiedAt": "2026-08-02T05:26:07.276Z",
+    "versions": [
+      {
+        "versionNumber": "0.0",
+        "sourceType": "SOURCE_FILES",
+        "buildTag": "latest"
+      }
+    ]
+  },
+  "available_top_level_fields": [
+    "actorPermissionLevel",
+    "categories",
+    "createdAt",
+    "defaultRunOptions",
+    "deploymentKey",
+    "description",
+    "exampleRunInput",
+    "hasNoDataset",
+    "id",
+    "isCritical",
+    "isDeprecated",
+    "isGeneric",
+    "isPublic",
+    "isSourceCodeHidden",
+    "modifiedAt",
+    "name",
+    "notice",
+    "pictureUrl",
+    "pricingInfos",
+    "readmeSummary",
+    "seoDescription",
+    "seoTitle",
+    "standbyUrl",
+    "stats",
+    "taggedBuilds",
+    "title",
+    "userId",
+    "username",
+    "versions"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "status": "passed",
+  "actual_difference": {
+    "maxProductsPerShop": 5
+  },
+  "requested_fields_unchanged": true,
+  "changed_star_filter_target_limit_rejected": true,
+  "new_actor_runs": 0
+}

@@ -1,0 +1,176 @@
+{
+  "evidence": [
+    {
+      "evidence_id": "EV-30a739e8cdbdba9a",
+      "flags": [
+        "uncovered_expression"
+      ],
+      "text": "Product quality: Polyester, looks like polyester, feels like polyester, it is polyester"
+    },
+    {
+      "evidence_id": "EV-e0a5e04a755ac3c9",
+      "flags": [
+        "negation_needs_review"
+      ],
+      "text": "They are really bad quality and not what you expect !!DO NOT BUY!!"
+    },
+    {
+      "evidence_id": "EV-20fb3cf8ff32352d",
+      "flags": [
+        "negation_needs_review"
+      ],
+      "text": "These were not what I thought.  The  is not as flowy. I returned."
+    },
+    {
+      "evidence_id": "EV-00cf024eee5435aa",
+      "flags": [
+        "uncovered_expression"
+      ],
+      "text": "I havent received my order!"
+    },
+    {
+      "evidence_id": "EV-a6e80bfd49379e9f",
+      "flags": [
+        "negation_needs_review"
+      ],
+      "text": "This was not delivered"
+    },
+    {
+      "evidence_id": "EV-ceba665af1663697",
+      "flags": [
+        "ambiguous_or_contrastive_language"
+      ],
+      "text": "Sorry, I wasn’t impressed with the fabric felt cheap"
+    }
+  ],
+  "demands": [],
+  "products": [],
+  "image_searches": [],
+  "sku_specifications": [],
+  "problem_signals": [
+    {
+      "signal_id": "PS-ffa357f9bf2b25ab",
+      "product_id": "1732381281439289620",
+      "issue": "fit_unspecified",
+      "scope": "historical_or_other_market",
+      "status": "待补证据",
+      "prevalence": {
+        "policy": {
+          "version": "s1-prevalence-v1",
+          "min_effective_reviews": 5,
+          "recommended_effective_reviews": 10,
+          "min_independent_buyers": 3,
+          "min_distinct_support_texts": 3,
+          "min_problem_ratio": 0.2
+        },
+        "coverage_confirmed": false,
+        "sample_source": null,
+        "support_record_count": 1,
+        "effective_support_count": 0,
+        "effective_sample_count": 0,
+        "distinct_support_text_count": 0,
+        "independent_buyer_count": null,
+        "problem_ratio": null,
+        "gates": {
+          "sample_size": false,
+          "independent_buyers": false,
+          "problem_ratio": false
+        },
+        "approved": false,
+        "effective_evidence_ids": [],
+        "effective_support_evidence_ids": [],
+        "unresolved_evidence_ids": [],
+        "exclusions": [],
+        "warnings": [
+          "sample_below_recommended_10"
+        ],
+        "limitation": "Imported provenance and identity assertions are not independently verified by the program."
+      },
+      "sourcing_eligible": false
+    },
+    {
+      "signal_id": "PS-e48d6cc49442d13b",
+      "product_id": "1732410109013955024",
+      "issue": "fit_unspecified",
+      "scope": "historical_or_other_market",
+      "status": "待补证据",
+      "prevalence": {
+        "policy": {
+          "version": "s1-prevalence-v1",
+          "min_effective_reviews": 5,
+          "recommended_effective_reviews": 10,
+          "min_independent_buyers": 3,
+          "min_distinct_support_texts": 3,
+          "min_problem_ratio": 0.2
+        },
+        "coverage_confirmed": false,
+        "sample_source": null,
+        "support_record_count": 2,
+        "effective_support_count": 0,
+        "effective_sample_count": 0,
+        "distinct_support_text_count": 0,
+        "independent_buyer_count": null,
+        "problem_ratio": null,
+        "gates": {
+          "sample_size": false,
+          "independent_buyers": false,
+          "problem_ratio": false
+        },
+        "approved": false,
+        "effective_evidence_ids": [],
+        "effective_support_evidence_ids": [],
+        "unresolved_evidence_ids": [],
+        "exclusions": [],
+        "warnings": [
+          "sample_below_recommended_10"
+        ],
+        "limitation": "Imported provenance and identity assertions are not independently verified by the program."
+      },
+      "sourcing_eligible": false
+    },
+    {
+      "signal_id": "PS-a9119f3aa0ae5dbd",
+      "product_id": "1732331935794958838",
+      "issue": "too_big",
+      "scope": "current",
+      "status": "待补证据",
+      "prevalence": {
+        "policy": {
+          "version": "s1-prevalence-v1",
+          "min_effective_reviews": 5,
+          "recommended_effective_reviews": 10,
+          "min_independent_buyers": 3,
+          "min_distinct_support_texts": 3,
+          "min_problem_ratio": 0.2
+        },
+        "coverage_confirmed": false,
+        "sample_source": null,
+        "support_record_count": 1,
+        "effective_support_count": 1,
+        "effective_sample_count": 1,
+        "distinct_support_text_count": 1,
+        "independent_buyer_count": null,
+        "problem_ratio": null,
+        "gates": {
+          "sample_size": false,
+          "independent_buyers": false,
+          "problem_ratio": false
+        },
+        "approved": false,
+        "effective_evidence_ids": [
+          "EV-204349979393ffa2"
+        ],
+        "effective_support_evidence_ids": [
+          "EV-204349979393ffa2"
+        ],
+        "unresolved_evidence_ids": [],
+        "exclusions": [],
+        "warnings": [
+          "sample_below_recommended_10"
+        ],
+        "limitation": "Imported provenance and identity assertions are not independently verified by the program."
+      },
+      "sourcing_eligible": false
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "kind": "人工初读；非需求卡或生产分析输出",
+  "rules_ref": "../../../../project_governance/business_rules/docs/2026-09-06-clothing-demand-agent-v1-design.md",
+  "reviews": [
+    {
+      "source_ref": "source_reviews.transcribed.json#/0/reviews/0",
+      "interpretation": "对柔软度、贴合和可反穿的正面体验，无明确本品痛点；非实测规格",
+      "window_status": "日期明确早于原窗口"
+    },
+    {
+      "source_ref": "source_reviews.transcribed.json#/0/reviews/1",
+      "interpretation": "大尺码穿着和弹性正面体验，可作尺码情境线索，无本品偏大/偏小结论",
+      "window_status": "与窗口开始日相同；精确时刻及时区待确认"
+    },
+    {
+      "source_ref": "source_reviews.transcribed.json#/0/reviews/2",
+      "interpretation": "历史裙长偏短线索，仅一条；未提供实际衣长、身高或修改目标",
+      "window_status": "2026-08-14早于原窗口，不参与本轮统计"
+    },
+    {
+      "source_ref": "source_reviews.transcribed.json#/1/reviews/0",
+      "interpretation": "以前后扣造成背部发痒，本品前扣被评价为解决方案；不能归为本品致痒",
+      "window_status": "日期与原窗口相关；缺精确时刻及时区"
+    },
+    {
+      "source_ref": "source_reviews.transcribed.json#/1/reviews/1",
+      "interpretation": "正面穿着体验，实质有效性需全量一致标注；无具体痛点",
+      "window_status": "日期与原窗口相关；缺精确时刻及时区"
+    },
+    {
+      "source_ref": "source_reviews.transcribed.json#/1/reviews/2",
+      "interpretation": "正面舒适/价格/搭配体验；真实购买标记未显示，购买事实未知",
+      "window_status": "日期与原窗口相关；缺精确时刻及时区"
+    },
+    {
+      "source_ref": "source_reviews.transcribed.json#/2/reviews/0",
+      "interpretation": "尺码选择、裤长到踝和弹性正面体验；不推出本品偏小",
+      "window_status": "日期明确早于原窗口"
+    },
+    {
+      "source_ref": "source_reviews.transcribed.json#/2/reviews/1",
+      "interpretation": "历史更多颜色愿望；当前页面已有四色，不能推出当前颜色供给不足",
+      "window_status": "日期明确早于原窗口"
+    },
+    {
+      "source_ref": "source_reviews.transcribed.json#/2/reviews/2",
+      "interpretation": "历史尺码正面体验和更多颜色愿望；不合并为当前需求卡",
+      "window_status": "日期明确早于原窗口"
+    },
+    {
+      "source_ref": "bra_page_02.transcribed.json#/reviews/0",
+      "interpretation": "尺码、外衣下不显痕和舒适度正面体验",
+      "window_status": "日期与原窗口相关；缺精确时刻及时区"
+    },
+    {
+      "source_ref": "bra_page_02.transcribed.json#/reviews/1",
+      "interpretation": "柔软舒适与蕾丝外观正面体验",
+      "window_status": "日期与原窗口相关；缺精确时刻及时区"
+    },
+    {
+      "source_ref": "bra_page_02.transcribed.json#/reviews/2",
+      "interpretation": "本品承托/包容不足的单条问题线索，承认舒适；缺明确身体尺寸和目标支撑条件",
+      "window_status": "日期与原窗口相关；缺精确时刻及时区"
+    }
+  ],
+  "problem_leads": [
+    {
+      "local_lead_id": "pilot-bra-support-01",
+      "product_id": "1732510609891758832",
+      "source_ref": "bra_page_02.transcribed.json#/reviews/2",
+      "issue": "承托/包容不足",
+      "support_records": 1,
+      "distinct_texts": 1,
+      "independent_buyers": null,
+      "valid_review_denominator": null,
+      "problem_share": null,
+      "purchased_variant_display": "Nude, L",
+      "sku_id": null,
+      "purchase_verified": null,
+      "status": "待补证据",
+      "demand_card_eligible": false,
+      "sourcing_triggered": false
+    },
+    {
+      "local_lead_id": "pilot-dress-length-history-01",
+      "product_id": "1732357239054307594",
+      "source_ref": "source_reviews.transcribed.json#/0/reviews/2",
+      "issue": "裙长偏短",
+      "support_records": 1,
+      "distinct_texts": 1,
+      "independent_buyers": null,
+      "valid_review_denominator": null,
+      "problem_share": null,
+      "purchased_variant_display": "Light Wash, S",
+      "sku_id": null,
+      "status": "历史线索；明确在原窗口外",
+      "demand_card_eligible": false,
+      "sourcing_triggered": false
+    }
+  ],
+  "notes": [
+    "local_lead_id仅为本档案引用，不是平台评价ID。",
+    "所有正文只属于关联商品；支持不足未按不同表述重复计数。",
+    "12条采集记录不等于12条有效评价、12个买家或12条差评。"
+  ]
+}

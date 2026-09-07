@@ -1,0 +1,152 @@
+{
+  "success": true,
+  "markdown": "✅ 找到 3 个匹配商品\n\n| 序号 | 商品名称 | 价格 | 供应商 | 服务与卖点 | 链接 |\n|:-:|:-----|------:|:------|:------|:----:|\n| 1 | D 22391 Women Breathable Tank Top Striped Casual条纹背心 | ￥70.4 | 杭州建德恰卡.. | 🛡️ 48小时发货、先采后付、退货包运费<br>🏷️ 套头款、撞色、紧身型 | [详情](https://detail.1688.com/offer/1075733785563.html) |\n| 2 | 绿白条纹毛织背心女挂脖短款罗纹针织上衣跨境热销外贸修身款毛衣 | ￥27.0 | 星纺供应链(.. | 🛡️ 先采后付<br>🏷️ 短款、涤纶、毛织 | [详情](https://detail.1688.com/offer/1065518593876.html) |\n| 3 | 2026夏季小香风条纹吊带背心女针织无袖短款削肩上衣批发一件代发 | ￥44.0 | 广州市汐锦集.. | 🛡️ 明天达、先采后付、退货包运费<br>🏷️ 短款、紧身型、露肩 | [详情](https://detail.1688.com/offer/1058941707146.html) |\n\n---\n\n共找到 **3** 个商品，你可以：\n\n- 回复 **「生成钉钉表格」** → 团队协作管理\n",
+  "data": {
+    "data": {
+      "success": true,
+      "source_image": "D:\\clothscout\\quality_assurance\\delivery_checks\\records\\image_search_diagnosis_20260907\\jpeg_input.jpg",
+      "similar_products": [
+        {
+          "product_id": "1075733785563",
+          "title": "D 22391 Women Breathable Tank Top Striped Casual条纹背心",
+          "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01DWryfrjC7oI1chua_!!2222831244984-0-cib.jpg",
+          "detail_url": "https://detail.1688.com/offer/1075733785563.html?&object_id=1075733785563",
+          "similarity_score": 0.88176403,
+          "price": 70.4,
+          "sku_id": 6291003807892,
+          "sku_title": "S,驼色",
+          "yx_index": 2.56,
+          "quantity_begin": 1,
+          "unit": "",
+          "supplier": "杭州建德恰卡贸易商行(个体工商户)",
+          "sold_count": 0,
+          "stock_amount": 150000,
+          "user_id": "",
+          "member_id": "",
+          "category_id": 1031920,
+          "promotion_tags": [],
+          "service_infos": [
+            {
+              "color": "#22AC60",
+              "type": "发货保障",
+              "value": "48小时发货"
+            },
+            {
+              "type": "赊账服务",
+              "value": "先采后付"
+            },
+            {
+              "type": "保险",
+              "value": "退货包运费"
+            }
+          ],
+          "selling_points": [
+            {
+              "type": "industryCPV",
+              "value": "套头款"
+            },
+            {
+              "type": "industryCPV",
+              "value": "撞色"
+            },
+            {
+              "type": "industryCPV",
+              "value": "紧身型"
+            }
+          ]
+        },
+        {
+          "product_id": "1065518593876",
+          "title": "绿白条纹毛织背心女挂脖短款罗纹针织上衣跨境热销外贸修身款毛衣",
+          "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01COFaFg1KgReowxWt1_!!2222639921193-0-cib.jpg",
+          "detail_url": "https://detail.1688.com/offer/1065518593876.html?&object_id=1065518593876",
+          "similarity_score": 0.87832168,
+          "price": 27.0,
+          "sku_id": 6113057689673,
+          "sku_title": "S,卡其色",
+          "yx_index": 1.31,
+          "quantity_begin": 50,
+          "unit": "",
+          "supplier": "星纺供应链(汕头市)有限公司",
+          "sold_count": 0,
+          "stock_amount": 2700,
+          "user_id": "",
+          "member_id": "",
+          "category_id": 10163,
+          "promotion_tags": [],
+          "service_infos": [
+            {
+              "type": "赊账服务",
+              "value": "先采后付"
+            }
+          ],
+          "selling_points": [
+            {
+              "type": "industryCPV",
+              "value": "短款"
+            },
+            {
+              "type": "industryCPV",
+              "value": "涤纶"
+            },
+            {
+              "type": "industryCPV",
+              "value": "毛织"
+            }
+          ]
+        },
+        {
+          "product_id": "1058941707146",
+          "title": "2026夏季小香风条纹吊带背心女针织无袖短款削肩上衣批发一件代发",
+          "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN010SQ8lK1ggN8aDeOZ3_!!2222616934171-0-cib.jpg",
+          "detail_url": "https://detail.1688.com/offer/1058941707146.html?&object_id=1058941707146",
+          "similarity_score": 0.85498853,
+          "price": 44.0,
+          "sku_id": 6105417081486,
+          "sku_title": "M,黑色",
+          "yx_index": 1.81,
+          "quantity_begin": 2,
+          "unit": "",
+          "supplier": "广州市汐锦集女装有限公司",
+          "sold_count": 0,
+          "stock_amount": 1010,
+          "user_id": "",
+          "member_id": "",
+          "category_id": 1031920,
+          "promotion_tags": [],
+          "service_infos": [
+            {
+              "color": "#22AC60",
+              "type": "预计达",
+              "value": "明天达"
+            },
+            {
+              "type": "赊账服务",
+              "value": "先采后付"
+            },
+            {
+              "type": "保险",
+              "value": "退货包运费"
+            }
+          ],
+          "selling_points": [
+            {
+              "type": "industryCPV",
+              "value": "短款"
+            },
+            {
+              "type": "industryCPV",
+              "value": "紧身型"
+            },
+            {
+              "type": "industryCPV",
+              "value": "露肩"
+            }
+          ]
+        }
+      ],
+      "search_type": "image_similarity",
+      "total_results": 3
+    }
+  }
+}

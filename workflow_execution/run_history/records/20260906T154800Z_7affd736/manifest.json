@@ -1,0 +1,79 @@
+{
+  "version": "0.1.0",
+  "run_id": "20260906T154800Z_7affd736",
+  "started_at": "2026-09-06T15:48:00.680353+00:00",
+  "status": "completed",
+  "config": {
+    "market": "US",
+    "scope": "clothing",
+    "window": {
+      "start": "2026-08-30T09:05:42Z",
+      "end": "2026-09-06T09:05:42Z"
+    },
+    "configuration_basis": "TASK_STATE.md section 3: existing round snapshot, never silently rolled forward",
+    "limits": {
+      "max_reviews": 1000,
+      "max_queries": 1,
+      "products_per_query": 3
+    },
+    "limits_basis": "Technical download/search caps for this implementation validation; not business evidence thresholds",
+    "apify_existing_run_id": "BxW4clbdEnaMPvPbW",
+    "local_review_file": "tiktok_us_data_acceptance_2026-09-05/shop_negative_reviews_2026-09-06/user_run_20260906_144758/raw_reviews.json",
+    "1688_cli": "C:/Users/86130/.codex/skills/1688-product-find/cli.py"
+  },
+  "steps": {
+    "read": "completed",
+    "analyze": "completed",
+    "search": "completed",
+    "compare": "completed"
+  },
+  "errors": [],
+  "new_actor_runs_started": 0,
+  "supply_absent": false,
+  "search_mode": "replay",
+  "replay_provenance": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154237Z_38cd565c",
+  "source_code_sha256": {
+    "analysis.py": "0d5506d480568ef8527e31e79f5b31174aa286fc510cf65e9e74ad9b181883de",
+    "matching.py": "8e8411b54140ad8aa7883df1701f40bde624247e486b7418335a4c09e0a11464",
+    "pipeline.py": "89e53e75fa66b6a26885f4564fc1868d553ad04e7858ca2d2bac84e21af2ab24",
+    "providers.py": "e96e1a1ad01627a5eaa650427a58f339ec439ce114f8eafa90f403d2c70fcd68",
+    "__init__.py": "3e5b4df806952a97ab10c1dc14557fb458d05c5d6dbbea4240965445c7ce10d6",
+    "__main__.py": "ddec5bd487a20acea413838d71048d1a7e8544085d1eab5fe4dda6c85100250e"
+  },
+  "counts": {
+    "raw_rows": 16,
+    "in_window_rows": 1,
+    "outside_window_rows": 15,
+    "unknown_time_rows": 0,
+    "duplicate_rows": 0,
+    "id_conflict_rows": 0,
+    "kinds": {
+      "manual_review": 6,
+      "specific_complaint": 4,
+      "delivery": 4,
+      "empty": 2
+    },
+    "independent_buyers": null,
+    "negative_review_rate": null,
+    "current_cards": 1,
+    "unhandled_rows": 6,
+    "search_calls": 1,
+    "product_matches": 3,
+    "qualified_candidates": 0
+  },
+  "finished_at": "2026-09-06T15:48:00.708452+00:00",
+  "artifact_sha256": {
+    "analysis.json": "3e5f5bc9754d47f80eefd08ce0117e1a5ef7e28e6ae420da4c626589bf4bfecc",
+    "demand_cards.json": "9272a0814fe23caa5b65253abdca186cd9ca2986922b78cfb20ae1eb9509c5d6",
+    "evidence.json": "01a468e1f59d51355044fc2f68a0ca001c0251892b7badfa0765d7e401e1035d",
+    "manual_review.json": "339de6b35d462884f995d5409984b353051dc3cf4e62fea5d57d4279794877b7",
+    "product_matches.json": "13753a81c88637c6fcef423e07072a4b06f36637c2e144f386839073bb563355",
+    "raw_reviews.json": "889c492ef8a4d91e69da9ac0a94e65c7905ea7213b9223a1c146db8468afe7e1",
+    "REPORT.md": "abf979b4fd1fde5a8a361cb03f59c06c74937655545953e28a0f180fd679582a",
+    "search_plan.json": "f257eb7e16d1deb30623309b01ffaef97ae62d3c226d71307f74a9623e4502c7",
+    "source.json": "48cde52d304f72b8b6ddfd80c795600937a2cef54d83f2e9787bea56a33eec0e",
+    "source_reviews.json": "889c492ef8a4d91e69da9ac0a94e65c7905ea7213b9223a1c146db8468afe7e1",
+    "validation.json": "6d1bce4ef43f2766a8bac17f087e95574da78a06cd121e311555035fe20271c0",
+    "searches/Q-70db439e53847f70.json": "fd46d7ef6f72ec2e43ebb55f796c2eb8cb53e28ae0ca8bfe6d5df3a2ca8df37d"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "source": "user-provided screenshot",
+  "screenshot_file": "source_screenshot.png",
+  "screenshot_sha256": "DA8A4CC0CB39D4DF32A70DFB326130ECACCE1A6F5AA32FE0CBDEE5699FB40514",
+  "screenshot_copy_hash_match": true,
+  "json_parsed": true,
+  "related_queries_count": 12,
+  "displayed_growth_percent": 2500,
+  "raw_chart_data_points": 0,
+  "scope": "Original image copy verified by SHA256; visible fields manually transcribed, JSON shape and unknown raw-count fields checked. Not an independent audit of Pinterest data accuracy or a live browser extraction."
+}

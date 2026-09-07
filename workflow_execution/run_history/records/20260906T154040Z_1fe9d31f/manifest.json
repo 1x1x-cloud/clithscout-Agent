@@ -1,0 +1,78 @@
+{
+  "version": "0.1.0",
+  "run_id": "20260906T154040Z_1fe9d31f",
+  "started_at": "2026-09-06T15:40:40.048479+00:00",
+  "status": "completed",
+  "config": {
+    "market": "US",
+    "scope": "clothing",
+    "window": {
+      "start": "2026-08-30T09:05:42Z",
+      "end": "2026-09-06T09:05:42Z"
+    },
+    "configuration_basis": "TASK_STATE.md section 3: existing round snapshot, never silently rolled forward",
+    "limits": {
+      "max_reviews": 1000,
+      "max_queries": 1,
+      "products_per_query": 3
+    },
+    "limits_basis": "Technical download/search caps for this implementation validation; not business evidence thresholds",
+    "apify_existing_run_id": "BxW4clbdEnaMPvPbW",
+    "local_review_file": "tiktok_us_data_acceptance_2026-09-05/shop_negative_reviews_2026-09-06/user_run_20260906_144758/raw_reviews.json",
+    "1688_cli": "C:/Users/86130/.codex/skills/1688-product-find/cli.py"
+  },
+  "steps": {
+    "read": "completed",
+    "analyze": "completed",
+    "search": "not_requested",
+    "compare": "completed"
+  },
+  "errors": [],
+  "new_actor_runs_started": 0,
+  "supply_absent": false,
+  "search_mode": "none",
+  "replay_provenance": null,
+  "source_code_sha256": {
+    "analysis.py": "905d826d290c9db9270088913dbfb590e12691004312a0d341aaffdfd5679596",
+    "matching.py": "a8c47d4979b1e284ce70801ebe12467cc8a541603fb448332b0e9369dcf75483",
+    "pipeline.py": "937b8afbd8b2fead70d7d1c363e3caf8e1f2b4292014aa7fa73961a98229d7e9",
+    "providers.py": "e96e1a1ad01627a5eaa650427a58f339ec439ce114f8eafa90f403d2c70fcd68",
+    "__init__.py": "3e5b4df806952a97ab10c1dc14557fb458d05c5d6dbbea4240965445c7ce10d6",
+    "__main__.py": "63354b46552c36b92efc7a63f096fe28daf533fec957da4526ceafa9d3c77caa"
+  },
+  "counts": {
+    "raw_rows": 16,
+    "in_window_rows": 1,
+    "outside_window_rows": 15,
+    "unknown_time_rows": 0,
+    "duplicate_rows": 0,
+    "id_conflict_rows": 0,
+    "kinds": {
+      "manual_review": 5,
+      "specific_complaint": 4,
+      "delivery": 5,
+      "empty": 2
+    },
+    "independent_buyers": null,
+    "negative_review_rate": null,
+    "current_cards": 1,
+    "unhandled_rows": 5,
+    "search_calls": 0,
+    "product_matches": 0,
+    "qualified_candidates": 0
+  },
+  "finished_at": "2026-09-06T15:40:40.073636+00:00",
+  "artifact_sha256": {
+    "analysis.json": "833b2f8bee13078ba67f8ecb1d28d2f6d250b6360b60507e6465862b6d82fb2f",
+    "demand_cards.json": "d39d213e9bdbf395a98e2e501b294ae366ca3059357cacc65ba5fd84c1d802ad",
+    "evidence.json": "56f93392dc59c42c1c6188323f37c31764b993b80d38566f50a8a7e319bae0bc",
+    "manual_review.json": "a33b28ab0fad63bade89668772b66662561a5670be96091c7c03e44cf38d8b93",
+    "product_matches.json": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+    "raw_reviews.json": "72b23ebe06c0661b2ae2fd72499d6f3dc493bd4fb2a475f22c08cd58e5e9ffb5",
+    "REPORT.md": "a37d6bea4044fad5b4cd37f5afdfe46edd4a9e1aee350f97bdae5e7f9064d2e8",
+    "search_plan.json": "f6bb1d4e83851769b39794ae18bee95b73f98d61f800cdb5e2a1f589f1a5339a",
+    "source.json": "526ae3596740ab89664fd9464efe769ba045337b8e612a92b3225f63892be09a",
+    "source_reviews.json": "e5410e6a32533cd8362050e5a5bf350b22253dccd4b342bda798a968a328989f",
+    "validation.json": "d324ef83a6a897f66090aca83772345fae32347afe35e275c136cc79204bd95b"
+  }
+}

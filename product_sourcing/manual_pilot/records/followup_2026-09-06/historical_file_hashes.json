@@ -1,0 +1,33 @@
+{
+  "purpose": "Baseline captured before follow-up writes; only the 7 original pilot files.",
+  "files": [
+    {
+      "Path": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\products_review.csv",
+      "Hash": "4388BC37E30CB3BE2D71493C5A04ABBFBD4632EAEA8CED921BA1A70AFFB4B797"
+    },
+    {
+      "Path": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\provider_output.md",
+      "Hash": "E2598A451BB5225EB69B744AC53292D15264A23FB731A2DF095CC9BC122CFA6B"
+    },
+    {
+      "Path": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\REPORT.md",
+      "Hash": "B8AA06464892119F245A4906C4F86DAB4E977637357600B8730EF11FF2978C9C"
+    },
+    {
+      "Path": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\response_initial.transcribed.json",
+      "Hash": "1F9D7D61DBED2E33D6F9E5FAEA5C344BBA9F85B45BA1652A9422B39E8899BB99"
+    },
+    {
+      "Path": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\response_refined.json",
+      "Hash": "EAE984C9210ECD035AFA0D7C5B59DF703769C45D54525D12762A95C56E157E32"
+    },
+    {
+      "Path": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\trial.json",
+      "Hash": "8F2E831B8CF0472DB96FC8CBEDC8E609440C7E8B4DD8065D6DCCEEEB5344E2D3"
+    },
+    {
+      "Path": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\validation.json",
+      "Hash": "BA99B8C074DF37426F22C7CC2C6AD75286C998EC10E1CA27D9B44DD24513004F"
+    }
+  ]
+}

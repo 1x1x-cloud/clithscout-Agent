@@ -1,0 +1,48 @@
+{
+  "source_product_id": "1732331935794958838",
+  "source_sku_ids": [
+    "1732475515663127030"
+  ],
+  "evidence_ids": [
+    "EV-204349979393ffa2"
+  ],
+  "checked_at": "2026-09-06T17:15:50.743561+00:00",
+  "candidates": [
+    {
+      "product_id": "1075733785563",
+      "sku_id": "6291003807892",
+      "sku_title_as_reported": "S,驼色",
+      "price_as_reported": 70.4,
+      "quantity_begin_as_reported": 1,
+      "detail_url": "https://detail.1688.com/offer/1075733785563.html?&object_id=1075733785563",
+      "measured_dimensions": null,
+      "material_composition_percent": null,
+      "fit_to_original_complaint": "unknown",
+      "supply_verified": false
+    },
+    {
+      "product_id": "1065518593876",
+      "sku_id": "6113057689673",
+      "sku_title_as_reported": "S,卡其色",
+      "price_as_reported": 27.0,
+      "quantity_begin_as_reported": 50,
+      "detail_url": "https://detail.1688.com/offer/1065518593876.html?&object_id=1065518593876",
+      "measured_dimensions": null,
+      "material_composition_percent": null,
+      "fit_to_original_complaint": "unknown",
+      "supply_verified": false
+    },
+    {
+      "product_id": "1058941707146",
+      "sku_id": "6105417081486",
+      "sku_title_as_reported": "M,黑色",
+      "price_as_reported": 44.0,
+      "quantity_begin_as_reported": 2,
+      "detail_url": "https://detail.1688.com/offer/1058941707146.html?&object_id=1058941707146",
+      "measured_dimensions": null,
+      "material_composition_percent": null,
+      "fit_to_original_complaint": "unknown",
+      "supply_verified": false
+    }
+  ]
+}

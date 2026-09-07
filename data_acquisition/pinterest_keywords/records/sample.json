@@ -1,0 +1,1017 @@
+{
+  "schema_version": "1.0",
+  "source_url": "https://trends.pinterest.com/search/?country=US&l1InterestIds=924581335376%7C948967005229",
+  "extraction_method": "Normal logged-in Chrome; rendered table DOM text and anchor hrefs; no private API, network interception, or hidden application state.",
+  "capture_read_interval_utc": {
+    "start": "2026-09-06 08:59:06 UTC",
+    "end": "2026-09-06 09:00:11 UTC"
+  },
+  "source_updated_at": null,
+  "filters": {
+    "country": "US",
+    "country_label": "美国",
+    "interests": [
+      "男性时尚",
+      "女性时尚"
+    ],
+    "trend_type": "增长趋势",
+    "end_date_input": "2026-09-02",
+    "age": null,
+    "gender": null,
+    "include_keyword": null,
+    "exclude_keyword": null
+  },
+  "page_window_label": "查看在所选结束日期前 90 天内，搜索量增长较高的关键词 (2026/06/04 – 2026/09/01)",
+  "display_window_start": "2026-06-04",
+  "display_window_end": "2026-09-01",
+  "timezone": null,
+  "date_issue": "The input end date is 2026-09-02 while explanatory text ends on 2026-09-01. Both are preserved. Boundary semantics and cause remain unverified.",
+  "business_evaluation_window": null,
+  "business_scope_reference": "../TASK_STATE.md",
+  "business_design_reference": "../../docs/superpowers/specs/2026-09-06-clothing-demand-agent-v1-design.md",
+  "coverage": {
+    "loaded_rows": 50,
+    "unique_keyword_strings": 50,
+    "scope": "Current rendered list under the recorded filters only.",
+    "maximum_available_rows": null,
+    "entire_market_coverage": null,
+    "other_tabs_or_filters_collected": false
+  },
+  "raw_row_fields": [
+    "keyword",
+    "search_volume_cell_text",
+    "weekly_change_display",
+    "monthly_change_display",
+    "yearly_change_display",
+    "detail_url"
+  ],
+  "raw_rows": [
+    [
+      "usa football theme outfit",
+      "",
+      "100%",
+      "5,000%",
+      "40%",
+      "https://trends.pinterest.com/detail/?country=US&terms=usa%20football%20theme%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "hawaiian football game outfit",
+      "",
+      "30%",
+      "4,000%",
+      "400%",
+      "https://trends.pinterest.com/detail/?country=US&terms=hawaiian%20football%20game%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "black out football game outfits",
+      "",
+      "100%",
+      "4,000%",
+      "50%",
+      "https://trends.pinterest.com/detail/?country=US&terms=black%20out%20football%20game%20outfits&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "blackout football game outfit",
+      "",
+      "100%",
+      "3,500%",
+      "900%",
+      "https://trends.pinterest.com/detail/?country=US&terms=blackout%20football%20game%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "white out football game outfit",
+      "",
+      "80%",
+      "3,500%",
+      "100%",
+      "https://trends.pinterest.com/detail/?country=US&terms=white%20out%20football%20game%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "neon football game outfit",
+      "",
+      "40%",
+      "3,500%",
+      "2,500%",
+      "https://trends.pinterest.com/detail/?country=US&terms=neon%20football%20game%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "frat football theme outfit",
+      "",
+      "80%",
+      "3,000%",
+      "80%",
+      "https://trends.pinterest.com/detail/?country=US&terms=frat%20football%20theme%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "labor day weekend outfits",
+      "",
+      "700%",
+      "2,500%",
+      "-10%",
+      "https://trends.pinterest.com/detail/?country=US&terms=labor%20day%20weekend%20outfits&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "dolly parton outfit ideas",
+      "",
+      "100%",
+      "2,500%",
+      "400%",
+      "https://trends.pinterest.com/detail/?country=US&terms=dolly%20parton%20outfit%20ideas&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "dolly parton outfits",
+      "",
+      "80%",
+      "2,000%",
+      "500%",
+      "https://trends.pinterest.com/detail/?country=US&terms=dolly%20parton%20outfits&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "camo football game outfits",
+      "",
+      "90%",
+      "2,000%",
+      "1,500%",
+      "https://trends.pinterest.com/detail/?country=US&terms=camo%20football%20game%20outfits&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "dolly parton inspired outfit",
+      "",
+      "80%",
+      "2,000%",
+      "400%",
+      "https://trends.pinterest.com/detail/?country=US&terms=dolly%20parton%20inspired%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "fall outfit inspo 2026",
+      "",
+      "40%",
+      "1,000%",
+      "10,000%+",
+      "https://trends.pinterest.com/detail/?country=US&terms=fall%20outfit%20inspo%202026&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "picture day fits for school",
+      "",
+      "20%",
+      "900%",
+      "600%",
+      "https://trends.pinterest.com/detail/?country=US&terms=picture%20day%20fits%20for%20school&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "picture day outfit ideas",
+      "",
+      "20%",
+      "800%",
+      "50%",
+      "https://trends.pinterest.com/detail/?country=US&terms=picture%20day%20outfit%20ideas&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "fall going out outfits",
+      "",
+      "300%",
+      "800%",
+      "40%",
+      "https://trends.pinterest.com/detail/?country=US&terms=fall%20going%20out%20outfits&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "second day of school outfit",
+      "",
+      "-10%",
+      "700%",
+      "-30%",
+      "https://trends.pinterest.com/detail/?country=US&terms=second%20day%20of%20school%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "hoco dresses freshman",
+      "",
+      "50%",
+      "700%",
+      "300%",
+      "https://trends.pinterest.com/detail/?country=US&terms=hoco%20dresses%20freshman&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "autumn outfits 2026",
+      "",
+      "20%",
+      "700%",
+      "10,000%+",
+      "https://trends.pinterest.com/detail/?country=US&terms=autumn%20outfits%202026&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "fall outfits 2026",
+      "",
+      "30%",
+      "700%",
+      "7,000%",
+      "https://trends.pinterest.com/detail/?country=US&terms=fall%20outfits%202026&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "high school football game outfit",
+      "",
+      "40%",
+      "700%",
+      "40%",
+      "https://trends.pinterest.com/detail/?country=US&terms=high%20school%20football%20game%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "early fall outfits women",
+      "",
+      "50%",
+      "600%",
+      "1,500%",
+      "https://trends.pinterest.com/detail/?country=US&terms=early%20fall%20outfits%20women&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "us open outfit",
+      "",
+      "40%",
+      "600%",
+      "-70%",
+      "https://trends.pinterest.com/detail/?country=US&terms=us%20open%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "greyday concert outfit",
+      "",
+      "90%",
+      "600%",
+      "1,000%",
+      "https://trends.pinterest.com/detail/?country=US&terms=greyday%20concert%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "september outfits",
+      "",
+      "200%",
+      "600%",
+      "40%",
+      "https://trends.pinterest.com/detail/?country=US&terms=september%20outfits&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "picture day outfit",
+      "",
+      "20%",
+      "600%",
+      "-3%",
+      "https://trends.pinterest.com/detail/?country=US&terms=picture%20day%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "rakhi",
+      "",
+      "100%",
+      "600%",
+      "-7%",
+      "https://trends.pinterest.com/detail/?country=US&terms=rakhi&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "early fall outfits",
+      "",
+      "-1%",
+      "600%",
+      "-50%",
+      "https://trends.pinterest.com/detail/?country=US&terms=early%20fall%20outfits&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "fall bitmoji outfits",
+      "",
+      "40%",
+      "500%",
+      "-60%",
+      "https://trends.pinterest.com/detail/?country=US&terms=fall%20bitmoji%20outfits&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "picture day outfits",
+      "",
+      "6%",
+      "500%",
+      "-20%",
+      "https://trends.pinterest.com/detail/?country=US&terms=picture%20day%20outfits&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "fall capsule wardrobe 2026",
+      "",
+      "40%",
+      "500%",
+      "10,000%+",
+      "https://trends.pinterest.com/detail/?country=US&terms=fall%20capsule%20wardrobe%202026&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "senior sunrise outfit",
+      "",
+      "5%",
+      "500%",
+      "100%",
+      "https://trends.pinterest.com/detail/?country=US&terms=senior%20sunrise%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "mafia outfit black women",
+      "",
+      "50%",
+      "500%",
+      "10,000%+",
+      "https://trends.pinterest.com/detail/?country=US&terms=mafia%20outfit%20black%20women&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "iron man costume",
+      "",
+      "8%",
+      "500%",
+      "500%",
+      "https://trends.pinterest.com/detail/?country=US&terms=iron%20man%20costume&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "rob zombie concert outfit",
+      "",
+      "3%",
+      "500%",
+      "7,000%",
+      "https://trends.pinterest.com/detail/?country=US&terms=rob%20zombie%20concert%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "big bang concert outfit",
+      "",
+      "60%",
+      "500%",
+      "10,000%+",
+      "https://trends.pinterest.com/detail/?country=US&terms=big%20bang%20concert%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "football game outfit highschool",
+      "",
+      "20%",
+      "500%",
+      "-70%",
+      "https://trends.pinterest.com/detail/?country=US&terms=football%20game%20outfit%20highschool&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "school outfits shorts",
+      "",
+      "3%",
+      "500%",
+      "-40%",
+      "https://trends.pinterest.com/detail/?country=US&terms=school%20outfits%20shorts&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "what to wear to school",
+      "",
+      "10%",
+      "500%",
+      "-8%",
+      "https://trends.pinterest.com/detail/?country=US&terms=what%20to%20wear%20to%20school&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "apple picking outfit",
+      "",
+      "20%",
+      "500%",
+      "-10%",
+      "https://trends.pinterest.com/detail/?country=US&terms=apple%20picking%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "labor day outfits",
+      "",
+      "200%",
+      "500%",
+      "-60%",
+      "https://trends.pinterest.com/detail/?country=US&terms=labor%20day%20outfits&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "horror nights outfit",
+      "",
+      "100%",
+      "500%",
+      "100%",
+      "https://trends.pinterest.com/detail/?country=US&terms=horror%20nights%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "fall office outfits for women",
+      "",
+      "60%",
+      "500%",
+      "-60%",
+      "https://trends.pinterest.com/detail/?country=US&terms=fall%20office%20outfits%20for%20women&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "fall photo outfits",
+      "",
+      "40%",
+      "400%",
+      "300%",
+      "https://trends.pinterest.com/detail/?country=US&terms=fall%20photo%20outfits&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "fall work outfits for women",
+      "",
+      "30%",
+      "400%",
+      "-30%",
+      "https://trends.pinterest.com/detail/?country=US&terms=fall%20work%20outfits%20for%20women&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "omar courtz outfits concert",
+      "",
+      "40%",
+      "400%",
+      "4,500%",
+      "https://trends.pinterest.com/detail/?country=US&terms=omar%20courtz%20outfits%20concert&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "autumn fashion",
+      "",
+      "40%",
+      "400%",
+      "-10%",
+      "https://trends.pinterest.com/detail/?country=US&terms=autumn%20fashion&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "school picture day outfit",
+      "",
+      "10%",
+      "400%",
+      "-30%",
+      "https://trends.pinterest.com/detail/?country=US&terms=school%20picture%20day%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "fall sets",
+      "",
+      "70%",
+      "400%",
+      "60%",
+      "https://trends.pinterest.com/detail/?country=US&terms=fall%20sets&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ],
+    [
+      "women’s fall outfits 2026",
+      "",
+      "20%",
+      "400%",
+      "10,000%+",
+      "https://trends.pinterest.com/detail/?country=US&terms=women%E2%80%99s%20fall%20outfits%202026&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    ]
+  ],
+  "browser_capture_fingerprint": {
+    "algorithm": "FNV-1a UTF-16 code units over JSON.stringify(raw_rows)",
+    "canonical_length": 9486,
+    "value": "ae42fc0f"
+  },
+  "extraction_notes": [
+    "Search-volume cells displayed graphical bars; their DOM text was empty. Search volume and bar values were not digitized or set to zero.",
+    "Keyword cells also contain trend sparklines. No time series points or forecast values were extracted.",
+    "All percentage strings are preserved as displayed, including negatives and 10,000%+. A plus suffix must not be treated as an exact value.",
+    "Detail URLs were read from rendered anchors; the 365D detail URL parameter is not this ranking's approved business observation window.",
+    "Keyword spelling variants are retained, not counted as independent consumer-demand evidence.",
+    "Export button exists but its download and output fields were not tested.",
+    "No product CTR, click-to-order data, original search counts, procurement verification, or unattended collection validation."
+  ],
+  "records": [
+    {
+      "row_position": 1,
+      "keyword": "usa football theme outfit",
+      "country": "US",
+      "weekly_change_display": "100%",
+      "monthly_change_display": "5,000%",
+      "yearly_change_display": "40%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=usa%20football%20theme%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 2,
+      "keyword": "hawaiian football game outfit",
+      "country": "US",
+      "weekly_change_display": "30%",
+      "monthly_change_display": "4,000%",
+      "yearly_change_display": "400%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=hawaiian%20football%20game%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 3,
+      "keyword": "black out football game outfits",
+      "country": "US",
+      "weekly_change_display": "100%",
+      "monthly_change_display": "4,000%",
+      "yearly_change_display": "50%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=black%20out%20football%20game%20outfits&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 4,
+      "keyword": "blackout football game outfit",
+      "country": "US",
+      "weekly_change_display": "100%",
+      "monthly_change_display": "3,500%",
+      "yearly_change_display": "900%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=blackout%20football%20game%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 5,
+      "keyword": "white out football game outfit",
+      "country": "US",
+      "weekly_change_display": "80%",
+      "monthly_change_display": "3,500%",
+      "yearly_change_display": "100%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=white%20out%20football%20game%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 6,
+      "keyword": "neon football game outfit",
+      "country": "US",
+      "weekly_change_display": "40%",
+      "monthly_change_display": "3,500%",
+      "yearly_change_display": "2,500%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=neon%20football%20game%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 7,
+      "keyword": "frat football theme outfit",
+      "country": "US",
+      "weekly_change_display": "80%",
+      "monthly_change_display": "3,000%",
+      "yearly_change_display": "80%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=frat%20football%20theme%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 8,
+      "keyword": "labor day weekend outfits",
+      "country": "US",
+      "weekly_change_display": "700%",
+      "monthly_change_display": "2,500%",
+      "yearly_change_display": "-10%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=labor%20day%20weekend%20outfits&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 9,
+      "keyword": "dolly parton outfit ideas",
+      "country": "US",
+      "weekly_change_display": "100%",
+      "monthly_change_display": "2,500%",
+      "yearly_change_display": "400%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=dolly%20parton%20outfit%20ideas&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 10,
+      "keyword": "dolly parton outfits",
+      "country": "US",
+      "weekly_change_display": "80%",
+      "monthly_change_display": "2,000%",
+      "yearly_change_display": "500%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=dolly%20parton%20outfits&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 11,
+      "keyword": "camo football game outfits",
+      "country": "US",
+      "weekly_change_display": "90%",
+      "monthly_change_display": "2,000%",
+      "yearly_change_display": "1,500%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=camo%20football%20game%20outfits&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 12,
+      "keyword": "dolly parton inspired outfit",
+      "country": "US",
+      "weekly_change_display": "80%",
+      "monthly_change_display": "2,000%",
+      "yearly_change_display": "400%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=dolly%20parton%20inspired%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 13,
+      "keyword": "fall outfit inspo 2026",
+      "country": "US",
+      "weekly_change_display": "40%",
+      "monthly_change_display": "1,000%",
+      "yearly_change_display": "10,000%+",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=fall%20outfit%20inspo%202026&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 14,
+      "keyword": "picture day fits for school",
+      "country": "US",
+      "weekly_change_display": "20%",
+      "monthly_change_display": "900%",
+      "yearly_change_display": "600%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=picture%20day%20fits%20for%20school&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 15,
+      "keyword": "picture day outfit ideas",
+      "country": "US",
+      "weekly_change_display": "20%",
+      "monthly_change_display": "800%",
+      "yearly_change_display": "50%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=picture%20day%20outfit%20ideas&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 16,
+      "keyword": "fall going out outfits",
+      "country": "US",
+      "weekly_change_display": "300%",
+      "monthly_change_display": "800%",
+      "yearly_change_display": "40%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=fall%20going%20out%20outfits&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 17,
+      "keyword": "second day of school outfit",
+      "country": "US",
+      "weekly_change_display": "-10%",
+      "monthly_change_display": "700%",
+      "yearly_change_display": "-30%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=second%20day%20of%20school%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 18,
+      "keyword": "hoco dresses freshman",
+      "country": "US",
+      "weekly_change_display": "50%",
+      "monthly_change_display": "700%",
+      "yearly_change_display": "300%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=hoco%20dresses%20freshman&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 19,
+      "keyword": "autumn outfits 2026",
+      "country": "US",
+      "weekly_change_display": "20%",
+      "monthly_change_display": "700%",
+      "yearly_change_display": "10,000%+",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=autumn%20outfits%202026&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 20,
+      "keyword": "fall outfits 2026",
+      "country": "US",
+      "weekly_change_display": "30%",
+      "monthly_change_display": "700%",
+      "yearly_change_display": "7,000%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=fall%20outfits%202026&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 21,
+      "keyword": "high school football game outfit",
+      "country": "US",
+      "weekly_change_display": "40%",
+      "monthly_change_display": "700%",
+      "yearly_change_display": "40%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=high%20school%20football%20game%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 22,
+      "keyword": "early fall outfits women",
+      "country": "US",
+      "weekly_change_display": "50%",
+      "monthly_change_display": "600%",
+      "yearly_change_display": "1,500%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=early%20fall%20outfits%20women&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 23,
+      "keyword": "us open outfit",
+      "country": "US",
+      "weekly_change_display": "40%",
+      "monthly_change_display": "600%",
+      "yearly_change_display": "-70%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=us%20open%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 24,
+      "keyword": "greyday concert outfit",
+      "country": "US",
+      "weekly_change_display": "90%",
+      "monthly_change_display": "600%",
+      "yearly_change_display": "1,000%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=greyday%20concert%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 25,
+      "keyword": "september outfits",
+      "country": "US",
+      "weekly_change_display": "200%",
+      "monthly_change_display": "600%",
+      "yearly_change_display": "40%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=september%20outfits&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 26,
+      "keyword": "picture day outfit",
+      "country": "US",
+      "weekly_change_display": "20%",
+      "monthly_change_display": "600%",
+      "yearly_change_display": "-3%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=picture%20day%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 27,
+      "keyword": "rakhi",
+      "country": "US",
+      "weekly_change_display": "100%",
+      "monthly_change_display": "600%",
+      "yearly_change_display": "-7%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=rakhi&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 28,
+      "keyword": "early fall outfits",
+      "country": "US",
+      "weekly_change_display": "-1%",
+      "monthly_change_display": "600%",
+      "yearly_change_display": "-50%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=early%20fall%20outfits&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 29,
+      "keyword": "fall bitmoji outfits",
+      "country": "US",
+      "weekly_change_display": "40%",
+      "monthly_change_display": "500%",
+      "yearly_change_display": "-60%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=fall%20bitmoji%20outfits&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 30,
+      "keyword": "picture day outfits",
+      "country": "US",
+      "weekly_change_display": "6%",
+      "monthly_change_display": "500%",
+      "yearly_change_display": "-20%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=picture%20day%20outfits&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 31,
+      "keyword": "fall capsule wardrobe 2026",
+      "country": "US",
+      "weekly_change_display": "40%",
+      "monthly_change_display": "500%",
+      "yearly_change_display": "10,000%+",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=fall%20capsule%20wardrobe%202026&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 32,
+      "keyword": "senior sunrise outfit",
+      "country": "US",
+      "weekly_change_display": "5%",
+      "monthly_change_display": "500%",
+      "yearly_change_display": "100%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=senior%20sunrise%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 33,
+      "keyword": "mafia outfit black women",
+      "country": "US",
+      "weekly_change_display": "50%",
+      "monthly_change_display": "500%",
+      "yearly_change_display": "10,000%+",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=mafia%20outfit%20black%20women&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 34,
+      "keyword": "iron man costume",
+      "country": "US",
+      "weekly_change_display": "8%",
+      "monthly_change_display": "500%",
+      "yearly_change_display": "500%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=iron%20man%20costume&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 35,
+      "keyword": "rob zombie concert outfit",
+      "country": "US",
+      "weekly_change_display": "3%",
+      "monthly_change_display": "500%",
+      "yearly_change_display": "7,000%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=rob%20zombie%20concert%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 36,
+      "keyword": "big bang concert outfit",
+      "country": "US",
+      "weekly_change_display": "60%",
+      "monthly_change_display": "500%",
+      "yearly_change_display": "10,000%+",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=big%20bang%20concert%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 37,
+      "keyword": "football game outfit highschool",
+      "country": "US",
+      "weekly_change_display": "20%",
+      "monthly_change_display": "500%",
+      "yearly_change_display": "-70%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=football%20game%20outfit%20highschool&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 38,
+      "keyword": "school outfits shorts",
+      "country": "US",
+      "weekly_change_display": "3%",
+      "monthly_change_display": "500%",
+      "yearly_change_display": "-40%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=school%20outfits%20shorts&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 39,
+      "keyword": "what to wear to school",
+      "country": "US",
+      "weekly_change_display": "10%",
+      "monthly_change_display": "500%",
+      "yearly_change_display": "-8%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=what%20to%20wear%20to%20school&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 40,
+      "keyword": "apple picking outfit",
+      "country": "US",
+      "weekly_change_display": "20%",
+      "monthly_change_display": "500%",
+      "yearly_change_display": "-10%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=apple%20picking%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 41,
+      "keyword": "labor day outfits",
+      "country": "US",
+      "weekly_change_display": "200%",
+      "monthly_change_display": "500%",
+      "yearly_change_display": "-60%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=labor%20day%20outfits&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 42,
+      "keyword": "horror nights outfit",
+      "country": "US",
+      "weekly_change_display": "100%",
+      "monthly_change_display": "500%",
+      "yearly_change_display": "100%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=horror%20nights%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 43,
+      "keyword": "fall office outfits for women",
+      "country": "US",
+      "weekly_change_display": "60%",
+      "monthly_change_display": "500%",
+      "yearly_change_display": "-60%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=fall%20office%20outfits%20for%20women&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 44,
+      "keyword": "fall photo outfits",
+      "country": "US",
+      "weekly_change_display": "40%",
+      "monthly_change_display": "400%",
+      "yearly_change_display": "300%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=fall%20photo%20outfits&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 45,
+      "keyword": "fall work outfits for women",
+      "country": "US",
+      "weekly_change_display": "30%",
+      "monthly_change_display": "400%",
+      "yearly_change_display": "-30%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=fall%20work%20outfits%20for%20women&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 46,
+      "keyword": "omar courtz outfits concert",
+      "country": "US",
+      "weekly_change_display": "40%",
+      "monthly_change_display": "400%",
+      "yearly_change_display": "4,500%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=omar%20courtz%20outfits%20concert&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 47,
+      "keyword": "autumn fashion",
+      "country": "US",
+      "weekly_change_display": "40%",
+      "monthly_change_display": "400%",
+      "yearly_change_display": "-10%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=autumn%20fashion&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 48,
+      "keyword": "school picture day outfit",
+      "country": "US",
+      "weekly_change_display": "10%",
+      "monthly_change_display": "400%",
+      "yearly_change_display": "-30%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=school%20picture%20day%20outfit&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 49,
+      "keyword": "fall sets",
+      "country": "US",
+      "weekly_change_display": "70%",
+      "monthly_change_display": "400%",
+      "yearly_change_display": "60%",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=fall%20sets&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    },
+    {
+      "row_position": 50,
+      "keyword": "women’s fall outfits 2026",
+      "country": "US",
+      "weekly_change_display": "20%",
+      "monthly_change_display": "400%",
+      "yearly_change_display": "10,000%+",
+      "search_volume_absolute": null,
+      "search_volume_index": null,
+      "detail_url": "https://trends.pinterest.com/detail/?country=US&terms=women%E2%80%99s%20fall%20outfits%202026&dateRange=365D&genderDetailsPage=&aggregationLevel=2"
+    }
+  ]
+}
+

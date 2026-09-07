@@ -1,0 +1,60 @@
+{
+  "source_url": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/ODS5841.jpg?v=1780996154",
+  "checked_at": "2026-09-06T17:42:05.114501+00:00",
+  "source_file": "brand_description_size_image.jpg",
+  "method": "Manual model visual transcription of source image, then compared with product-specific embedded configuration",
+  "heading": "SIZE CHART (Inch)",
+  "regional_column_heading": "UK Size",
+  "product_column_headings": [
+    "Bust",
+    "Length"
+  ],
+  "body_column_headings": [
+    "Bust",
+    "Length"
+  ],
+  "rows": [
+    {
+      "size": "S",
+      "uk_size": "8-10",
+      "product_bust_inch": "33.5",
+      "product_length_inch": "19.3",
+      "body_bust_inch": "33.9-35.8",
+      "body_length_original": "5′2\"-5′4\""
+    },
+    {
+      "size": "M",
+      "uk_size": "12",
+      "product_bust_inch": "35.0",
+      "product_length_inch": "19.7",
+      "body_bust_inch": "36.2-37.8",
+      "body_length_original": "5′4\"-5′6\""
+    },
+    {
+      "size": "L",
+      "uk_size": "14",
+      "product_bust_inch": "37.4",
+      "product_length_inch": "20.3",
+      "body_bust_inch": "38.2-40.6",
+      "body_length_original": "5′6\"-5′7\""
+    },
+    {
+      "size": "XL",
+      "uk_size": "16",
+      "product_bust_inch": "39.8",
+      "product_length_inch": "20.9",
+      "body_bust_inch": "40.9-42.1",
+      "body_length_original": "5′8\"-5′9\""
+    },
+    {
+      "size": "XXL",
+      "uk_size": "18",
+      "product_bust_inch": "42.1",
+      "product_length_inch": "21.5",
+      "body_bust_inch": "42.5-43.7",
+      "body_length_original": "5′8\"-5′9\""
+    }
+  ],
+  "measurement_method": null,
+  "tiktok_sku_mapping": null
+}

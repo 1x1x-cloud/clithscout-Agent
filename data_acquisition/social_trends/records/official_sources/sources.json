@@ -1,0 +1,265 @@
+{
+  "record_id": "four-platform-trends-official-capabilities-2026-09-06",
+  "verified_on": "2026-09-06",
+  "recorded_at_utc": "2026-09-06T09:55:42Z",
+  "project_state_reference": "../../TASK_STATE.md",
+  "scope": "Official first-party documentation and one official linked entry shell; normal web capabilities only; no current account access validation; no current trend counts.",
+  "fixed_window": {
+    "start_utc": "2026-08-30T09:05:42Z",
+    "end_utc": "2026-09-06T09:05:42Z",
+    "rolled": false
+  },
+  "result_counts": {
+    "platforms": 4,
+    "official_explanatory_pages_read": 11,
+    "official_entry_shells_read": 1,
+    "current_account_access_validations": 0,
+    "current_trend_numeric_observations": 0
+  },
+  "sources": [
+    {
+      "source_id": "T1",
+      "platform": "TikTok",
+      "title": "How to use Trends",
+      "url": "https://ads.tiktok.com/resources/help/article/how-to-use-trends?lang=en&redirected=2",
+      "source_type": "official_help",
+      "read_status": "body_read",
+      "accessed_on": "2026-09-06",
+      "displayed_updated_at": "July 2026",
+      "read_sections": ["How to use Trends", "steps 1-4"],
+      "verified_claims": [
+        "Creative Center Trends displays trending hashtags by industry.",
+        "Instructions include login, industry/time-frame filtering, and hashtag analytics.",
+        "Analytics includes trendline, related videos, audience insights, regional popularity and related hashtags."
+      ],
+      "not_established": ["current selectable country list", "available exact time frames", "time zone", "latest data cutoff", "current-account accessibility", "trendline unit or denominator"]
+    },
+    {
+      "source_id": "T2",
+      "platform": "TikTok",
+      "title": "About Creative Center",
+      "requested_url": "https://ads.tiktok.com/help/article/creative-center?lang=en",
+      "url": "https://ads.tiktok.com/resources/help/article/creative-center?lang=en",
+      "source_type": "official_help",
+      "read_status": "body_read_after_redirect",
+      "accessed_on": "2026-09-06",
+      "displayed_updated_at": "July 2026",
+      "read_sections": ["Inspiration", "Trends", "Personal Profile"],
+      "verified_claims": [
+        "Creative Center is publicly accessible; login is recommended to see all features, data and insights.",
+        "The currently retrieved Trends section says trending hashtags.",
+        "Top Ads is a separate collection of high-performing ad creatives."
+      ],
+      "search_body_discrepancy": "Search result for an older version said April 2025 and hashtags, songs, creators and videos by region/industry. Actual opened body said July 2026 and only established trending hashtags. Current body was used; removal of older features was not inferred."
+    },
+    {
+      "source_id": "T3",
+      "platform": "TikTok",
+      "title": "TikTok One Creative Suite",
+      "url": "https://ads.tiktok.com/creative/creativeCenter/trends?utm_campaign=helpcenter&utm_medium=article&utm_source=tiktokhelpcenter",
+      "source_type": "official_entry",
+      "read_status": "navigation_shell_only",
+      "accessed_on": "2026-09-06",
+      "displayed_updated_at": null,
+      "discovered_via": "T1 Trends link",
+      "verified_claims": ["The linked entry redirected and exposed Top Ads, Trends, creative-tools navigation and a Log in button to the web reader."],
+      "not_established": ["trend table", "numeric metrics", "country filter", "time controls", "logged-in user experience"],
+      "current_account_access": null
+    },
+    {
+      "source_id": "I1",
+      "platform": "Instagram",
+      "title": "New Features on Instagram Reels: Trends, Editing and Gifts",
+      "url": "https://about.fb.com/news/2023/04/instagram-reels-trending-audio-and-gifts-updates/",
+      "source_type": "official_historical_announcement",
+      "read_status": "body_read",
+      "accessed_on": "2026-09-06",
+      "displayed_dates": ["April 14, 2023", "October 19, 2023"],
+      "read_sections": ["Find Out What's Trending on Reels", "Making It Easier to Edit Reels", "Updates to Reels Insights"],
+      "verified_claims": [
+        "The 2023 announcement describes a Reels destination for trending songs, audio-use counts, and trending topics/hashtags.",
+        "Reels watch-time insights described there concern the creator's own content, distinct from a market trend count."
+      ],
+      "not_established": ["continued availability in 2026", "desktop-web trends interface", "US filtering", "audio count measurement period", "historical trend comparison window", "current-account eligibility"],
+      "interpretation_limit": "iOS/Android wording appears in the editing section and is not evidence that the trends destination is available on desktop web."
+    },
+    {
+      "source_id": "I2",
+      "platform": "Instagram",
+      "title": "Reshape Your Instagram With a Recommendations Reset",
+      "url": "https://about.fb.com/news/2024/11/introducing-recommendations-reset-instagram/",
+      "source_type": "official_product_explanation",
+      "read_status": "body_read",
+      "accessed_on": "2026-09-06",
+      "displayed_dates": ["November 19, 2024", "July 14, 2025"],
+      "read_sections": ["How to Reset Your Recommendations", "Ways to Shape Your Instagram Experience"],
+      "verified_claims": ["Explore, Reels and Feed recommendations personalize over time based on content and accounts with which the user interacts."],
+      "analysis_inference": "An observed recommendation feed is a personalized sample, not evidence of a complete US trend ranking or fixed-window growth."
+    },
+    {
+      "source_id": "R1",
+      "platform": "Reddit",
+      "title": "How can I see what's trending on Reddit?",
+      "url": "https://support.reddithelp.com/hc/en-us/articles/19696269107348-How-can-I-see-what-s-trending-on-Reddit",
+      "source_type": "official_help",
+      "read_status": "body_read",
+      "accessed_on": "2026-09-06",
+      "displayed_updated_at": "April 10, 2026 16:00",
+      "verified_claims": [
+        "Activating the search bar shows some of Reddit's most searched things from the last few hours.",
+        "Selecting a topic leads to related top posts, communities and people."
+      ],
+      "not_established": ["numeric search volume", "complete trend coverage", "US market filter", "historical seven-day snapshot"]
+    },
+    {
+      "source_id": "R2",
+      "platform": "Reddit",
+      "title": "What filters and sorts are available?",
+      "url": "https://support.reddithelp.com/hc/en-us/articles/19695706914196-What-filters-and-sorts-are-available",
+      "source_type": "official_help",
+      "read_status": "body_read",
+      "accessed_on": "2026-09-06",
+      "displayed_updated_at": "March 27, 2026 23:29",
+      "verified_claims": [
+        "Post sorts include Relevance, Hot, Top, New and Comment Count.",
+        "Hot prioritizes recent engagement; Top prioritizes high upvotes/comments; New prioritizes recency.",
+        "Search time filters include all time, past year, month, week, 24 hours and hour."
+      ],
+      "not_established": ["exact historical start/end selection", "time zone", "US market filter", "complete keyword mention counts"]
+    },
+    {
+      "source_id": "R3",
+      "platform": "Reddit",
+      "title": "What's the difference between r/all, r/popular, news and my home feed?",
+      "url": "https://support.reddithelp.com/hc/en-us/articles/360043043552-What-s-the-difference-between-r-all-r-popular-news-and-my-home-feed",
+      "source_type": "official_help",
+      "read_status": "body_read",
+      "accessed_on": "2026-09-06",
+      "displayed_updated_at": "April 05, 2026 03:10",
+      "verified_claims": ["On Reddit.com, Popular is a feed of popular posts, whereas Home is based on joined communities."],
+      "analysis_inference": "A popular-post feed is distinct from the search-frequency topics documented in R1 and from a keyword-volume time series."
+    },
+    {
+      "source_id": "R4",
+      "platform": "Reddit",
+      "title": "Reddit Pro Feature: Trends",
+      "url": "https://support.reddithelp.com/hc/en-us/articles/47619216411284-Reddit-Pro-Feature-Trends",
+      "source_type": "official_help",
+      "read_status": "body_read",
+      "accessed_on": "2026-09-06",
+      "displayed_updated_at": "May 28, 2026 22:12",
+      "read_sections": ["Smart keywords", "Conversation volume", "Top keywords related to your keyword", "FAQs"],
+      "verified_claims": [
+        "Smart keywords support post/comment mention volume over a selected period and change against the previous period; standard keywords do not have those enhanced insights.",
+        "Related keyword metrics use six-month periods.",
+        "Coverage is selected public SFW English conversations, not all Reddit and not restricted by country/region.",
+        "The FAQ limits downloading other users' posts/comments and other Pro information; own organic-content metrics are treated separately."
+      ],
+      "not_established": ["whether the user's topics are smart keywords", "exact time-frame choices", "time zone", "current account access"],
+      "analysis_inference": "English conversation volume cannot be reported as US-only demand."
+    },
+    {
+      "source_id": "R5",
+      "platform": "Reddit",
+      "title": "What is Reddit Pro?",
+      "url": "https://support.reddithelp.com/hc/en-us/articles/24368510335892-What-is-Reddit-Pro",
+      "source_type": "official_help",
+      "read_status": "body_read",
+      "accessed_on": "2026-09-06",
+      "displayed_updated_at": "March 30, 2026 12:00",
+      "verified_claims": [
+        "Reddit Pro is a free beta suite for eligible businesses and organizations.",
+        "It is available on desktop/mobile web; the Trends tab is also available on native mobile apps.",
+        "Availability is in English-speaking countries where Reddit operates."
+      ],
+      "not_established": ["this user's eligibility or enrollment", "current-account functionality"]
+    },
+    {
+      "source_id": "X1",
+      "platform": "X",
+      "title": "X Trends FAQ",
+      "url": "https://help.x.com/en/using-x/x-trending-faqs",
+      "source_type": "official_help",
+      "read_status": "body_read",
+      "accessed_on": "2026-09-06",
+      "displayed_updated_at": null,
+      "read_sections": ["Where can I find Trends?", "How are Trends determined?", "Can I see Trends for a specific location?", "Do Trends have context?"],
+      "verified_claims": [
+        "Trends are available on x.com and identify topics popular now using an algorithm.",
+        "Default trends are personalized; users can select a specific trend location.",
+        "Post count is one ranking factor, related tags may be grouped, and some trends show approximate associated-post counts.",
+        "Selecting a trend opens search; searches can be filtered for quality."
+      ],
+      "not_established": ["fixed seven-day count window", "historical trend snapshots", "UTC time boundary", "current US option and account access"]
+    },
+    {
+      "source_id": "X2",
+      "platform": "X",
+      "title": "How to use advanced search",
+      "url": "https://help.x.com/en/using-x/x-advanced-search",
+      "source_type": "official_help",
+      "read_status": "body_read_after_redirect",
+      "accessed_on": "2026-09-06",
+      "displayed_updated_at": null,
+      "verified_claims": [
+        "Advanced search is available while logged in to X.com.",
+        "Search can be refined by words, people, places and dates, including a date range."
+      ],
+      "not_established": ["exact second-level start/end behavior", "time zone", "exhaustive results", "historical trends ranking or total volume"]
+    }
+  ],
+  "platform_assessments": [
+    {
+      "platform": "TikTok",
+      "source_ids": ["T1", "T2", "T3"],
+      "entry": "Creative Center > Trends > hashtag analytics",
+      "documented_web_capability": "trend hashtag discovery and analytics",
+      "market_filter_status": "US selectable filter not established by current retrieved body",
+      "time_status": "time-frame filtering documented; options/cutoff/time-zone unknown",
+      "fixed_window_alignment": "unverified",
+      "current_account_access": null,
+      "trend_numeric_data_collected": false
+    },
+    {
+      "platform": "Instagram",
+      "source_ids": ["I1", "I2"],
+      "entry": "Reels trends historical announcement; Explore/Reels/Feed recommendations",
+      "documented_web_capability": "desktop trend-statistics support not established; historical product announcement and recommendation behavior documented",
+      "market_filter_status": "US filter not established",
+      "time_status": "trend measurement windows not established",
+      "fixed_window_alignment": "unverified",
+      "current_account_access": null,
+      "trend_numeric_data_collected": false
+    },
+    {
+      "platform": "Reddit",
+      "source_ids": ["R1", "R2", "R3", "R4", "R5"],
+      "entry": "Search-bar trending, Popular, search sorts, and eligible-business Reddit Pro Trends",
+      "documented_web_capability": "topic discovery, post ranking, and conditional smart-keyword mention analytics",
+      "market_filter_status": "consumer entries US filter unestablished; Pro aggregates selected English conversations across countries",
+      "time_status": "search trending last few hours; search has relative time filters; Pro selected periods but exact controls unknown",
+      "fixed_window_alignment": "unverified; Pro also does not provide US-only aggregate scope",
+      "current_account_access": null,
+      "trend_numeric_data_collected": false
+    },
+    {
+      "platform": "X",
+      "source_ids": ["X1", "X2"],
+      "entry": "Trends and Advanced search on x.com",
+      "documented_web_capability": "location-adjustable current trend ranking and date/location post search",
+      "market_filter_status": "specific trend locations documented; current US selection not tested",
+      "time_status": "Trends popular now; search supports date range; fixed count period and time precision unknown",
+      "fixed_window_alignment": "not established for trend ranking; source-post date filtering can assist only",
+      "current_account_access": null,
+      "trend_numeric_data_collected": false
+    }
+  ],
+  "research_limitations": [
+    "This is capability research, not completion of four-platform trend measurement.",
+    "Search snippets were not accepted when actual official page text differed.",
+    "No old failed consumer-post URL or CUA path was retried.",
+    "No account login, enrollment, publication, message or supplier action was performed.",
+    "No capability absent from the reviewed documents was asserted globally nonexistent.",
+    "Current browser state is intentionally not copied; use the project-state pointer."
+  ]
+}

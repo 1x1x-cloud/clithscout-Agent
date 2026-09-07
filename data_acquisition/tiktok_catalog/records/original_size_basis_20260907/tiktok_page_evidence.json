@@ -1,0 +1,61 @@
+{
+  "checked_at": "2026-09-06T17:46:50.041146+00:00",
+  "source_url": "https://shop.tiktok.com/us/pdp/chicme-womens-striped-halter-tank-viscose-gold-buttons/1732331935794958838",
+  "method": "Public web text extraction; manually recorded relevant facts and outgoing image links",
+  "freshness_reported_by_tool": "Crawled: 2 months ago",
+  "original_product_id": "1732331935794958838",
+  "title": "CHICME Women's Striped Halter Golden Button Decor Tank Causal Sleeveless Breathable Knit Top Casual Camisole",
+  "size_options": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "default_size_display": "S",
+  "default_color_display": "Plain-Apricot",
+  "default_is_not_purchased_variant": true,
+  "description_images": [
+    {
+      "position_in_description": 1,
+      "url": "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/c8bdb69ca8984aebbb7d6024809f66fe~tplv-fhlh96nyum-origin-jpeg.jpeg?dr=12178&from=2739998086&idc=useast5&ps=933b5bde&shcp=6ce186a1&shp=a3510d86&t=555f072d",
+      "local_file": "tiktok_description_40.jpg",
+      "sha256": "9a79062632f6b1c8fdb422d89c62f2822425a942268ba9866d17c0c1ab45a9ba"
+    },
+    {
+      "position_in_description": 2,
+      "url": "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/25264abe71d04badb62eb7b2758ce659~tplv-fhlh96nyum-origin-jpeg.jpeg?dr=12178&from=2739998086&idc=useast5&ps=933b5bde&shcp=6ce186a1&shp=a3510d86&t=555f072d",
+      "local_file": "tiktok_description_41.jpg",
+      "sha256": "82e3131cdce6ba4e2c5926a43634f507c147e73d0ef9686be386515b39cc2595"
+    }
+  ],
+  "source_locator_notes": [
+    "Product description lines 223-228 contain the two linked images in that order.",
+    "Size controls lines 342-352 list S/M/L/XL/XXL.",
+    "No purchased SKU mapping or target review returned."
+  ],
+  "catalog_source": "data_acquisition/tiktok_catalog/records/products.json",
+  "catalog_sha256": "7beae1e03976d4cf1ac70accb2e13a5f1208a62642b888a824f5d024ab0da827",
+  "catalog_row_index": 0,
+  "catalog_row": {
+    "page_position": 1,
+    "product_id": "1732331935794958838",
+    "product_url": "https://shop.tiktok.com/us/pdp/chicme-womens-striped-halter-tank-viscose-gold-buttons/1732331935794958838",
+    "title_display": "CHICME Women's Striped Halter Golden Button Decor Tank Causal Sleeveless Breathable Knit Top Casual Camisole",
+    "store_or_brand_display": "chicme",
+    "rating_display": "4.7",
+    "price_display": "$19.99",
+    "original_price_display": "$25.99",
+    "sold_display": "6.9K",
+    "sold_display_abbreviated": true,
+    "discount_display": "-23%",
+    "promotion_labels": [],
+    "review_note": null,
+    "raw_info_text": "chicme\nCHICME Women's Striped Halter Golden Button Decor Tank Causal Sleeveless Breathable Knit Top Casual Camisole\n4.7\n6.9K 已售出\n-23%$19.99$25.99"
+  },
+  "limitations": [
+    "Tool-provided cached page is not a fresh browser view.",
+    "Images independently fetched from public CDN at recorded times.",
+    "Chart revision applicable on review purchase date unknown."
+  ]
+}

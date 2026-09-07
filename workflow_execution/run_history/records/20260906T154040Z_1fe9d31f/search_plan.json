@@ -1,0 +1,16 @@
+[
+  {
+    "query_id": "Q-bb9903fcaad89ab2",
+    "query": "上衣 国内现货 提供具体SKU尺码表和成衣尺寸",
+    "demand_ids": [
+      "S1-a9119f3aa0ae5dbd"
+    ],
+    "purpose": "同品类探索；缺少目标规格，不声称已解决痛点或同款",
+    "query_basis": "商品标题提供品类；尺码表是核验所需资料，并非已存在的商品属性",
+    "limit": 3,
+    "purchase_amount": 1,
+    "purchase_amount_basis": "CLI报价输入，不是采购决定",
+    "score_level": "high",
+    "tags": "4306497"
+  }
+]

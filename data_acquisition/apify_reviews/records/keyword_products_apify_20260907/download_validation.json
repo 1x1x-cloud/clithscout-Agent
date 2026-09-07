@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "run_id": "NjEXpgqOIip3PeBcU",
+  "download_count": 366,
+  "unique_review_ids": 366,
+  "all_product_shop_ids_match": true,
+  "all_ids_are_strings": true,
+  "all_timestamps_timezone_aware": true,
+  "all_sku_ids_present": true,
+  "all_star_request_verified": true,
+  "actor_log_totals_match": true,
+  "dataset_stable_during_download": true,
+  "per_product_cap_hit": false,
+  "cost_cap_hit": false,
+  "previous_web_reviews_checked": 12,
+  "previous_web_reviews_uniquely_matched": 12,
+  "historical_protected_files_unchanged": true,
+  "browser_pilot_snapshot_unchanged": true,
+  "network_requests_for_validation": 0,
+  "limits": "未核验稳定买家、所有评价有效性、全部SKU颜色尺码、适用表或面料；未运行需求生成和找货。"
+}

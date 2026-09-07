@@ -1,0 +1,53 @@
+test_missing_config_is_json_failure_without_traceback (test_entrypoint.EntrypointCases) ... ok
+test_value_error_does_not_expose_input_or_credentials (test_entrypoint.EntrypointCases) ... ok
+test_image_subprocess_uses_argument_list_and_preserves_full_response (test_image_sku.ImageAdapterCases) ... ok
+test_response_must_identify_the_same_image_search (test_image_sku.ImageAdapterCases) ... ok
+test_end_to_end_archives_specs_and_replays_without_network (test_image_sku.ImagePipelineCases) ... ok
+test_failed_image_search_stops_other_queries_and_keeps_source (test_image_sku.ImagePipelineCases) ... ok
+test_missing_image_remains_a_manual_task_and_does_not_search (test_image_sku.ImagePipelineCases) ... ok
+test_recheck_applies_new_specs_without_repeating_image_search (test_image_sku.ImagePipelineCases) ... ok
+test_conflicting_main_images_require_review (test_image_sku.ImagePlanningCases) ... ok
+test_duplicate_review_image_conflicts_are_not_discarded (test_image_sku.ImagePlanningCases) ... ok
+test_no_evidence_is_blocked_not_title_search (test_image_sku.ImagePlanningCases) ... ok
+test_no_image_does_not_fall_back_to_text_or_avatar (test_image_sku.ImagePlanningCases) ... ok
+test_product_main_image_has_traceable_source_not_review_photo (test_image_sku.ImagePlanningCases) ... ok
+test_same_product_merges_pain_cards_but_other_product_stays_separate (test_image_sku.ImagePlanningCases) ... ok
+test_body_and_garment_measurements_are_not_interchangeable (test_image_sku.SpecificationCases) ... ok
+test_each_complaining_sku_gets_its_own_checks (test_image_sku.SpecificationCases) ... ok
+test_explicit_targets_do_not_keep_a_stale_missing_target_reason (test_image_sku.SpecificationCases) ... ok
+test_incomplete_composition_does_not_mean_missing_fiber_is_zero (test_image_sku.SpecificationCases) ... ok
+test_invalid_and_duplicate_dossiers_are_rejected (test_image_sku.SpecificationCases) ... ok
+test_missing_original_measurements_does_not_claim_comparison_complete (test_image_sku.SpecificationCases) ... ok
+test_outside_range_and_material_below_target_are_conflicts (test_image_sku.SpecificationCases) ... ok
+test_size_labels_and_similarity_scores_do_not_satisfy_measurements (test_image_sku.SpecificationCases) ... ok
+test_traceable_measurements_convert_inches_but_never_approve_supply (test_image_sku.SpecificationCases) ... ok
+test_unknown_original_category_is_not_a_proven_conflict (test_image_sku.SpecificationCases) ... ok
+test_wrong_candidate_sku_cannot_borrow_specs (test_image_sku.SpecificationCases) ... ok
+test_wrong_original_sku_target_is_flagged (test_image_sku.SpecificationCases) ... ok
+test_conflicting_same_id_never_enters_current_cards (test_pipeline.AnalysisCases) ... ok
+test_context_attributes_in_search_remain_context (test_pipeline.AnalysisCases) ... ok
+test_delivery_and_empty_are_not_clothing_specifications (test_pipeline.AnalysisCases) ... ok
+test_delivery_duration_and_chinese_negation_are_not_size_pain (test_pipeline.AnalysisCases) ... ok
+test_duplicate_retained_not_counted_again (test_pipeline.AnalysisCases) ... ok
+test_identical_queries_merge_demands_before_limit (test_pipeline.AnalysisCases) ... ok
+test_injection_remains_data_and_not_search_instructions (test_pipeline.AnalysisCases) ... ok
+test_new_ids_extract_length_without_invented_measurements (test_pipeline.AnalysisCases) ... ok
+test_no_window_is_error (test_pipeline.AnalysisCases) ... ok
+test_positive_fit_evidence_linked_without_becoming_pain (test_pipeline.AnalysisCases) ... ok
+test_praise_and_negation_do_not_become_pain (test_pipeline.AnalysisCases) ... ok
+test_questions_and_more_negations_are_not_experienced_pain (test_pipeline.AnalysisCases) ... ok
+test_window_boundaries_unknown_time_and_market (test_pipeline.AnalysisCases) ... ok
+test_explicit_short_sku_overrides_generic_single_pants (test_pipeline.MatchingCases) ... ok
+test_search_failure_not_empty_supply (test_pipeline.MatchingCases) ... ok
+test_title_top_but_sku_pants_is_conflict (test_pipeline.MatchingCases) ... ok
+test_zero_stock_and_unknown_material_are_not_verified (test_pipeline.MatchingCases) ... ok
+test_failed_provider_null_markdown_still_finalizes_manifest (test_pipeline.ProviderCases) ... ok
+test_local_end_to_end_and_failure_checkpoint (test_pipeline.ProviderCases) ... ok
+test_offline_run_replay_preserves_unrequested_search (test_pipeline.ProviderCases) ... ok
+test_over_limit_stops_before_downloading_items (test_pipeline.ProviderCases) ... ok
+test_pagination_reads_bounded_existing_run_only (test_pipeline.ProviderCases) ... ok
+
+----------------------------------------------------------------------
+Ran 48 tests in 1.502s
+
+OK

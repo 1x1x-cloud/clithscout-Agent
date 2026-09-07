@@ -1,0 +1,39 @@
+{
+  "image_input": {
+    "method": "download_jpeg_v1",
+    "source_url": "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/1695764d573348959ffee3698c112c2c~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839",
+    "archive_root": "D:\\clothscout\\quality_assurance\\delivery_checks\\records\\default_jpeg_input_20260907\\real_image_download",
+    "metadata_file": "images/QI-real-main/metadata.json",
+    "status": "ready",
+    "downloaded_at": "2026-09-06T17:28:49.792602+00:00",
+    "final_url": "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/1695764d573348959ffee3698c112c2c~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839",
+    "content_type": "image/webp",
+    "original": {
+      "file": "images/QI-real-main/source.bin",
+      "sha256": "e8504dd7d67da74c0d903c87b39a8fe082b0c8b9cdf714eeed2c62ed3acf525a",
+      "bytes": 29344,
+      "format": "WEBP",
+      "dimensions": [
+        800,
+        800
+      ]
+    },
+    "jpeg": {
+      "file": "images/QI-real-main/input.jpg",
+      "sha256": "fb0cdee3aee5533dac14baa6fd76a485a945eaba8d5ccfd70f5d83cbf0653de6",
+      "bytes": 86594,
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        800
+      ],
+      "quality": 90
+    },
+    "cli_image_path": "D:\\clothscout\\quality_assurance\\delivery_checks\\records\\default_jpeg_input_20260907\\real_image_download\\images\\QI-real-main\\input.jpg"
+  },
+  "checks": {
+    "source_bytes_equal_previous_download": true,
+    "jpeg_equal_previous_successful_upload": true
+  },
+  "new_1688_searches": 0
+}

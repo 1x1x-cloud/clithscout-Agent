@@ -1,0 +1,59 @@
+{
+  "status": "passed",
+  "verified_on": "2026-09-07",
+  "scope": "本次人工页面试查与归档一致性；非全量采集或生产程序回归",
+  "first_page_fingerprint": {
+    "utf16_units": 3146,
+    "fnv1a_utf16": "20e3288e"
+  },
+  "second_page_fingerprint": {
+    "utf16_units": 766,
+    "fnv1a_utf16": "eb30a3c0"
+  },
+  "products": 3,
+  "review_records": 12,
+  "page_counts": [
+    1,
+    2,
+    1
+  ],
+  "color_image_urls": 10,
+  "source_references_resolved": 14,
+  "global_star_count_sums_match": true,
+  "unknowns_preserved": true,
+  "new_demand_cards": 0,
+  "new_sourcing_queries": 0,
+  "protected_files": {
+    "workflow_execution/run_configuration/config/current_round.json": {
+      "sha256": "6e21689ac1a74922484fcc218b2816bf6004b5c854bfee79d413fcacaef3beec",
+      "unchanged": true
+    },
+    "data_acquisition/social_trends/records/fastmoss_us_keywords_100_20260907/raw_keyword_table.json": {
+      "sha256": "9f0b8a883a20c0b513b77432f31c7e4e0f37e9e205a54465fa7b95d6dc3110c6",
+      "unchanged": true
+    },
+    "data_acquisition/social_trends/records/fastmoss_us_keywords_100_20260907/keywords.json": {
+      "sha256": "faefbce3c35b4da2629f6b6cc71042f52196826de3b824eaf9409cdee0b59b1a",
+      "unchanged": true
+    },
+    "data_acquisition/fastmoss_catalog/records/products.json": {
+      "sha256": "ebde2b1871f3c5fed00ccce828f8d18d53299dfeb1479c4d035c4a6ab3c4fdd0",
+      "unchanged": true
+    },
+    "data_acquisition/shop_reviews/records/user_run_20260906_144758/raw_reviews.json": {
+      "sha256": "e5410e6a32533cd8362050e5a5bf350b22253dccd4b342bda798a968a328989f",
+      "unchanged": true
+    }
+  },
+  "report_local_links_valid": 11,
+  "task_state_updated": true,
+  "artifact_sha256": {
+    "bra_page_02.transcribed.json": "dbde5504e1b2773a282fcf615ca9d3fcbfd2a2bd7645bd088b2efff824cd5d70",
+    "observation.json": "0afbb0899dc0aced1ff477c533fcee2e00a48f42d4b1987e31ad7c861d8d01e8",
+    "products.json": "ac08d76acf97ce2c284ae4c448920a21a0445638e0f5f5317cd30e54fce2d90f",
+    "REPORT.md": "a6c5f61c34abd58213a57059a997c65b84e918cae95e365acaecbade6dc0f2ab",
+    "review_collection_plan.json": "2ccf0413c0f7eee50b5dd6f608896dbc5bb6049642b28d063a76f014f5f619fd",
+    "review_triage.json": "7843f13cb0741c920b093223dfb9552d07263491aef8ddf065126fc63c1de050",
+    "source_reviews.transcribed.json": "bb2bfb8cc66c2d6430a01db67edfe52f1120e6659b938eea5cb5abc2b9f9e74c"
+  }
+}

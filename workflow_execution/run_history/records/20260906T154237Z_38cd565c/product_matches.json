@@ -1,0 +1,280 @@
+[
+  {
+    "demand_id": "S1-a9119f3aa0ae5dbd",
+    "product_id": "987356590864",
+    "sku_id": "5951931560170",
+    "source_product": {
+      "product_id": "987356590864",
+      "title": "现货羊绒拼接条纹假两件翻领长袖针织衫女秋季修身收腰设计感撞色",
+      "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01FXQkVU1FhIGCwpMQz_!!2220560040518-0-cib.jpg",
+      "detail_url": "https://detail.1688.com/offer/987356590864.html?&object_id=987356590864",
+      "similarity_score": 0.9058006250000001,
+      "price": 32.5,
+      "sku_id": 5951931560170,
+      "sku_title": "黑色 M",
+      "yx_index": 3.71,
+      "quantity_begin": 1,
+      "unit": "",
+      "supplier": "潮州市潮安区东凤镇野岫服装店（个体工商户）",
+      "sold_count": 100,
+      "stock_amount": 3894,
+      "user_id": "",
+      "member_id": "",
+      "category_id": null,
+      "promotion_tags": [],
+      "service_infos": [
+        {
+          "color": "#22AC60",
+          "type": "预计达",
+          "value": "后天达"
+        },
+        {
+          "type": "保险",
+          "value": "退货包运费"
+        }
+      ],
+      "selling_points": [
+        {
+          "type": "industryCPV",
+          "value": "加长款"
+        },
+        {
+          "type": "industryCPV",
+          "value": "羊绒"
+        },
+        {
+          "type": "industryCPV",
+          "value": "都市风"
+        }
+      ]
+    },
+    "conditions": [
+      {
+        "condition": "服装品类与本次线索对应",
+        "status": "unknown",
+        "evidence": {
+          "title_as_reported": "现货羊绒拼接条纹假两件翻领长袖针织衫女秋季修身收腰设计感撞色",
+          "sku_title_as_reported": "黑色 M"
+        },
+        "limit": "标题/SKU文字初筛，不代表款式或实物核验"
+      },
+      {
+        "condition": "评价者认为衣物偏大：替代商品满足明确目标",
+        "status": "unknown",
+        "reason": "原评论缺少可检验目标；返回的标题、尺码标签不能证明痛点解决",
+        "evidence_ids": [
+          "EV-204349979393ffa2"
+        ]
+      },
+      {
+        "condition": "具体SKU规格及材质/成衣尺寸",
+        "status": "unknown",
+        "reason": "SKU标签不是完整规格或实测"
+      },
+      {
+        "condition": "当前可采购状态、价格数量条件、发货地和交付要求",
+        "status": "unknown",
+        "reason": "只有搜索返回；未完成V1供货核验"
+      }
+    ],
+    "style_related": "unknown",
+    "demand_satisfied": "unknown",
+    "supply_verified": false,
+    "verified_stock": null,
+    "stock_as_reported": 3894,
+    "stock_limit": "CLI缺失值可能映射为0；包括正数在内均未独立核实",
+    "eligible_for_test": false,
+    "decision": "待人工核验",
+    "next_action": "补原商品所购尺码和目标尺寸；对齐替代商品SKU后核验规格及供货",
+    "ctr": null,
+    "click_to_order_rate": null,
+    "breakout_probability": null,
+    "query_id": "Q-70db439e53847f70",
+    "checked_at": "2026-09-06T15:42:42.576656+00:00",
+    "source_mode": "live"
+  },
+  {
+    "demand_id": "S1-a9119f3aa0ae5dbd",
+    "product_id": "1070057395626",
+    "sku_id": "6285878162405",
+    "source_product": {
+      "product_id": "1070057395626",
+      "title": "挂脖条纹背心女2026夏季新款韩版系带假两件性感显瘦修身无袖上衣",
+      "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01lsH9udYkveC2vHAO_!!2222382682563-0-cib.jpg",
+      "detail_url": "https://detail.1688.com/offer/1070057395626.html?&object_id=1070057395626",
+      "similarity_score": 0.7406250000000001,
+      "price": 105.9,
+      "sku_id": 6285878162405,
+      "sku_title": "橘色条纹 均码",
+      "yx_index": 1.66,
+      "quantity_begin": 2,
+      "unit": "",
+      "supplier": "广州昕榕服装厂（个人独资）",
+      "sold_count": 0,
+      "stock_amount": 1000,
+      "user_id": "",
+      "member_id": "",
+      "category_id": null,
+      "promotion_tags": [],
+      "service_infos": [
+        {
+          "color": "#22AC60",
+          "type": "发货保障",
+          "value": "48小时发货"
+        },
+        {
+          "type": "保险",
+          "value": "退货包运费"
+        }
+      ],
+      "selling_points": [
+        {
+          "type": "industryCPV",
+          "value": "氨纶"
+        },
+        {
+          "type": "industryCPV",
+          "value": "针织"
+        },
+        {
+          "type": "industryCPV",
+          "value": "中国风"
+        }
+      ]
+    },
+    "conditions": [
+      {
+        "condition": "服装品类与本次线索对应",
+        "status": "met",
+        "evidence": {
+          "title_as_reported": "挂脖条纹背心女2026夏季新款韩版系带假两件性感显瘦修身无袖上衣",
+          "sku_title_as_reported": "橘色条纹 均码"
+        },
+        "limit": "标题/SKU文字初筛，不代表款式或实物核验"
+      },
+      {
+        "condition": "评价者认为衣物偏大：替代商品满足明确目标",
+        "status": "unknown",
+        "reason": "原评论缺少可检验目标；返回的标题、尺码标签不能证明痛点解决",
+        "evidence_ids": [
+          "EV-204349979393ffa2"
+        ]
+      },
+      {
+        "condition": "具体SKU规格及材质/成衣尺寸",
+        "status": "unknown",
+        "reason": "SKU标签不是完整规格或实测"
+      },
+      {
+        "condition": "当前可采购状态、价格数量条件、发货地和交付要求",
+        "status": "unknown",
+        "reason": "只有搜索返回；未完成V1供货核验"
+      }
+    ],
+    "style_related": "met",
+    "demand_satisfied": "unknown",
+    "supply_verified": false,
+    "verified_stock": null,
+    "stock_as_reported": 1000,
+    "stock_limit": "CLI缺失值可能映射为0；包括正数在内均未独立核实",
+    "eligible_for_test": false,
+    "decision": "待人工核验",
+    "next_action": "补原商品所购尺码和目标尺寸；对齐替代商品SKU后核验规格及供货",
+    "ctr": null,
+    "click_to_order_rate": null,
+    "breakout_probability": null,
+    "query_id": "Q-70db439e53847f70",
+    "checked_at": "2026-09-06T15:42:42.576656+00:00",
+    "source_mode": "live"
+  },
+  {
+    "demand_id": "S1-a9119f3aa0ae5dbd",
+    "product_id": "1072384600169",
+    "sku_id": "6120447568484",
+    "source_product": {
+      "product_id": "1072384600169",
+      "title": "绝美法式荷叶边挂脖上衣女显瘦设计感吊带背心杏色国内一二线品牌",
+      "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01mSaACODD4GD1chua_!!2222674501129-0-cib.jpg",
+      "detail_url": "https://detail.1688.com/offer/1072384600169.html?&object_id=1072384600169",
+      "similarity_score": 0.7312500000000001,
+      "price": 22.6,
+      "sku_id": 6120447568484,
+      "sku_title": "杏色 S",
+      "yx_index": 2.1,
+      "quantity_begin": 2,
+      "unit": "",
+      "supplier": "广州昭纶服装厂(个人独资)",
+      "sold_count": 0,
+      "stock_amount": 40027,
+      "user_id": "",
+      "member_id": "",
+      "category_id": null,
+      "promotion_tags": [],
+      "service_infos": [
+        {
+          "color": "#22AC60",
+          "type": "发货保障",
+          "value": "48小时发货"
+        }
+      ],
+      "selling_points": [
+        {
+          "type": "industryCPV",
+          "value": "氨纶"
+        },
+        {
+          "type": "industryCPV",
+          "value": "针织"
+        },
+        {
+          "type": "industryCPV",
+          "value": "休闲风"
+        }
+      ]
+    },
+    "conditions": [
+      {
+        "condition": "服装品类与本次线索对应",
+        "status": "met",
+        "evidence": {
+          "title_as_reported": "绝美法式荷叶边挂脖上衣女显瘦设计感吊带背心杏色国内一二线品牌",
+          "sku_title_as_reported": "杏色 S"
+        },
+        "limit": "标题/SKU文字初筛，不代表款式或实物核验"
+      },
+      {
+        "condition": "评价者认为衣物偏大：替代商品满足明确目标",
+        "status": "unknown",
+        "reason": "原评论缺少可检验目标；返回的标题、尺码标签不能证明痛点解决",
+        "evidence_ids": [
+          "EV-204349979393ffa2"
+        ]
+      },
+      {
+        "condition": "具体SKU规格及材质/成衣尺寸",
+        "status": "unknown",
+        "reason": "SKU标签不是完整规格或实测"
+      },
+      {
+        "condition": "当前可采购状态、价格数量条件、发货地和交付要求",
+        "status": "unknown",
+        "reason": "只有搜索返回；未完成V1供货核验"
+      }
+    ],
+    "style_related": "met",
+    "demand_satisfied": "unknown",
+    "supply_verified": false,
+    "verified_stock": null,
+    "stock_as_reported": 40027,
+    "stock_limit": "CLI缺失值可能映射为0；包括正数在内均未独立核实",
+    "eligible_for_test": false,
+    "decision": "待人工核验",
+    "next_action": "补原商品所购尺码和目标尺寸；对齐替代商品SKU后核验规格及供货",
+    "ctr": null,
+    "click_to_order_rate": null,
+    "breakout_probability": null,
+    "query_id": "Q-70db439e53847f70",
+    "checked_at": "2026-09-06T15:42:42.576656+00:00",
+    "source_mode": "live"
+  }
+]

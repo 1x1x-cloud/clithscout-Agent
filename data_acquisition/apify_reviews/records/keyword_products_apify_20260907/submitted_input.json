@@ -1,0 +1,29 @@
+{
+  "urls": [],
+  "productIds": [
+    "1732357239054307594",
+    "1732510609891758832",
+    "1731650530027868452"
+  ],
+  "country": "US",
+  "maxReviewsPerTarget": 300,
+  "sortBy": "newest",
+  "starRating": 0,
+  "withPhotosOnly": false,
+  "outputRating": true,
+  "outputContent": true,
+  "outputTimestamp": true,
+  "outputAuthorHandle": true,
+  "outputAuthorName": true,
+  "outputAuthorAvatar": true,
+  "outputAuthorVerified": true,
+  "outputAuthorCountry": true,
+  "outputImages": true,
+  "outputSkuId": true,
+  "outputProductTitle": true,
+  "outputProductMainImage": true,
+  "outputProductUrl": true,
+  "outputSourceShopId": true,
+  "outputInputUrl": true,
+  "maxProductsPerShop": 5
+}

@@ -1,0 +1,12 @@
+{
+  "checked_at": "2026-09-06T16:27:31.042849+00:00",
+  "passed": true,
+  "original_files_retained": 155,
+  "unchanged_original_files": 153,
+  "backed_up_documents_replaced_with_pointers": 2,
+  "checked_document_links": 75,
+  "core_modules": 11,
+  "submodules": 45,
+  "functional_verification": "quality_assurance/migration_validation/records/20260906T162416547718Z/verification.json",
+  "errors": []
+}

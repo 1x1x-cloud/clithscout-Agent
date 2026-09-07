@@ -1,0 +1,18 @@
+{
+  "checked_at_utc": "2026-09-06T10:01:18.982002+00:00",
+  "scope": "Artifact consistency and historical-file preservation only; no current trend, account access, browser fix, or business-effect validation.",
+  "checks": {
+    "json_files_parsed": 3,
+    "platforms_with_public_probes": 4,
+    "official_explanatory_pages_indexed": 11,
+    "official_entry_shells_indexed": 1,
+    "cached_tiktok_rows": 3,
+    "qualified_current_window_trend_datasets": 0,
+    "post_restart_failed_browser_operations": 2,
+    "local_markdown_links_checked": 38,
+    "json_references_checked": 3,
+    "original_pilot_file_hashes_compared": 7
+  },
+  "errors": [],
+  "passed": true
+}

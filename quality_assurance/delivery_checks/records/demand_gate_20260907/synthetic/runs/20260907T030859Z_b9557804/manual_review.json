@@ -1,0 +1,137 @@
+{
+  "evidence": [
+    {
+      "evidence_id": "EV-31530f8b62ec2c3f",
+      "flags": [
+        "uncovered_expression"
+      ],
+      "text": "Detailed positive fit feedback 4"
+    }
+  ],
+  "demands": [
+    {
+      "demand_id": "S1-414e298ca798ef31",
+      "scope": "current",
+      "unknown": [
+        "偏大部位、所购尺码、目标尺寸和原商品尺寸",
+        "采购数量、目标价格、交付要求"
+      ],
+      "search_executed": false,
+      "search_limit": "Historical, unknown category, query cap or unrequested search may defer retrieval"
+    }
+  ],
+  "products": [],
+  "image_searches": [
+    {
+      "query_id": "QI-e7836515fe670108",
+      "search_type": "image",
+      "image": "https://example.invalid/synthetic-main.jpg",
+      "image_candidates_as_reported": [
+        "https://example.invalid/synthetic-main.jpg"
+      ],
+      "source_product_id": "synthetic-product",
+      "source_sku_ids": [
+        "sku0",
+        "sku1",
+        "sku2"
+      ],
+      "evidence_ids": [
+        "EV-bf0911e8ed2fb52e",
+        "EV-dd1331737999d045",
+        "EV-f9a65b6151b5ded0"
+      ],
+      "review_ids": [
+        "r0",
+        "r1",
+        "r2"
+      ],
+      "source_urls": [
+        "https://example.invalid/pants"
+      ],
+      "demand_ids": [
+        "S1-414e298ca798ef31"
+      ],
+      "status": "ready",
+      "reason": null,
+      "purpose": "原商品主图召回相似款，再按差评与具体SKU核对规格",
+      "query_basis": "评价来源 productMainImage；URL引用未归档图片像素；图片相似不证明同款或痛点解决",
+      "limit": 3,
+      "purchase_amount": 1,
+      "purchase_amount_basis": "CLI报价输入，不是采购决定",
+      "score_level": "high",
+      "tags": "4306497",
+      "search_executed": false
+    }
+  ],
+  "sku_specifications": [],
+  "problem_signals": [
+    {
+      "signal_id": "PS-414e298ca798ef31",
+      "product_id": "synthetic-product",
+      "issue": "too_big",
+      "scope": "current",
+      "status": "已达到需求卡门槛",
+      "prevalence": {
+        "policy": {
+          "version": "s1-prevalence-v1",
+          "min_effective_reviews": 5,
+          "recommended_effective_reviews": 10,
+          "min_independent_buyers": 3,
+          "min_distinct_support_texts": 3,
+          "min_problem_ratio": 0.2
+        },
+        "coverage_confirmed": true,
+        "sample_source": {
+          "product_id": "synthetic-product",
+          "market": "US",
+          "window": {
+            "start": "2026-08-30T09:05:42Z",
+            "end": "2026-09-06T09:05:42Z"
+          },
+          "rating_scope": "all",
+          "complete": true,
+          "review_ids": [
+            "r0",
+            "r1",
+            "r2",
+            "r3",
+            "r4"
+          ],
+          "source_ref": "https://example.invalid/complete-synthetic-export",
+          "checked_at": "2026-09-07T00:00:00Z"
+        },
+        "support_record_count": 3,
+        "effective_support_count": 3,
+        "effective_sample_count": 5,
+        "distinct_support_text_count": 3,
+        "independent_buyer_count": 3,
+        "problem_ratio": 0.6,
+        "gates": {
+          "sample_size": true,
+          "independent_buyers": true,
+          "problem_ratio": true
+        },
+        "approved": true,
+        "effective_evidence_ids": [
+          "EV-dd1331737999d045",
+          "EV-bf0911e8ed2fb52e",
+          "EV-f9a65b6151b5ded0",
+          "EV-da488ba8647da6ab",
+          "EV-31530f8b62ec2c3f"
+        ],
+        "effective_support_evidence_ids": [
+          "EV-dd1331737999d045",
+          "EV-bf0911e8ed2fb52e",
+          "EV-f9a65b6151b5ded0"
+        ],
+        "unresolved_evidence_ids": [],
+        "exclusions": [],
+        "warnings": [
+          "sample_below_recommended_10"
+        ],
+        "limitation": "Imported provenance and identity assertions are not independently verified by the program."
+      },
+      "sourcing_eligible": true
+    }
+  ]
+}

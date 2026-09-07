@@ -1,0 +1,79 @@
+{
+  "checked_at": "2026-09-06T17:33:51.812087+00:00",
+  "checks": {
+    "protected_files_unchanged": true,
+    "document_links_resolve": true
+  },
+  "missing_links": [],
+  "changed_existing_files": [
+    "product_sourcing/skill_adapter/src/client.py",
+    "report_delivery/markdown_report/src/render.py",
+    "workflow_execution/pipeline/src/orchestrator.py",
+    "quality_assurance/regression/tests/test_image_sku.py",
+    "project_governance/business_rules/docs/2026-09-07-image-sku-workflow.md",
+    "project_governance/user_guide/docs/START_HERE.md",
+    "project_governance/project_state/docs/TASK_STATE.md"
+  ],
+  "full_regression": {
+    "tests": 62,
+    "failures": 0,
+    "errors": 0,
+    "exit_code": 0,
+    "command": "workflow_execution/launcher/scripts/run.ps1 -Test",
+    "tool_output_chunk": "58263c"
+  },
+  "review": {
+    "findings": 1,
+    "fixed": 1,
+    "focused_recheck": "passed; RGB/L PNG regression independently rerun; no remaining material findings in reviewed scope"
+  },
+  "new_1688_searches": 0,
+  "live_image_gets": 1,
+  "source_code_sha256": {
+    "data_acquisition\\apify_reviews\\src\\client.py": "835d815639d0261ed5d263a64b6bc4ead7e95bc3972dbc9636171ce59014d0e0",
+    "demand_discovery\\analysis_workflow\\src\\analyze.py": "e95a1ab40f196085d549661e4bc1213803070d18a56b4d01ea0f573d63c0a333",
+    "demand_discovery\\demand_cards\\src\\builder.py": "3cc68422f8b8c941dd767a498d5f43edd96fc96147d0b118db24f27988212660",
+    "demand_discovery\\pain_classification\\src\\classifier.py": "edc28ff95f0521773dea144fa8df702aecd403494f52d29dde8b7784cf602bfd",
+    "demand_discovery\\pain_classification\\src\\rules.py": "b1b9177a8f4cf1a631a983792e6e759abc47a5e74d43dba6c2d041b8f7a50cf4",
+    "evidence_processing\\garment_context\\src\\classifier.py": "01f8235b1404d36b73420ea1df5ea2e15520baf918551400172569f004942559",
+    "evidence_processing\\review_deduplication\\src\\grouping.py": "a1b148d9b6a9be28ff831c50db8e09b84402551c32c94088ac7462048f0d4407",
+    "evidence_processing\\review_normalization\\src\\normalizer.py": "48083733f135f7be106f2f9e8a86447f149e945384b804a19beb855b2afd9ec1",
+    "human_review\\review_queue\\src\\builder.py": "5e4ba8b45cc49b0cb6df787e11861c677891d35e8174e23eb182f4119f9ff171",
+    "product_matching\\sku_comparison\\src\\comparison.py": "2c91824c180562c3c8e40da95d9f99a7dd9d665b1113ac58d7181751231a14b8",
+    "product_matching\\sku_comparison\\src\\inspection.py": "01e9697c04e614d393a95826eb3f532550a562fcae230017c4177a4ade04c256",
+    "product_matching\\sku_comparison\\src\\spec_evidence.py": "91584a8170d26733e768cf8b77577c790388b23861ae8bd71b00ec703d8763f7",
+    "product_sourcing\\query_planning\\src\\image_planner.py": "2fa388690bd36d1e770449158405f6110f4026af41492d705b6036a7deba0f75",
+    "product_sourcing\\query_planning\\src\\planner.py": "c2902cafea1c00a358dca599ebd998f0e8b2a58c0357b2ee45ea1727b047048d",
+    "product_sourcing\\result_parsing\\src\\parser.py": "d7f81b0e4a448f4daeade3a5fe87862f02445923d795b433c9876687e63648e7",
+    "product_sourcing\\skill_adapter\\src\\client.py": "8d0b58281ddcea3f4f4bcbeda2835f2bd4d2e1888111716b5f75debb4f2fea18",
+    "product_sourcing\\skill_adapter\\src\\image_input.py": "30797857790f6c77c71785ce715659e7500a659f9e85bc1a653395a9ced6804d",
+    "project_governance\\migration\\src\\check_credentials.py": "c51992380d0e9302cf30473fc58f03290621c93b3ee105a3d02fa9045054c755",
+    "project_governance\\migration\\src\\complete_delivery.py": "a2fcfc0de2200560bb93028590abeba337d82ea25c4a36c2cba8772f95859e6c",
+    "project_governance\\migration\\src\\finalize.py": "09ef15869af5d0013bdaab75ec577556b3782052e53dfe4ba0929d9c6f16aa6b",
+    "project_governance\\migration\\src\\final_audit.py": "c2b1fc808395242cfcf5c4d82517e058c4ec83442840a93f0f280f8bc839dabb",
+    "project_governance\\migration\\src\\fix_acceptance.py": "c0292837e58a4b92885ba307de109ccbb2606f51aafecdd09b8687ffdc361bbe",
+    "project_governance\\migration\\src\\fix_registry.py": "c01ec1a8d7dd36f48e275b87c7a5ccea1837c355d6ef442b92485b70ebb721f9",
+    "project_governance\\migration\\src\\install_support.py": "14434d011a11109b226b6e27700f36c327ae91aff64095e606c7bfb5a814c6e6",
+    "project_governance\\migration\\src\\migrate.py": "73b4a28b007fd1312f6a2bce2b31c3687d2181f376491207a03647ea69fe79cc",
+    "project_governance\\migration\\src\\test_entrypoint.py": "cc75ebbd34cc254b828557dc68c2c531c4ee82fef924052f6a06dcce9311702e",
+    "project_governance\\migration\\src\\verify.py": "f8c31868240fce5dbaa955a22de75d7829dcd4841e2b2c771cf245b4f2d8ff8c",
+    "quality_assurance\\migration_validation\\src\\verify.py": "65549869181e66a748f316874272457768927aa6a049bd8809057799d2000c6f",
+    "quality_assurance\\record_validation\\src\\validator.py": "2e13cc0ed51ee8f19d4aecd921c7eef67bd06f3f392b92f50b6c22d780d7a169",
+    "quality_assurance\\regression\\src\\runner.py": "4a539918331570dbe04985edb3342ed67957dd640a9a1c133559b25813f82b50",
+    "report_delivery\\markdown_report\\src\\render.py": "0648b53b9249cc49533b2ac2553e248f8a18c0c0f7ec191dc7a72db52177ab1c",
+    "runtime_support\\json_storage\\src\\storage.py": "5492e8f736016d015ecdbd5bb17a21e10e8555947027ee38cf76b864be505e81",
+    "runtime_support\\project_paths\\src\\paths.py": "ff437c8fd3f086c38cd9470db5b3341a99555927f84bdab37d6e54b71d186ff3",
+    "runtime_support\\provider_errors\\src\\errors.py": "a6b8c0e1c6ecdc4e3d8e39cefea8e1a9c17f7261c444bf0e7273e648f4ce9abe",
+    "runtime_support\\text_identity\\src\\identity.py": "62b0e7284a8362573ac99b37aec59eda2575def8808fd75fccec75d0d2271226",
+    "runtime_support\\time_windows\\src\\clock.py": "53461b6256a9ac1765095b9160504748d9cd031c017f107d51f62b8b9781b7da",
+    "workflow_execution\\cli\\src\\main.py": "7e32ed67450d07557b4f4a420ff594358061b2c1cc06d43937a4f5d44aa72e92",
+    "workflow_execution\\pipeline\\src\\orchestrator.py": "d56a9692ae2d1a65949c8d9295b0ccfd736afab1adc3de3f4a6e0a4ef8379c72",
+    "workflow_execution\\run_configuration\\src\\validation.py": "84b3a8ff1529c959462c73f228a4ba00a074d2c6212908c8ce4911ae8e5b70ec"
+  },
+  "passed": true,
+  "new_files": [
+    "product_sourcing/skill_adapter/src/image_input.py",
+    "quality_assurance/regression/tests/test_image_input.py",
+    "project_governance/implementation_history/docs/2026-09-07-default-jpeg-input.md"
+  ]
+}

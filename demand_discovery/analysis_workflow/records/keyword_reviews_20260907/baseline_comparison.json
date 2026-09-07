@@ -1,0 +1,631 @@
+{
+  "baseline_path": "demand_discovery/analysis_workflow/records/keyword_reviews_20260907/program_baseline/20260907T054158Z_43c85f7c",
+  "scope": "有限规则输出独立保存；布尔有效性接口不覆盖否定/转折分类，本文逐条语义分析不宣称已合入生产程序。",
+  "window_rows": [
+    {
+      "review_id": "7682274321636656910",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "excluded_empty",
+      "manual_reason": "空正文，无可解释的穿着体验。",
+      "baseline_kind": "empty",
+      "baseline_flags": [],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7682092889813911309",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "text_valid",
+      "manual_reason": "本品前扣解决旧款后扣引起的背部发痒；柔软、承托、36B穿M合身。旧款痛点不归给本品。",
+      "baseline_kind": "manual_review",
+      "baseline_flags": [
+        "negation_needs_review"
+      ],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7682027470236993294",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "text_valid",
+      "manual_reason": "明确合身、舒适及聚拢效果的正向体验。",
+      "baseline_kind": "praise_or_unclear",
+      "baseline_flags": [],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7682012126864623374",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "text_valid",
+      "manual_reason": "柔软、舒适及可搭配多类服装的正向体验。",
+      "baseline_kind": "manual_review",
+      "baseline_flags": [
+        "uncovered_expression"
+      ],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7681880945967957774",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "excluded_empty",
+      "manual_reason": "空正文，无可解释的穿着体验。",
+      "baseline_kind": "empty",
+      "baseline_flags": [],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7681870717184395022",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "text_valid",
+      "manual_reason": "柔软、舒适、合身及场合适用的正向体验。",
+      "baseline_kind": "manual_review",
+      "baseline_flags": [
+        "uncovered_expression"
+      ],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7681851535449442062",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "text_valid",
+      "manual_reason": "触感、磁扣牢固、小胸合身等正向体验。",
+      "baseline_kind": "manual_review",
+      "baseline_flags": [
+        "uncovered_expression"
+      ],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7681730615874094862",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "text_valid",
+      "manual_reason": "合身且承托量合适，是承托不足的相反体验。",
+      "baseline_kind": "manual_review",
+      "baseline_flags": [
+        "uncovered_expression"
+      ],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7681717226366125837",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "text_valid",
+      "manual_reason": "尺码准确、贴合、穿衣不显痕且柔软舒适。",
+      "baseline_kind": "manual_review",
+      "baseline_flags": [
+        "uncovered_expression"
+      ],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7681695365929928461",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "excluded_empty",
+      "manual_reason": "空正文，无可解释的穿着体验。",
+      "baseline_kind": "empty",
+      "baseline_flags": [],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7681695140016310030",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "text_valid",
+      "manual_reason": "合身、舒适、侧背平整及轻微提升的正向体验。",
+      "baseline_kind": "praise_or_unclear",
+      "baseline_flags": [],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7681677346675705613",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "excluded_empty",
+      "manual_reason": "空正文，无可解释的穿着体验。",
+      "baseline_kind": "empty",
+      "baseline_flags": [],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7681532661290305293",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "text_valid",
+      "manual_reason": "Perfect fit明确评价合身，保留为有维度的短评。",
+      "baseline_kind": "manual_review",
+      "baseline_flags": [
+        "uncovered_expression"
+      ],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7681458188278548238",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "text_valid",
+      "manual_reason": "评价者自述术后重建情境，模杯塑形不适合自己；不扩展成医学建议或普遍人群结论。",
+      "baseline_kind": "manual_review",
+      "baseline_flags": [
+        "negation_needs_review"
+      ],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7681280219873003278",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "text_valid",
+      "manual_reason": "对可拆胸垫和滑的表现不满；保留可拆胸垫偏好及滑感未定位两条线索。",
+      "baseline_kind": "manual_review",
+      "baseline_flags": [
+        "uncovered_expression"
+      ],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7681115360702269198",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "excluded_empty",
+      "manual_reason": "空正文，无可解释的穿着体验。",
+      "baseline_kind": "empty",
+      "baseline_flags": [],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7681056933931403022",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "text_valid",
+      "manual_reason": "不舒适且塑形不美观；期待类似其他jelly bra的贴合效果。",
+      "baseline_kind": "manual_review",
+      "baseline_flags": [
+        "negation_needs_review"
+      ],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7680998578379835150",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "excluded_empty",
+      "manual_reason": "空正文，无可解释的穿着体验。",
+      "baseline_kind": "empty",
+      "baseline_flags": [],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7680997182087792398",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "excluded_empty",
+      "manual_reason": "空正文，无可解释的穿着体验。",
+      "baseline_kind": "empty",
+      "baseline_flags": [],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7680856331680319246",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "text_valid",
+      "manual_reason": "自述38DD，买M后准备买L，保留换大码背景。",
+      "baseline_kind": "manual_review",
+      "baseline_flags": [
+        "ambiguous_or_contrastive_language"
+      ],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7680761981967664910",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "text_valid",
+      "manual_reason": "柔软、舒适与背部蕾丝的正向体验。",
+      "baseline_kind": "praise_or_unclear",
+      "baseline_flags": [],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7680761146839746317",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "text_valid",
+      "manual_reason": "舒适、不勒且承托良好；Not binding为正向否定。",
+      "baseline_kind": "manual_review",
+      "baseline_flags": [
+        "negation_needs_review"
+      ],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7680745250311243534",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "text_valid",
+      "manual_reason": "舒适、合身、外衣不显痕及承托良好。",
+      "baseline_kind": "manual_review",
+      "baseline_flags": [
+        "uncovered_expression"
+      ],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7680670162944722701",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "text_valid",
+      "manual_reason": "舒适，但没有托起或收住胸部；提升和包容分开记录。",
+      "baseline_kind": "manual_review",
+      "baseline_flags": [
+        "ambiguous_or_contrastive_language"
+      ],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7680595825213540109",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "text_valid",
+      "manual_reason": "覆盖差并且很不舒服；未明确说明提升能力。",
+      "baseline_kind": "manual_review",
+      "baseline_flags": [
+        "uncovered_expression"
+      ],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7680569329080813326",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "text_valid",
+      "manual_reason": "自述XL扣合困难、过紧压胸、不提升且不舒适；另述湿热出汗情境不适。",
+      "baseline_kind": "manual_review",
+      "baseline_flags": [
+        "negation_needs_review"
+      ],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7680538752149669646",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "excluded_empty",
+      "manual_reason": "空正文，无可解释的穿着体验。",
+      "baseline_kind": "empty",
+      "baseline_flags": [],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7680520364780275470",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "excluded_empty",
+      "manual_reason": "空正文，无可解释的穿着体验。",
+      "baseline_kind": "empty",
+      "baseline_flags": [],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7680449818321536781",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "text_valid",
+      "manual_reason": "非常舒适、磁扣牢固的正向体验。",
+      "baseline_kind": "manual_review",
+      "baseline_flags": [
+        "uncovered_expression"
+      ],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7680396546785822478",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "text_valid",
+      "manual_reason": "明确不舒适，虽短但有穿着体验维度。",
+      "baseline_kind": "manual_review",
+      "baseline_flags": [
+        "negation_needs_review"
+      ],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7680355433628469006",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "text_valid",
+      "manual_reason": "舒适及自述复购；有实质穿着体验。",
+      "baseline_kind": "manual_review",
+      "baseline_flags": [
+        "negation_needs_review"
+      ],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7680306511989557006",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "excluded_non_substantive",
+      "manual_reason": "只有Love it!，纯赞美，无具体穿着维度。",
+      "baseline_kind": "praise_or_unclear",
+      "baseline_flags": [],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7680044702342645518",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "text_valid",
+      "manual_reason": "明确舒适、自述又订两件；不把件数当买家数。",
+      "baseline_kind": "praise_or_unclear",
+      "baseline_flags": [],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7680015838256482062",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "text_valid",
+      "manual_reason": "转述妻子对合身及材质的体验，保留关系语境。",
+      "baseline_kind": "praise_or_unclear",
+      "baseline_flags": [],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7679956738765981453",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "text_valid",
+      "manual_reason": "舒适且希望更多颜色，具体颜色未指定。",
+      "baseline_kind": "manual_review",
+      "baseline_flags": [
+        "ambiguous_or_contrastive_language"
+      ],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7679956704881739534",
+      "product_id": "1732510609891758832",
+      "manual_disposition": "excluded_duplicate_body",
+      "manual_reason": "与第35条同商品同正文，跨SKU重复；保留原记录但不重复计数。",
+      "baseline_kind": "manual_review",
+      "baseline_flags": [
+        "ambiguous_or_contrastive_language"
+      ],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7681811235104392973",
+      "product_id": "1732357239054307594",
+      "manual_disposition": "excluded_empty",
+      "manual_reason": "空正文，无可解释的穿着体验。",
+      "baseline_kind": "empty",
+      "baseline_flags": [],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7681796643398862606",
+      "product_id": "1732357239054307594",
+      "manual_disposition": "excluded_empty",
+      "manual_reason": "空正文，无可解释的穿着体验。",
+      "baseline_kind": "empty",
+      "baseline_flags": [],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7681689016258430734",
+      "product_id": "1732357239054307594",
+      "manual_disposition": "text_valid",
+      "manual_reason": "尺码准确且合身的正向体验。",
+      "baseline_kind": "manual_review",
+      "baseline_flags": [
+        "uncovered_expression"
+      ],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7681688957369681678",
+      "product_id": "1732357239054307594",
+      "manual_disposition": "excluded_duplicate_body",
+      "manual_reason": "与第39条同商品同正文，跨SKU重复；不重复计数。",
+      "baseline_kind": "manual_review",
+      "baseline_flags": [
+        "uncovered_expression"
+      ],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7680736993038436109",
+      "product_id": "1732357239054307594",
+      "manual_disposition": "text_valid",
+      "manual_reason": "Snug描述贴身感，cute为赞美。保留贴合观察，不直接判为过紧。",
+      "baseline_kind": "manual_review",
+      "baseline_flags": [
+        "uncovered_expression"
+      ],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7680013318776751886",
+      "product_id": "1732357239054307594",
+      "manual_disposition": "excluded_empty",
+      "manual_reason": "空正文，无可解释的穿着体验。",
+      "baseline_kind": "empty",
+      "baseline_flags": [],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7679865863498974989",
+      "product_id": "1732357239054307594",
+      "manual_disposition": "excluded_empty",
+      "manual_reason": "空正文，无可解释的穿着体验。",
+      "baseline_kind": "empty",
+      "baseline_flags": [],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7679851210942007054",
+      "product_id": "1732357239054307594",
+      "manual_disposition": "text_valid",
+      "manual_reason": "明确合身，另有赞美和自述购买黑色。",
+      "baseline_kind": "manual_review",
+      "baseline_flags": [
+        "uncovered_expression"
+      ],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7679815245729220366",
+      "product_id": "1732357239054307594",
+      "manual_disposition": "excluded_empty",
+      "manual_reason": "空正文，无可解释的穿着体验。",
+      "baseline_kind": "empty",
+      "baseline_flags": [],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7682204765556442894",
+      "product_id": "1731650530027868452",
+      "manual_disposition": "excluded_non_substantive",
+      "manual_reason": "Great quality love them jeans仅笼统质量赞美，未说明面料、做工或穿着表现。",
+      "baseline_kind": "praise_or_unclear",
+      "baseline_flags": [],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7681848153850808077",
+      "product_id": "1731650530027868452",
+      "manual_disposition": "excluded_empty",
+      "manual_reason": "空正文，无可解释的穿着体验。",
+      "baseline_kind": "empty",
+      "baseline_flags": [],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7681812881478731534",
+      "product_id": "1731650530027868452",
+      "manual_disposition": "text_valid",
+      "manual_reason": "腰位过高、臀部显长且与图片效果不同；同一条体验可标多个问题但不叠加人数。",
+      "baseline_kind": "manual_review",
+      "baseline_flags": [
+        "uncovered_expression"
+      ],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7681675825985177358",
+      "product_id": "1731650530027868452",
+      "manual_disposition": "excluded_empty",
+      "manual_reason": "空正文，无可解释的穿着体验。",
+      "baseline_kind": "empty",
+      "baseline_flags": [],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7681675799954507533",
+      "product_id": "1731650530027868452",
+      "manual_disposition": "excluded_empty",
+      "manual_reason": "空正文，无可解释的穿着体验。",
+      "baseline_kind": "empty",
+      "baseline_flags": [],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7681046526887134989",
+      "product_id": "1731650530027868452",
+      "manual_disposition": "unresolved",
+      "manual_reason": "Los colored son muy为未完成句，疑指颜色但缺少评价谓语。",
+      "baseline_kind": "manual_review",
+      "baseline_flags": [
+        "uncovered_expression"
+      ],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7681046428524955406",
+      "product_id": "1731650530027868452",
+      "manual_disposition": "text_valid",
+      "manual_reason": "西语大意为穿着/贴合效果和细节好看；保留合身外观维度的正向体验。",
+      "baseline_kind": "manual_review",
+      "baseline_flags": [
+        "uncovered_expression"
+      ],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7681046155069523726",
+      "product_id": "1731650530027868452",
+      "manual_disposition": "excluded_empty",
+      "manual_reason": "空正文，无可解释的穿着体验。",
+      "baseline_kind": "empty",
+      "baseline_flags": [],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7681030375754237710",
+      "product_id": "1731650530027868452",
+      "manual_disposition": "excluded_empty",
+      "manual_reason": "空正文，无可解释的穿着体验。",
+      "baseline_kind": "empty",
+      "baseline_flags": [],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7681030326846015245",
+      "product_id": "1731650530027868452",
+      "manual_disposition": "excluded_empty",
+      "manual_reason": "空正文，无可解释的穿着体验。",
+      "baseline_kind": "empty",
+      "baseline_flags": [],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7680955451257505549",
+      "product_id": "1731650530027868452",
+      "manual_disposition": "excluded_empty",
+      "manual_reason": "空正文，无可解释的穿着体验。",
+      "baseline_kind": "empty",
+      "baseline_flags": [],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7680736280071407374",
+      "product_id": "1731650530027868452",
+      "manual_disposition": "excluded_empty",
+      "manual_reason": "空正文，无可解释的穿着体验。",
+      "baseline_kind": "empty",
+      "baseline_flags": [],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7680232303458371342",
+      "product_id": "1731650530027868452",
+      "manual_disposition": "excluded_empty",
+      "manual_reason": "空正文，无可解释的穿着体验。",
+      "baseline_kind": "empty",
+      "baseline_flags": [],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7680009105055139597",
+      "product_id": "1731650530027868452",
+      "manual_disposition": "excluded_empty",
+      "manual_reason": "空正文，无可解释的穿着体验。",
+      "baseline_kind": "empty",
+      "baseline_flags": [],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7679998714706708238",
+      "product_id": "1731650530027868452",
+      "manual_disposition": "excluded_non_substantive",
+      "manual_reason": "只有Good，纯赞美，无实质内容。",
+      "baseline_kind": "manual_review",
+      "baseline_flags": [
+        "uncovered_expression"
+      ],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7679958220484282125",
+      "product_id": "1731650530027868452",
+      "manual_disposition": "excluded_empty",
+      "manual_reason": "空正文，无可解释的穿着体验。",
+      "baseline_kind": "empty",
+      "baseline_flags": [],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7679957819555120909",
+      "product_id": "1731650530027868452",
+      "manual_disposition": "excluded_empty",
+      "manual_reason": "空正文，无可解释的穿着体验。",
+      "baseline_kind": "empty",
+      "baseline_flags": [],
+      "baseline_findings": []
+    },
+    {
+      "review_id": "7679889790333961997",
+      "product_id": "1731650530027868452",
+      "manual_disposition": "excluded_empty",
+      "manual_reason": "空正文，无可解释的穿着体验。",
+      "baseline_kind": "empty",
+      "baseline_flags": [],
+      "baseline_findings": []
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "market": "US",
+  "scope": "clothing",
+  "window": {
+    "start": "2026-08-30T09:05:42Z",
+    "end": "2026-09-06T09:05:42Z"
+  },
+  "configuration_basis": "project_governance/project_state/docs/TASK_STATE.md; preserved historical window",
+  "limits": {
+    "max_reviews": 1000,
+    "max_queries": 1,
+    "products_per_query": 3
+  },
+  "limits_basis": "Technical download/search caps for this implementation validation; not business evidence thresholds",
+  "apify_existing_run_id": "BxW4clbdEnaMPvPbW",
+  "local_review_file": "data_acquisition/shop_reviews/records/user_run_20260906_144758/raw_reviews.json",
+  "1688_cli": "product_sourcing/1688_skill/vendor/1688-product-find/cli.py",
+  "sample_kind": "synthetic_example"
+}

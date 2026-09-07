@@ -1,0 +1,17 @@
+{
+  "checked_at_utc": "2026-09-06T09:48:19.524614+00:00",
+  "scope": "File and record consistency only; no original-page, demand-truth, supplier-stock, application, or business-performance validation.",
+  "checks": {
+    "json_files_parsed": 4,
+    "historical_files_hash_compared": 7,
+    "browser_failed_page_operations": 3,
+    "sku_records_compared": 2,
+    "search_queries": 12,
+    "new_source_or_access_records": 4,
+    "new_qualified_current_demand": 0,
+    "local_markdown_links_checked": 36,
+    "json_references_checked": 6
+  },
+  "errors": [],
+  "passed": true
+}

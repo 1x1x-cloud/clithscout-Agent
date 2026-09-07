@@ -1,0 +1,29 @@
+{
+  "checked_at": "2026-09-06T17:01:30.126369+00:00",
+  "passed": true,
+  "authorization": "User explicitly replied 允许 to sending the original main image URL to 1688 for one query with at most three products",
+  "live_run": "workflow_execution/run_history/records/20260906T165943Z_fc9a7de8",
+  "offline_replay_run": "workflow_execution/run_history/records/20260906T170019Z_ca60259b",
+  "checks": {
+    "one_live_search": true,
+    "requested_limit_three": true,
+    "success_with_zero_results": true,
+    "source_image_matches_plan": true,
+    "replay_payload_unchanged": true,
+    "original_query_time_preserved": true,
+    "replay_is_offline_mode": true,
+    "raw_reviews_preserved": true,
+    "no_procurement_candidate": true,
+    "not_inferred_absent_supply": true,
+    "no_new_actor_runs": true,
+    "validation_passed": true,
+    "artifact_hashes_intact": true
+  },
+  "actual_live_search_invocations": 1,
+  "returned_products": 0,
+  "limits": [
+    "Zero returned matches do not establish absent market supply",
+    "No candidate SKU or physical size/material/supply verification",
+    "Remote image pixels not archived"
+  ]
+}

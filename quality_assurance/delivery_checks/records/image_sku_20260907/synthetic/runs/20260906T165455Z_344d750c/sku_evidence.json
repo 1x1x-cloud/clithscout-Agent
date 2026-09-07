@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "sku_records": [
+    {
+      "platform": "tiktok",
+      "product_id": "synthetic-product",
+      "sku_id": "synthetic-sku",
+      "measurements": [
+        {
+          "name": "inseam",
+          "value": 85,
+          "unit": "cm",
+          "basis": "garment_length"
+        }
+      ],
+      "materials": {
+        "cotton": 100
+      },
+      "composition_complete": true,
+      "source_ref": "https://example.invalid/specification",
+      "checked_at": "2026-09-06T09:00:00Z"
+    },
+    {
+      "platform": "1688",
+      "product_id": "candidate",
+      "sku_id": "candidate-sku",
+      "measurements": [
+        {
+          "name": "inseam",
+          "value": 30,
+          "unit": "inch",
+          "basis": "garment_length"
+        }
+      ],
+      "materials": {
+        "cotton": 95,
+        "elastane": 5
+      },
+      "composition_complete": true,
+      "source_ref": "https://example.invalid/specification",
+      "checked_at": "2026-09-06T09:00:00Z"
+    }
+  ],
+  "review_targets": [
+    {
+      "review_id": "synthetic-new-id",
+      "source_product_id": "synthetic-product",
+      "source_sku_id": "synthetic-sku",
+      "issue": "too_long",
+      "measurements": [
+        {
+          "name": "inseam",
+          "min": 75,
+          "max": 77,
+          "unit": "cm",
+          "basis": "garment_length"
+        }
+      ],
+      "materials": {
+        "cotton": 90
+      },
+      "source_ref": "https://example.invalid/specification",
+      "checked_at": "2026-09-06T09:00:00Z"
+    }
+  ]
+}

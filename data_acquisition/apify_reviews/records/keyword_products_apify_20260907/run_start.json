@@ -1,0 +1,50 @@
+{
+  "id": "NjEXpgqOIip3PeBcU",
+  "actId": "zk1NwTZ5eTPYhRcvF",
+  "status": "READY",
+  "startedAt": "2026-09-07T05:12:42.205Z",
+  "finishedAt": null,
+  "defaultDatasetId": "ApkFAtrsA4zvV57Wq",
+  "defaultKeyValueStoreId": "MR7IwpTO0nx3ujuOu",
+  "buildId": "WYpz9tfujbBp1yK0S",
+  "buildNumber": "0.0.8",
+  "options": {
+    "build": "0.0.8",
+    "timeoutSecs": 600,
+    "memoryMbytes": 512,
+    "maxTotalChargeUsd": 2,
+    "restartOnError": false,
+    "isMaxTotalChargeUsdSetByUser": true,
+    "diskMbytes": 1024
+  },
+  "usageTotalUsd": 0,
+  "chargedEventCounts": {
+    "apify-actor-start": 1,
+    "review-scraped": 0
+  },
+  "pricingInfo": {
+    "minimalMaxTotalChargeUsd": null,
+    "pricingModel": "PAY_PER_EVENT",
+    "isPriceChangeNotificationSuppressed": false,
+    "startedAt": "2026-05-26T12:05:29.555Z",
+    "createdAt": "2026-05-26T12:05:30.469Z",
+    "apifyMarginPercentage": 0.2,
+    "pricingPerEvent": {
+      "actorChargeEvents": {
+        "apify-actor-start": {
+          "eventTitle": "Actor Start",
+          "eventDescription": "Charged when the Actor starts running. Number of events charged depends on Actor memory (one event per GB, minimum one event).",
+          "isOneTimeEvent": true,
+          "eventPriceUsd": 5e-05
+        },
+        "review-scraped": {
+          "eventTitle": "Reviews Scraped",
+          "eventDescription": "Charged once per review delivered to your dataset.",
+          "isOneTimeEvent": false,
+          "eventPriceUsd": 0.002,
+          "isPrimaryEvent": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "checked_at": "2026-09-07T03:11:44.085915+00:00",
+  "passed": true,
+  "checks": {
+    "protected_48_files_unchanged": true,
+    "baseline_backup_intact": true,
+    "regression_tests": true,
+    "real_sample_one_lead_no_card_no_query": true,
+    "real_sample_unknown_ratio_and_buyers": true,
+    "real_raw_preserved": true,
+    "real_original_text_and_sku_retained": true,
+    "20260906T154237Z_38cd565c_old_hashes_intact": true,
+    "20260906T154237Z_38cd565c_analysis_and_plan_preserved": true,
+    "20260906T154237Z_38cd565c_search_sources_and_times_preserved": true,
+    "20260906T154237Z_38cd565c_historical_banner": true,
+    "20260906T165943Z_fc9a7de8_old_hashes_intact": true,
+    "20260906T165943Z_fc9a7de8_analysis_and_plan_preserved": true,
+    "20260906T165943Z_fc9a7de8_search_sources_and_times_preserved": true,
+    "20260906T165943Z_fc9a7de8_historical_banner": true,
+    "qualified_cli_import": true,
+    "synthetic_is_labelled": true,
+    "changed_doc_links_resolve": true
+  },
+  "functional_tests": 75,
+  "test_failures": 0,
+  "test_errors": 0,
+  "fresh_real_run": "workflow_execution\\run_history\\records\\20260907T031143Z_7d8ce615",
+  "historical_replays": [
+    "workflow_execution\\run_history\\records\\20260907T031143Z_4217b179",
+    "workflow_execution\\run_history\\records\\20260907T031143Z_4c25db8b"
+  ],
+  "synthetic_cli_run": "quality_assurance\\delivery_checks\\records\\demand_gate_20260907\\synthetic\\runs\\20260907T031143Z_5b86949a",
+  "missing_links": [],
+  "limits": "Offline code and snapshot verification only. Imported coverage and buyer identities require authentic source evidence; no new Actor, live 1688, supplier messages or purchasing."
+}

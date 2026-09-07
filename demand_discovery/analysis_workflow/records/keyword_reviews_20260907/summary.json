@@ -1,0 +1,124 @@
+{
+  "checked_at": "2026-09-07T05:41:55.553675+00:00",
+  "scope": "当前固定窗口语义标注；全366条范围及相同正文核对",
+  "window": {
+    "start": "2026-08-30T09:05:42Z",
+    "end": "2026-09-06T09:05:42Z"
+  },
+  "policy_ref": "project_governance/business_rules/docs/2026-09-06-clothing-demand-agent-v1-design.md#s1",
+  "policy_snapshot": {
+    "version": "s1-prevalence-v1",
+    "min_effective_reviews": 5,
+    "recommended_effective_reviews": 10,
+    "min_independent_buyers": 3,
+    "min_distinct_support_texts": 3,
+    "min_problem_ratio": 0.2
+  },
+  "products": [
+    {
+      "product_id": "1732510609891758832",
+      "name": "文胸",
+      "raw_records": 112,
+      "window_records": 36,
+      "window_nonempty": 27,
+      "dispositions": {
+        "excluded_empty": 9,
+        "text_valid": 25,
+        "excluded_non_substantive": 1,
+        "excluded_duplicate_body": 1
+      },
+      "text_valid_review_ids": [
+        "7682092889813911309",
+        "7682027470236993294",
+        "7682012126864623374",
+        "7681870717184395022",
+        "7681851535449442062",
+        "7681730615874094862",
+        "7681717226366125837",
+        "7681695140016310030",
+        "7681532661290305293",
+        "7681458188278548238",
+        "7681280219873003278",
+        "7681056933931403022",
+        "7680856331680319246",
+        "7680761981967664910",
+        "7680761146839746317",
+        "7680745250311243534",
+        "7680670162944722701",
+        "7680595825213540109",
+        "7680569329080813326",
+        "7680449818321536781",
+        "7680396546785822478",
+        "7680355433628469006",
+        "7680044702342645518",
+        "7680015838256482062",
+        "7679956738765981453"
+      ],
+      "unresolved_review_ids": [],
+      "effective_sample_count": null,
+      "independent_buyers": null,
+      "complete_business_sample": false,
+      "coverage_basis": "全星级、全SKU请求未过滤，下载数与Actor公开流报告一致且未触发上限；没有额外证据将公开流数量等同完整业务样本。",
+      "problem_ratio": null,
+      "demand_cards": 0
+    },
+    {
+      "product_id": "1732357239054307594",
+      "name": "连衣裙",
+      "raw_records": 116,
+      "window_records": 9,
+      "window_nonempty": 4,
+      "dispositions": {
+        "excluded_empty": 5,
+        "text_valid": 3,
+        "excluded_duplicate_body": 1
+      },
+      "text_valid_review_ids": [
+        "7681689016258430734",
+        "7680736993038436109",
+        "7679851210942007054"
+      ],
+      "unresolved_review_ids": [],
+      "effective_sample_count": null,
+      "independent_buyers": null,
+      "complete_business_sample": false,
+      "coverage_basis": "全星级、全SKU请求未过滤，下载数与Actor公开流报告一致且未触发上限；没有额外证据将公开流数量等同完整业务样本。",
+      "problem_ratio": null,
+      "demand_cards": 0
+    },
+    {
+      "product_id": "1731650530027868452",
+      "name": "牛仔裤",
+      "raw_records": 138,
+      "window_records": 18,
+      "window_nonempty": 5,
+      "dispositions": {
+        "excluded_non_substantive": 2,
+        "excluded_empty": 13,
+        "text_valid": 2,
+        "unresolved": 1
+      },
+      "text_valid_review_ids": [
+        "7681812881478731534",
+        "7681046428524955406"
+      ],
+      "unresolved_review_ids": [
+        "7681046526887134989"
+      ],
+      "effective_sample_count": null,
+      "independent_buyers": null,
+      "complete_business_sample": false,
+      "coverage_basis": "全星级、全SKU请求未过滤，下载数与Actor公开流报告一致且未触发上限；没有额外证据将公开流数量等同完整业务样本。",
+      "problem_ratio": null,
+      "demand_cards": 0
+    }
+  ],
+  "signals": 15,
+  "explicit_problem_groups": 12,
+  "tentative_groups": 3,
+  "demand_cards": 0,
+  "new_actor_runs": 0,
+  "sourcing_queries": 0,
+  "network_requests": 0,
+  "production_code_changed": false
+}

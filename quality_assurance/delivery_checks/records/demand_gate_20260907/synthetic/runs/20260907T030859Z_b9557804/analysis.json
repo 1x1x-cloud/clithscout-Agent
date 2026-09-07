@@ -1,0 +1,412 @@
+{
+  "evidence": [
+    {
+      "evidence_id": "EV-dd1331737999d045",
+      "raw_row": 1,
+      "review_id": "r0",
+      "product_id": "synthetic-product",
+      "sku_id": "sku0",
+      "original_text": "Top is too big",
+      "source_url": "https://example.invalid/pants",
+      "product_title_as_reported": "Knit top",
+      "product_main_image_as_reported": "https://example.invalid/synthetic-main.jpg",
+      "source_shop_id_as_reported": null,
+      "published_at": "2026-09-01T12:00:00Z",
+      "read_at_as_reported": null,
+      "market_as_reported": "US",
+      "market_basis": "Actor country field; buyer residence not independently verified",
+      "verified_purchase_as_reported": null,
+      "rating": 1,
+      "in_window": true,
+      "category": "top",
+      "kind": "specific_complaint",
+      "extractions": [
+        {
+          "issue": "too_big",
+          "quote": "too big",
+          "start": 7,
+          "end": 14
+        }
+      ],
+      "flags": [],
+      "duplicate_of": null,
+      "id_conflict": false,
+      "text_signal_group": "1fcd4fd372261dfd",
+      "independent_buyer_verified": false
+    },
+    {
+      "evidence_id": "EV-bf0911e8ed2fb52e",
+      "raw_row": 2,
+      "review_id": "r1",
+      "product_id": "synthetic-product",
+      "sku_id": "sku1",
+      "original_text": "这件上衣偏大",
+      "source_url": "https://example.invalid/pants",
+      "product_title_as_reported": "Knit top",
+      "product_main_image_as_reported": "https://example.invalid/synthetic-main.jpg",
+      "source_shop_id_as_reported": null,
+      "published_at": "2026-09-01T12:00:00Z",
+      "read_at_as_reported": null,
+      "market_as_reported": "US",
+      "market_basis": "Actor country field; buyer residence not independently verified",
+      "verified_purchase_as_reported": null,
+      "rating": 1,
+      "in_window": true,
+      "category": "top",
+      "kind": "specific_complaint",
+      "extractions": [
+        {
+          "issue": "too_big",
+          "quote": "偏大",
+          "start": 4,
+          "end": 6
+        }
+      ],
+      "flags": [],
+      "duplicate_of": null,
+      "id_conflict": false,
+      "text_signal_group": "6e4259bc5ea37d54",
+      "independent_buyer_verified": false
+    },
+    {
+      "evidence_id": "EV-f9a65b6151b5ded0",
+      "raw_row": 3,
+      "review_id": "r2",
+      "product_id": "synthetic-product",
+      "sku_id": "sku2",
+      "original_text": "This top runs large",
+      "source_url": "https://example.invalid/pants",
+      "product_title_as_reported": "Knit top",
+      "product_main_image_as_reported": "https://example.invalid/synthetic-main.jpg",
+      "source_shop_id_as_reported": null,
+      "published_at": "2026-09-01T12:00:00Z",
+      "read_at_as_reported": null,
+      "market_as_reported": "US",
+      "market_basis": "Actor country field; buyer residence not independently verified",
+      "verified_purchase_as_reported": null,
+      "rating": 1,
+      "in_window": true,
+      "category": "top",
+      "kind": "specific_complaint",
+      "extractions": [
+        {
+          "issue": "too_big",
+          "quote": "runs large",
+          "start": 9,
+          "end": 19
+        }
+      ],
+      "flags": [],
+      "duplicate_of": null,
+      "id_conflict": false,
+      "text_signal_group": "9eca3d6d8591bca5",
+      "independent_buyer_verified": false
+    },
+    {
+      "evidence_id": "EV-da488ba8647da6ab",
+      "raw_row": 4,
+      "review_id": "r3",
+      "product_id": "synthetic-product",
+      "sku_id": "synthetic-sku",
+      "original_text": "Fits perfectly",
+      "source_url": "https://example.invalid/pants",
+      "product_title_as_reported": "Knit top",
+      "product_main_image_as_reported": "https://example.invalid/synthetic-main.jpg",
+      "source_shop_id_as_reported": null,
+      "published_at": "2026-09-01T12:00:00Z",
+      "read_at_as_reported": null,
+      "market_as_reported": "US",
+      "market_basis": "Actor country field; buyer residence not independently verified",
+      "verified_purchase_as_reported": null,
+      "rating": 5,
+      "in_window": true,
+      "category": "top",
+      "kind": "positive_fit",
+      "extractions": [],
+      "flags": [],
+      "duplicate_of": null,
+      "id_conflict": false,
+      "text_signal_group": "ed12ed099420438d",
+      "independent_buyer_verified": false
+    },
+    {
+      "evidence_id": "EV-31530f8b62ec2c3f",
+      "raw_row": 5,
+      "review_id": "r4",
+      "product_id": "synthetic-product",
+      "sku_id": "synthetic-sku",
+      "original_text": "Detailed positive fit feedback 4",
+      "source_url": "https://example.invalid/pants",
+      "product_title_as_reported": "Knit top",
+      "product_main_image_as_reported": "https://example.invalid/synthetic-main.jpg",
+      "source_shop_id_as_reported": null,
+      "published_at": "2026-09-01T12:00:00Z",
+      "read_at_as_reported": null,
+      "market_as_reported": "US",
+      "market_basis": "Actor country field; buyer residence not independently verified",
+      "verified_purchase_as_reported": null,
+      "rating": 5,
+      "in_window": true,
+      "category": "top",
+      "kind": "manual_review",
+      "extractions": [],
+      "flags": [
+        "uncovered_expression"
+      ],
+      "duplicate_of": null,
+      "id_conflict": false,
+      "text_signal_group": "d8c6511f83d58959",
+      "independent_buyer_verified": false
+    }
+  ],
+  "demand_cards": [
+    {
+      "demand_id": "S1-414e298ca798ef31",
+      "method": "S1",
+      "status": "可进行商品匹配",
+      "scope": "current",
+      "product_id": "synthetic-product",
+      "issue": "too_big",
+      "category": "top",
+      "source_titles_as_reported": [
+        "Knit top"
+      ],
+      "statement": "评价者认为衣物偏大",
+      "population": null,
+      "scenario": null,
+      "must_conditions": [
+        {
+          "condition": "评价者认为衣物偏大，需明确可检验目标",
+          "evidence_ids": [
+            "EV-dd1331737999d045",
+            "EV-bf0911e8ed2fb52e",
+            "EV-f9a65b6151b5ded0"
+          ]
+        }
+      ],
+      "preferences": [],
+      "target_measurements": null,
+      "unknown": [
+        "偏大部位、所购尺码、目标尺寸和原商品尺寸",
+        "采购数量、目标价格、交付要求"
+      ],
+      "hypotheses": [],
+      "support_evidence_ids": [
+        "EV-dd1331737999d045",
+        "EV-bf0911e8ed2fb52e",
+        "EV-f9a65b6151b5ded0"
+      ],
+      "counter_evidence_ids": [
+        "EV-da488ba8647da6ab"
+      ],
+      "counter_limit": "合身正面评价仅为同商品对照；买家和尺码可能不同",
+      "distinct_text_signals": 3,
+      "window": {
+        "start": "2026-08-30T09:05:42Z",
+        "end": "2026-09-06T09:05:42Z"
+      },
+      "market_basis": "Actor country field; buyer residence not independently verified",
+      "manual_review": {
+        "status": "pending",
+        "version": 1
+      },
+      "extraction_method": "finite_rules_v1",
+      "prevalence": {
+        "policy": {
+          "version": "s1-prevalence-v1",
+          "min_effective_reviews": 5,
+          "recommended_effective_reviews": 10,
+          "min_independent_buyers": 3,
+          "min_distinct_support_texts": 3,
+          "min_problem_ratio": 0.2
+        },
+        "coverage_confirmed": true,
+        "sample_source": {
+          "product_id": "synthetic-product",
+          "market": "US",
+          "window": {
+            "start": "2026-08-30T09:05:42Z",
+            "end": "2026-09-06T09:05:42Z"
+          },
+          "rating_scope": "all",
+          "complete": true,
+          "review_ids": [
+            "r0",
+            "r1",
+            "r2",
+            "r3",
+            "r4"
+          ],
+          "source_ref": "https://example.invalid/complete-synthetic-export",
+          "checked_at": "2026-09-07T00:00:00Z"
+        },
+        "support_record_count": 3,
+        "effective_support_count": 3,
+        "effective_sample_count": 5,
+        "distinct_support_text_count": 3,
+        "independent_buyer_count": 3,
+        "problem_ratio": 0.6,
+        "gates": {
+          "sample_size": true,
+          "independent_buyers": true,
+          "problem_ratio": true
+        },
+        "approved": true,
+        "effective_evidence_ids": [
+          "EV-dd1331737999d045",
+          "EV-bf0911e8ed2fb52e",
+          "EV-f9a65b6151b5ded0",
+          "EV-da488ba8647da6ab",
+          "EV-31530f8b62ec2c3f"
+        ],
+        "effective_support_evidence_ids": [
+          "EV-dd1331737999d045",
+          "EV-bf0911e8ed2fb52e",
+          "EV-f9a65b6151b5ded0"
+        ],
+        "unresolved_evidence_ids": [],
+        "exclusions": [],
+        "warnings": [
+          "sample_below_recommended_10"
+        ],
+        "limitation": "Imported provenance and identity assertions are not independently verified by the program."
+      },
+      "sourcing_eligible": true,
+      "signal_id": "PS-414e298ca798ef31"
+    }
+  ],
+  "problem_signals": [
+    {
+      "method": "S1",
+      "status": "已达到需求卡门槛",
+      "scope": "current",
+      "product_id": "synthetic-product",
+      "issue": "too_big",
+      "category": "top",
+      "source_titles_as_reported": [
+        "Knit top"
+      ],
+      "statement": "评价者认为衣物偏大",
+      "population": null,
+      "scenario": null,
+      "must_conditions": [
+        {
+          "condition": "评价者认为衣物偏大，需明确可检验目标",
+          "evidence_ids": [
+            "EV-dd1331737999d045",
+            "EV-bf0911e8ed2fb52e",
+            "EV-f9a65b6151b5ded0"
+          ]
+        }
+      ],
+      "preferences": [],
+      "target_measurements": null,
+      "unknown": [
+        "偏大部位、所购尺码、目标尺寸和原商品尺寸",
+        "采购数量、目标价格、交付要求",
+        "其他独立使用者的证据"
+      ],
+      "hypotheses": [],
+      "support_evidence_ids": [
+        "EV-dd1331737999d045",
+        "EV-bf0911e8ed2fb52e",
+        "EV-f9a65b6151b5ded0"
+      ],
+      "counter_evidence_ids": [
+        "EV-da488ba8647da6ab"
+      ],
+      "counter_limit": "合身正面评价仅为同商品对照；买家和尺码可能不同",
+      "distinct_text_signals": 3,
+      "window": {
+        "start": "2026-08-30T09:05:42Z",
+        "end": "2026-09-06T09:05:42Z"
+      },
+      "market_basis": "Actor country field; buyer residence not independently verified",
+      "manual_review": {
+        "status": "pending",
+        "version": 1
+      },
+      "extraction_method": "finite_rules_v1",
+      "signal_id": "PS-414e298ca798ef31",
+      "prevalence": {
+        "policy": {
+          "version": "s1-prevalence-v1",
+          "min_effective_reviews": 5,
+          "recommended_effective_reviews": 10,
+          "min_independent_buyers": 3,
+          "min_distinct_support_texts": 3,
+          "min_problem_ratio": 0.2
+        },
+        "coverage_confirmed": true,
+        "sample_source": {
+          "product_id": "synthetic-product",
+          "market": "US",
+          "window": {
+            "start": "2026-08-30T09:05:42Z",
+            "end": "2026-09-06T09:05:42Z"
+          },
+          "rating_scope": "all",
+          "complete": true,
+          "review_ids": [
+            "r0",
+            "r1",
+            "r2",
+            "r3",
+            "r4"
+          ],
+          "source_ref": "https://example.invalid/complete-synthetic-export",
+          "checked_at": "2026-09-07T00:00:00Z"
+        },
+        "support_record_count": 3,
+        "effective_support_count": 3,
+        "effective_sample_count": 5,
+        "distinct_support_text_count": 3,
+        "independent_buyer_count": 3,
+        "problem_ratio": 0.6,
+        "gates": {
+          "sample_size": true,
+          "independent_buyers": true,
+          "problem_ratio": true
+        },
+        "approved": true,
+        "effective_evidence_ids": [
+          "EV-dd1331737999d045",
+          "EV-bf0911e8ed2fb52e",
+          "EV-f9a65b6151b5ded0",
+          "EV-da488ba8647da6ab",
+          "EV-31530f8b62ec2c3f"
+        ],
+        "effective_support_evidence_ids": [
+          "EV-dd1331737999d045",
+          "EV-bf0911e8ed2fb52e",
+          "EV-f9a65b6151b5ded0"
+        ],
+        "unresolved_evidence_ids": [],
+        "exclusions": [],
+        "warnings": [
+          "sample_below_recommended_10"
+        ],
+        "limitation": "Imported provenance and identity assertions are not independently verified by the program."
+      },
+      "sourcing_eligible": true
+    }
+  ],
+  "summary": {
+    "raw_rows": 5,
+    "in_window_rows": 5,
+    "outside_window_rows": 0,
+    "unknown_time_rows": 0,
+    "duplicate_rows": 0,
+    "id_conflict_rows": 0,
+    "kinds": {
+      "specific_complaint": 3,
+      "positive_fit": 1,
+      "manual_review": 1
+    },
+    "independent_buyers": null,
+    "negative_review_rate": null,
+    "current_cards": 1,
+    "current_problem_signals": 1,
+    "unhandled_rows": 1
+  }
+}

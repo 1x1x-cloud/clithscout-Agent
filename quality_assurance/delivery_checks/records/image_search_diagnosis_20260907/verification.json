@@ -1,0 +1,10 @@
+{
+  "checks": {
+    "links_exist": true,
+    "offline_checks_pass": true,
+    "source_hash_matches": true,
+    "jpeg_hash_matches": true,
+    "no_new_search": true
+  },
+  "missing_links": []
+}

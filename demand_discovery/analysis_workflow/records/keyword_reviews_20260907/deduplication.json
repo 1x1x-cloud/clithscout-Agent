@@ -1,0 +1,132 @@
+{
+  "normalization": "casefold + collapse whitespace; per product; exact normalized match",
+  "all_corpus_body_groups": [
+    {
+      "product_id": "1732510609891758832",
+      "normalized_body": "feels comfortable and i would like to see more.color options if possible",
+      "review_ids": [
+        "7679956738765981453",
+        "7679956704881739534"
+      ],
+      "window_review_ids": [
+        "7679956738765981453",
+        "7679956704881739534"
+      ],
+      "window_kept_id": "7679956738765981453",
+      "rule": "同商品、casefold及空白规范化后的同正文；仅窗口内保留首条，窗口外不抢占窗口内代表；不推断买家相同。"
+    },
+    {
+      "product_id": "1732510609891758832",
+      "normalized_body": "the fabric is extra soft and no underwire . able to get maximum cleavage",
+      "review_ids": [
+        "7677575120189277965",
+        "7677575095996647182"
+      ],
+      "window_review_ids": [],
+      "window_kept_id": null,
+      "rule": "同商品、casefold及空白规范化后的同正文；仅窗口内保留首条，窗口外不抢占窗口内代表；不推断买家相同。"
+    },
+    {
+      "product_id": "1732510609891758832",
+      "normalized_body": "the underwear i bought this time is really to my liking. the price is good, it's comfortable to wear, and it looks nice on my chest shape. the quality is excellent.",
+      "review_ids": [
+        "7671904907627480846",
+        "7671904915836962574"
+      ],
+      "window_review_ids": [],
+      "window_kept_id": null,
+      "rule": "同商品、casefold及空白规范化后的同正文；仅窗口内保留首条，窗口外不抢占窗口内代表；不推断买家相同。"
+    },
+    {
+      "product_id": "1732357239054307594",
+      "normalized_body": "true to size and fits well",
+      "review_ids": [
+        "7681689016258430734",
+        "7681688957369681678"
+      ],
+      "window_review_ids": [
+        "7681689016258430734",
+        "7681688957369681678"
+      ],
+      "window_kept_id": "7681689016258430734",
+      "rule": "同商品、casefold及空白规范化后的同正文；仅窗口内保留首条，窗口外不抢占窗口内代表；不推断买家相同。"
+    },
+    {
+      "product_id": "1732357239054307594",
+      "normalized_body": "crudely made and very thin/see through. you can wear anything underneath without it showing through. its not a soft fabric like shown in photos.",
+      "review_ids": [
+        "7676857502817879822",
+        "7676857444777199374"
+      ],
+      "window_review_ids": [],
+      "window_kept_id": null,
+      "rule": "同商品、casefold及空白规范化后的同正文；仅窗口内保留首条，窗口外不抢占窗口内代表；不推断买家相同。"
+    }
+  ],
+  "duplicate_review_ids": [],
+  "buyer_deduplication": "unknown: no stable ID; names, avatars, timestamps, review IDs and purchase markers are not buyer IDs",
+  "thread_deduplication": "unknown: no stable thread IDs",
+  "reused_account_screening": "not established; not inferred from style or masked name",
+  "window_duplicate_exclusions": [
+    {
+      "product_id": "1732510609891758832",
+      "review_id": "7679956704881739534",
+      "sku_id": "1732510617632674544",
+      "timestamp": "2026-08-30T22:34:32.006Z",
+      "rating": 4,
+      "original_text": "Feels comfortable and I would like to see more.color options if possible",
+      "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/40",
+      "product_url": "https://www.tiktok.com/shop/pdp/_/1732510609891758832",
+      "scraped_at": "2026-09-07T05:13:00.138Z",
+      "market_as_reported": "US",
+      "market_basis": "Actor US输入与authorCountry；未独立核实买家所在地。",
+      "in_window": true,
+      "window_ordinal": 36,
+      "semantic_review_scope": "current_window",
+      "substantive": true,
+      "disposition": "excluded_duplicate_body",
+      "reason": "与第35条同商品同正文，跨SKU重复；保留原记录但不重复计数。",
+      "uncertainty": "11.514秒间隔与正文相同不证明同一买家；只按正文去重。",
+      "duplicate_of": "7679956738765981453",
+      "buyer_id": null,
+      "buyer_identity_verified": false,
+      "thread_id": null,
+      "thread_identity_verified": false,
+      "reused_account_status": "unknown",
+      "repost_status": "duplicate_body",
+      "author_verified_as_reported": true,
+      "variant_from_prior_web": null,
+      "checked_at": "2026-09-07T05:41:55.553675+00:00"
+    },
+    {
+      "product_id": "1732357239054307594",
+      "review_id": "7681688957369681678",
+      "sku_id": "1732357239054373130",
+      "timestamp": "2026-09-04T14:36:36.628Z",
+      "rating": 5,
+      "original_text": "True to size and fits well",
+      "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/118",
+      "product_url": "https://www.tiktok.com/shop/pdp/_/1732357239054307594",
+      "scraped_at": "2026-09-07T05:13:03.387Z",
+      "market_as_reported": "US",
+      "market_basis": "Actor US输入与authorCountry；未独立核实买家所在地。",
+      "in_window": true,
+      "window_ordinal": 40,
+      "semantic_review_scope": "current_window",
+      "substantive": true,
+      "disposition": "excluded_duplicate_body",
+      "reason": "与第39条同商品同正文，跨SKU重复；不重复计数。",
+      "uncertainty": "11.922秒间隔不构成买家身份依据。",
+      "duplicate_of": "7681689016258430734",
+      "buyer_id": null,
+      "buyer_identity_verified": false,
+      "thread_id": null,
+      "thread_identity_verified": false,
+      "reused_account_status": "unknown",
+      "repost_status": "duplicate_body",
+      "author_verified_as_reported": true,
+      "variant_from_prior_web": null,
+      "checked_at": "2026-09-07T05:41:55.553675+00:00"
+    }
+  ]
+}

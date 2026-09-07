@@ -1,0 +1,27 @@
+{
+  "checked_at": "2026-09-06T15:49:21.473079+00:00",
+  "passed": true,
+  "functional_tests": 22,
+  "test_failures": 0,
+  "test_errors": 0,
+  "live_run": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154237Z_38cd565c",
+  "replay_run": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154800Z_7affd736",
+  "reviews_all_fields_match": true,
+  "review_rows": 16,
+  "live_get_requests": 4,
+  "live_1688_queries": 1,
+  "returned_products": 3,
+  "qualified_candidates": 0,
+  "new_actor_runs_started": 0,
+  "limits": "No source-page, independent semantic accuracy, stock, fulfilment or conversion validation. Final changes tested offline against the live snapshot.",
+  "source_code_sha256": {
+    "analysis.py": "0d5506d480568ef8527e31e79f5b31174aa286fc510cf65e9e74ad9b181883de",
+    "matching.py": "8e8411b54140ad8aa7883df1701f40bde624247e486b7418335a4c09e0a11464",
+    "pipeline.py": "89e53e75fa66b6a26885f4564fc1868d553ad04e7858ca2d2bac84e21af2ab24",
+    "providers.py": "e96e1a1ad01627a5eaa650427a58f339ec439ce114f8eafa90f403d2c70fcd68",
+    "verify_delivery.py": "5f47244ded6b1270762cdf5b5ed39dd6753079d258146e7b4b4ab9d3fc317c7e",
+    "__init__.py": "3e5b4df806952a97ab10c1dc14557fb458d05c5d6dbbea4240965445c7ce10d6",
+    "__main__.py": "ddec5bd487a20acea413838d71048d1a7e8544085d1eab5fe4dda6c85100250e"
+  },
+  "errors": []
+}

@@ -1,0 +1,1358 @@
+{
+  "source_file": "brand_product_page.html",
+  "script_index": 242,
+  "script_attributes": "",
+  "assignment": "const product = ",
+  "data": {
+    "id": 8216081104953,
+    "title": "Striped Halter Sleeveless Tank Causal Golden Button Decor Breathable Knit Top",
+    "handle": "striped-halter-sleeveless-tank-causal-golden-button-decor-breathable-knit-top",
+    "description": "<p><b data-path-to-node=\"6\" data-index-in-node=\"0\"><img src=\"https://cdn.shopify.com/s/files/1/0748/9457/3625/files/ODS5841.jpg?v=1780996154\" alt=\"\">FABRIC - Breathable Viscose Knit:</b> <span>Crafted from 100% viscose, this premium knit fabric offers a silky-soft, lightweight handfeel with excellent breathability, delivering a comfortable, skin-friendly fit that gently skims the body without restriction, ensuring a cool and refined wearing experience throughout warm summer conditions.</span></p>\n<p><b data-path-to-node=\"7\" data-index-in-node=\"0\">SILHOUETTE - Elegant Slim-Fit Frame:</b> <span>Designed with a refined slim-fit silhouette and a classic halter neckline, this top softly contours the body while maintaining ease of wear, enhancing the shoulder line and elongating the visual proportions for a balanced, figure-flattering effect that offers a streamlined and structured appearance. </span></p>\n<p><b data-path-to-node=\"8\" data-index-in-node=\"0\">DESIGN - Gold Button &amp; Striped Accent:</b> <span>Elevated by polished gold-tone button detailing and a timeless stripe pattern, this top reinterprets a classic essential with a refined aesthetic. The sleeveless cut and fine ribbed texture contribute to a structured yet understated finish, while the craftsmanship and overall quality exceed standard expectations.</span></p>\n<p><b data-path-to-node=\"9\" data-index-in-node=\"0\">STYLING - Polished Coastal Aesthetic:</b> <span>This striped camisole pairs seamlessly with tailored trousers, linen separates, denim pieces, or skirts. It may be layered under blazers for a refined office ensemble or styled independently for relaxed seasonal occasions, offering versatile styling adaptability across multiple settings.</span></p>\n<p><b data-path-to-node=\"10\" data-index-in-node=\"0\">OCCASIONS - Seamless Multi-Scene Utility:</b> <span>Suitable for daily wear, summer wardrobes, vacation styling, brunch occasions, café settings, office layering, shopping activities, and social gatherings, providing consistent adaptability across both casual and semi-formal scenarios.</span></p>",
+    "published_at": "2026-03-24T23:40:42-07:00",
+    "created_at": "2026-03-24T19:27:25-07:00",
+    "vendor": "Chicme",
+    "type": "Knit Top",
+    "tags": [
+      "100%viscose",
+      "beach",
+      "button",
+      "casual",
+      "chic",
+      "chicmelive",
+      "daily",
+      "halter",
+      "knit top",
+      "live",
+      "regular",
+      "sleeveless",
+      "slight stretch",
+      "spring",
+      "striped",
+      "summer",
+      "tanks & crop tops",
+      "tops",
+      "vacation"
+    ],
+    "price": 1999,
+    "price_min": 1999,
+    "price_max": 1999,
+    "available": true,
+    "price_varies": false,
+    "compare_at_price": 2399,
+    "compare_at_price_min": 2399,
+    "compare_at_price_max": 2399,
+    "compare_at_price_varies": false,
+    "variants": [
+      {
+        "id": 45633561919545,
+        "title": "khaki / S",
+        "option1": "khaki",
+        "option2": "S",
+        "option3": null,
+        "sku": "ODS5841-kh-S",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 39400633434169,
+          "product_id": 8216081104953,
+          "position": 1,
+          "created_at": "2026-05-07T00:46:23-07:00",
+          "updated_at": "2026-05-07T00:46:25-07:00",
+          "alt": null,
+          "width": 800,
+          "height": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/kh_2_f0e9981c-6893-43b5-9b4d-b11181080671.jpg?v=1778139985",
+          "variant_ids": [
+            45633561919545,
+            45633561952313,
+            45633561985081,
+            45633562017849,
+            45907083395129
+          ]
+        },
+        "available": true,
+        "name": "Striped Halter Sleeveless Tank Causal Golden Button Decor Breathable Knit Top - khaki / S",
+        "public_title": "khaki / S",
+        "options": [
+          "khaki",
+          "S"
+        ],
+        "price": 1999,
+        "weight": 205,
+        "compare_at_price": 2399,
+        "inventory_management": null,
+        "barcode": null,
+        "featured_media": {
+          "alt": null,
+          "id": 30748972515385,
+          "position": 1,
+          "preview_image": {
+            "aspect_ratio": 0.8,
+            "height": 1000,
+            "width": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/kh_2_f0e9981c-6893-43b5-9b4d-b11181080671.jpg?v=1778139985"
+          }
+        },
+        "requires_selling_plan": false,
+        "selling_plan_allocations": [],
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        }
+      },
+      {
+        "id": 45633561952313,
+        "title": "khaki / M",
+        "option1": "khaki",
+        "option2": "M",
+        "option3": null,
+        "sku": "ODS5841-kh-M",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 39400633434169,
+          "product_id": 8216081104953,
+          "position": 1,
+          "created_at": "2026-05-07T00:46:23-07:00",
+          "updated_at": "2026-05-07T00:46:25-07:00",
+          "alt": null,
+          "width": 800,
+          "height": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/kh_2_f0e9981c-6893-43b5-9b4d-b11181080671.jpg?v=1778139985",
+          "variant_ids": [
+            45633561919545,
+            45633561952313,
+            45633561985081,
+            45633562017849,
+            45907083395129
+          ]
+        },
+        "available": true,
+        "name": "Striped Halter Sleeveless Tank Causal Golden Button Decor Breathable Knit Top - khaki / M",
+        "public_title": "khaki / M",
+        "options": [
+          "khaki",
+          "M"
+        ],
+        "price": 1999,
+        "weight": 202,
+        "compare_at_price": 2399,
+        "inventory_management": null,
+        "barcode": null,
+        "featured_media": {
+          "alt": null,
+          "id": 30748972515385,
+          "position": 1,
+          "preview_image": {
+            "aspect_ratio": 0.8,
+            "height": 1000,
+            "width": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/kh_2_f0e9981c-6893-43b5-9b4d-b11181080671.jpg?v=1778139985"
+          }
+        },
+        "requires_selling_plan": false,
+        "selling_plan_allocations": [],
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        }
+      },
+      {
+        "id": 45633561985081,
+        "title": "khaki / L",
+        "option1": "khaki",
+        "option2": "L",
+        "option3": null,
+        "sku": "ODS5841-kh-L",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 39400633434169,
+          "product_id": 8216081104953,
+          "position": 1,
+          "created_at": "2026-05-07T00:46:23-07:00",
+          "updated_at": "2026-05-07T00:46:25-07:00",
+          "alt": null,
+          "width": 800,
+          "height": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/kh_2_f0e9981c-6893-43b5-9b4d-b11181080671.jpg?v=1778139985",
+          "variant_ids": [
+            45633561919545,
+            45633561952313,
+            45633561985081,
+            45633562017849,
+            45907083395129
+          ]
+        },
+        "available": true,
+        "name": "Striped Halter Sleeveless Tank Causal Golden Button Decor Breathable Knit Top - khaki / L",
+        "public_title": "khaki / L",
+        "options": [
+          "khaki",
+          "L"
+        ],
+        "price": 1999,
+        "weight": 227,
+        "compare_at_price": 2399,
+        "inventory_management": null,
+        "barcode": null,
+        "featured_media": {
+          "alt": null,
+          "id": 30748972515385,
+          "position": 1,
+          "preview_image": {
+            "aspect_ratio": 0.8,
+            "height": 1000,
+            "width": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/kh_2_f0e9981c-6893-43b5-9b4d-b11181080671.jpg?v=1778139985"
+          }
+        },
+        "requires_selling_plan": false,
+        "selling_plan_allocations": [],
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        }
+      },
+      {
+        "id": 45633562017849,
+        "title": "khaki / XL",
+        "option1": "khaki",
+        "option2": "XL",
+        "option3": null,
+        "sku": "ODS5841-kh-XL",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 39400633434169,
+          "product_id": 8216081104953,
+          "position": 1,
+          "created_at": "2026-05-07T00:46:23-07:00",
+          "updated_at": "2026-05-07T00:46:25-07:00",
+          "alt": null,
+          "width": 800,
+          "height": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/kh_2_f0e9981c-6893-43b5-9b4d-b11181080671.jpg?v=1778139985",
+          "variant_ids": [
+            45633561919545,
+            45633561952313,
+            45633561985081,
+            45633562017849,
+            45907083395129
+          ]
+        },
+        "available": true,
+        "name": "Striped Halter Sleeveless Tank Causal Golden Button Decor Breathable Knit Top - khaki / XL",
+        "public_title": "khaki / XL",
+        "options": [
+          "khaki",
+          "XL"
+        ],
+        "price": 1999,
+        "weight": 229,
+        "compare_at_price": 2399,
+        "inventory_management": null,
+        "barcode": null,
+        "featured_media": {
+          "alt": null,
+          "id": 30748972515385,
+          "position": 1,
+          "preview_image": {
+            "aspect_ratio": 0.8,
+            "height": 1000,
+            "width": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/kh_2_f0e9981c-6893-43b5-9b4d-b11181080671.jpg?v=1778139985"
+          }
+        },
+        "requires_selling_plan": false,
+        "selling_plan_allocations": [],
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        }
+      },
+      {
+        "id": 45907083395129,
+        "title": "khaki / XXL",
+        "option1": "khaki",
+        "option2": "XXL",
+        "option3": null,
+        "sku": "ODS5841-kh-XXL",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 39400633434169,
+          "product_id": 8216081104953,
+          "position": 1,
+          "created_at": "2026-05-07T00:46:23-07:00",
+          "updated_at": "2026-05-07T00:46:25-07:00",
+          "alt": null,
+          "width": 800,
+          "height": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/kh_2_f0e9981c-6893-43b5-9b4d-b11181080671.jpg?v=1778139985",
+          "variant_ids": [
+            45633561919545,
+            45633561952313,
+            45633561985081,
+            45633562017849,
+            45907083395129
+          ]
+        },
+        "available": true,
+        "name": "Striped Halter Sleeveless Tank Causal Golden Button Decor Breathable Knit Top - khaki / XXL",
+        "public_title": "khaki / XXL",
+        "options": [
+          "khaki",
+          "XXL"
+        ],
+        "price": 1999,
+        "weight": 283,
+        "compare_at_price": 2399,
+        "inventory_management": null,
+        "barcode": null,
+        "featured_media": {
+          "alt": null,
+          "id": 30748972515385,
+          "position": 1,
+          "preview_image": {
+            "aspect_ratio": 0.8,
+            "height": 1000,
+            "width": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/kh_2_f0e9981c-6893-43b5-9b4d-b11181080671.jpg?v=1778139985"
+          }
+        },
+        "requires_selling_plan": false,
+        "selling_plan_allocations": [],
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        }
+      },
+      {
+        "id": 45642446766137,
+        "title": "Black / S",
+        "option1": "Black",
+        "option2": "S",
+        "option3": null,
+        "sku": "ODS5841-bK-S",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 39400633794617,
+          "product_id": 8216081104953,
+          "position": 8,
+          "created_at": "2026-05-07T00:46:24-07:00",
+          "updated_at": "2026-05-07T00:46:26-07:00",
+          "alt": null,
+          "width": 800,
+          "height": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_3_2fdd0b3f-b126-4fb1-9951-f0957323b763.jpg?v=1778139986",
+          "variant_ids": [
+            45642446766137,
+            45642446798905,
+            45642446831673,
+            45642446864441,
+            45907083460665
+          ]
+        },
+        "available": true,
+        "name": "Striped Halter Sleeveless Tank Causal Golden Button Decor Breathable Knit Top - Black / S",
+        "public_title": "Black / S",
+        "options": [
+          "Black",
+          "S"
+        ],
+        "price": 1999,
+        "weight": 189,
+        "compare_at_price": 2399,
+        "inventory_management": null,
+        "barcode": null,
+        "featured_media": {
+          "alt": null,
+          "id": 30748972875833,
+          "position": 9,
+          "preview_image": {
+            "aspect_ratio": 0.8,
+            "height": 1000,
+            "width": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_3_2fdd0b3f-b126-4fb1-9951-f0957323b763.jpg?v=1778139986"
+          }
+        },
+        "requires_selling_plan": false,
+        "selling_plan_allocations": [],
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        }
+      },
+      {
+        "id": 45642446798905,
+        "title": "Black / M",
+        "option1": "Black",
+        "option2": "M",
+        "option3": null,
+        "sku": "ODS5841-bK-M",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 39400633794617,
+          "product_id": 8216081104953,
+          "position": 8,
+          "created_at": "2026-05-07T00:46:24-07:00",
+          "updated_at": "2026-05-07T00:46:26-07:00",
+          "alt": null,
+          "width": 800,
+          "height": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_3_2fdd0b3f-b126-4fb1-9951-f0957323b763.jpg?v=1778139986",
+          "variant_ids": [
+            45642446766137,
+            45642446798905,
+            45642446831673,
+            45642446864441,
+            45907083460665
+          ]
+        },
+        "available": true,
+        "name": "Striped Halter Sleeveless Tank Causal Golden Button Decor Breathable Knit Top - Black / M",
+        "public_title": "Black / M",
+        "options": [
+          "Black",
+          "M"
+        ],
+        "price": 1999,
+        "weight": 189,
+        "compare_at_price": 2399,
+        "inventory_management": null,
+        "barcode": null,
+        "featured_media": {
+          "alt": null,
+          "id": 30748972875833,
+          "position": 9,
+          "preview_image": {
+            "aspect_ratio": 0.8,
+            "height": 1000,
+            "width": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_3_2fdd0b3f-b126-4fb1-9951-f0957323b763.jpg?v=1778139986"
+          }
+        },
+        "requires_selling_plan": false,
+        "selling_plan_allocations": [],
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        }
+      },
+      {
+        "id": 45642446831673,
+        "title": "Black / L",
+        "option1": "Black",
+        "option2": "L",
+        "option3": null,
+        "sku": "ODS5841-bK-L",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 39400633794617,
+          "product_id": 8216081104953,
+          "position": 8,
+          "created_at": "2026-05-07T00:46:24-07:00",
+          "updated_at": "2026-05-07T00:46:26-07:00",
+          "alt": null,
+          "width": 800,
+          "height": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_3_2fdd0b3f-b126-4fb1-9951-f0957323b763.jpg?v=1778139986",
+          "variant_ids": [
+            45642446766137,
+            45642446798905,
+            45642446831673,
+            45642446864441,
+            45907083460665
+          ]
+        },
+        "available": true,
+        "name": "Striped Halter Sleeveless Tank Causal Golden Button Decor Breathable Knit Top - Black / L",
+        "public_title": "Black / L",
+        "options": [
+          "Black",
+          "L"
+        ],
+        "price": 1999,
+        "weight": 189,
+        "compare_at_price": 2399,
+        "inventory_management": null,
+        "barcode": null,
+        "featured_media": {
+          "alt": null,
+          "id": 30748972875833,
+          "position": 9,
+          "preview_image": {
+            "aspect_ratio": 0.8,
+            "height": 1000,
+            "width": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_3_2fdd0b3f-b126-4fb1-9951-f0957323b763.jpg?v=1778139986"
+          }
+        },
+        "requires_selling_plan": false,
+        "selling_plan_allocations": [],
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        }
+      },
+      {
+        "id": 45642446864441,
+        "title": "Black / XL",
+        "option1": "Black",
+        "option2": "XL",
+        "option3": null,
+        "sku": "ODS5841-bK-XL",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 39400633794617,
+          "product_id": 8216081104953,
+          "position": 8,
+          "created_at": "2026-05-07T00:46:24-07:00",
+          "updated_at": "2026-05-07T00:46:26-07:00",
+          "alt": null,
+          "width": 800,
+          "height": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_3_2fdd0b3f-b126-4fb1-9951-f0957323b763.jpg?v=1778139986",
+          "variant_ids": [
+            45642446766137,
+            45642446798905,
+            45642446831673,
+            45642446864441,
+            45907083460665
+          ]
+        },
+        "available": true,
+        "name": "Striped Halter Sleeveless Tank Causal Golden Button Decor Breathable Knit Top - Black / XL",
+        "public_title": "Black / XL",
+        "options": [
+          "Black",
+          "XL"
+        ],
+        "price": 1999,
+        "weight": 189,
+        "compare_at_price": 2399,
+        "inventory_management": null,
+        "barcode": null,
+        "featured_media": {
+          "alt": null,
+          "id": 30748972875833,
+          "position": 9,
+          "preview_image": {
+            "aspect_ratio": 0.8,
+            "height": 1000,
+            "width": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_3_2fdd0b3f-b126-4fb1-9951-f0957323b763.jpg?v=1778139986"
+          }
+        },
+        "requires_selling_plan": false,
+        "selling_plan_allocations": [],
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        }
+      },
+      {
+        "id": 45907083460665,
+        "title": "Black / XXL",
+        "option1": "Black",
+        "option2": "XXL",
+        "option3": null,
+        "sku": "ODS5841-bk-XXL",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 39400633794617,
+          "product_id": 8216081104953,
+          "position": 8,
+          "created_at": "2026-05-07T00:46:24-07:00",
+          "updated_at": "2026-05-07T00:46:26-07:00",
+          "alt": null,
+          "width": 800,
+          "height": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_3_2fdd0b3f-b126-4fb1-9951-f0957323b763.jpg?v=1778139986",
+          "variant_ids": [
+            45642446766137,
+            45642446798905,
+            45642446831673,
+            45642446864441,
+            45907083460665
+          ]
+        },
+        "available": true,
+        "name": "Striped Halter Sleeveless Tank Causal Golden Button Decor Breathable Knit Top - Black / XXL",
+        "public_title": "Black / XXL",
+        "options": [
+          "Black",
+          "XXL"
+        ],
+        "price": 1999,
+        "weight": 283,
+        "compare_at_price": 2399,
+        "inventory_management": null,
+        "barcode": null,
+        "featured_media": {
+          "alt": null,
+          "id": 30748972875833,
+          "position": 9,
+          "preview_image": {
+            "aspect_ratio": 0.8,
+            "height": 1000,
+            "width": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_3_2fdd0b3f-b126-4fb1-9951-f0957323b763.jpg?v=1778139986"
+          }
+        },
+        "requires_selling_plan": false,
+        "selling_plan_allocations": [],
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        }
+      },
+      {
+        "id": 45643705417785,
+        "title": "Pink / S",
+        "option1": "Pink",
+        "option2": "S",
+        "option3": null,
+        "sku": "ODS5841-pi-S",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 39400634318905,
+          "product_id": 8216081104953,
+          "position": 16,
+          "created_at": "2026-05-07T00:46:25-07:00",
+          "updated_at": "2026-05-07T00:46:27-07:00",
+          "alt": null,
+          "width": 800,
+          "height": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_6_a121fd04-7c11-458f-9ca8-df72101ba680.jpg?v=1778139987",
+          "variant_ids": [
+            45643705417785,
+            45643705450553,
+            45643705483321,
+            45643705516089,
+            45907083493433
+          ]
+        },
+        "available": false,
+        "name": "Striped Halter Sleeveless Tank Causal Golden Button Decor Breathable Knit Top - Pink / S",
+        "public_title": "Pink / S",
+        "options": [
+          "Pink",
+          "S"
+        ],
+        "price": 1999,
+        "weight": 205,
+        "compare_at_price": 2399,
+        "inventory_management": "shopify",
+        "barcode": null,
+        "featured_media": {
+          "alt": null,
+          "id": 30748973432889,
+          "position": 17,
+          "preview_image": {
+            "aspect_ratio": 0.8,
+            "height": 1000,
+            "width": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_6_a121fd04-7c11-458f-9ca8-df72101ba680.jpg?v=1778139987"
+          }
+        },
+        "requires_selling_plan": false,
+        "selling_plan_allocations": [],
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        }
+      },
+      {
+        "id": 45643705450553,
+        "title": "Pink / M",
+        "option1": "Pink",
+        "option2": "M",
+        "option3": null,
+        "sku": "ODS5841-pi-M",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 39400634318905,
+          "product_id": 8216081104953,
+          "position": 16,
+          "created_at": "2026-05-07T00:46:25-07:00",
+          "updated_at": "2026-05-07T00:46:27-07:00",
+          "alt": null,
+          "width": 800,
+          "height": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_6_a121fd04-7c11-458f-9ca8-df72101ba680.jpg?v=1778139987",
+          "variant_ids": [
+            45643705417785,
+            45643705450553,
+            45643705483321,
+            45643705516089,
+            45907083493433
+          ]
+        },
+        "available": false,
+        "name": "Striped Halter Sleeveless Tank Causal Golden Button Decor Breathable Knit Top - Pink / M",
+        "public_title": "Pink / M",
+        "options": [
+          "Pink",
+          "M"
+        ],
+        "price": 1999,
+        "weight": 202,
+        "compare_at_price": 2399,
+        "inventory_management": "shopify",
+        "barcode": null,
+        "featured_media": {
+          "alt": null,
+          "id": 30748973432889,
+          "position": 17,
+          "preview_image": {
+            "aspect_ratio": 0.8,
+            "height": 1000,
+            "width": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_6_a121fd04-7c11-458f-9ca8-df72101ba680.jpg?v=1778139987"
+          }
+        },
+        "requires_selling_plan": false,
+        "selling_plan_allocations": [],
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        }
+      },
+      {
+        "id": 45643705483321,
+        "title": "Pink / L",
+        "option1": "Pink",
+        "option2": "L",
+        "option3": null,
+        "sku": "ODS5841-pi-L",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 39400634318905,
+          "product_id": 8216081104953,
+          "position": 16,
+          "created_at": "2026-05-07T00:46:25-07:00",
+          "updated_at": "2026-05-07T00:46:27-07:00",
+          "alt": null,
+          "width": 800,
+          "height": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_6_a121fd04-7c11-458f-9ca8-df72101ba680.jpg?v=1778139987",
+          "variant_ids": [
+            45643705417785,
+            45643705450553,
+            45643705483321,
+            45643705516089,
+            45907083493433
+          ]
+        },
+        "available": false,
+        "name": "Striped Halter Sleeveless Tank Causal Golden Button Decor Breathable Knit Top - Pink / L",
+        "public_title": "Pink / L",
+        "options": [
+          "Pink",
+          "L"
+        ],
+        "price": 1999,
+        "weight": 227,
+        "compare_at_price": 2399,
+        "inventory_management": "shopify",
+        "barcode": null,
+        "featured_media": {
+          "alt": null,
+          "id": 30748973432889,
+          "position": 17,
+          "preview_image": {
+            "aspect_ratio": 0.8,
+            "height": 1000,
+            "width": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_6_a121fd04-7c11-458f-9ca8-df72101ba680.jpg?v=1778139987"
+          }
+        },
+        "requires_selling_plan": false,
+        "selling_plan_allocations": [],
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        }
+      },
+      {
+        "id": 45643705516089,
+        "title": "Pink / XL",
+        "option1": "Pink",
+        "option2": "XL",
+        "option3": null,
+        "sku": "ODS5841-pi-XL",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 39400634318905,
+          "product_id": 8216081104953,
+          "position": 16,
+          "created_at": "2026-05-07T00:46:25-07:00",
+          "updated_at": "2026-05-07T00:46:27-07:00",
+          "alt": null,
+          "width": 800,
+          "height": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_6_a121fd04-7c11-458f-9ca8-df72101ba680.jpg?v=1778139987",
+          "variant_ids": [
+            45643705417785,
+            45643705450553,
+            45643705483321,
+            45643705516089,
+            45907083493433
+          ]
+        },
+        "available": false,
+        "name": "Striped Halter Sleeveless Tank Causal Golden Button Decor Breathable Knit Top - Pink / XL",
+        "public_title": "Pink / XL",
+        "options": [
+          "Pink",
+          "XL"
+        ],
+        "price": 1999,
+        "weight": 229,
+        "compare_at_price": 2399,
+        "inventory_management": "shopify",
+        "barcode": null,
+        "featured_media": {
+          "alt": null,
+          "id": 30748973432889,
+          "position": 17,
+          "preview_image": {
+            "aspect_ratio": 0.8,
+            "height": 1000,
+            "width": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_6_a121fd04-7c11-458f-9ca8-df72101ba680.jpg?v=1778139987"
+          }
+        },
+        "requires_selling_plan": false,
+        "selling_plan_allocations": [],
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        }
+      },
+      {
+        "id": 45907083493433,
+        "title": "Pink / XXL",
+        "option1": "Pink",
+        "option2": "XXL",
+        "option3": null,
+        "sku": "ODS5841-pi-XXL",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": {
+          "id": 39400634318905,
+          "product_id": 8216081104953,
+          "position": 16,
+          "created_at": "2026-05-07T00:46:25-07:00",
+          "updated_at": "2026-05-07T00:46:27-07:00",
+          "alt": null,
+          "width": 800,
+          "height": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_6_a121fd04-7c11-458f-9ca8-df72101ba680.jpg?v=1778139987",
+          "variant_ids": [
+            45643705417785,
+            45643705450553,
+            45643705483321,
+            45643705516089,
+            45907083493433
+          ]
+        },
+        "available": true,
+        "name": "Striped Halter Sleeveless Tank Causal Golden Button Decor Breathable Knit Top - Pink / XXL",
+        "public_title": "Pink / XXL",
+        "options": [
+          "Pink",
+          "XXL"
+        ],
+        "price": 1999,
+        "weight": 283,
+        "compare_at_price": 2399,
+        "inventory_management": "shopify",
+        "barcode": null,
+        "featured_media": {
+          "alt": null,
+          "id": 30748973432889,
+          "position": 17,
+          "preview_image": {
+            "aspect_ratio": 0.8,
+            "height": 1000,
+            "width": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_6_a121fd04-7c11-458f-9ca8-df72101ba680.jpg?v=1778139987"
+          }
+        },
+        "requires_selling_plan": false,
+        "selling_plan_allocations": [],
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        }
+      }
+    ],
+    "images": [
+      "//cdn.shopify.com/s/files/1/0748/9457/3625/files/kh_2_f0e9981c-6893-43b5-9b4d-b11181080671.jpg?v=1778139985",
+      "//cdn.shopify.com/s/files/1/0748/9457/3625/files/kh_8.jpg?v=1778139987",
+      "//cdn.shopify.com/s/files/1/0748/9457/3625/files/ODS5841_b4d98ae4-f114-4219-b495-28c96a17f026.jpg?v=1781074564",
+      "//cdn.shopify.com/s/files/1/0748/9457/3625/files/kh_1_0116f42e-5a54-4f18-bf5e-6cadecf5690b.jpg?v=1778139984",
+      "//cdn.shopify.com/s/files/1/0748/9457/3625/files/ODS5841_d68babe3-f033-4dca-8f39-2669df03c7c7.jpg?v=1781074541",
+      "//cdn.shopify.com/s/files/1/0748/9457/3625/files/kh_5_accb7139-3640-43c0-8952-da9d646cf30b.jpg?v=1778139985",
+      "//cdn.shopify.com/s/files/1/0748/9457/3625/files/1h7R75749a6k058H4v8W1u5e8D.jpg?v=1777972313",
+      "//cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_3_2fdd0b3f-b126-4fb1-9951-f0957323b763.jpg?v=1778139986",
+      "//cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_5_2302b00a-df88-4205-8ec4-7cf32ce69b5c.jpg?v=1778139986",
+      "//cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_1_072c30af-d44a-437f-bc26-dce36940e74c.jpg?v=1778139986",
+      "//cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_2_defe156c-742d-4f7b-a393-d603836171dc.jpg?v=1778139985",
+      "//cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_6_a9625606-a025-4bfb-8aba-08ce7021db54.jpg?v=1778139985",
+      "//cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_4_9812e6da-d17b-4969-ada6-1c8ca9063ec7.jpg?v=1778139982",
+      "//cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_8_c9b0b850-d5e4-4991-b81d-d53ca46acbf7.jpg?v=1778139987",
+      "//cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_7_d0c8b07f-b5bd-46ac-9062-3d5a22b5af1f.jpg?v=1778139987",
+      "//cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_6_a121fd04-7c11-458f-9ca8-df72101ba680.jpg?v=1778139987",
+      "//cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_1_5ce5912a-35f6-434e-9cbb-3b4a7700b1d1.jpg?v=1778139987",
+      "//cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_2_aae731e6-2d1d-488b-9a27-08885441f0eb.jpg?v=1778139986",
+      "//cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_7_8d5bc0fd-64e2-4d79-8b0b-27251b868854.jpg?v=1778139985",
+      "//cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_3_46f01d41-9f1a-49d6-9451-5612dffbf9c1.jpg?v=1778139987",
+      "//cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_4_5ac433de-a745-42bd-bc53-7cff9fbe6b0a.jpg?v=1778139986",
+      "//cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_8_9eadd092-4f0c-4a1a-8273-cc051079bae2.jpg?v=1778139985",
+      "//cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_5_911c814f-73cb-4583-bb35-483ccd1a838d.jpg?v=1778139986"
+    ],
+    "featured_image": "//cdn.shopify.com/s/files/1/0748/9457/3625/files/kh_2_f0e9981c-6893-43b5-9b4d-b11181080671.jpg?v=1778139985",
+    "options": [
+      "Color",
+      "Size"
+    ],
+    "media": [
+      {
+        "alt": null,
+        "id": 30748972515385,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.8,
+          "height": 1000,
+          "width": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/kh_2_f0e9981c-6893-43b5-9b4d-b11181080671.jpg?v=1778139985"
+        },
+        "aspect_ratio": 0.8,
+        "height": 1000,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/kh_2_f0e9981c-6893-43b5-9b4d-b11181080671.jpg?v=1778139985",
+        "width": 800
+      },
+      {
+        "alt": null,
+        "id": 30748973858873,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 0.8,
+          "height": 1000,
+          "width": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/kh_8.jpg?v=1778139987"
+        },
+        "aspect_ratio": 0.8,
+        "height": 1000,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/kh_8.jpg?v=1778139987",
+        "width": 800
+      },
+      {
+        "alt": null,
+        "id": 30759368785977,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 0.8,
+          "height": 1000,
+          "width": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/preview_images/85f83881e999455b8ab5a54d76025b74.thumbnail.0000000000.jpg?v=1778231645"
+        },
+        "aspect_ratio": 0.8,
+        "duration": 12610,
+        "media_type": "video",
+        "sources": [
+          {
+            "format": "mp4",
+            "height": 480,
+            "mime_type": "video/mp4",
+            "url": "https://cdn.shopify.com/videos/c/vp/85f83881e999455b8ab5a54d76025b74/85f83881e999455b8ab5a54d76025b74.SD-480p-1.5Mbps-83661708.mp4",
+            "width": 384
+          },
+          {
+            "format": "mp4",
+            "height": 720,
+            "mime_type": "video/mp4",
+            "url": "https://cdn.shopify.com/videos/c/vp/85f83881e999455b8ab5a54d76025b74/85f83881e999455b8ab5a54d76025b74.HD-720p-4.5Mbps-83661708.mp4",
+            "width": 576
+          },
+          {
+            "format": "m3u8",
+            "height": 720,
+            "mime_type": "application/x-mpegURL",
+            "url": "https://cdn.shopify.com/videos/c/vp/85f83881e999455b8ab5a54d76025b74/85f83881e999455b8ab5a54d76025b74.m3u8",
+            "width": 576
+          }
+        ]
+      },
+      {
+        "alt": null,
+        "id": 31099025031225,
+        "position": 4,
+        "preview_image": {
+          "aspect_ratio": 0.8,
+          "height": 1000,
+          "width": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/ODS5841_b4d98ae4-f114-4219-b495-28c96a17f026.jpg?v=1781074564"
+        },
+        "aspect_ratio": 0.8,
+        "height": 1000,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/ODS5841_b4d98ae4-f114-4219-b495-28c96a17f026.jpg?v=1781074564",
+        "width": 800
+      },
+      {
+        "alt": null,
+        "id": 30748972220473,
+        "position": 5,
+        "preview_image": {
+          "aspect_ratio": 0.8,
+          "height": 1000,
+          "width": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/kh_1_0116f42e-5a54-4f18-bf5e-6cadecf5690b.jpg?v=1778139984"
+        },
+        "aspect_ratio": 0.8,
+        "height": 1000,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/kh_1_0116f42e-5a54-4f18-bf5e-6cadecf5690b.jpg?v=1778139984",
+        "width": 800
+      },
+      {
+        "alt": null,
+        "id": 31099023589433,
+        "position": 6,
+        "preview_image": {
+          "aspect_ratio": 0.8,
+          "height": 1000,
+          "width": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/ODS5841_d68babe3-f033-4dca-8f39-2669df03c7c7.jpg?v=1781074541"
+        },
+        "aspect_ratio": 0.8,
+        "height": 1000,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/ODS5841_d68babe3-f033-4dca-8f39-2669df03c7c7.jpg?v=1781074541",
+        "width": 800
+      },
+      {
+        "alt": null,
+        "id": 30748972843065,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.8,
+          "height": 1000,
+          "width": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/kh_5_accb7139-3640-43c0-8952-da9d646cf30b.jpg?v=1778139985"
+        },
+        "aspect_ratio": 0.8,
+        "height": 1000,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/kh_5_accb7139-3640-43c0-8952-da9d646cf30b.jpg?v=1778139985",
+        "width": 800
+      },
+      {
+        "alt": null,
+        "id": 30722020802617,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.8,
+          "height": 1000,
+          "width": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/1h7R75749a6k058H4v8W1u5e8D.jpg?v=1777972313"
+        },
+        "aspect_ratio": 0.8,
+        "height": 1000,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/1h7R75749a6k058H4v8W1u5e8D.jpg?v=1777972313",
+        "width": 800
+      },
+      {
+        "alt": null,
+        "id": 30748972875833,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.8,
+          "height": 1000,
+          "width": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_3_2fdd0b3f-b126-4fb1-9951-f0957323b763.jpg?v=1778139986"
+        },
+        "aspect_ratio": 0.8,
+        "height": 1000,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_3_2fdd0b3f-b126-4fb1-9951-f0957323b763.jpg?v=1778139986",
+        "width": 800
+      },
+      {
+        "alt": null,
+        "id": 30748973203513,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.8,
+          "height": 1000,
+          "width": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_5_2302b00a-df88-4205-8ec4-7cf32ce69b5c.jpg?v=1778139986"
+        },
+        "aspect_ratio": 0.8,
+        "height": 1000,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_5_2302b00a-df88-4205-8ec4-7cf32ce69b5c.jpg?v=1778139986",
+        "width": 800
+      },
+      {
+        "alt": null,
+        "id": 30748972974137,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.8,
+          "height": 1000,
+          "width": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_1_072c30af-d44a-437f-bc26-dce36940e74c.jpg?v=1778139986"
+        },
+        "aspect_ratio": 0.8,
+        "height": 1000,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_1_072c30af-d44a-437f-bc26-dce36940e74c.jpg?v=1778139986",
+        "width": 800
+      },
+      {
+        "alt": null,
+        "id": 30748972744761,
+        "position": 12,
+        "preview_image": {
+          "aspect_ratio": 0.8,
+          "height": 1000,
+          "width": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_2_defe156c-742d-4f7b-a393-d603836171dc.jpg?v=1778139985"
+        },
+        "aspect_ratio": 0.8,
+        "height": 1000,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_2_defe156c-742d-4f7b-a393-d603836171dc.jpg?v=1778139985",
+        "width": 800
+      },
+      {
+        "alt": null,
+        "id": 30748972810297,
+        "position": 13,
+        "preview_image": {
+          "aspect_ratio": 0.8,
+          "height": 1000,
+          "width": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_6_a9625606-a025-4bfb-8aba-08ce7021db54.jpg?v=1778139985"
+        },
+        "aspect_ratio": 0.8,
+        "height": 1000,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_6_a9625606-a025-4bfb-8aba-08ce7021db54.jpg?v=1778139985",
+        "width": 800
+      },
+      {
+        "alt": null,
+        "id": 30748972089401,
+        "position": 14,
+        "preview_image": {
+          "aspect_ratio": 0.8,
+          "height": 1000,
+          "width": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_4_9812e6da-d17b-4969-ada6-1c8ca9063ec7.jpg?v=1778139982"
+        },
+        "aspect_ratio": 0.8,
+        "height": 1000,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_4_9812e6da-d17b-4969-ada6-1c8ca9063ec7.jpg?v=1778139982",
+        "width": 800
+      },
+      {
+        "alt": null,
+        "id": 30748973531193,
+        "position": 15,
+        "preview_image": {
+          "aspect_ratio": 0.8,
+          "height": 1000,
+          "width": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_8_c9b0b850-d5e4-4991-b81d-d53ca46acbf7.jpg?v=1778139987"
+        },
+        "aspect_ratio": 0.8,
+        "height": 1000,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_8_c9b0b850-d5e4-4991-b81d-d53ca46acbf7.jpg?v=1778139987",
+        "width": 800
+      },
+      {
+        "alt": null,
+        "id": 30748973334585,
+        "position": 16,
+        "preview_image": {
+          "aspect_ratio": 0.8,
+          "height": 1000,
+          "width": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_7_d0c8b07f-b5bd-46ac-9062-3d5a22b5af1f.jpg?v=1778139987"
+        },
+        "aspect_ratio": 0.8,
+        "height": 1000,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/bk_7_d0c8b07f-b5bd-46ac-9062-3d5a22b5af1f.jpg?v=1778139987",
+        "width": 800
+      },
+      {
+        "alt": null,
+        "id": 30748973432889,
+        "position": 17,
+        "preview_image": {
+          "aspect_ratio": 0.8,
+          "height": 1000,
+          "width": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_6_a121fd04-7c11-458f-9ca8-df72101ba680.jpg?v=1778139987"
+        },
+        "aspect_ratio": 0.8,
+        "height": 1000,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_6_a121fd04-7c11-458f-9ca8-df72101ba680.jpg?v=1778139987",
+        "width": 800
+      },
+      {
+        "alt": null,
+        "id": 30748973793337,
+        "position": 18,
+        "preview_image": {
+          "aspect_ratio": 0.8,
+          "height": 1000,
+          "width": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_1_5ce5912a-35f6-434e-9cbb-3b4a7700b1d1.jpg?v=1778139987"
+        },
+        "aspect_ratio": 0.8,
+        "height": 1000,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_1_5ce5912a-35f6-434e-9cbb-3b4a7700b1d1.jpg?v=1778139987",
+        "width": 800
+      },
+      {
+        "alt": null,
+        "id": 30748973006905,
+        "position": 19,
+        "preview_image": {
+          "aspect_ratio": 0.8,
+          "height": 1000,
+          "width": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_2_aae731e6-2d1d-488b-9a27-08885441f0eb.jpg?v=1778139986"
+        },
+        "aspect_ratio": 0.8,
+        "height": 1000,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_2_aae731e6-2d1d-488b-9a27-08885441f0eb.jpg?v=1778139986",
+        "width": 800
+      },
+      {
+        "alt": null,
+        "id": 30748972908601,
+        "position": 20,
+        "preview_image": {
+          "aspect_ratio": 0.8,
+          "height": 1000,
+          "width": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_7_8d5bc0fd-64e2-4d79-8b0b-27251b868854.jpg?v=1778139985"
+        },
+        "aspect_ratio": 0.8,
+        "height": 1000,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_7_8d5bc0fd-64e2-4d79-8b0b-27251b868854.jpg?v=1778139985",
+        "width": 800
+      },
+      {
+        "alt": null,
+        "id": 30748973695033,
+        "position": 21,
+        "preview_image": {
+          "aspect_ratio": 0.8,
+          "height": 1000,
+          "width": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_3_46f01d41-9f1a-49d6-9451-5612dffbf9c1.jpg?v=1778139987"
+        },
+        "aspect_ratio": 0.8,
+        "height": 1000,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_3_46f01d41-9f1a-49d6-9451-5612dffbf9c1.jpg?v=1778139987",
+        "width": 800
+      },
+      {
+        "alt": null,
+        "id": 30748973301817,
+        "position": 22,
+        "preview_image": {
+          "aspect_ratio": 0.8,
+          "height": 1000,
+          "width": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_4_5ac433de-a745-42bd-bc53-7cff9fbe6b0a.jpg?v=1778139986"
+        },
+        "aspect_ratio": 0.8,
+        "height": 1000,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_4_5ac433de-a745-42bd-bc53-7cff9fbe6b0a.jpg?v=1778139986",
+        "width": 800
+      },
+      {
+        "alt": null,
+        "id": 30748972711993,
+        "position": 23,
+        "preview_image": {
+          "aspect_ratio": 0.8,
+          "height": 1000,
+          "width": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_8_9eadd092-4f0c-4a1a-8273-cc051079bae2.jpg?v=1778139985"
+        },
+        "aspect_ratio": 0.8,
+        "height": 1000,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_8_9eadd092-4f0c-4a1a-8273-cc051079bae2.jpg?v=1778139985",
+        "width": 800
+      },
+      {
+        "alt": null,
+        "id": 30748973498425,
+        "position": 24,
+        "preview_image": {
+          "aspect_ratio": 0.8,
+          "height": 1000,
+          "width": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_5_911c814f-73cb-4583-bb35-483ccd1a838d.jpg?v=1778139986"
+        },
+        "aspect_ratio": 0.8,
+        "height": 1000,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/pi_5_911c814f-73cb-4583-bb35-483ccd1a838d.jpg?v=1778139986",
+        "width": 800
+      }
+    ],
+    "requires_selling_plan": false,
+    "selling_plan_groups": [],
+    "content": "<p><b data-path-to-node=\"6\" data-index-in-node=\"0\"><img src=\"https://cdn.shopify.com/s/files/1/0748/9457/3625/files/ODS5841.jpg?v=1780996154\" alt=\"\">FABRIC - Breathable Viscose Knit:</b> <span>Crafted from 100% viscose, this premium knit fabric offers a silky-soft, lightweight handfeel with excellent breathability, delivering a comfortable, skin-friendly fit that gently skims the body without restriction, ensuring a cool and refined wearing experience throughout warm summer conditions.</span></p>\n<p><b data-path-to-node=\"7\" data-index-in-node=\"0\">SILHOUETTE - Elegant Slim-Fit Frame:</b> <span>Designed with a refined slim-fit silhouette and a classic halter neckline, this top softly contours the body while maintaining ease of wear, enhancing the shoulder line and elongating the visual proportions for a balanced, figure-flattering effect that offers a streamlined and structured appearance. </span></p>\n<p><b data-path-to-node=\"8\" data-index-in-node=\"0\">DESIGN - Gold Button &amp; Striped Accent:</b> <span>Elevated by polished gold-tone button detailing and a timeless stripe pattern, this top reinterprets a classic essential with a refined aesthetic. The sleeveless cut and fine ribbed texture contribute to a structured yet understated finish, while the craftsmanship and overall quality exceed standard expectations.</span></p>\n<p><b data-path-to-node=\"9\" data-index-in-node=\"0\">STYLING - Polished Coastal Aesthetic:</b> <span>This striped camisole pairs seamlessly with tailored trousers, linen separates, denim pieces, or skirts. It may be layered under blazers for a refined office ensemble or styled independently for relaxed seasonal occasions, offering versatile styling adaptability across multiple settings.</span></p>\n<p><b data-path-to-node=\"10\" data-index-in-node=\"0\">OCCASIONS - Seamless Multi-Scene Utility:</b> <span>Suitable for daily wear, summer wardrobes, vacation styling, brunch occasions, café settings, office layering, shopping activities, and social gatherings, providing consistent adaptability across both casual and semi-formal scenarios.</span></p>"
+  }
+}

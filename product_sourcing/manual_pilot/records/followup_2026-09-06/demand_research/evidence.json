@@ -1,0 +1,178 @@
+{
+  "run_id": "pilot-7d-1688-2026-09-06-demand-web-followup",
+  "recorded_at_utc": "2026-09-06T09:43:35Z",
+  "verification_date": "2026-09-06",
+  "configuration_reference": "../../../TASK_STATE.md",
+  "original_trial_reference": "../../trial.json",
+  "scope": {
+    "market": "TikTok Shop United States",
+    "window_start_utc": "2026-08-30T09:05:42Z",
+    "window_end_utc": "2026-09-06T09:05:42Z",
+    "window_rolled": false,
+    "topics": ["football game outfit", "dolly parton outfit ideas", "fall sets"],
+    "retrieval": "web tool only; no CUA; bounded selected queries; not platform-wide coverage"
+  },
+  "result": {
+    "new_qualified_demand_evidence": 0,
+    "new_source_or_access_records": 4,
+    "search_queries": 12,
+    "source_page_open_attempts": 4,
+    "source_page_open_successes": 0,
+    "eligible_new_test_products": 0,
+    "interpretation": "No qualifying evidence was obtained by these queries. This does not establish absence of demand."
+  },
+  "search_batches": [
+    {
+      "batch_id": "DQ1",
+      "queries": [
+        "site:reddit.com \"game day\" \"outfit\" after:2026-08-30 before:2026-09-07",
+        "site:reddit.com \"Dolly Parton\" \"outfit\" after:2026-08-30 before:2026-09-07",
+        "site:reddit.com \"matching set\" \"fall\" after:2026-08-30 before:2026-09-07"
+      ],
+      "combined_return_observation": "Returned Dolly-related candidates including doll, dog, game-avatar and historical-photo topics. No qualified first-person US current clothing demand acquired. Individual query result boundaries were not exposed by the combined tool output."
+    },
+    {
+      "batch_id": "DQ2",
+      "queries": [
+        "site:reddit.com football outfit September 2026",
+        "site:reddit.com \"matching sets\" September 2026 fall",
+        "site:reddit.com \"sweatsuit\" after:2026-08-30 before:2026-09-07"
+      ],
+      "combined_return_observation": "Returned older May/June football handmade-outfit and unrelated/older matching-set discussions. Search date filtering was not reliable evidence of source date. No page was promoted to current-window evidence."
+    },
+    {
+      "batch_id": "DQ3",
+      "recency_days": 7,
+      "queries": [
+        "site:reddit.com \"gameday\" \"wear\" after:2026-08-30 before:2026-09-07",
+        "site:reddit.com \"lounge set\" after:2026-08-30 before:2026-09-07",
+        "site:reddit.com \"Dolly\" \"costume\" after:2026-08-30 before:2026-09-07 -\"doll\" -\"Greyhounds\" -\"reddeadfashion\""
+      ],
+      "combined_return_observation": "Empty search results. Stopped this Reddit keyword path after three rounds without qualified new evidence."
+    },
+    {
+      "batch_id": "DQ4",
+      "queries": [
+        "site:tiktok.com \"football game outfit\" after:2026-08-30 before:2026-09-07",
+        "site:instagram.com \"Dolly\" \"outfit\" after:2026-08-30 before:2026-09-07",
+        "site:x.com \"fall\" \"matching set\" after:2026-08-30 before:2026-09-07"
+      ],
+      "combined_return_observation": "Tool reported tiktok.com blocked by robots.txt, non-retryable. Returned TikTok Shop US collection/product-index results. No usable Instagram or X source post returned. No claim of absent platform content."
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "FDE1",
+      "topic": "dolly parton outfit ideas",
+      "platform": "Reddit search index",
+      "source_url": "https://www.reddit.com/r/Greyhounds/comments/1w3kcn3/dolly_parton_costume/",
+      "source_title": "Dolly Parton costume",
+      "source_group": "reddit_1w3kcn3",
+      "accessed_date": "2026-09-06",
+      "read_status": "search_tool_text_only_detail_fetch_failed",
+      "date_actually_seen": "[Monday August 31 2026] in search-tool output",
+      "date_basis": "search tool, not source page verification",
+      "published_at_verified": null,
+      "window_status": "time_not_verified_on_original",
+      "selected_search_excerpt": "Yep, a child's pinafore made into a dog outfit.",
+      "excerpt_basis": "selected manual transcription from search-tool output; not source-page snapshot",
+      "market_basis": null,
+      "human_clothing_verified": false,
+      "claim": "The returned search text discusses dog clothing, so this candidate cannot substantiate human clothing demand.",
+      "window_qualification": {"qualified": false, "reason": "original source date not verified"},
+      "demand_qualification": {"qualified": false, "reason": "pet clothing in search text; human clothing demand not verified"},
+      "market_qualification": {"qualified": false, "reason": "US market basis unknown"},
+      "detail_error": "Cache miss",
+      "qualifies_as_current_us_demand": false,
+      "exclusion_reasons": ["original page not read", "source date not verified", "pet clothing candidate", "US market basis not verified"]
+    },
+    {
+      "evidence_id": "FDE2",
+      "topic": "dolly parton outfit ideas",
+      "platform": "Reddit search index",
+      "source_url": "https://www.reddit.com/r/reddeadfashion/comments/1w2lbz0/inspired_by_dolly/",
+      "source_title": "Inspired by Dolly",
+      "source_group": "reddit_1w2lbz0",
+      "accessed_date": "2026-09-06",
+      "read_status": "search_tool_text_only_detail_fetch_failed",
+      "date_actually_seen": "[Sunday August 30 2026] in search-tool output",
+      "date_basis": "search tool, not source page verification; exact time unavailable on boundary date",
+      "published_at_verified": null,
+      "window_status": "boundary_unknown_not_counted",
+      "selected_search_excerpt": "Also, which coat is that?",
+      "excerpt_basis": "selected manual transcription from search-tool output; not source-page snapshot",
+      "market_basis": null,
+      "human_clothing_verified": false,
+      "claim": "A style question in a game-fashion community does not establish demand for purchasable physical clothing.",
+      "window_qualification": {"qualified": false, "reason": "boundary date only in search result; exact original time unknown"},
+      "demand_qualification": {"qualified": false, "reason": "game-avatar context; physical clothing demand not verified"},
+      "market_qualification": {"qualified": false, "reason": "US market basis unknown"},
+      "detail_error": "Cache miss",
+      "qualifies_as_current_us_demand": false,
+      "exclusion_reasons": ["original page not read", "boundary timestamp unknown", "game-avatar context instead of verified physical clothing", "US market basis not verified"]
+    },
+    {
+      "evidence_id": "FDE3",
+      "topic": "dolly parton outfit ideas",
+      "platform": "Reddit search index",
+      "source_url": "https://www.reddit.com/r/HistoricalCapsule/comments/1w5o5tz/singeractressdolly_parton_performing_in_texas/",
+      "source_title": "Singer/Actress/Dolly Parton performing in Texas, August of 1974.",
+      "source_group": "reddit_1w5o5tz",
+      "accessed_date": "2026-09-06",
+      "read_status": "search_tool_text_only_detail_fetch_failed",
+      "date_actually_seen": "Main post [Wednesday September 02 2026]; selected comments September 03–04 2026 in search-tool output",
+      "date_basis": "search tool, not source page verification",
+      "published_at_verified": null,
+      "window_status": "time_not_verified_on_original",
+      "selected_search_excerpt": "Even her flare game was unrivalled (last pic).",
+      "excerpt_basis": "selected manual transcription from search-tool output; not source-page snapshot",
+      "market_basis": "Texas appears only as a historical performance location in the title; no verified US consumer buying context",
+      "human_clothing_verified": null,
+      "claim": "Selected search-returned comments praise historical clothing or repeat a third-person historical purchase claim; they do not establish the commenter's current purchase pain or intent.",
+      "window_qualification": {"qualified": false, "reason": "original source date not verified"},
+      "demand_qualification": {"qualified": false, "reason": "no firsthand current purchase or use-pain statement acquired"},
+      "market_qualification": {"qualified": false, "reason": "historical Texas location does not establish consumer US market"},
+      "detail_error": "Cache miss",
+      "qualifies_as_current_us_demand": false,
+      "exclusion_reasons": ["original page not read", "source date not verified", "no qualifying firsthand current demand", "US consumer market basis not verified"]
+    },
+    {
+      "evidence_id": "FDE4",
+      "topic": "football game outfit",
+      "platform": "TikTok Shop search index",
+      "source_url": "https://shop.tiktok.com/us/k/football-game-outfits",
+      "source_title": "Football Game Outfits - TikTok Shop",
+      "source_group": "tiktokshop_us_k_football_game_outfits",
+      "accessed_date": "2026-09-06",
+      "read_status": "search_tool_text_only_detail_fetch_failed",
+      "date_actually_seen": "Crawled: today in search-tool output",
+      "date_basis": "crawler date, not publication date or demand measurement period",
+      "published_at_verified": null,
+      "window_status": "no_consumer_event_date_or_measurement_period",
+      "selected_search_excerpt": "This information is AI generated and may return results that are not relevant.",
+      "excerpt_basis": "selected manual transcription from search-tool output; not source-page snapshot",
+      "market_basis": "URL path /us/ is a US Shop entry point; no individual consumer market qualification",
+      "human_clothing_verified": null,
+      "claim": "The returned collection-page introduction is identified as AI-generated in the search text and cannot substitute for a consumer post or comment.",
+      "window_qualification": {"qualified": false, "reason": "crawl date has no consumer event or metric-period meaning"},
+      "demand_qualification": {"qualified": false, "reason": "commercial collection with AI-generated introduction; no consumer original statement"},
+      "market_qualification": {"qualified": false, "reason": "US Shop URL route observed but no verified consumer statement tied to US market", "us_shop_route_observed": true},
+      "detail_error": "Cache miss",
+      "qualifies_as_current_us_demand": false,
+      "exclusion_reasons": ["original page not read", "commercial collection instead of consumer statement", "AI-generated introduction", "crawler date does not establish the fixed observation window"]
+    }
+  ],
+  "access_limits": [
+    {"path": "Reddit selected source pages", "attempts": 3, "consecutive_failures": 3, "observed_error": "Cache miss", "action": "stopped further Reddit detail attempts"},
+    {"path": "tiktok.com via web", "observed_error": "robots.txt; non-retryable", "action": "no retry"},
+    {"path": "TikTok Shop selected collection page", "attempts": 1, "observed_error": "Cache miss", "action": "no repeated request"}
+  ],
+  "remaining_gaps": [
+    "All three topics require source-page-readable first-person clothing purchase or use-pain evidence.",
+    "Source event date must be inside the original fixed window; boundary days require sufficient time precision.",
+    "US market relevance must be evidenced rather than assumed from language or source community.",
+    "No matched SKU supply validation, real funnel counts or hit-product probability is produced by this research."
+  ],
+  "external_messages_or_purchase": false,
+  "original_trial_or_state_modified": false
+}

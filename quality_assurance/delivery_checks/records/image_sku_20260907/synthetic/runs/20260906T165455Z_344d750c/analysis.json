@@ -1,0 +1,102 @@
+{
+  "evidence": [
+    {
+      "evidence_id": "EV-410f86324f335cee",
+      "raw_row": 1,
+      "review_id": "synthetic-new-id",
+      "product_id": "synthetic-product",
+      "sku_id": "synthetic-sku",
+      "original_text": "The pants are too long and I had to hem them.",
+      "source_url": "https://example.invalid/pants",
+      "product_title_as_reported": "Casual pants",
+      "product_main_image_as_reported": "https://example.invalid/product-main.jpg",
+      "source_shop_id_as_reported": null,
+      "published_at": "2026-09-01T12:00:00Z",
+      "read_at_as_reported": null,
+      "market_as_reported": "US",
+      "market_basis": "Actor country field; buyer residence not independently verified",
+      "verified_purchase_as_reported": null,
+      "rating": 1,
+      "in_window": true,
+      "category": "trousers",
+      "kind": "specific_complaint",
+      "extractions": [
+        {
+          "issue": "too_long",
+          "quote": "too long",
+          "start": 14,
+          "end": 22
+        }
+      ],
+      "flags": [],
+      "duplicate_of": null,
+      "id_conflict": false,
+      "text_signal_group": "bd8ea39449817a5e",
+      "independent_buyer_verified": false
+    }
+  ],
+  "demand_cards": [
+    {
+      "demand_id": "S1-c1fa9d160f846a83",
+      "method": "S1",
+      "status": "待补证据",
+      "scope": "current",
+      "product_id": "synthetic-product",
+      "issue": "too_long",
+      "category": "trousers",
+      "source_titles_as_reported": [
+        "Casual pants"
+      ],
+      "statement": "评价者认为衣物过长",
+      "population": null,
+      "scenario": null,
+      "must_conditions": [
+        {
+          "condition": "评价者认为衣物过长，需明确可检验目标",
+          "evidence_ids": [
+            "EV-410f86324f335cee"
+          ]
+        }
+      ],
+      "preferences": [],
+      "target_measurements": null,
+      "unknown": [
+        "目标衣长/裤内长、所购尺码及成衣实测",
+        "采购数量、目标价格、交付要求",
+        "其他独立使用者的证据"
+      ],
+      "hypotheses": [],
+      "support_evidence_ids": [
+        "EV-410f86324f335cee"
+      ],
+      "counter_evidence_ids": [],
+      "counter_limit": "合身正面评价仅为同商品对照；买家和尺码可能不同",
+      "distinct_text_signals": 1,
+      "window": {
+        "start": "2026-08-30T09:05:42Z",
+        "end": "2026-09-06T09:05:42Z"
+      },
+      "market_basis": "Actor country field; buyer residence not independently verified",
+      "manual_review": {
+        "status": "pending",
+        "version": 1
+      },
+      "extraction_method": "finite_rules_v1"
+    }
+  ],
+  "summary": {
+    "raw_rows": 1,
+    "in_window_rows": 1,
+    "outside_window_rows": 0,
+    "unknown_time_rows": 0,
+    "duplicate_rows": 0,
+    "id_conflict_rows": 0,
+    "kinds": {
+      "specific_complaint": 1
+    },
+    "independent_buyers": null,
+    "negative_review_rate": null,
+    "current_cards": 1,
+    "unhandled_rows": 0
+  }
+}

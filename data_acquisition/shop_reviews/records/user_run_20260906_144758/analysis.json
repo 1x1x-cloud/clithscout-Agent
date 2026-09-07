@@ -1,0 +1,130 @@
+{
+  "run_record": "user_run_20260906_144758",
+  "state_reference": "../../TASK_STATE.md",
+  "schema_reference": "../../../docs/superpowers/specs/2026-09-06-clothing-demand-agent-v1-design.md",
+  "verified_at_utc": "2026-09-06T14:53:23.073420+00:00",
+  "provenance": [
+    {
+      "source": "C:\\Users\\86130\\.codex\\attachments\\a465db0f-e98a-4de8-b92e-c0f486140f33\\pasted-text.txt",
+      "snapshot": "raw_reviews.json",
+      "sha256": "e5410e6a32533cd8362050e5a5bf350b22253dccd4b342bda798a968a328989f",
+      "copy_matches": true
+    },
+    {
+      "source": "C:\\Users\\86130\\AppData\\Local\\Temp\\codex-clipboard-e46a17fa-d257-4f34-8f67-dcae0567c056.png",
+      "snapshot": "run_screenshot.png",
+      "sha256": "eed57792ea7c489191601d2031cdca463e4065b639a2e6980fa73144a474f050",
+      "copy_matches": true
+    }
+  ],
+  "screenshot_observations": {
+    "status": "Succeeded",
+    "dataset_results": 16,
+    "cost_usd_displayed": 0.032,
+    "duration_seconds_displayed": 31,
+    "billing_ledger_verified": false,
+    "input_settings_independently_read": false
+  },
+  "counts": {
+    "rows": 16,
+    "unique_review_ids": 16,
+    "duplicate_review_id_rows": 0,
+    "products": 3,
+    "nonempty_text": 14,
+    "in_fixed_window": 1,
+    "outside_fixed_window": 15,
+    "possible_related_groups": 2,
+    "independent_buyers": null,
+    "reported_us": 16,
+    "reported_verified_purchase": 16
+  },
+  "categories": {
+    "material": 2,
+    "fit": 4,
+    "generic_quality": 1,
+    "drape": 1,
+    "delivery": 6,
+    "empty": 2
+  },
+  "review_dates": {
+    "earliest": "2026-06-23T14:05:11.174000+00:00",
+    "latest": "2026-08-30T18:54:33.776000+00:00"
+  },
+  "fixed_window_snapshot": {
+    "start_inclusive_utc": "2026-08-30T09:05:42+00:00",
+    "end_exclusive_utc": "2026-09-06T09:05:42+00:00",
+    "rolled": false
+  },
+  "products": [
+    {
+      "product_id": "1732381281439289620",
+      "title_as_reported": "Available in packs of 1/2/3; unisex Y2K Street Style cool pants—original long pants. Casual design with two waistband areas for a faux two-piece look, star print, loose straight fit, and drawstring. Soft, comfortable athletic pants, perfect for everyday f",
+      "review_rows": 3,
+      "in_fixed_window": 0,
+      "categories": {
+        "material": 1,
+        "fit": 1,
+        "generic_quality": 1
+      },
+      "coverage": "Returned sample only; total one-star review count and feed completeness unknown."
+    },
+    {
+      "product_id": "1732410109013955024",
+      "title_as_reported": "Women's High-Waisted Harem Pants, Casual Pleated Drawstring, Wide Leg Trousers",
+      "review_rows": 3,
+      "in_fixed_window": 0,
+      "categories": {
+        "fit": 2,
+        "drape": 1
+      },
+      "coverage": "Returned sample only; total one-star review count and feed completeness unknown."
+    },
+    {
+      "product_id": "1732331935794958838",
+      "title_as_reported": "CHICME Women's Striped Halter Golden Button Decor Tank Causal Sleeveless Breathable Knit Top Casual Camisole",
+      "review_rows": 10,
+      "in_fixed_window": 1,
+      "categories": {
+        "fit": 1,
+        "delivery": 6,
+        "empty": 2,
+        "material": 1
+      },
+      "coverage": "Returned sample only; total one-star review count and feed completeness unknown."
+    }
+  ],
+  "possible_related_groups": [
+    {
+      "id": "POSSIBLE-RELATED-01",
+      "review_ids": [
+        "7667229258603874061",
+        "7667229237183416077"
+      ],
+      "basis": "同一商品、相同脱敏作者标记、相同正文、不同 SKU，间隔约 11 秒；可能相关，不能确认真实身份相同。",
+      "confirmed_duplicate": false
+    },
+    {
+      "id": "POSSIBLE-RELATED-02",
+      "review_ids": [
+        "7670511149582927629",
+        "7670511005911942926"
+      ],
+      "basis": "同一商品、相同脱敏作者标记、近似未收到货描述、不同 SKU，间隔约 20 秒；可能相关，不能确认真实身份相同。",
+      "confirmed_duplicate": false
+    }
+  ],
+  "limits": [
+    "No full-rating denominator; cannot estimate a product's negative-review rate or pain prevalence.",
+    "SKU IDs are present but size/color labels and measurements are absent.",
+    "One manual run is evidence of returned samples, not unattended reliability or complete history.",
+    "User execution does not by itself resolve provider commercial-use scope.",
+    "No purchase conversion, inventory or product problem resolution verified."
+  ],
+  "agent_actions": {
+    "paid_collection_started": false,
+    "credentials_read": false,
+    "browser_connected": false,
+    "supplier_contacted": false,
+    "procurement_search_started": false
+  }
+}

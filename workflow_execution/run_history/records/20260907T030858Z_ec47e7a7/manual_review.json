@@ -1,0 +1,120 @@
+{
+  "evidence": [
+    {
+      "evidence_id": "EV-30a739e8cdbdba9a",
+      "flags": [
+        "uncovered_expression"
+      ],
+      "text": "Product quality: Polyester, looks like polyester, feels like polyester, it is polyester"
+    },
+    {
+      "evidence_id": "EV-e0a5e04a755ac3c9",
+      "flags": [
+        "negation_needs_review"
+      ],
+      "text": "They are really bad quality and not what you expect !!DO NOT BUY!!"
+    },
+    {
+      "evidence_id": "EV-20fb3cf8ff32352d",
+      "flags": [
+        "negation_needs_review"
+      ],
+      "text": "These were not what I thought.  The  is not as flowy. I returned."
+    },
+    {
+      "evidence_id": "EV-00cf024eee5435aa",
+      "flags": [
+        "uncovered_expression"
+      ],
+      "text": "I havent received my order!"
+    },
+    {
+      "evidence_id": "EV-a6e80bfd49379e9f",
+      "flags": [
+        "negation_needs_review"
+      ],
+      "text": "This was not delivered"
+    },
+    {
+      "evidence_id": "EV-ceba665af1663697",
+      "flags": [
+        "ambiguous_or_contrastive_language"
+      ],
+      "text": "Sorry, I wasn’t impressed with the fabric felt cheap"
+    }
+  ],
+  "demands": [
+    {
+      "demand_id": "S1-ffa357f9bf2b25ab",
+      "scope": "historical_or_other_market",
+      "unknown": [
+        "偏差方向、部位、所购尺码和目标尺寸",
+        "采购数量、目标价格、交付要求",
+        "其他独立使用者的证据"
+      ],
+      "search_executed": false,
+      "search_limit": "Historical, unknown category, query cap or unrequested search may defer retrieval"
+    },
+    {
+      "demand_id": "S1-e48d6cc49442d13b",
+      "scope": "historical_or_other_market",
+      "unknown": [
+        "偏差方向、部位、所购尺码和目标尺寸",
+        "采购数量、目标价格、交付要求",
+        "其他独立使用者的证据"
+      ],
+      "search_executed": false,
+      "search_limit": "Historical, unknown category, query cap or unrequested search may defer retrieval"
+    },
+    {
+      "demand_id": "S1-a9119f3aa0ae5dbd",
+      "scope": "current",
+      "unknown": [
+        "偏大部位、所购尺码、目标尺寸和原商品尺寸",
+        "采购数量、目标价格、交付要求",
+        "其他独立使用者的证据"
+      ],
+      "search_executed": true,
+      "search_limit": "Historical, unknown category, query cap or unrequested search may defer retrieval"
+    }
+  ],
+  "products": [],
+  "image_searches": [
+    {
+      "query_id": "QI-eb1c8aff42a0fae9",
+      "search_type": "image",
+      "image": "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/1695764d573348959ffee3698c112c2c~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839",
+      "image_candidates_as_reported": [
+        "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/1695764d573348959ffee3698c112c2c~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839"
+      ],
+      "source_product_id": "1732331935794958838",
+      "source_sku_ids": [
+        "1732475515663127030"
+      ],
+      "evidence_ids": [
+        "EV-204349979393ffa2"
+      ],
+      "review_ids": [
+        "7679900019943687949"
+      ],
+      "source_urls": [
+        "https://www.tiktok.com/shop/pdp/_/1732331935794958838"
+      ],
+      "demand_ids": [
+        "S1-a9119f3aa0ae5dbd"
+      ],
+      "status": "ready",
+      "reason": null,
+      "purpose": "原商品主图召回相似款，再按差评与具体SKU核对规格",
+      "query_basis": "评价来源 productMainImage；URL引用未归档图片像素；图片相似不证明同款或痛点解决",
+      "limit": 3,
+      "purchase_amount": 1,
+      "purchase_amount_basis": "CLI报价输入，不是采购决定",
+      "score_level": "high",
+      "tags": "4306497",
+      "search_executed": true
+    }
+  ],
+  "sku_specifications": [],
+  "problem_signals": []
+}

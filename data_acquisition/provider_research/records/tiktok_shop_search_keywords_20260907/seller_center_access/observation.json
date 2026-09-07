@@ -1,0 +1,36 @@
+{
+  "checked_at": "2026-09-07T03:36:04Z",
+  "sample_kind": "public_page_observation",
+  "observation_method": "Connected Chrome browser: screenshot, DOM snapshot, current URL and title; selected observations transcribed from tool output",
+  "requested_url": "https://seller-us.tiktok.com/product/search-operations?shop_region=US",
+  "observed_url": "https://seller-us.tiktok.com/settle/landing/?is_new_connect=0&shop_region=US",
+  "observed_title": "TikTok Shop Seller Center | United States",
+  "browser_id": "2",
+  "tab_id": "1463879249",
+  "handoff_tab_marked": true,
+  "observed_page": {
+    "market_label": "United States",
+    "heading": "Welcome! Follow these steps to get verified",
+    "steps": ["Provide your documents and information", "Wait for review", "Start selling"],
+    "buttons": ["Shop", "Get started", "Log out", "Start selling"],
+    "seller_terms_and_privacy_links_visible": true,
+    "search_insights_visible": false,
+    "active_shop_identity": null
+  },
+  "interaction_result": {
+    "shop_button_clicked_once": true,
+    "shop_switcher_visible_after_click": false,
+    "registration_or_verification_started": false,
+    "terms_accepted": false,
+    "identity_documents_submitted": false
+  },
+  "transient_failures": [
+    {"operation": "Read existing official guide tab with getTab", "result": "js execution timed out; kernel reset, rerun your request"},
+    {"operation": "Navigate new tab to Search Insights", "result": "Navigation wait timed out; subsequent screenshot and DOM reads succeeded"}
+  ],
+  "unknown": ["Whether the user has another verified US shop/account", "Account-specific access to Search Insights", "Apparel category filters", "Keyword metric names and units", "Trend period and comparison period", "Export or API support"],
+  "obtained_keyword_records": 0,
+  "actor_runs_started": 0,
+  "status": "awaiting_existing_shop_account",
+  "interpretation": "This browser session reached seller onboarding, not Search Insights. This does not prove the user has no verified shop elsewhere or that keyword data is unavailable."
+}

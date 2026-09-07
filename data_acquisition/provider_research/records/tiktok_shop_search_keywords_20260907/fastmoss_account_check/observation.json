@@ -1,0 +1,35 @@
+{
+  "recorded_at": "2026-09-07T03:45:52Z",
+  "timezone": "Asia/Shanghai",
+  "capture_type": "selected_transcription_of_successful_browser_tool_outputs_not_raw_dom",
+  "user_confirmation": {
+    "has_open_us_tiktok_shop": false,
+    "text": "还没有开通美国店铺"
+  },
+  "source_url": "https://www.fastmoss.com/zh/creativecenter/keyword-trends",
+  "observed_url": "https://www.fastmoss.com/zh/creativecenter/keyword-trends?v=1788752595661&region=US",
+  "browser_tab_id": "1463879250",
+  "membership_label": "标准版",
+  "market_label": "美国",
+  "market_radio_checked": true,
+  "navigation": ["广告", "关键词趋势"],
+  "columns": ["排名", "关键词", "趋势", "热度指数", "曝光量", "点赞量", "分享", "评论", "操作"],
+  "heat_index_tooltip": "近30天关键词在投放中的热度",
+  "footer_note": "近30天TikTok平台获取的新视频",
+  "selected_row_example": {
+    "keyword": "free shipping",
+    "heat_index_display": "2880",
+    "impressions_display": "1140.00万",
+    "target_href": "/zh/creativecenter/search?page=1&words=free%20shipping&region=US",
+    "purpose": "证实可见字段，不作为服装搜索上升词推荐"
+  },
+  "confirmed_metric_type": "keyword_heat_in_ad_placement_over_last_30_days",
+  "shop_search_frequency_growth_verified": false,
+  "apparel_category_filter_verified": false,
+  "trend_comparison_period_verified": false,
+  "trend_and_impression_tooltips": null,
+  "trend_and_impression_tooltip_read_status": "call_timed_out_and_kernel_reset_no_successful_output",
+  "export_or_api_verified": false,
+  "new_actor_runs": 0,
+  "purchases_or_account_registration": false
+}

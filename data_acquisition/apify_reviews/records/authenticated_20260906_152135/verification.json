@@ -1,0 +1,51 @@
+{
+  "checked_at_utc": "2026-09-06T15:21:35.957830+00:00",
+  "run_id": "BxW4clbdEnaMPvPbW",
+  "credential_present": true,
+  "credential_exposed": false,
+  "http_requests": [
+    {
+      "path": "actor-runs/BxW4clbdEnaMPvPbW",
+      "method": "GET",
+      "status": 200,
+      "response_sha256": "5e69fbb830f469b24f20d3f1a0bde55201ecd48f287e13e758aec98e0e17925b"
+    },
+    {
+      "path": "datasets/5XSCpzUlq23qdh2kA",
+      "method": "GET",
+      "status": 200,
+      "response_sha256": "3d8fe748dc7a6bc5091c406eefc41f51f69f11b74e27500de7cc9a44b10cf9af"
+    },
+    {
+      "path": "datasets/5XSCpzUlq23qdh2kA/items?format=json&offset=0&limit=16",
+      "method": "GET",
+      "status": 200,
+      "response_sha256": "9911dadd2667636d3833e6f9abed5e4e031d682bcd0c4448fa19f6931258674d"
+    }
+  ],
+  "new_actor_runs_started": 0,
+  "request_methods": [
+    "GET"
+  ],
+  "errors": [],
+  "credential_shape": {
+    "leading_or_trailing_whitespace": false,
+    "contains_line_break": false,
+    "contains_non_ascii": false,
+    "has_apify_api_prefix": true,
+    "has_bearer_prefix": false
+  },
+  "run_status": "SUCCEEDED",
+  "dataset_id": "5XSCpzUlq23qdh2kA",
+  "api_rows": 16,
+  "reference_rows": 16,
+  "review_id_set_matches": true,
+  "all_fields_match_by_review_id": true,
+  "field_differences": [],
+  "file_order_matches": true,
+  "reference_sha256": "e5410e6a32533cd8362050e5a5bf350b22253dccd4b342bda798a968a328989f",
+  "api_reviews_file_sha256": "889c492ef8a4d91e69da9ac0a94e65c7905ea7213b9223a1c146db8468afe7e1",
+  "comparison_scope": "Every returned field by reviewId; formatting/order reported separately.",
+  "limits": "Read access verified for this existing run/dataset; new-run permission, recurring execution and billing not tested.",
+  "authenticated_read_passed": true
+}

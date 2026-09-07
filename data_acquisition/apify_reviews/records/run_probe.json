@@ -1,0 +1,9 @@
+{
+  "checked_at_utc": "2026-09-06T14:59:10.199131+00:00",
+  "method": "GET",
+  "endpoint": "https://api.apify.com/v2/actor-runs/BxW4clbdEnaMPvPbW",
+  "authentication": "documented run-ID access; no token",
+  "starts_new_run": false,
+  "http_status": 403,
+  "error_body": "{\n  \"error\": {\n    \"type\": \"insufficient-permissions\",\n    \"message\": \"Insufficient permissions for the Actor run. Make sure you're passing a correct API token and that it has the required permissions.\"\n  }\n}"
+}

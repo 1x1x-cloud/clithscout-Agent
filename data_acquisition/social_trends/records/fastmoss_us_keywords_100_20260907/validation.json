@@ -1,0 +1,37 @@
+{
+  "validated_at": "2026-09-07T04:23:50.880117+00:00",
+  "rows": 100,
+  "unique_keywords": 100,
+  "classification_counts": {
+    "other_or_generic": 71,
+    "context_pending_apparel_link": 11,
+    "apparel_term_candidate": 10,
+    "adjacent_category": 8
+  },
+  "apparel_groups": 8,
+  "browser_transfer_check": {
+    "canonical_utf16_length": 16102,
+    "fnv1a_utf16": "60e2217e",
+    "matches_browser_session_extraction": true
+  },
+  "csv_raw_value_checks": 700,
+  "csv_link_checks": 100,
+  "shortlist_rows_checked": 10,
+  "protected_file_sha256": {
+    "workflow_execution/run_configuration/config/current_round.json": "6e21689ac1a74922484fcc218b2816bf6004b5c854bfee79d413fcacaef3beec",
+    "data_acquisition/social_trends/records/fastmoss_us_keywords_20260907/first_page.transcribed.json": "689a5f0e9e0aa15f2d52c6b5bed85a38e70aad7099a16f0c9d660bc7cd6206e2",
+    "data_acquisition/social_trends/records/fastmoss_us_keywords_20260907/keywords.json": "412dd7a62951873212257cf5d347356ac4db6b24be3757068cf4ef8c1c14d159",
+    "data_acquisition/social_trends/records/fastmoss_us_keywords_20260907/keywords.csv": "63b936ca8c2e7368eced2020573c7d123a379f7c1c16361941e440d200d5c0a5"
+  },
+  "group_metrics_not_added": true,
+  "search_counts_and_growth_unknown": true,
+  "scope_note": "验证DOM提取后结构化快照的传递与导出一致性，不是完整DOM/API响应保全，也不验证供应商指标真实性或真实市场需求。",
+  "file_sha256": {
+    "apparel_shortlist.csv": "525fe5c8eb0613956967544b92d646d517a2f98ba1126ce67dc1259cedc05b5e",
+    "apparel_shortlist.json": "13c7e71ee0e435c15cf58429df45bbc51c97c435b267c9974b1581702519ce13",
+    "keywords.csv": "be1d4b20d492d931eb6720a113f324c3594988c8d717bae849811dcaafc7b921",
+    "keywords.json": "faefbce3c35b4da2629f6b6cc71042f52196826de3b824eaf9409cdee0b59b1a",
+    "raw_keyword_table.json": "9f0b8a883a20c0b513b77432f31c7e4e0f37e9e205a54465fa7b95d6dc3110c6",
+    "visible_material_context.json": "2634f84303c5b409bed2843aa10e4f46ac6e7490eb65f5b410dfe0a2e63b8c80"
+  }
+}

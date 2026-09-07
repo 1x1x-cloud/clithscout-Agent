@@ -1,0 +1,70 @@
+{
+  "status": "待补证据；尚未提交Actor任务",
+  "is_actor_input": false,
+  "window_config_ref": "../../../../workflow_execution/run_configuration/config/current_round.json",
+  "rules_ref": "../../../../project_governance/business_rules/docs/2026-09-06-clothing-demand-agent-v1-design.md",
+  "target_product_ids": [
+    "1732357239054307594",
+    "1732510609891758832",
+    "1731650530027868452"
+  ],
+  "market": "US",
+  "star_scope": "全部星级；包含实质好评",
+  "preferred_next_action": "继续读取已有商品的评价页，保留原始来源和分页；按原固定窗口核对日期。自动采集替代方案另核验实际能力和费用，不能提交本文作为Actor JSON。",
+  "required_fields": [
+    "商品ID及店铺",
+    "原文",
+    "星级",
+    "评价ID",
+    "有去重依据的稳定买家标识",
+    "购买标记",
+    "评价者市场",
+    "精确发表时间及时区",
+    "SKU ID及颜色尺码关联",
+    "页码/游标、总数和采集终止原因"
+  ],
+  "must_remain_unknown_when_missing": [
+    "独立买家人数",
+    "完整有效评价分母",
+    "问题占比",
+    "适用尺码表",
+    "面料实证"
+  ],
+  "progress": [
+    {
+      "product_id": "1732357239054307594",
+      "pages_read": [
+        1
+      ],
+      "next_page": 2,
+      "source_pages_display": 38,
+      "records_read": 3
+    },
+    {
+      "product_id": "1732510609891758832",
+      "pages_read": [
+        1,
+        2
+      ],
+      "next_page": 3,
+      "source_pages_display": 38,
+      "records_read": 6
+    },
+    {
+      "product_id": "1731650530027868452",
+      "pages_read": [
+        1
+      ],
+      "next_page": 2,
+      "source_pages_display": 46,
+      "records_read": 3
+    }
+  ],
+  "execution_constraints": [
+    "遵循现有窗口配置，不按今天擅自滚动；本文件不运行生产分析。",
+    "检查全部星级和覆盖完整性后再计算比例，不以首屏、推荐排序样本或全球总数作为有效分母。",
+    "未知买家身份不能由不同昵称、不同正文、真实购买标记或不同评价ID替代。",
+    "图片找货需先通过需求门槛；本次不触发。"
+  ],
+  "apify_status": "已读取既有接入记录；本轮未核验新Actor的全星级完整覆盖与独立买家字段，未启动付费采集。"
+}

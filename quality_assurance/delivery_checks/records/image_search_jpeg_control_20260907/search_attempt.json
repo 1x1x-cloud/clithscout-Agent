@@ -1,0 +1,13 @@
+{
+  "at": "2026-09-06T17:15:46.420215+00:00",
+  "endpoint": "https://skills-gateway.1688.com/api/find_product/1.0.0",
+  "request_without_image_base64": {
+    "imageUrl": null,
+    "pageSize": 3,
+    "purchaseAmount": 1,
+    "scoreLevel": "high",
+    "tags": "4306497",
+    "image_bytes": 86594,
+    "image_sha256": "fb0cdee3aee5533dac14baa6fd76a485a945eaba8d5ccfd70f5d83cbf0653de6"
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "url": "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/c8bdb69ca8984aebbb7d6024809f66fe~tplv-fhlh96nyum-origin-jpeg.jpeg?dr=12178&from=2739998086&idc=useast5&ps=933b5bde&shcp=6ce186a1&shp=a3510d86&t=555f072d",
+    "source_link_id": "40",
+    "checked_at": "2026-09-06T17:43:18.917140+00:00",
+    "method": "Public product description image GET, no cookies",
+    "status": 200,
+    "bytes": 30769,
+    "sha256": "9a79062632f6b1c8fdb422d89c62f2822425a942268ba9866d17c0c1ab45a9ba",
+    "content_type": "image/jpeg",
+    "file": "tiktok_description_40.jpg"
+  },
+  {
+    "url": "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/25264abe71d04badb62eb7b2758ce659~tplv-fhlh96nyum-origin-jpeg.jpeg?dr=12178&from=2739998086&idc=useast5&ps=933b5bde&shcp=6ce186a1&shp=a3510d86&t=555f072d",
+    "source_link_id": "41",
+    "checked_at": "2026-09-06T17:43:19.917272+00:00",
+    "method": "Public product description image GET, no cookies",
+    "status": 200,
+    "bytes": 218606,
+    "sha256": "82e3131cdce6ba4e2c5926a43634f507c147e73d0ef9686be386515b39cc2595",
+    "content_type": "image/jpeg",
+    "file": "tiktok_description_41.jpg"
+  }
+]

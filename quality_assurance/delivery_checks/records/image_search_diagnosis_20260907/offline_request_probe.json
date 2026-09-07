@@ -1,0 +1,38 @@
+{
+  "checked_at": "2026-09-06T17:11:37.141671+00:00",
+  "mode": "offline_http_boundary_stub",
+  "network_searches": 0,
+  "warning": "Captured request construction only; stub output is not gateway evidence.",
+  "requests": [
+    {
+      "imageUrl": "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/1695764d573348959ffee3698c112c2c~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839",
+      "pageSize": 3,
+      "purchaseAmount": 1,
+      "scoreLevel": "high",
+      "tags": "4306497",
+      "image_base64_present": false
+    },
+    {
+      "imageUrl": null,
+      "pageSize": 3,
+      "purchaseAmount": 1,
+      "scoreLevel": "high",
+      "tags": "4306497",
+      "image_base64_present": true,
+      "uploaded_image_format": "JPEG",
+      "uploaded_image_dimensions": [
+        800,
+        800
+      ],
+      "uploaded_byte_length": 86594,
+      "uploaded_sha256": "fb0cdee3aee5533dac14baa6fd76a485a945eaba8d5ccfd70f5d83cbf0653de6"
+    }
+  ],
+  "checks": {
+    "archived_cli_list_is_empty": true,
+    "parser_keeps_nonempty_list": true,
+    "url_input_sends_url_without_image_bytes": true,
+    "local_webp_becomes_jpeg_base64": true,
+    "same_filter_parameters": true
+  }
+}

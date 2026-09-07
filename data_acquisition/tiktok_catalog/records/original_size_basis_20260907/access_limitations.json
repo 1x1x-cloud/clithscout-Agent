@@ -1,0 +1,42 @@
+{
+  "checked_at": "2026-09-06T17:46:50.041146+00:00",
+  "attempts": [
+    {
+      "operation": "Web fetch original _ aliases",
+      "result": "No usable content"
+    },
+    {
+      "operation": "Chrome getTab original page",
+      "result": "Timeout; no body"
+    },
+    {
+      "operation": "Web fetch complete canonical URL from local catalog",
+      "result": "Success, cached crawl two months ago"
+    },
+    {
+      "operation": "Public GET canonical HTML",
+      "result": "Connection timeout",
+      "record": "tiktok_product_page_request.json"
+    },
+    {
+      "operation": "In-app browser create tab canonical URL",
+      "result": "Timeout; stopped further browser attempts"
+    },
+    {
+      "operation": "Web fetch six linked product images",
+      "result": "Cache misses; stopped this method"
+    },
+    {
+      "operation": "Direct public GET first two observed description image URLs",
+      "result": "Both 200, original bytes saved",
+      "record": "tiktok_description_requests.json"
+    },
+    {
+      "operation": "Exact SKU and review-text searches",
+      "result": "No verifiable SKU-to-size evidence; irrelevant results ignored"
+    }
+  ],
+  "unknown_cause": "Timeouts do not establish account permission issues or absence of product data.",
+  "scope": "No paid Actor runs, 1688 searches, supplier messages, orders or production changes.",
+  "local_issue": "Initial dossier generator selected not_captured list instead of products in catalog and raised AttributeError before any output write; corrected to the actual products key without network retry."
+}

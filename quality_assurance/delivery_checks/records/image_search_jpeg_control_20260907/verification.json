@@ -1,0 +1,16 @@
+{
+  "checks": {
+    "one_search_http_attempt": true,
+    "http_200_and_gateway_success": true,
+    "cli_success": true,
+    "three_products_in_both_layers": true,
+    "same_parameters_as_url_query": true,
+    "uploaded_bytes_match_prepared_jpeg": true,
+    "gateway_echoed_identical_image_bytes": true,
+    "source_image_local_path_preserved": true,
+    "product_and_sku_mapping_preserved": true,
+    "raw_response_hash_preserved": true
+  },
+  "console_rendering_error": "Runner process returned 1 only after saving completed results: final console print raised UnicodeEncodeError under GBK. Vendor CLI exit was 0; no retry performed.",
+  "scope": "One-image live input-path control; does not isolate external fetch versus WebP decode, prove general reliability, SKU fit, or supply."
+}

@@ -1,0 +1,238 @@
+[
+  {
+    "product_id": "1732357239054307594",
+    "keyword": "dress",
+    "short_name": "V领露背连衣裙",
+    "shop_name": "HoneyBadgercome",
+    "shop_id": "8647145322393932042",
+    "shop_url": "https://shop.tiktok.com/us/store/honeybadgercome/8647145322393932042",
+    "ad_id": "2UqAab0ArD0",
+    "video_id": "7676260884062276877",
+    "ad_published_date": "2026-08-21",
+    "category_leaf_id": "601281",
+    "category_path": [
+      "女装与女士内衣",
+      "女士连衣裙",
+      "女士休闲连衣裙"
+    ],
+    "rating_display": "4.1",
+    "global_review_count_display": 114,
+    "star_counts_display": {
+      "1": 13,
+      "2": 5,
+      "3": 9,
+      "4": 13,
+      "5": 74
+    },
+    "pages_read": [
+      1
+    ],
+    "displayed_last_page": 38,
+    "current_selected_color": "Light wash",
+    "current_selected_size": "M",
+    "size_labels": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      {
+        "color_label": "Light wash",
+        "image_url": "https://p16-oec-general.ttcdn-us.com/tos-alisg-i-aphluv4xwc-sg/bc8dbd6c960e49a8abc3faec77c9c538~tplv-fhlh96nyum-crop-webp:1350:1800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839"
+      },
+      {
+        "color_label": "Black",
+        "image_url": "https://p16-oec-general.ttcdn-us.com/tos-alisg-i-aphluv4xwc-sg/e79e409a45b5447c92a68965e5abaf25~tplv-fhlh96nyum-crop-webp:1350:1800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839"
+      },
+      {
+        "color_label": "Pink",
+        "image_url": "https://p16-oec-general.ttcdn-us.com/tos-alisg-i-aphluv4xwc-sg/b0a1d84bb0f4424fba86ac780a024b50~tplv-fhlh96nyum-crop-webp:1350:1800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839"
+      },
+      {
+        "color_label": "Light blue-green",
+        "image_url": "https://p16-oec-general.ttcdn-us.com/tos-alisg-i-aphluv4xwc-sg/c9eb8062e0dd4c7ab76318b9293d91f3~tplv-fhlh96nyum-crop-webp:1350:1800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839"
+      }
+    ],
+    "market": "US",
+    "observed_on": "2026-09-07",
+    "source_timezone": null,
+    "keyword_url": "https://www.fastmoss.com/zh/creativecenter/search?page=1&words=dress&region=US",
+    "ad_url": "https://www.fastmoss.com/zh/creativecenter/newdetail/2UqAab0ArD0",
+    "landing_url_observed": "https://www.tiktok.com/shop/pdp/mens-athletic-t-shirt-by-brand-lightweight-quick-dry-crew-neck-tops/1732357239054307594?source=ecommerce_store",
+    "product_url_observed": "https://shop.tiktok.com/us/pdp/mens-athletic-t-shirt-by-brand-lightweight-quick-dry-crew-neck-tops/1732357239054307594?source=ecommerce_store",
+    "product_url_canonical_observed": "https://shop.tiktok.com/us/pdp/mens-athletic-t-shirt-by-brand-lightweight-quick-dry-crew-neck-tops/1732357239054307594",
+    "identity_status": "FastMoss关联标题与TikTok原页标题、商品ID及店铺一致；URL slug不用于品类判断",
+    "category_source": "TikTok Shop US页面面包屑；分类版本未知，观察日期2026-09-07",
+    "source_title_ref": "source_reviews.transcribed.json#1732357239054307594",
+    "selected_main_image": "https://p16-oec-general.ttcdn-us.com/tos-alisg-i-aphluv4xwc-sg/bc8dbd6c960e49a8abc3faec77c9c538~tplv-fhlh96nyum-crop-webp:1350:1800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839",
+    "review_records_read": 3,
+    "review_sort_display": "推荐",
+    "review_filter_display": "全部",
+    "coverage_complete": false,
+    "valid_review_denominator": null,
+    "independent_buyers": null,
+    "problem_share": null,
+    "sku_id_mapping": null,
+    "size_chart_applicability": null,
+    "verified_fabric_composition": null,
+    "procurement_status": "待供货核验",
+    "demand_card_eligible": false
+  },
+  {
+    "product_id": "1732510609891758832",
+    "keyword": "bra",
+    "short_name": "VRCOMFY 前扣文胸",
+    "shop_name": "VRCOMFY",
+    "shop_id": "7495757249114901232",
+    "shop_url": "https://shop.tiktok.com/us/store/vrcomfy/7495757249114901232",
+    "ad_id": "2UY2i6kX67e",
+    "video_id": "7681343415014919437",
+    "ad_published_date": "2026-09-04",
+    "category_leaf_id": "601262",
+    "category_path": [
+      "女装与女士内衣",
+      "女士内衣",
+      "女士文胸"
+    ],
+    "rating_display": "4.3",
+    "global_review_count_display": 112,
+    "star_counts_display": {
+      "1": 4,
+      "2": 8,
+      "3": 13,
+      "4": 12,
+      "5": 75
+    },
+    "pages_read": [
+      1,
+      2
+    ],
+    "displayed_last_page": 38,
+    "current_selected_color": "Black",
+    "current_selected_size": "XS",
+    "size_labels": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      {
+        "color_label": "Black",
+        "image_url": "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/8519dd0f85394cda8eb57255ba23adec~tplv-fhlh96nyum-crop-webp:1600:1600.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839"
+      },
+      {
+        "color_label": "Nude",
+        "image_url": "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/6fae14a7a97a498babfe5abc2f007e56~tplv-fhlh96nyum-crop-webp:1600:1600.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839"
+      }
+    ],
+    "market": "US",
+    "observed_on": "2026-09-07",
+    "source_timezone": null,
+    "keyword_url": "https://www.fastmoss.com/zh/creativecenter/search?page=1&words=bra&region=US",
+    "ad_url": "https://www.fastmoss.com/zh/creativecenter/newdetail/2UY2i6kX67e",
+    "landing_url_observed": "https://www.tiktok.com/shop/pdp/mens-athletic-t-shirt-by-brand-lightweight-quick-dry-crew-neck-tops/1732510609891758832?source=ecommerce_store",
+    "product_url_observed": "https://shop.tiktok.com/us/pdp/mens-athletic-t-shirt-by-brand-lightweight-quick-dry-crew-neck-tops/1732510609891758832?source=ecommerce_store",
+    "product_url_canonical_observed": "https://shop.tiktok.com/us/pdp/mens-athletic-t-shirt-by-brand-lightweight-quick-dry-crew-neck-tops/1732510609891758832",
+    "identity_status": "FastMoss关联标题与TikTok原页标题、商品ID及店铺一致；URL slug不用于品类判断",
+    "category_source": "TikTok Shop US页面面包屑；分类版本未知，观察日期2026-09-07",
+    "source_title_ref": "source_reviews.transcribed.json#1732510609891758832",
+    "selected_main_image": "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/8519dd0f85394cda8eb57255ba23adec~tplv-fhlh96nyum-crop-webp:1600:1600.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839",
+    "review_records_read": 6,
+    "review_sort_display": "推荐",
+    "review_filter_display": "全部",
+    "coverage_complete": false,
+    "valid_review_denominator": null,
+    "independent_buyers": null,
+    "problem_share": null,
+    "sku_id_mapping": null,
+    "size_chart_applicability": null,
+    "verified_fabric_composition": null,
+    "procurement_status": "待供货核验",
+    "demand_card_eligible": false
+  },
+  {
+    "product_id": "1731650530027868452",
+    "keyword": "jeans",
+    "short_name": "蝴蝶结刺绣牛仔裤",
+    "shop_name": "Fashion forefront",
+    "shop_id": "8651037387888431396",
+    "shop_url": "https://shop.tiktok.com/us/store/fashion-forefront/8651037387888431396",
+    "ad_id": "2UoA0BMXkQT",
+    "video_id": "7675292153500814622",
+    "ad_published_date": "2026-08-18",
+    "category_leaf_id": "601276",
+    "category_path": [
+      "女装与女士内衣",
+      "女士下装",
+      "女士牛仔裤"
+    ],
+    "rating_display": "4.4",
+    "global_review_count_display": 138,
+    "star_counts_display": {
+      "1": 12,
+      "2": 2,
+      "3": 7,
+      "4": 16,
+      "5": 101
+    },
+    "pages_read": [
+      1
+    ],
+    "displayed_last_page": 46,
+    "current_selected_color": "Regular wash, black",
+    "current_selected_size": "XL",
+    "size_labels": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      {
+        "color_label": "Blue",
+        "image_url": "https://p16-oec-general.ttcdn-us.com/tos-alisg-i-aphluv4xwc-sg/fab941afb0704411bdd8298e9acf0a5c~tplv-fhlh96nyum-crop-webp:1350:1800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839"
+      },
+      {
+        "color_label": "Dark gray",
+        "image_url": "https://p16-oec-general.ttcdn-us.com/tos-alisg-i-aphluv4xwc-sg/be8bea0b7cf2489394ea471b0f0400e7~tplv-fhlh96nyum-crop-webp:1350:1800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839"
+      },
+      {
+        "color_label": "Regular wash, black",
+        "image_url": "https://p16-oec-general.ttcdn-us.com/tos-alisg-i-aphluv4xwc-sg/c54b490cc35b44bbaef204795c271c85~tplv-fhlh96nyum-crop-webp:1350:1800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839"
+      },
+      {
+        "color_label": "Dark blue",
+        "image_url": "https://p16-oec-general.ttcdn-us.com/tos-alisg-i-aphluv4xwc-sg/9fda548d59d1459f8cee8720e8717864~tplv-fhlh96nyum-crop-webp:1350:1800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839"
+      }
+    ],
+    "market": "US",
+    "observed_on": "2026-09-07",
+    "source_timezone": null,
+    "keyword_url": "https://www.fastmoss.com/zh/creativecenter/search?page=1&words=jeans&region=US",
+    "ad_url": "https://www.fastmoss.com/zh/creativecenter/newdetail/2UoA0BMXkQT",
+    "landing_url_observed": "https://www.tiktok.com/shop/pdp/mens-athletic-t-shirt-by-brand-lightweight-quick-dry-crew-neck-tops/1731650530027868452?source=ecommerce_store",
+    "product_url_observed": "https://shop.tiktok.com/us/pdp/mens-athletic-t-shirt-by-brand-lightweight-quick-dry-crew-neck-tops/1731650530027868452?source=ecommerce_store",
+    "product_url_canonical_observed": "https://shop.tiktok.com/us/pdp/mens-athletic-t-shirt-by-brand-lightweight-quick-dry-crew-neck-tops/1731650530027868452",
+    "identity_status": "FastMoss关联标题与TikTok原页标题、商品ID及店铺一致；URL slug不用于品类判断",
+    "category_source": "TikTok Shop US页面面包屑；分类版本未知，观察日期2026-09-07",
+    "source_title_ref": "source_reviews.transcribed.json#1731650530027868452",
+    "selected_main_image": "https://p16-oec-general.ttcdn-us.com/tos-alisg-i-aphluv4xwc-sg/c54b490cc35b44bbaef204795c271c85~tplv-fhlh96nyum-crop-webp:1350:1800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839",
+    "review_records_read": 3,
+    "review_sort_display": "推荐",
+    "review_filter_display": "全部",
+    "coverage_complete": false,
+    "valid_review_denominator": null,
+    "independent_buyers": null,
+    "problem_share": null,
+    "sku_id_mapping": null,
+    "size_chart_applicability": null,
+    "verified_fabric_composition": null,
+    "procurement_status": "待供货核验",
+    "demand_card_eligible": false
+  }
+]

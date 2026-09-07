@@ -1,0 +1,116 @@
+[
+  {
+    "method": "S1",
+    "status": "已达到需求卡门槛",
+    "scope": "current",
+    "product_id": "synthetic-product",
+    "issue": "too_big",
+    "category": "top",
+    "source_titles_as_reported": [
+      "Knit top"
+    ],
+    "statement": "评价者认为衣物偏大",
+    "population": null,
+    "scenario": null,
+    "must_conditions": [
+      {
+        "condition": "评价者认为衣物偏大，需明确可检验目标",
+        "evidence_ids": [
+          "EV-dd1331737999d045",
+          "EV-bf0911e8ed2fb52e",
+          "EV-f9a65b6151b5ded0"
+        ]
+      }
+    ],
+    "preferences": [],
+    "target_measurements": null,
+    "unknown": [
+      "偏大部位、所购尺码、目标尺寸和原商品尺寸",
+      "采购数量、目标价格、交付要求",
+      "其他独立使用者的证据"
+    ],
+    "hypotheses": [],
+    "support_evidence_ids": [
+      "EV-dd1331737999d045",
+      "EV-bf0911e8ed2fb52e",
+      "EV-f9a65b6151b5ded0"
+    ],
+    "counter_evidence_ids": [
+      "EV-da488ba8647da6ab"
+    ],
+    "counter_limit": "合身正面评价仅为同商品对照；买家和尺码可能不同",
+    "distinct_text_signals": 3,
+    "window": {
+      "start": "2026-08-30T09:05:42Z",
+      "end": "2026-09-06T09:05:42Z"
+    },
+    "market_basis": "Actor country field; buyer residence not independently verified",
+    "manual_review": {
+      "status": "pending",
+      "version": 1
+    },
+    "extraction_method": "finite_rules_v1",
+    "signal_id": "PS-414e298ca798ef31",
+    "prevalence": {
+      "policy": {
+        "version": "s1-prevalence-v1",
+        "min_effective_reviews": 5,
+        "recommended_effective_reviews": 10,
+        "min_independent_buyers": 3,
+        "min_distinct_support_texts": 3,
+        "min_problem_ratio": 0.2
+      },
+      "coverage_confirmed": true,
+      "sample_source": {
+        "product_id": "synthetic-product",
+        "market": "US",
+        "window": {
+          "start": "2026-08-30T09:05:42Z",
+          "end": "2026-09-06T09:05:42Z"
+        },
+        "rating_scope": "all",
+        "complete": true,
+        "review_ids": [
+          "r0",
+          "r1",
+          "r2",
+          "r3",
+          "r4"
+        ],
+        "source_ref": "https://example.invalid/complete-synthetic-export",
+        "checked_at": "2026-09-07T00:00:00Z"
+      },
+      "support_record_count": 3,
+      "effective_support_count": 3,
+      "effective_sample_count": 5,
+      "distinct_support_text_count": 3,
+      "independent_buyer_count": 3,
+      "problem_ratio": 0.6,
+      "gates": {
+        "sample_size": true,
+        "independent_buyers": true,
+        "problem_ratio": true
+      },
+      "approved": true,
+      "effective_evidence_ids": [
+        "EV-dd1331737999d045",
+        "EV-bf0911e8ed2fb52e",
+        "EV-f9a65b6151b5ded0",
+        "EV-da488ba8647da6ab",
+        "EV-31530f8b62ec2c3f"
+      ],
+      "effective_support_evidence_ids": [
+        "EV-dd1331737999d045",
+        "EV-bf0911e8ed2fb52e",
+        "EV-f9a65b6151b5ded0"
+      ],
+      "unresolved_evidence_ids": [],
+      "exclusions": [],
+      "warnings": [
+        "sample_below_recommended_10"
+      ],
+      "limitation": "Imported provenance and identity assertions are not independently verified by the program."
+    },
+    "sourcing_eligible": true
+  }
+]

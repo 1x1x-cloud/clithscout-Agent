@@ -1,0 +1,67 @@
+[
+  {
+    "reviewId": "r0",
+    "productId": "synthetic-product",
+    "skuId": "sku0",
+    "content": "Top is too big",
+    "timestamp": "2026-09-01T12:00:00Z",
+    "rating": 1,
+    "status": "Success",
+    "authorCountry": "US",
+    "productTitle": "Knit top",
+    "productUrl": "https://example.invalid/pants",
+    "productMainImage": "https://example.invalid/synthetic-main.jpg"
+  },
+  {
+    "reviewId": "r1",
+    "productId": "synthetic-product",
+    "skuId": "sku1",
+    "content": "这件上衣偏大",
+    "timestamp": "2026-09-01T12:00:00Z",
+    "rating": 1,
+    "status": "Success",
+    "authorCountry": "US",
+    "productTitle": "Knit top",
+    "productUrl": "https://example.invalid/pants",
+    "productMainImage": "https://example.invalid/synthetic-main.jpg"
+  },
+  {
+    "reviewId": "r2",
+    "productId": "synthetic-product",
+    "skuId": "sku2",
+    "content": "This top runs large",
+    "timestamp": "2026-09-01T12:00:00Z",
+    "rating": 1,
+    "status": "Success",
+    "authorCountry": "US",
+    "productTitle": "Knit top",
+    "productUrl": "https://example.invalid/pants",
+    "productMainImage": "https://example.invalid/synthetic-main.jpg"
+  },
+  {
+    "reviewId": "r3",
+    "productId": "synthetic-product",
+    "skuId": "synthetic-sku",
+    "content": "Fits perfectly",
+    "timestamp": "2026-09-01T12:00:00Z",
+    "rating": 5,
+    "status": "Success",
+    "authorCountry": "US",
+    "productTitle": "Knit top",
+    "productUrl": "https://example.invalid/pants",
+    "productMainImage": "https://example.invalid/synthetic-main.jpg"
+  },
+  {
+    "reviewId": "r4",
+    "productId": "synthetic-product",
+    "skuId": "synthetic-sku",
+    "content": "Detailed positive fit feedback 4",
+    "timestamp": "2026-09-01T12:00:00Z",
+    "rating": 5,
+    "status": "Success",
+    "authorCountry": "US",
+    "productTitle": "Knit top",
+    "productUrl": "https://example.invalid/pants",
+    "productMainImage": "https://example.invalid/synthetic-main.jpg"
+  }
+]

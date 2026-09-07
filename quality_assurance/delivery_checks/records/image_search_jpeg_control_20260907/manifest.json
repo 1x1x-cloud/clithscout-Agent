@@ -1,0 +1,24 @@
+{
+  "started_at": "2026-09-06T17:15:46.155622+00:00",
+  "authorization": "User approved one additional same-image JPEG control query.",
+  "cli": "D:\\clothscout\\product_sourcing\\1688_skill\\vendor\\1688-product-find\\cli.py",
+  "arguments": [
+    "image_search",
+    "--image",
+    "D:\\clothscout\\quality_assurance\\delivery_checks\\records\\image_search_diagnosis_20260907\\jpeg_input.jpg",
+    "--limit",
+    "3",
+    "--score-level",
+    "high",
+    "--purchase-amount",
+    "1",
+    "--tags",
+    "4306497"
+  ],
+  "image_sha256": "fb0cdee3aee5533dac14baa6fd76a485a945eaba8d5ccfd70f5d83cbf0653de6",
+  "search_http_attempts": 1,
+  "automatic_search_retry_allowed": false,
+  "finished_at": "2026-09-06T17:15:50.750314+00:00",
+  "exit_code": 0,
+  "stderr_captured_but_not_saved": false
+}

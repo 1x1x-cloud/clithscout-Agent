@@ -1,0 +1,83 @@
+{
+  "capture_basis": "Manual transcription of selected fields from successful CLI tool output; not a full gateway response.",
+  "query": "秋季服装套装 国内现货",
+  "products": [
+    {
+      "product_id": "930538896705",
+      "title": "泳衣套装男防晒长袖长裤青少年游泳装备全套成人速干泳裤2025新款",
+      "detail_url": "https://detail.1688.com/offer/930538896705.html?&object_id=930538896705",
+      "price": 22.8,
+      "sku_id": 5980357046656,
+      "sku_title": "T19绿色+J18长裤+DK05绿色【速干透气】 2XL",
+      "similarity_score": 0.9840062500000001,
+      "quantity_begin": 1,
+      "supplier": "广州市浪哩稳网络科技有限公司",
+      "sold_count": 0,
+      "stock_amount": 719935,
+      "category_id": null,
+      "service_infos": [
+        {
+          "type": "预计达",
+          "value": "后天达"
+        },
+        {
+          "type": "保险",
+          "value": "退货包运费"
+        }
+      ]
+    },
+    {
+      "product_id": "960694325345",
+      "title": "加绒男运动服装跑步训练户外保暖速干健身蓝足球训练高弹力保暖套",
+      "detail_url": "https://detail.1688.com/offer/960694325345.html?&object_id=960694325345",
+      "price": 10.5,
+      "sku_id": 6098108878216,
+      "sku_title": "【加绒】J09科幻长袖 2XL",
+      "similarity_score": 0.98359375,
+      "quantity_begin": 1,
+      "supplier": "广州市浪哩稳网络科技有限公司",
+      "sold_count": 0,
+      "stock_amount": 223984674,
+      "category_id": null,
+      "service_infos": [
+        {
+          "type": "质量保障",
+          "value": "官方验货"
+        },
+        {
+          "type": "预计达",
+          "value": "后天达"
+        },
+        {
+          "type": "保险",
+          "value": "退货包运费"
+        }
+      ]
+    },
+    {
+      "product_id": "829204205151",
+      "title": "男士春秋连帽运动套装简约韩版休闲卫衣卫裤帅气男装搭配帽衫整套",
+      "detail_url": "https://detail.1688.com/offer/829204205151.html?&object_id=829204205151",
+      "price": 29,
+      "sku_id": 5728047458732,
+      "sku_title": "灰色 L",
+      "similarity_score": 0.969945625,
+      "quantity_begin": 1,
+      "supplier": "揭阳市揭东区桂岭镇泽喜服装商行",
+      "sold_count": 0,
+      "stock_amount": 13960,
+      "category_id": null,
+      "service_infos": [
+        {
+          "type": "预计达",
+          "value": "后天达"
+        },
+        {
+          "type": "保险",
+          "value": "退货包运费"
+        }
+      ]
+    }
+  ]
+}
+

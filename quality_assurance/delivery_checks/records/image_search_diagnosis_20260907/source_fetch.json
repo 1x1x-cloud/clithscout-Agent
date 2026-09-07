@@ -1,0 +1,16 @@
+{
+  "checked_at": "2026-09-06T17:10:51.664943+00:00",
+  "source_archive": "workflow_execution\\run_history\\records\\20260906T165943Z_fc9a7de8\\searches\\QI-eb1c8aff42a0fae9.json",
+  "purpose": "Read original image only; no 1688 search",
+  "source_url": "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/1695764d573348959ffee3698c112c2c~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839",
+  "http_status": 200,
+  "content_type": "image/webp",
+  "image_format": "WEBP",
+  "dimensions": [
+    800,
+    800
+  ],
+  "mode": "RGB",
+  "byte_length": 29344,
+  "sha256": "e8504dd7d67da74c0d903c87b39a8fe082b0c8b9cdf714eeed2c62ed3acf525a"
+}

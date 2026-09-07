@@ -1,0 +1,21 @@
+{
+  "checked_at": "2026-09-06T17:46:50.041146+00:00",
+  "raw_source": "data_acquisition/shop_reviews/records/user_run_20260906_144758/raw_reviews.json",
+  "raw_source_sha256": "e5410e6a32533cd8362050e5a5bf350b22253dccd4b342bda798a968a328989f",
+  "raw_row_index": 6,
+  "fields": {
+    "reviewId": "7679900019943687949",
+    "productId": "1732331935794958838",
+    "skuId": "1732475515663127030",
+    "content": "Ugly top and way too big. Returninh",
+    "timestamp": "2026-08-30T18:54:33.776Z",
+    "scrapedAt": "2026-09-06T14:47:58.972Z",
+    "productTitle": "CHICME Women's Striped Halter Golden Button Decor Tank Causal Sleeveless Breathable Knit Top Casual Camisole",
+    "productUrl": "https://www.tiktok.com/shop/pdp/_/1732331935794958838"
+  },
+  "purchased_size_label": null,
+  "purchased_color": null,
+  "complaint_body_part": null,
+  "requested_measurements": null,
+  "evidence_limitation": "Raw record provides SKU ID only; no purchased variant label or dimensions. too_big does not imply target size or a specific body part."
+}

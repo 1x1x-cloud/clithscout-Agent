@@ -1,0 +1,1042 @@
+[
+  {
+    "method": "S1",
+    "status": "待补证据",
+    "scope": "historical_or_other_market",
+    "product_id": "1732510609891758832",
+    "issue": "too_small",
+    "category": "top",
+    "source_titles_as_reported": [
+      "VRCOMFY Women's Front Closure Bra, Deep V Lace Jelly Bra, Wireless Padded Everyday T-Shirt Bra"
+    ],
+    "statement": "评价者认为衣物偏小或过紧",
+    "population": null,
+    "scenario": null,
+    "must_conditions": [
+      {
+        "condition": "评价者认为衣物偏小或过紧，需明确可检验目标",
+        "evidence_ids": [
+          "EV-e381a3d473962fee"
+        ]
+      }
+    ],
+    "preferences": [],
+    "target_measurements": null,
+    "unknown": [
+      "偏小部位、所购尺码、目标尺寸和原商品尺寸",
+      "采购数量、目标价格、交付要求",
+      "其他独立使用者的证据"
+    ],
+    "hypotheses": [],
+    "support_evidence_ids": [
+      "EV-e381a3d473962fee"
+    ],
+    "counter_evidence_ids": [],
+    "counter_limit": "合身正面评价仅为同商品对照；买家和尺码可能不同",
+    "distinct_text_signals": 1,
+    "window": {
+      "start": "2026-08-30T09:05:42Z",
+      "end": "2026-09-06T09:05:42Z"
+    },
+    "market_basis": "Actor country field; buyer residence not independently verified",
+    "manual_review": {
+      "status": "pending",
+      "version": 1
+    },
+    "extraction_method": "finite_rules_v1",
+    "signal_id": "PS-edd8f313609343d8",
+    "prevalence": {
+      "policy": {
+        "version": "s1-prevalence-v1",
+        "min_effective_reviews": 5,
+        "recommended_effective_reviews": 10,
+        "min_independent_buyers": 3,
+        "min_distinct_support_texts": 3,
+        "min_problem_ratio": 0.2
+      },
+      "coverage_confirmed": false,
+      "sample_source": {
+        "product_id": "1732510609891758832",
+        "market": "US",
+        "window": {
+          "start": "2026-08-30T09:05:42Z",
+          "end": "2026-09-06T09:05:42Z"
+        },
+        "rating_scope": "all",
+        "complete": false,
+        "review_ids": [
+          "7682274321636656910",
+          "7682092889813911309",
+          "7682027470236993294",
+          "7682012126864623374",
+          "7681880945967957774",
+          "7681870717184395022",
+          "7681851535449442062",
+          "7681730615874094862",
+          "7681717226366125837",
+          "7681695365929928461",
+          "7681695140016310030",
+          "7681677346675705613",
+          "7681532661290305293",
+          "7681458188278548238",
+          "7681280219873003278",
+          "7681115360702269198",
+          "7681056933931403022",
+          "7680998578379835150",
+          "7680997182087792398",
+          "7680856331680319246",
+          "7680761981967664910",
+          "7680761146839746317",
+          "7680745250311243534",
+          "7680670162944722701",
+          "7680595825213540109",
+          "7680569329080813326",
+          "7680538752149669646",
+          "7680520364780275470",
+          "7680449818321536781",
+          "7680396546785822478",
+          "7680355433628469006",
+          "7680306511989557006",
+          "7680044702342645518",
+          "7680015838256482062",
+          "7679956738765981453",
+          "7679956704881739534"
+        ],
+        "source_ref": "demand_discovery/analysis_workflow/records/keyword_reviews_20260907/coverage_and_identity.json; data_acquisition/apify_reviews/records/keyword_products_apify_20260907/download_validation.json; data_acquisition/apify_reviews/records/keyword_products_apify_20260907/actor_input.json; data_acquisition/apify_reviews/records/keyword_products_apify_20260907/run_log.redacted.txt",
+        "checked_at": "2026-09-07T05:41:55.553675+00:00"
+      },
+      "support_record_count": 1,
+      "effective_support_count": 0,
+      "effective_sample_count": 0,
+      "distinct_support_text_count": 0,
+      "independent_buyer_count": null,
+      "problem_ratio": null,
+      "gates": {
+        "sample_size": false,
+        "independent_buyers": false,
+        "problem_ratio": false
+      },
+      "approved": false,
+      "effective_evidence_ids": [],
+      "effective_support_evidence_ids": [],
+      "unresolved_evidence_ids": [
+        "EV-6dc99c8d51e1d2cd",
+        "EV-ed301355bbbca249",
+        "EV-ec233c965e6e679c",
+        "EV-b34f240eecd01f49",
+        "EV-2866237b4159f401",
+        "EV-2000c850bd05b7c9",
+        "EV-325ffa49a56e28cc",
+        "EV-da44ac68c6b8aa5f",
+        "EV-14f531c695134847",
+        "EV-0b5991b2340e30e5",
+        "EV-109c61b8d8df7d7b"
+      ],
+      "exclusions": [
+        {
+          "evidence_id": "EV-2639d1112339ea7b",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-330c28743bec5980",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-ade7edc82221c0e3",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-f18209c40fb55c29",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-4b3cdaddc8edeb31",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-a1a121bdcbb1f939",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-25fc4456845d7f5d",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-e4ec61dbfaa957c2",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-31249b6a83a265c4",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-3cbaf670ab14b524",
+          "reason": "empty_or_pure_praise"
+        }
+      ],
+      "warnings": [
+        "sample_below_recommended_10"
+      ],
+      "limitation": "Imported provenance and identity assertions are not independently verified by the program."
+    },
+    "sourcing_eligible": false
+  },
+  {
+    "method": "S1",
+    "status": "待补证据",
+    "scope": "historical_or_other_market",
+    "product_id": "1732357239054307594",
+    "issue": "too_big",
+    "category": "dress",
+    "source_titles_as_reported": [
+      "Women's Solid V-neck Mid-sleeve Backless Slim Dress, stylish, chic and figure-hugging, perfect for daily looks and commuting, Summer Dresses"
+    ],
+    "statement": "评价者认为衣物偏大",
+    "population": null,
+    "scenario": null,
+    "must_conditions": [
+      {
+        "condition": "评价者认为衣物偏大，需明确可检验目标",
+        "evidence_ids": [
+          "EV-b9d61e5575cce660",
+          "EV-db5c9234a09eafc6"
+        ]
+      }
+    ],
+    "preferences": [],
+    "target_measurements": null,
+    "unknown": [
+      "偏大部位、所购尺码、目标尺寸和原商品尺寸",
+      "采购数量、目标价格、交付要求",
+      "其他独立使用者的证据"
+    ],
+    "hypotheses": [],
+    "support_evidence_ids": [
+      "EV-b9d61e5575cce660",
+      "EV-db5c9234a09eafc6"
+    ],
+    "counter_evidence_ids": [],
+    "counter_limit": "合身正面评价仅为同商品对照；买家和尺码可能不同",
+    "distinct_text_signals": 2,
+    "window": {
+      "start": "2026-08-30T09:05:42Z",
+      "end": "2026-09-06T09:05:42Z"
+    },
+    "market_basis": "Actor country field; buyer residence not independently verified",
+    "manual_review": {
+      "status": "pending",
+      "version": 1
+    },
+    "extraction_method": "finite_rules_v1",
+    "signal_id": "PS-960afe231bd09669",
+    "prevalence": {
+      "policy": {
+        "version": "s1-prevalence-v1",
+        "min_effective_reviews": 5,
+        "recommended_effective_reviews": 10,
+        "min_independent_buyers": 3,
+        "min_distinct_support_texts": 3,
+        "min_problem_ratio": 0.2
+      },
+      "coverage_confirmed": false,
+      "sample_source": {
+        "product_id": "1732357239054307594",
+        "market": "US",
+        "window": {
+          "start": "2026-08-30T09:05:42Z",
+          "end": "2026-09-06T09:05:42Z"
+        },
+        "rating_scope": "all",
+        "complete": false,
+        "review_ids": [
+          "7681811235104392973",
+          "7681796643398862606",
+          "7681689016258430734",
+          "7681688957369681678",
+          "7680736993038436109",
+          "7680013318776751886",
+          "7679865863498974989",
+          "7679851210942007054",
+          "7679815245729220366"
+        ],
+        "source_ref": "demand_discovery/analysis_workflow/records/keyword_reviews_20260907/coverage_and_identity.json; data_acquisition/apify_reviews/records/keyword_products_apify_20260907/download_validation.json; data_acquisition/apify_reviews/records/keyword_products_apify_20260907/actor_input.json; data_acquisition/apify_reviews/records/keyword_products_apify_20260907/run_log.redacted.txt",
+        "checked_at": "2026-09-07T05:41:55.553675+00:00"
+      },
+      "support_record_count": 2,
+      "effective_support_count": 0,
+      "effective_sample_count": 0,
+      "distinct_support_text_count": 0,
+      "independent_buyer_count": null,
+      "problem_ratio": null,
+      "gates": {
+        "sample_size": false,
+        "independent_buyers": false,
+        "problem_ratio": false
+      },
+      "approved": false,
+      "effective_evidence_ids": [],
+      "effective_support_evidence_ids": [],
+      "unresolved_evidence_ids": [],
+      "exclusions": [
+        {
+          "evidence_id": "EV-418a1dfb50595cb0",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-8153ecab42805176",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-f1c918fbb1cfa900",
+          "reason": "duplicate_body"
+        },
+        {
+          "evidence_id": "EV-fc9df8a45b33ecc7",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-2b6abd5a3c5eea20",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-047763514eed5a1d",
+          "reason": "empty_or_pure_praise"
+        }
+      ],
+      "warnings": [
+        "sample_below_recommended_10"
+      ],
+      "limitation": "Imported provenance and identity assertions are not independently verified by the program."
+    },
+    "sourcing_eligible": false
+  },
+  {
+    "method": "S1",
+    "status": "待补证据",
+    "scope": "historical_or_other_market",
+    "product_id": "1732357239054307594",
+    "issue": "material_feel",
+    "category": "dress",
+    "source_titles_as_reported": [
+      "Women's Solid V-neck Mid-sleeve Backless Slim Dress, stylish, chic and figure-hugging, perfect for daily looks and commuting, Summer Dresses"
+    ],
+    "statement": "评价者对面料触感不满",
+    "population": null,
+    "scenario": null,
+    "must_conditions": [
+      {
+        "condition": "评价者对面料触感不满，需明确可检验目标",
+        "evidence_ids": [
+          "EV-23768e7b42e07b26"
+        ]
+      }
+    ],
+    "preferences": [],
+    "target_measurements": null,
+    "unknown": [
+      "可接受的触感和实物对照；必须材质仍未知",
+      "采购数量、目标价格、交付要求",
+      "其他独立使用者的证据"
+    ],
+    "hypotheses": [],
+    "support_evidence_ids": [
+      "EV-23768e7b42e07b26"
+    ],
+    "counter_evidence_ids": [],
+    "counter_limit": "合身正面评价仅为同商品对照；买家和尺码可能不同",
+    "distinct_text_signals": 1,
+    "window": {
+      "start": "2026-08-30T09:05:42Z",
+      "end": "2026-09-06T09:05:42Z"
+    },
+    "market_basis": "Actor country field; buyer residence not independently verified",
+    "manual_review": {
+      "status": "pending",
+      "version": 1
+    },
+    "extraction_method": "finite_rules_v1",
+    "signal_id": "PS-202f7ceec3a276e5",
+    "prevalence": {
+      "policy": {
+        "version": "s1-prevalence-v1",
+        "min_effective_reviews": 5,
+        "recommended_effective_reviews": 10,
+        "min_independent_buyers": 3,
+        "min_distinct_support_texts": 3,
+        "min_problem_ratio": 0.2
+      },
+      "coverage_confirmed": false,
+      "sample_source": {
+        "product_id": "1732357239054307594",
+        "market": "US",
+        "window": {
+          "start": "2026-08-30T09:05:42Z",
+          "end": "2026-09-06T09:05:42Z"
+        },
+        "rating_scope": "all",
+        "complete": false,
+        "review_ids": [
+          "7681811235104392973",
+          "7681796643398862606",
+          "7681689016258430734",
+          "7681688957369681678",
+          "7680736993038436109",
+          "7680013318776751886",
+          "7679865863498974989",
+          "7679851210942007054",
+          "7679815245729220366"
+        ],
+        "source_ref": "demand_discovery/analysis_workflow/records/keyword_reviews_20260907/coverage_and_identity.json; data_acquisition/apify_reviews/records/keyword_products_apify_20260907/download_validation.json; data_acquisition/apify_reviews/records/keyword_products_apify_20260907/actor_input.json; data_acquisition/apify_reviews/records/keyword_products_apify_20260907/run_log.redacted.txt",
+        "checked_at": "2026-09-07T05:41:55.553675+00:00"
+      },
+      "support_record_count": 1,
+      "effective_support_count": 0,
+      "effective_sample_count": 0,
+      "distinct_support_text_count": 0,
+      "independent_buyer_count": null,
+      "problem_ratio": null,
+      "gates": {
+        "sample_size": false,
+        "independent_buyers": false,
+        "problem_ratio": false
+      },
+      "approved": false,
+      "effective_evidence_ids": [],
+      "effective_support_evidence_ids": [],
+      "unresolved_evidence_ids": [],
+      "exclusions": [
+        {
+          "evidence_id": "EV-418a1dfb50595cb0",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-8153ecab42805176",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-f1c918fbb1cfa900",
+          "reason": "duplicate_body"
+        },
+        {
+          "evidence_id": "EV-fc9df8a45b33ecc7",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-2b6abd5a3c5eea20",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-047763514eed5a1d",
+          "reason": "empty_or_pure_praise"
+        }
+      ],
+      "warnings": [
+        "sample_below_recommended_10"
+      ],
+      "limitation": "Imported provenance and identity assertions are not independently verified by the program."
+    },
+    "sourcing_eligible": false
+  },
+  {
+    "method": "S1",
+    "status": "待补证据",
+    "scope": "historical_or_other_market",
+    "product_id": "1732357239054307594",
+    "issue": "too_small",
+    "category": "dress",
+    "source_titles_as_reported": [
+      "Women's Solid V-neck Mid-sleeve Backless Slim Dress, stylish, chic and figure-hugging, perfect for daily looks and commuting, Summer Dresses"
+    ],
+    "statement": "评价者认为衣物偏小或过紧",
+    "population": null,
+    "scenario": null,
+    "must_conditions": [
+      {
+        "condition": "评价者认为衣物偏小或过紧，需明确可检验目标",
+        "evidence_ids": [
+          "EV-95b4df94e8869196"
+        ]
+      }
+    ],
+    "preferences": [],
+    "target_measurements": null,
+    "unknown": [
+      "偏小部位、所购尺码、目标尺寸和原商品尺寸",
+      "采购数量、目标价格、交付要求",
+      "其他独立使用者的证据"
+    ],
+    "hypotheses": [],
+    "support_evidence_ids": [
+      "EV-95b4df94e8869196"
+    ],
+    "counter_evidence_ids": [],
+    "counter_limit": "合身正面评价仅为同商品对照；买家和尺码可能不同",
+    "distinct_text_signals": 1,
+    "window": {
+      "start": "2026-08-30T09:05:42Z",
+      "end": "2026-09-06T09:05:42Z"
+    },
+    "market_basis": "Actor country field; buyer residence not independently verified",
+    "manual_review": {
+      "status": "pending",
+      "version": 1
+    },
+    "extraction_method": "finite_rules_v1",
+    "signal_id": "PS-926cb1a2605b980c",
+    "prevalence": {
+      "policy": {
+        "version": "s1-prevalence-v1",
+        "min_effective_reviews": 5,
+        "recommended_effective_reviews": 10,
+        "min_independent_buyers": 3,
+        "min_distinct_support_texts": 3,
+        "min_problem_ratio": 0.2
+      },
+      "coverage_confirmed": false,
+      "sample_source": {
+        "product_id": "1732357239054307594",
+        "market": "US",
+        "window": {
+          "start": "2026-08-30T09:05:42Z",
+          "end": "2026-09-06T09:05:42Z"
+        },
+        "rating_scope": "all",
+        "complete": false,
+        "review_ids": [
+          "7681811235104392973",
+          "7681796643398862606",
+          "7681689016258430734",
+          "7681688957369681678",
+          "7680736993038436109",
+          "7680013318776751886",
+          "7679865863498974989",
+          "7679851210942007054",
+          "7679815245729220366"
+        ],
+        "source_ref": "demand_discovery/analysis_workflow/records/keyword_reviews_20260907/coverage_and_identity.json; data_acquisition/apify_reviews/records/keyword_products_apify_20260907/download_validation.json; data_acquisition/apify_reviews/records/keyword_products_apify_20260907/actor_input.json; data_acquisition/apify_reviews/records/keyword_products_apify_20260907/run_log.redacted.txt",
+        "checked_at": "2026-09-07T05:41:55.553675+00:00"
+      },
+      "support_record_count": 1,
+      "effective_support_count": 0,
+      "effective_sample_count": 0,
+      "distinct_support_text_count": 0,
+      "independent_buyer_count": null,
+      "problem_ratio": null,
+      "gates": {
+        "sample_size": false,
+        "independent_buyers": false,
+        "problem_ratio": false
+      },
+      "approved": false,
+      "effective_evidence_ids": [],
+      "effective_support_evidence_ids": [],
+      "unresolved_evidence_ids": [],
+      "exclusions": [
+        {
+          "evidence_id": "EV-418a1dfb50595cb0",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-8153ecab42805176",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-f1c918fbb1cfa900",
+          "reason": "duplicate_body"
+        },
+        {
+          "evidence_id": "EV-fc9df8a45b33ecc7",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-2b6abd5a3c5eea20",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-047763514eed5a1d",
+          "reason": "empty_or_pure_praise"
+        }
+      ],
+      "warnings": [
+        "sample_below_recommended_10"
+      ],
+      "limitation": "Imported provenance and identity assertions are not independently verified by the program."
+    },
+    "sourcing_eligible": false
+  },
+  {
+    "method": "S1",
+    "status": "待补证据",
+    "scope": "historical_or_other_market",
+    "product_id": "1732357239054307594",
+    "issue": "transparency",
+    "category": "dress",
+    "source_titles_as_reported": [
+      "Women's Solid V-neck Mid-sleeve Backless Slim Dress, stylish, chic and figure-hugging, perfect for daily looks and commuting, Summer Dresses"
+    ],
+    "statement": "评价者提到透视/遮蔽不足",
+    "population": null,
+    "scenario": null,
+    "must_conditions": [
+      {
+        "condition": "评价者提到透视/遮蔽不足，需明确可检验目标",
+        "evidence_ids": [
+          "EV-b60e7909eb923e41"
+        ]
+      }
+    ],
+    "preferences": [],
+    "target_measurements": null,
+    "unknown": [
+      "穿着光线、颜色、拉伸条件及实物遮蔽测试",
+      "采购数量、目标价格、交付要求",
+      "其他独立使用者的证据"
+    ],
+    "hypotheses": [],
+    "support_evidence_ids": [
+      "EV-b60e7909eb923e41"
+    ],
+    "counter_evidence_ids": [],
+    "counter_limit": "合身正面评价仅为同商品对照；买家和尺码可能不同",
+    "distinct_text_signals": 1,
+    "window": {
+      "start": "2026-08-30T09:05:42Z",
+      "end": "2026-09-06T09:05:42Z"
+    },
+    "market_basis": "Actor country field; buyer residence not independently verified",
+    "manual_review": {
+      "status": "pending",
+      "version": 1
+    },
+    "extraction_method": "finite_rules_v1",
+    "signal_id": "PS-fd0605b92302f044",
+    "prevalence": {
+      "policy": {
+        "version": "s1-prevalence-v1",
+        "min_effective_reviews": 5,
+        "recommended_effective_reviews": 10,
+        "min_independent_buyers": 3,
+        "min_distinct_support_texts": 3,
+        "min_problem_ratio": 0.2
+      },
+      "coverage_confirmed": false,
+      "sample_source": {
+        "product_id": "1732357239054307594",
+        "market": "US",
+        "window": {
+          "start": "2026-08-30T09:05:42Z",
+          "end": "2026-09-06T09:05:42Z"
+        },
+        "rating_scope": "all",
+        "complete": false,
+        "review_ids": [
+          "7681811235104392973",
+          "7681796643398862606",
+          "7681689016258430734",
+          "7681688957369681678",
+          "7680736993038436109",
+          "7680013318776751886",
+          "7679865863498974989",
+          "7679851210942007054",
+          "7679815245729220366"
+        ],
+        "source_ref": "demand_discovery/analysis_workflow/records/keyword_reviews_20260907/coverage_and_identity.json; data_acquisition/apify_reviews/records/keyword_products_apify_20260907/download_validation.json; data_acquisition/apify_reviews/records/keyword_products_apify_20260907/actor_input.json; data_acquisition/apify_reviews/records/keyword_products_apify_20260907/run_log.redacted.txt",
+        "checked_at": "2026-09-07T05:41:55.553675+00:00"
+      },
+      "support_record_count": 1,
+      "effective_support_count": 0,
+      "effective_sample_count": 0,
+      "distinct_support_text_count": 0,
+      "independent_buyer_count": null,
+      "problem_ratio": null,
+      "gates": {
+        "sample_size": false,
+        "independent_buyers": false,
+        "problem_ratio": false
+      },
+      "approved": false,
+      "effective_evidence_ids": [],
+      "effective_support_evidence_ids": [],
+      "unresolved_evidence_ids": [],
+      "exclusions": [
+        {
+          "evidence_id": "EV-418a1dfb50595cb0",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-8153ecab42805176",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-f1c918fbb1cfa900",
+          "reason": "duplicate_body"
+        },
+        {
+          "evidence_id": "EV-fc9df8a45b33ecc7",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-2b6abd5a3c5eea20",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-047763514eed5a1d",
+          "reason": "empty_or_pure_praise"
+        }
+      ],
+      "warnings": [
+        "sample_below_recommended_10"
+      ],
+      "limitation": "Imported provenance and identity assertions are not independently verified by the program."
+    },
+    "sourcing_eligible": false
+  },
+  {
+    "method": "S1",
+    "status": "待补证据",
+    "scope": "historical_or_other_market",
+    "product_id": "1731650530027868452",
+    "issue": "too_big",
+    "category": "trousers",
+    "source_titles_as_reported": [
+      "Elegant Women's High Waist Slimming Jeans, Embroidered Bow Design, Elastic Skinny Fit, All Seasons Fashionable Denim Embroidery Jeans"
+    ],
+    "statement": "评价者认为衣物偏大",
+    "population": null,
+    "scenario": null,
+    "must_conditions": [
+      {
+        "condition": "评价者认为衣物偏大，需明确可检验目标",
+        "evidence_ids": [
+          "EV-cd21379b684b79b0"
+        ]
+      }
+    ],
+    "preferences": [],
+    "target_measurements": null,
+    "unknown": [
+      "偏大部位、所购尺码、目标尺寸和原商品尺寸",
+      "采购数量、目标价格、交付要求",
+      "其他独立使用者的证据"
+    ],
+    "hypotheses": [],
+    "support_evidence_ids": [
+      "EV-cd21379b684b79b0"
+    ],
+    "counter_evidence_ids": [],
+    "counter_limit": "合身正面评价仅为同商品对照；买家和尺码可能不同",
+    "distinct_text_signals": 1,
+    "window": {
+      "start": "2026-08-30T09:05:42Z",
+      "end": "2026-09-06T09:05:42Z"
+    },
+    "market_basis": "Actor country field; buyer residence not independently verified",
+    "manual_review": {
+      "status": "pending",
+      "version": 1
+    },
+    "extraction_method": "finite_rules_v1",
+    "signal_id": "PS-10b669c951e5d0a3",
+    "prevalence": {
+      "policy": {
+        "version": "s1-prevalence-v1",
+        "min_effective_reviews": 5,
+        "recommended_effective_reviews": 10,
+        "min_independent_buyers": 3,
+        "min_distinct_support_texts": 3,
+        "min_problem_ratio": 0.2
+      },
+      "coverage_confirmed": false,
+      "sample_source": {
+        "product_id": "1731650530027868452",
+        "market": "US",
+        "window": {
+          "start": "2026-08-30T09:05:42Z",
+          "end": "2026-09-06T09:05:42Z"
+        },
+        "rating_scope": "all",
+        "complete": false,
+        "review_ids": [
+          "7682204765556442894",
+          "7681848153850808077",
+          "7681812881478731534",
+          "7681675825985177358",
+          "7681675799954507533",
+          "7681046526887134989",
+          "7681046428524955406",
+          "7681046155069523726",
+          "7681030375754237710",
+          "7681030326846015245",
+          "7680955451257505549",
+          "7680736280071407374",
+          "7680232303458371342",
+          "7680009105055139597",
+          "7679998714706708238",
+          "7679958220484282125",
+          "7679957819555120909",
+          "7679889790333961997"
+        ],
+        "source_ref": "demand_discovery/analysis_workflow/records/keyword_reviews_20260907/coverage_and_identity.json; data_acquisition/apify_reviews/records/keyword_products_apify_20260907/download_validation.json; data_acquisition/apify_reviews/records/keyword_products_apify_20260907/actor_input.json; data_acquisition/apify_reviews/records/keyword_products_apify_20260907/run_log.redacted.txt",
+        "checked_at": "2026-09-07T05:41:55.553675+00:00"
+      },
+      "support_record_count": 1,
+      "effective_support_count": 0,
+      "effective_sample_count": 0,
+      "distinct_support_text_count": 0,
+      "independent_buyer_count": null,
+      "problem_ratio": null,
+      "gates": {
+        "sample_size": false,
+        "independent_buyers": false,
+        "problem_ratio": false
+      },
+      "approved": false,
+      "effective_evidence_ids": [],
+      "effective_support_evidence_ids": [],
+      "unresolved_evidence_ids": [
+        "EV-045f295cef91e06e"
+      ],
+      "exclusions": [
+        {
+          "evidence_id": "EV-7045d02a6ec64179",
+          "reason": "non_substantive_as_reviewed"
+        },
+        {
+          "evidence_id": "EV-84320bd8521a78db",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-2d9aa92e032de849",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-ccf2a40f6a0f78a9",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-a3e6f4a6e6e974f5",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-add735c2c349381d",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-3b7d74cccf81c90a",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-ab3fb1142a55c30c",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-e6093d4148ddfb61",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-0e1d8fea01593258",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-3c704ec04bde1020",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-342fbcf8d1f4a75c",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-f15844282d17b000",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-c1d0b28fa1dbf9f5",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-59bba8aead4e644f",
+          "reason": "empty_or_pure_praise"
+        }
+      ],
+      "warnings": [
+        "sample_below_recommended_10"
+      ],
+      "limitation": "Imported provenance and identity assertions are not independently verified by the program."
+    },
+    "sourcing_eligible": false
+  },
+  {
+    "method": "S1",
+    "status": "待补证据",
+    "scope": "historical_or_other_market",
+    "product_id": "1731650530027868452",
+    "issue": "fit_unspecified",
+    "category": "trousers",
+    "source_titles_as_reported": [
+      "Elegant Women's High Waist Slimming Jeans, Embroidered Bow Design, Elastic Skinny Fit, All Seasons Fashionable Denim Embroidery Jeans"
+    ],
+    "statement": "评价者表示不合身但方向未明确",
+    "population": null,
+    "scenario": null,
+    "must_conditions": [
+      {
+        "condition": "评价者表示不合身但方向未明确，需明确可检验目标",
+        "evidence_ids": [
+          "EV-9abe24b284e1bcb3"
+        ]
+      }
+    ],
+    "preferences": [],
+    "target_measurements": null,
+    "unknown": [
+      "偏差方向、部位、所购尺码和目标尺寸",
+      "采购数量、目标价格、交付要求",
+      "其他独立使用者的证据"
+    ],
+    "hypotheses": [],
+    "support_evidence_ids": [
+      "EV-9abe24b284e1bcb3"
+    ],
+    "counter_evidence_ids": [],
+    "counter_limit": "合身正面评价仅为同商品对照；买家和尺码可能不同",
+    "distinct_text_signals": 1,
+    "window": {
+      "start": "2026-08-30T09:05:42Z",
+      "end": "2026-09-06T09:05:42Z"
+    },
+    "market_basis": "Actor country field; buyer residence not independently verified",
+    "manual_review": {
+      "status": "pending",
+      "version": 1
+    },
+    "extraction_method": "finite_rules_v1",
+    "signal_id": "PS-57745cdde2966d69",
+    "prevalence": {
+      "policy": {
+        "version": "s1-prevalence-v1",
+        "min_effective_reviews": 5,
+        "recommended_effective_reviews": 10,
+        "min_independent_buyers": 3,
+        "min_distinct_support_texts": 3,
+        "min_problem_ratio": 0.2
+      },
+      "coverage_confirmed": false,
+      "sample_source": {
+        "product_id": "1731650530027868452",
+        "market": "US",
+        "window": {
+          "start": "2026-08-30T09:05:42Z",
+          "end": "2026-09-06T09:05:42Z"
+        },
+        "rating_scope": "all",
+        "complete": false,
+        "review_ids": [
+          "7682204765556442894",
+          "7681848153850808077",
+          "7681812881478731534",
+          "7681675825985177358",
+          "7681675799954507533",
+          "7681046526887134989",
+          "7681046428524955406",
+          "7681046155069523726",
+          "7681030375754237710",
+          "7681030326846015245",
+          "7680955451257505549",
+          "7680736280071407374",
+          "7680232303458371342",
+          "7680009105055139597",
+          "7679998714706708238",
+          "7679958220484282125",
+          "7679957819555120909",
+          "7679889790333961997"
+        ],
+        "source_ref": "demand_discovery/analysis_workflow/records/keyword_reviews_20260907/coverage_and_identity.json; data_acquisition/apify_reviews/records/keyword_products_apify_20260907/download_validation.json; data_acquisition/apify_reviews/records/keyword_products_apify_20260907/actor_input.json; data_acquisition/apify_reviews/records/keyword_products_apify_20260907/run_log.redacted.txt",
+        "checked_at": "2026-09-07T05:41:55.553675+00:00"
+      },
+      "support_record_count": 1,
+      "effective_support_count": 0,
+      "effective_sample_count": 0,
+      "distinct_support_text_count": 0,
+      "independent_buyer_count": null,
+      "problem_ratio": null,
+      "gates": {
+        "sample_size": false,
+        "independent_buyers": false,
+        "problem_ratio": false
+      },
+      "approved": false,
+      "effective_evidence_ids": [],
+      "effective_support_evidence_ids": [],
+      "unresolved_evidence_ids": [
+        "EV-045f295cef91e06e"
+      ],
+      "exclusions": [
+        {
+          "evidence_id": "EV-7045d02a6ec64179",
+          "reason": "non_substantive_as_reviewed"
+        },
+        {
+          "evidence_id": "EV-84320bd8521a78db",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-2d9aa92e032de849",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-ccf2a40f6a0f78a9",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-a3e6f4a6e6e974f5",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-add735c2c349381d",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-3b7d74cccf81c90a",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-ab3fb1142a55c30c",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-e6093d4148ddfb61",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-0e1d8fea01593258",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-3c704ec04bde1020",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-342fbcf8d1f4a75c",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-f15844282d17b000",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-c1d0b28fa1dbf9f5",
+          "reason": "empty_or_pure_praise"
+        },
+        {
+          "evidence_id": "EV-59bba8aead4e644f",
+          "reason": "empty_or_pure_praise"
+        }
+      ],
+      "warnings": [
+        "sample_below_recommended_10"
+      ],
+      "limitation": "Imported provenance and identity assertions are not independently verified by the program."
+    },
+    "sourcing_eligible": false
+  }
+]

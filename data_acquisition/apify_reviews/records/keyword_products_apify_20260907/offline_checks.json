@@ -1,0 +1,9 @@
+{
+  "status": "passed",
+  "checks": [
+    "rejected:actors/zk1NwTZ5eTPYhRcvF/runs?maxTotalChargeUsd=20",
+    "rejected:users/me",
+    "duplicate_start_prevented_before_network"
+  ],
+  "network_requests": 0
+}

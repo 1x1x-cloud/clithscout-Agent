@@ -1,0 +1,158 @@
+{
+  "record_id": "non-browser-options-2026-09-06",
+  "verified_on": "2026-09-06",
+  "scope": "Documentation evaluation only; not an integration or data collection test.",
+  "state_reference": "../TASK_STATE.md",
+  "related_sources": "tiktok_instagram/sources.json",
+  "sources": [
+    {
+      "id": "X1",
+      "url": "https://docs.x.com/x-api/trends/trends-by-woeid/introduction",
+      "type": "platform_official",
+      "read_status": "body_read",
+      "claims": [
+        "Current trends by geographic WOEID; US is 23424977.",
+        "Requires developer account, Project/App and Bearer token."
+      ],
+      "limits": [
+        "Current retrieved example confirms trend_name only; do not promise per-trend tweet_count.",
+        "Does not establish historical trend ranking."
+      ]
+    },
+    {
+      "id": "X2",
+      "url": "https://docs.x.com/x-api/posts/counts/introduction",
+      "type": "platform_official",
+      "read_status": "body_read",
+      "claims": [
+        "Recent counts cover rolling last seven days; full archive back to 2006 is pay-per-use/Enterprise.",
+        "Minute/hour/day buckets.",
+        "Search results may differ from counts because search applies additional compliance filtering."
+      ],
+      "limits": [
+        "Counts do not provide original posts.",
+        "Language filter alone does not establish US market."
+      ]
+    },
+    {
+      "id": "X3",
+      "url": "https://docs.x.com/x-api/posts/search/introduction",
+      "type": "platform_official",
+      "read_status": "body_read",
+      "claims": [
+        "Recent search covers rolling seven days; archive search back to 2006 is pay-per-use/Enterprise.",
+        "Supports keyword, phrase, hashtag, mention, URL and author queries."
+      ],
+      "limits": [
+        "Actual access and outputs not tested."
+      ]
+    },
+    {
+      "id": "X4",
+      "url": "https://docs.x.com/x-api/getting-started/pricing",
+      "type": "platform_official",
+      "read_status": "body_read",
+      "prices_usd": {
+        "posts_read_per_resource": 0.005,
+        "counts_recent_per_request": 0.005,
+        "counts_all_per_request": 0.01,
+        "trends_per_request": 0.01
+      },
+      "limits": [
+        "Console pricing should be reconfirmed before paid use.",
+        "Opened body used over stale search snippet; Trends is per request in retrieved body."
+      ]
+    },
+    {
+      "id": "R1",
+      "url": "https://redditinc.com/policies/data-api-terms",
+      "type": "platform_official",
+      "read_status": "section_3_1_read",
+      "claims": [
+        "Commercial purposes require a separate agreement with Reddit."
+      ]
+    },
+    {
+      "id": "R2",
+      "url": "https://support.reddithelp.com/hc/en-us/articles/42728983564564-Responsible-Builder-Policy",
+      "type": "platform_official",
+      "read_status": "body_read",
+      "claims": [
+        "API access requires approval; commercial use requires explicit written approval."
+      ]
+    },
+    {
+      "id": "M1",
+      "url": "https://developer.meltwater.com/api-reference/analytics-options/listening/",
+      "type": "vendor_official",
+      "read_status": "body_read",
+      "claims": [
+        "Total and daily/hourly mention volume lists X, Instagram, Reddit and TikTok.",
+        "Top topics/keyphrases list all four sources."
+      ],
+      "limits": [
+        "TikTok is absent from country/location grouping source lists.",
+        "Vendor coverage is not platform-wide volume or native trending rankings."
+      ]
+    },
+    {
+      "id": "M2",
+      "url": "https://developer.meltwater.com/guides/getting-started/overview/",
+      "type": "vendor_official",
+      "read_status": "body_read",
+      "claims": [
+        "API token is required; API features and limits depend on package.",
+        "Listening concerns editorial/social search; Social Analytics concerns owned accounts."
+      ]
+    },
+    {
+      "id": "M3",
+      "url": "https://developer.meltwater.com/help/faqs/",
+      "type": "vendor_official",
+      "read_status": "body_read",
+      "claims": [
+        "Existing customers should check API package access with account manager.",
+        "Export windows include start and exclude end; ingestion delays and republishing may require deduplication."
+      ],
+      "limits": [
+        "Project-specific pricing, raw Reddit export entitlement and historical availability not verified."
+      ]
+    },
+    {
+      "id": "M4",
+      "url": "https://www.meltwater.com/en/press-releases/reddit-partnership",
+      "type": "vendor_announcement",
+      "read_status": "body_read",
+      "claims": [
+        "Meltwater announces 2026 Reddit Official Data Partner status and continued enterprise API access."
+      ],
+      "limits": [
+        "Vendor self-report; does not establish our authorization, raw-export rights or sample quality."
+      ]
+    }
+  ],
+  "inferences": [
+    "Cloud API execution removes dependency on this local Chrome connection.",
+    "Original fixed window starts earlier than the rolling recent-seven-day boundary at the present research time; archives or stored data are required for complete backfill.",
+    "Current cumulative counters cannot reconstruct past-window growth."
+  ],
+  "evaluation": {
+    "candidate_routes": [
+      "mixed_api",
+      "meltwater_listening",
+      "file_import"
+    ],
+    "vendor_selected": false,
+    "actual_data_validated": false,
+    "pricing_quote_obtained": false
+  },
+  "actions": {
+    "browser_connection_used": false,
+    "credentials_read": false,
+    "account_created": false,
+    "supplier_contacted": false,
+    "paid_api_or_actor_run": false,
+    "automation_created": false
+  },
+  "scope_limit": "No new accepted demand, trend dataset, procurement candidate or performance sample was produced by this documentation research."
+}

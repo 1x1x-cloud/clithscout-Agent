@@ -1,0 +1,113 @@
+[
+  {
+    "core_module": "project_governance",
+    "purpose": "项目治理：唯一状态、业务标准、目录登记、迁移恢复",
+    "submodules": [
+      "business_rules",
+      "implementation_history",
+      "migration",
+      "project_state",
+      "user_guide",
+      "workspace_registry"
+    ]
+  },
+  {
+    "core_module": "data_acquisition",
+    "purpose": "数据获取：Apify、TikTok商品、FastMoss、Pinterest及趋势资料",
+    "submodules": [
+      "apify_reviews",
+      "fastmoss_catalog",
+      "pinterest_keywords",
+      "pinterest_saves",
+      "provider_research",
+      "shop_reviews",
+      "social_trends",
+      "tiktok_catalog"
+    ]
+  },
+  {
+    "core_module": "evidence_processing",
+    "purpose": "证据处理：身份去重、记录规范化、服装上下文",
+    "submodules": [
+      "garment_context",
+      "review_deduplication",
+      "review_normalization"
+    ]
+  },
+  {
+    "core_module": "demand_discovery",
+    "purpose": "需求发现：痛点规则、分类、需求卡及分析流程",
+    "submodules": [
+      "analysis_workflow",
+      "demand_cards",
+      "historical_examples",
+      "pain_classification"
+    ]
+  },
+  {
+    "core_module": "product_sourcing",
+    "purpose": "采购找货：查询规划、1688适配、结果解析、Skill副本",
+    "submodules": [
+      "1688_skill",
+      "manual_pilot",
+      "query_planning",
+      "result_parsing",
+      "skill_adapter"
+    ]
+  },
+  {
+    "core_module": "product_matching",
+    "purpose": "商品匹配：具体SKU、满足/冲突/未知、供货门槛",
+    "submodules": [
+      "sku_comparison"
+    ]
+  },
+  {
+    "core_module": "human_review",
+    "purpose": "人工复核：证据、需求与商品待办队列",
+    "submodules": [
+      "review_queue"
+    ]
+  },
+  {
+    "core_module": "report_delivery",
+    "purpose": "报告交付：原文引用、完整工具表与对照解释",
+    "submodules": [
+      "markdown_report"
+    ]
+  },
+  {
+    "core_module": "workflow_execution",
+    "purpose": "工作流执行：配置、CLI、启动、流水线及运行快照",
+    "submodules": [
+      "cli",
+      "launcher",
+      "pipeline",
+      "run_configuration",
+      "run_history"
+    ]
+  },
+  {
+    "core_module": "quality_assurance",
+    "purpose": "质量验证：原回归测试、记录核验、迁移验收",
+    "submodules": [
+      "delivery_checks",
+      "migration_validation",
+      "record_validation",
+      "regression",
+      "source_acceptance"
+    ]
+  },
+  {
+    "core_module": "runtime_support",
+    "purpose": "运行支持：项目路径、时间、标识、JSON、异常与独立环境",
+    "submodules": [
+      "json_storage",
+      "project_paths",
+      "provider_errors",
+      "python_environment",
+      "text_identity",
+      "time_windows"
+    ]
+  }
+]

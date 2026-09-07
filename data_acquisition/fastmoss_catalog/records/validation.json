@@ -1,0 +1,142 @@
+{
+  "validation_scope": "Rendered page to raw-file fingerprint, page filters/IDs/ranks, raw-to-export field checks. No independent check of business truth or unattended scraping.",
+  "raw_pages": 10,
+  "raw_records": 100,
+  "unique_products": 95,
+  "duplicate_extra_records": 5,
+  "duplicate_products": [
+    {
+      "product_id": "1732607858535338944",
+      "occurrences": [
+        {
+          "record_id": "p06-r10",
+          "source_page": 6,
+          "page_position": 10,
+          "display_rank_raw": "60",
+          "collected_at_utc": "2026-09-06T05:18:37.827Z"
+        },
+        {
+          "record_id": "p07-r03",
+          "source_page": 7,
+          "page_position": 3,
+          "display_rank_raw": "63",
+          "collected_at_utc": "2026-09-06T05:19:58.732Z"
+        }
+      ]
+    },
+    {
+      "product_id": "1732607281444917563",
+      "occurrences": [
+        {
+          "record_id": "p07-r08",
+          "source_page": 7,
+          "page_position": 8,
+          "display_rank_raw": "68",
+          "collected_at_utc": "2026-09-06T05:19:58.732Z"
+        },
+        {
+          "record_id": "p08-r02",
+          "source_page": 8,
+          "page_position": 2,
+          "display_rank_raw": "72",
+          "collected_at_utc": "2026-09-06T05:21:32.206Z"
+        }
+      ]
+    },
+    {
+      "product_id": "1732469606148379424",
+      "occurrences": [
+        {
+          "record_id": "p07-r09",
+          "source_page": 7,
+          "page_position": 9,
+          "display_rank_raw": "69",
+          "collected_at_utc": "2026-09-06T05:19:58.732Z"
+        },
+        {
+          "record_id": "p08-r03",
+          "source_page": 8,
+          "page_position": 3,
+          "display_rank_raw": "73",
+          "collected_at_utc": "2026-09-06T05:21:32.206Z"
+        }
+      ]
+    },
+    {
+      "product_id": "1732570325500400156",
+      "occurrences": [
+        {
+          "record_id": "p09-r07",
+          "source_page": 9,
+          "page_position": 7,
+          "display_rank_raw": "87",
+          "collected_at_utc": "2026-09-06T05:29:16.038Z"
+        },
+        {
+          "record_id": "p10-r03",
+          "source_page": 10,
+          "page_position": 3,
+          "display_rank_raw": "93",
+          "collected_at_utc": "2026-09-06T05:31:05.624Z"
+        }
+      ]
+    },
+    {
+      "product_id": "1732572315245056783",
+      "occurrences": [
+        {
+          "record_id": "p09-r09",
+          "source_page": 9,
+          "page_position": 9,
+          "display_rank_raw": "89",
+          "collected_at_utc": "2026-09-06T05:29:16.038Z"
+        },
+        {
+          "record_id": "p10-r02",
+          "source_page": 10,
+          "page_position": 2,
+          "display_rank_raw": "92",
+          "collected_at_utc": "2026-09-06T05:31:05.624Z"
+        }
+      ]
+    }
+  ],
+  "suspect_non_clothing_products": [
+    {
+      "product_id": "1732596473439555736",
+      "title": "Voucher for Returning Customers - Holiday Reward Coupon for TikTok Shop US Customers-TGT",
+      "note": "标题为 Voucher / Reward Coupon，疑似优惠券，暂不纳入服装候选。"
+    },
+    {
+      "product_id": "1732594889872543943",
+      "title": "Baby Velvet Hangers 30 Pack - 11 Inch Premium Felt Non Slip Kids Hanger for Infant & Toddler Clothes - 0.2\" Slim Space-Saving Baby Felt Hangers for Children's Closet with 10 Clips - BeigeGift",
+      "note": "标题为 Baby Velvet Hangers，疑似衣架，暂不纳入服装候选。"
+    },
+    {
+      "product_id": "1732539022013075893",
+      "title": "Women's 2026 New Classic Printed Crossbody Bag - Compact Mini Purse with Accordion Wallet, Stylish Shoulder Bag for Daily Outings & Travel",
+      "note": "标题为 Crossbody Bag / Mini Purse，疑似包袋，暂不纳入服装候选。"
+    }
+  ],
+  "unique_products_three_day_gmv_exceeds_total": 12,
+  "unique_products_missing_commission": 26,
+  "unique_products_with_price_ranges": 31,
+  "full_funnel_qualified_records": 0,
+  "expected_browser_fingerprint": "8fb7c487",
+  "persisted_raw_fingerprint": "8fb7c487",
+  "raw_fingerprint_match": true,
+  "field_validation_errors": [],
+  "csv_roundtrip_status": "passed",
+  "csv_roundtrip": {
+    "checked_at_utc": "2026-09-06T05:44:01.7604544Z",
+    "raw_pages": 10,
+    "observations_csv": 100,
+    "products_csv": 95,
+    "products_json": 95,
+    "data_issue_entries": 20,
+    "checked_raw_cells": 1100,
+    "errors": [],
+    "passed": true
+  },
+  "verification_script": "validate_export.ps1"
+}

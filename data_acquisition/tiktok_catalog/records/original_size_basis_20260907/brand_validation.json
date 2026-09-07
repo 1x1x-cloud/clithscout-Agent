@@ -1,0 +1,171 @@
+{
+  "checked_at": "2026-09-06T17:43:50.176940+00:00",
+  "scope": "Offline extraction, links and recorded image-transcription checks; not a physical test or TikTok SKU identity verification",
+  "all_passed": true,
+  "checks": [
+    {
+      "name": "html_hash",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "unique_exact_handle_chart",
+      "passed": true,
+      "details": 1
+    },
+    {
+      "name": "chart_extraction_equals_raw_html",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "full_product_extraction_equals_raw_html",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "product_id_and_handle",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "15_variants_same_ids_options_availability",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "image_hash",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "image_url_in_product_description",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "5_visual_product_rows_match_configuration",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "chart_default_unit_inch",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "all_variant_ids_and_skus_in_report",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "report_local_links_exist",
+      "passed": true,
+      "details": [
+        "brand_product_page.html",
+        "brand_description_size_image.jpg",
+        "brand_handle_matched_chart.json",
+        "brand_description_size_image.jpg",
+        "brand_handle_matched_chart.json",
+        "brand_description_size_image.jpg",
+        "brand_description_size_image.jpg",
+        "brand_handle_matched_chart.json",
+        "brand_product_data.json",
+        "brand_handle_matched_chart.json",
+        "brand_full_product.json",
+        "brand_product_data.json",
+        "brand_full_product.json",
+        "brand_page_selected_variant.json",
+        "brand_product_page_request.json",
+        "brand_description_size_image_request.json",
+        "brand_validation.json"
+      ]
+    },
+    {
+      "name": "limitations_reported",
+      "passed": true,
+      "details": null
+    }
+  ],
+  "files": [
+    {
+      "file": "brand_catalog_variants.json",
+      "bytes": 38195,
+      "sha256": "ceb8d1ab13745b282013d5cad50b2dea1da1e9d8d8613394b2ba0e6addd2a1d3"
+    },
+    {
+      "file": "brand_description_size_image.jpg",
+      "bytes": 328552,
+      "sha256": "3adf03398e9b72824ebe509ea9b099c90e2978bec01a311c0f2bf6faddac39f3"
+    },
+    {
+      "file": "brand_description_size_image_request.json",
+      "bytes": 580,
+      "sha256": "64d8cab85a7f3bd8766602395dd11f75c8320a3dcf8a24865ce68959483b07ed"
+    },
+    {
+      "file": "brand_full_product.json",
+      "bytes": 51697,
+      "sha256": "abc768e4f31da2bfd54b91cde8059d11f2df3b6716941afa3613f8094e5a6caf"
+    },
+    {
+      "file": "brand_handle_matched_chart.json",
+      "bytes": 6185,
+      "sha256": "626f819af6a6376fd36872c9c4f9cd3c20fc586d7ea81971bf21557c9e573f06"
+    },
+    {
+      "file": "brand_ld_json_script_146.json",
+      "bytes": 648,
+      "sha256": "204107c5db6847c6a0bb89fdcf063234cf0e6de7eea6a78bd1fd5e98107a354c"
+    },
+    {
+      "file": "brand_ld_json_script_173.json",
+      "bytes": 7661,
+      "sha256": "01c93502289d9b062d6a12590532d9bdc749860fa8fcfb5d5d0db0e2be811482"
+    },
+    {
+      "file": "brand_page_selected_variant.json",
+      "bytes": 1801,
+      "sha256": "8a8feb9c208c8c0b8c396e5c07c9350ad1b3e18431765277238a3671fc258237"
+    },
+    {
+      "file": "brand_product_data.json",
+      "bytes": 61244,
+      "sha256": "4a1635b27666d68a97306c062e4700766d84c0d15b3792bd6e6eb1af08869a95"
+    },
+    {
+      "file": "brand_product_page.html",
+      "bytes": 8973804,
+      "sha256": "fadcf0da7964d59d442bf1604a1374f59b1b55ea58ee63c9de96da6d1064b461"
+    },
+    {
+      "file": "brand_product_page_request.json",
+      "bytes": 4403,
+      "sha256": "4c9a984e96621b66fc5a9f2551712610b3336b689ad91fa21d07072bf4cc265e"
+    },
+    {
+      "file": "brand_research.md",
+      "bytes": 7078,
+      "sha256": "ac18a17e8bd3a1905d3ce80d261bda34389d22682f6e2edb8c78bc27f06df1f8"
+    },
+    {
+      "file": "brand_size_chart_transcription.json",
+      "bytes": 1724,
+      "sha256": "9c7ba17aca23c0653c9a02ca344f1e09e1a26431ffa15973806d21b5353d9b02"
+    }
+  ],
+  "network_actions": {
+    "web_search_calls": 1,
+    "public_product_html_get": 1,
+    "public_description_image_get": 1,
+    "paid_collection": 0,
+    "sourcing_search": 0,
+    "purchase": 0,
+    "messages": 0
+  },
+  "local_issue": {
+    "operation": "Initial BeautifulSoup import",
+    "error": "ModuleNotFoundError: No module named bs4",
+    "resolution": "Used standard-library JSON and regular expressions on the already saved HTML; no package install or extra network retry"
+  }
+}

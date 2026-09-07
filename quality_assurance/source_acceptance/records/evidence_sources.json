@@ -1,0 +1,124 @@
+[
+  {
+    "id": "S1",
+    "title": "Seller Analytics | Product Traffic Analysis",
+    "url": "https://seller-us.tiktok.com/university/essay?knowledge_id=8090478953219854",
+    "publisher": "TikTok Shop US Academy",
+    "document_date": "2026-05-09",
+    "checked_on": "2026-09-05",
+    "data_updated_at": null,
+    "scope": "卖家自己的商品与可访问的来源维度；官方功能说明，未取得真实后台导出",
+    "finding": "文档列出商品曝光、点击、SKU订单、CTR和CTOR及按内容类型导出；不是公开竞争商品漏斗数据集。文档仍保留待上线功能说明，当前账户可用性待确认。"
+  },
+  {
+    "id": "S2",
+    "title": "How to Use Product Insights on the Product Detail page",
+    "url": "https://seller-us.tiktok.com/university/essay?knowledge_id=7067468817090317",
+    "publisher": "TikTok Shop Academy",
+    "document_date": "2026-07-16",
+    "checked_on": "2026-09-05",
+    "data_updated_at": null,
+    "scope": "Product Marketplace商品详情；账户和区域实际可见范围未实测",
+    "finding": "有7/30日订单量、CTR等指标；UTC+0；低于100次商品曝光不显示CTR。未在该说明中找到原始曝光/点击计数及来源对应订单的完整交付能力。"
+  },
+  {
+    "id": "S3",
+    "title": "How to Use Product Analytics",
+    "url": "https://seller-us.tiktok.com/university/essay?knowledge_id=4169993017509675",
+    "publisher": "TikTok Shop US Academy",
+    "document_date": "2025-09-11",
+    "checked_on": "2026-09-05",
+    "data_updated_at": null,
+    "scope": "旧版卖家商品分析说明",
+    "finding": "描述按独立买家/独立页面访客计算转化率，与新文档的CTOR命名不能无条件混用。"
+  },
+  {
+    "id": "S4",
+    "title": "About attribution for TikTok Shop Ads",
+    "url": "https://ads.tiktok.com/resources/help/article/about-tiktok-shop-ads-attribution?lang=en",
+    "publisher": "TikTok for Business",
+    "document_date": "2025-08",
+    "checked_on": "2026-09-05",
+    "data_updated_at": null,
+    "scope": "该文档所述Shop Ads归因，不自动套用于GMV Max",
+    "finding": "文档按Shop ID归因；可跨商品、跨入口；点击7日和展示1日窗口。"
+  },
+  {
+    "id": "S5",
+    "title": "About attribution for GMV Max",
+    "url": "https://ads.tiktok.com/resources/help/article/about-attribution-for-gmv-max?lang=en",
+    "publisher": "TikTok for Business",
+    "document_date": "2026-06",
+    "checked_on": "2026-09-05",
+    "data_updated_at": null,
+    "scope": "Product GMV Max和LIVE GMV Max的归因规则",
+    "finding": "Product GMV Max运行期间，所选商品的付费和自然订单均可归入，即使没有与广告互动。"
+  },
+  {
+    "id": "S6",
+    "title": "About TikTok Shop Ads reporting time",
+    "url": "https://ads.tiktok.com/resources/help/article/about-tiktok-shop-ads-reporting-time?lang=en",
+    "publisher": "TikTok for Business",
+    "document_date": "2025-02",
+    "checked_on": "2026-09-05",
+    "data_updated_at": null,
+    "scope": "Shop Ads报表时间和转化目标",
+    "finding": "归因报表按广告互动时间记账，实时转化按发生时间；Conversions可能代表发起结账而非购买。"
+  },
+  {
+    "id": "S7",
+    "title": "FastMoss Product Rankings - Fully Managed",
+    "url": "https://developer.fastmoss.com/api/docs/product/v1/fullyManaged.html",
+    "publisher": "FastMoss",
+    "document_date": null,
+    "checked_on": "2026-09-05",
+    "data_updated_at": null,
+    "scope": "仅本次检查的全托管商品榜单API文档，不代表FastMoss全部产品能力",
+    "finding": "响应文档有商品ID、类目、价格、币种、销量和GMV，未列出商品曝光、商品点击及点击对应订单；Response Example不是本次API实测返回。"
+  },
+  {
+    "id": "S8",
+    "title": "Ianys Tone-up Cream product detail",
+    "url": "https://www.fastmoss.com/e-commerce/detail/1729669896310919654",
+    "publisher": "FastMoss",
+    "document_date": null,
+    "checked_on": "2026-09-05",
+    "data_updated_at": null,
+    "scope": "本次公开网页文本可见部分；不是TikTok后台订单核验",
+    "finding": "可读取页面商品标识、类目和美国标记；价格和销量空白或横线；未取得漏斗原始计数。"
+  },
+  {
+    "id": "S9",
+    "title": "Kalodata official FAQ",
+    "url": "https://www.kalodata.com/",
+    "publisher": "Kalodata",
+    "document_date": null,
+    "checked_on": "2026-09-05",
+    "data_updated_at": null,
+    "scope": "官网公开FAQ；未登录、未调用数据API",
+    "finding": "供应商说明数据来自公开渠道并经模型处理，部分交易金额和广告支出可能与实际不同；未提供本次所需可复算记录。模型每日更新不等于每个商品指标每日完成更新。"
+  },
+  {
+    "id": "S10",
+    "title": "EchoTik Upgrade Log",
+    "url": "https://help.echotik.live/en/articles/6870452-echotik-upgrade-log",
+    "publisher": "EchoTik",
+    "document_date": "2026-08-11（引用的销售分析条目）",
+    "checked_on": "2026-09-05",
+    "data_updated_at": null,
+    "scope": "公开升级日志，不是逐商品数据刷新证明",
+    "finding": "增加按视频/LIVE及自营、达人、商品卡的销售分析；该能力不证明同时交付来源级曝光、点击、订单。"
+  },
+  {
+    "id": "S11",
+    "title": "LinkFox EchoTik listProduct local API reference",
+    "path": "C:/Users/86130/.codex/skills/linkfox-echotik-list-product/references/api.md",
+    "publisher": "本机已安装技能文档",
+    "document_date": null,
+    "checked_on": "2026-09-05",
+    "data_updated_at": null,
+    "scope": "仅listProduct接口参考；没有执行收费查询",
+    "finding": "有productId/categoryIds/价格/币种/多周期销量和GMV；sourceType是商品来源描述，不能作为流量归因维度；参考中未定义满足任务的漏斗三计数。"
+  }
+]
+

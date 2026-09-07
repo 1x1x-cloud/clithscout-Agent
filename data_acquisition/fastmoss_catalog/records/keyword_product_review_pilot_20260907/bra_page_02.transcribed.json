@@ -1,0 +1,33 @@
+{
+  "product_id": "1732510609891758832",
+  "page": 2,
+  "reviews": [
+    {
+      "display_name": "Y**i",
+      "verified_purchase_label": true,
+      "market_label": "US",
+      "rating": 5,
+      "text": "It fits the body perfectly. The size is accurate. It doesn't show through clothing. It is very comfortable and soft.",
+      "variant_label": "Nude, M",
+      "date": "2026-09-04"
+    },
+    {
+      "display_name": "C**y G**e T**p C**s",
+      "verified_purchase_label": true,
+      "market_label": "US",
+      "rating": 5,
+      "text": "This is a very soft and comfortable bra! I love the lace on the back, its so pretty too!",
+      "variant_label": "Nude, S",
+      "date": "2026-09-02"
+    },
+    {
+      "display_name": "L**6",
+      "verified_purchase_label": false,
+      "market_label": "US",
+      "rating": 2,
+      "text": "Its comfortable, but definitely doesnt hold my breast up or in.",
+      "variant_label": "Nude, L",
+      "date": "2026-09-01"
+    }
+  ]
+}

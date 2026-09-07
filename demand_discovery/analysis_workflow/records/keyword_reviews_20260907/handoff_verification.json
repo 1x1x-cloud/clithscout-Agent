@@ -1,0 +1,71 @@
+{
+  "status": "passed",
+  "checks": {
+    "state_historical_sections_preserved": true,
+    "all_new_state_links_resolve": true,
+    "baseline_artifact_manifest_valid": true,
+    "production_code_still_matches_baseline": true,
+    "baseline_current_signals_zero": true,
+    "manual_signal_groups_15_with_12_explicit": true,
+    "source_duplicate_groups_5_window_groups_2": true
+  },
+  "state_sha256": "9f76de3b9726a5c8f28ee2b26997f98399340df60f24dcf30504fbfafd954dc9",
+  "state_links": [
+    {
+      "target": "../../../demand_discovery/analysis_workflow/records/keyword_reviews_20260907/REPORT.md",
+      "exists": true
+    },
+    {
+      "target": "../../../demand_discovery/analysis_workflow/records/keyword_reviews_20260907/ANNOTATIONS.md",
+      "exists": true
+    },
+    {
+      "target": "../../../demand_discovery/analysis_workflow/records/keyword_reviews_20260907/review_annotations.json",
+      "exists": true
+    },
+    {
+      "target": "../../../demand_discovery/analysis_workflow/records/keyword_reviews_20260907/deduplication.json",
+      "exists": true
+    },
+    {
+      "target": "../../../demand_discovery/analysis_workflow/records/keyword_reviews_20260907/exclusions_and_unresolved.json",
+      "exists": true
+    },
+    {
+      "target": "../../../demand_discovery/analysis_workflow/records/keyword_reviews_20260907/problem_signals.json",
+      "exists": true
+    },
+    {
+      "target": "../../../demand_discovery/analysis_workflow/records/keyword_reviews_20260907/review_evidence.json",
+      "exists": true
+    },
+    {
+      "target": "../../../demand_discovery/analysis_workflow/records/keyword_reviews_20260907/verification.json",
+      "exists": true
+    },
+    {
+      "target": "../../../demand_discovery/analysis_workflow/records/keyword_reviews_20260907/program_baseline/20260907T054158Z_43c85f7c/REPORT.md",
+      "exists": true
+    },
+    {
+      "target": "../../../demand_discovery/analysis_workflow/records/keyword_reviews_20260907/baseline_comparison.json",
+      "exists": true
+    },
+    {
+      "target": "../../user_guide/docs/START_HERE.md",
+      "exists": true
+    },
+    {
+      "target": "../../../workflow_execution/run_configuration/config/current_round.json",
+      "exists": true
+    },
+    {
+      "target": "../../business_rules/docs/2026-09-06-clothing-demand-agent-v1-design.md",
+      "exists": true
+    },
+    {
+      "target": "../../../demand_discovery/analysis_workflow/records/keyword_reviews_20260907/coverage_and_identity.json",
+      "exists": true
+    }
+  ]
+}

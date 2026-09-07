@@ -1,0 +1,15 @@
+[
+  {
+    "reviewId": "synthetic-new-id",
+    "productId": "synthetic-product",
+    "skuId": "synthetic-sku",
+    "content": "The pants are too long and I had to hem them.",
+    "timestamp": "2026-09-01T12:00:00Z",
+    "rating": 1,
+    "status": "Success",
+    "authorCountry": "US",
+    "productTitle": "Casual pants",
+    "productUrl": "https://example.invalid/pants",
+    "productMainImage": "https://example.invalid/product-main.jpg"
+  }
+]

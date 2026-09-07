@@ -1,0 +1,16 @@
+{
+  "verified_at": "2026-09-06 09:02:01 UTC",
+  "raw_rows": 50,
+  "csv_rows": 50,
+  "unique_keyword_strings": 50,
+  "checked_csv_cells": 450,
+  "browser_file_fingerprint": "ae42fc0f",
+  "browser_file_fingerprint_matches": true,
+  "canonical_length": 9486,
+  "yearly_plus_suffix_rows": 6,
+  "unknown_search_values_preserved": true,
+  "reference_paths_exist": true,
+  "errors": [],
+  "scope": "Verifies extraction/serialization consistency only, not source statistical accuracy or complete market coverage."
+}
+

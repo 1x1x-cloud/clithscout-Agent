@@ -1,0 +1,14 @@
+{
+  "verified_on": "2026-09-06",
+  "scope": "JSON parsing, local Markdown links, original window values; documentation verification only, no service or data-quality test",
+  "json_files_checked": 2,
+  "markdown_files_checked": 3,
+  "local_links_checked": 40,
+  "root_sources": 10,
+  "tiktok_instagram_source_records": 14,
+  "fixed_window_start_utc": "2026-08-30T09:05:42Z",
+  "fixed_window_end_utc": "2026-09-06T09:05:42Z",
+  "validation_note": "Initial string comparison was corrected because PowerShell deserializes ISO timestamps as DateTime; source timestamps were unchanged.",
+  "errors": [],
+  "passed": true
+}

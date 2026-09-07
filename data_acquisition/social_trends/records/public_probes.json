@@ -1,0 +1,111 @@
+{
+  "record_id": "four-platform-public-page-probes-2026-09-06",
+  "recorded_at_utc": "2026-09-06T09:58:08Z",
+  "project_state_reference": "../TASK_STATE.md",
+  "record_kind": "Selected web-tool result transcription; not a fresh signed-in browser capture",
+  "result": {
+    "platforms_checked": 4,
+    "current_fixed_window_trend_datasets": 0,
+    "cached_tiktok_rows": 3
+  },
+  "probes": [
+    {
+      "probe_id": "P1",
+      "platform": "TikTok",
+      "url": "https://ads.tiktok.com/creative/creativeCenter/trends/hashtag?region=US&period=7",
+      "method": "web.open",
+      "status": "cached_public_table_read",
+      "tool_crawl_age_display": "2 weeks ago",
+      "observed_columns": [
+        "Rank",
+        "Hashtag",
+        "Posts & Views",
+        "Trends",
+        "Creator",
+        "Action"
+      ],
+      "region_requested_in_url": "US",
+      "period_requested_in_url": "7",
+      "region_confirmed_in_page": null,
+      "statistical_start": null,
+      "statistical_end": null,
+      "login_context": "Log in button; View more top hashtags prompts login/signup",
+      "rows": [
+        {
+          "rank": 1,
+          "hashtag": "#unicornfrappuccino",
+          "industry_display": "Food & Beverage",
+          "posts_display": "56.8K",
+          "views_display": "215.4M"
+        },
+        {
+          "rank": 2,
+          "hashtag": "#haydenpanettiere",
+          "industry_display": "News & Entertainment",
+          "posts_display": "42K",
+          "views_display": "469.8M"
+        },
+        {
+          "rank": 3,
+          "hashtag": "#marvelrivalssummerfest2",
+          "industry_display": null,
+          "posts_display": "180.1K",
+          "views_display": "36M"
+        }
+      ],
+      "qualifies_for_fixed_window": false,
+      "reason": "Web tool reports a cache older than the trial window. Page output does not confirm selected US/7-day conditions or metric measurement period. Rows are not current clothing recommendations."
+    },
+    {
+      "probe_id": "P2",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/explore/",
+      "method": "web.open",
+      "status": "http_429",
+      "tool_error": "Failed to fetch https://www.instagram.com/explore/: (429) Too Many Requests",
+      "page_body_read": false,
+      "rows": null,
+      "qualifies_for_fixed_window": false,
+      "reason": "Reader access limited; not evidence of absence of trends or account permissions."
+    },
+    {
+      "probe_id": "P3",
+      "platform": "Reddit",
+      "url": "https://www.reddit.com/r/popular/",
+      "method": "web.open",
+      "status": "cached_popular_feed_read",
+      "tool_crawl_age_display": "3 weeks ago",
+      "observed_sort_label": "Best",
+      "observed_sort_options": [
+        "Best",
+        "Hot",
+        "New",
+        "Top",
+        "Rising"
+      ],
+      "observed_region_label": "Everywhere",
+      "observed_region_options_subset": [
+        "Everywhere",
+        "United States"
+      ],
+      "topic_posts_saved": false,
+      "rows": null,
+      "statistical_start": null,
+      "statistical_end": null,
+      "qualifies_for_fixed_window": false,
+      "reason": "Only page controls are recorded. Cached feed predates the trial, shows Everywhere, and is not a keyword trend time series. Unrelated personal post content omitted."
+    },
+    {
+      "probe_id": "P4",
+      "platform": "X",
+      "url": "https://x.com/explore",
+      "method": "web.open",
+      "status": "http_403",
+      "tool_error": "Failed to fetch https://x.com/explore: (403) Forbidden",
+      "page_body_read": false,
+      "rows": null,
+      "qualifies_for_fixed_window": false,
+      "reason": "Reader access forbidden; no inference of absent trends or user's account access."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "checked_at": "2026-09-06T16:23:07.398957+00:00",
+  "passed": false,
+  "checks": {
+    "archive_hash": true,
+    "all_original_files_preserved": true,
+    "vendor_inventory_present": true,
+    "root_contains_only_core_directories": true,
+    "core_levels_have_only_submodule_directories": true,
+    "submodule_registry_matches": false,
+    "active_paths_are_project_relative_and_exist": true,
+    "regression_tests": true,
+    "reviews_preserved_in_both_modes": true,
+    "demand_cards_unchanged": true,
+    "matching_decisions_unchanged": true,
+    "procurement_candidates_unchanged": true,
+    "active_imports_from_new_root": true,
+    "current_entry_links_resolve": false
+  },
+  "original_files": 155,
+  "vendor_files": 47,
+  "core_modules": 11,
+  "submodules": 44,
+  "functional_tests": 24,
+  "test_failures": 0,
+  "test_errors": 0,
+  "runs": [
+    "workflow_execution\\run_history\\records\\20260906T162307Z_5a68567d",
+    "workflow_execution\\run_history\\records\\20260906T162307Z_2f38efd8"
+  ],
+  "missing_links": [
+    {
+      "file": "project_governance/project_state/docs/TASK_STATE.md",
+      "link": "../selection-agent-website/TASK_STATE.md"
+    }
+  ],
+  "errors": [
+    "failed_check:submodule_registry_matches",
+    "failed_check:current_entry_links_resolve"
+  ],
+  "limits": "Offline migration and snapshot checks; no new collection, sourcing, inventory or semantic accuracy validation."
+}

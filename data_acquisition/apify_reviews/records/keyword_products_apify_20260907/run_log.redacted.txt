@@ -1,0 +1,11 @@
+2026-09-07T05:12:42.369Z ACTOR: Pulling container image of build WYpz9tfujbBp1yK0S from registry.
+2026-09-07T05:12:45.737Z ACTOR: Creating container.
+2026-09-07T05:12:45.837Z ACTOR: Starting container.
+2026-09-07T05:12:45.839Z ACTOR: Running under "LIMITED_PERMISSIONS".
+2026-09-07T05:12:47.214Z INFO  System info {"apifyVersion":"3.7.2","apifyClientVersion":"2.23.4","crawleeVersion":"3.17.0","osType":"Linux","nodeVersion":"v22.23.2"}
+2026-09-07T05:12:47.764Z INFO  Processing 3 product targets and 0 shop targets (concurrency=4).
+2026-09-07T05:12:59.685Z INFO  [reviews-mint] blessed msToken=[REDACTED] cookies=5 in 3780ms
+2026-09-07T05:13:05.336Z INFO  [product 1732510609891758832] pushed 112 reviews (total reported: 112)
+2026-09-07T05:13:11.954Z INFO  [product 1732357239054307594] pushed 116 reviews (total reported: 116)
+2026-09-07T05:13:12.948Z INFO  [product 1731650530027868452] pushed 138 reviews (total reported: 138)
+2026-09-07T05:13:13.066Z INFO  Done.

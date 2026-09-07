@@ -1,0 +1,130 @@
+{
+  "run_id": "NjEXpgqOIip3PeBcU",
+  "dataset_id": "ApkFAtrsA4zvV57Wq",
+  "new_actor_runs": 1,
+  "actor_total_cost_usd": 0.73205,
+  "cap_usd": 2,
+  "review_rows": 366,
+  "window": {
+    "start": "2026-08-30T09:05:42Z",
+    "end": "2026-09-06T09:05:42Z"
+  },
+  "window_rows": 63,
+  "products": [
+    {
+      "product_id": "1732357239054307594",
+      "name": "V领露背连衣裙",
+      "rows": 116,
+      "unique_review_ids": 116,
+      "rating_counts": {
+        "2": 6,
+        "5": 75,
+        "1": 13,
+        "4": 13,
+        "3": 9
+      },
+      "window_rows": 9,
+      "window_nonempty_bodies": 4,
+      "empty_bodies": 39,
+      "duplicate_nonempty_body_groups": 2,
+      "author_countries_reported": {
+        "US": 116
+      },
+      "unique_sku_ids": 18,
+      "log_reported_total": 116,
+      "read_count_matches_public_feed_report": true,
+      "previous_web_global_count": 114,
+      "difference_from_previous_web_count": 2,
+      "complete_business_sample": null,
+      "valid_review_denominator": null,
+      "independent_buyers": null,
+      "sku_color_size_mapping_from_actor": null,
+      "notes": "数量覆盖匹配本次Actor公开流报告；不证明平台所有历史/已删除/不可见评价。有效性和买家身份仍需核验。"
+    },
+    {
+      "product_id": "1732510609891758832",
+      "name": "VRCOMFY 前扣文胸",
+      "rows": 112,
+      "unique_review_ids": 112,
+      "rating_counts": {
+        "2": 8,
+        "5": 75,
+        "4": 12,
+        "1": 4,
+        "3": 13
+      },
+      "window_rows": 36,
+      "window_nonempty_bodies": 27,
+      "empty_bodies": 36,
+      "duplicate_nonempty_body_groups": 3,
+      "author_countries_reported": {
+        "US": 112
+      },
+      "unique_sku_ids": 10,
+      "log_reported_total": 112,
+      "read_count_matches_public_feed_report": true,
+      "previous_web_global_count": 112,
+      "difference_from_previous_web_count": 0,
+      "complete_business_sample": null,
+      "valid_review_denominator": null,
+      "independent_buyers": null,
+      "sku_color_size_mapping_from_actor": null,
+      "notes": "数量覆盖匹配本次Actor公开流报告；不证明平台所有历史/已删除/不可见评价。有效性和买家身份仍需核验。"
+    },
+    {
+      "product_id": "1731650530027868452",
+      "name": "蝴蝶结刺绣牛仔裤",
+      "rows": 138,
+      "unique_review_ids": 138,
+      "rating_counts": {
+        "5": 101,
+        "2": 2,
+        "4": 16,
+        "1": 12,
+        "3": 7
+      },
+      "window_rows": 18,
+      "window_nonempty_bodies": 5,
+      "empty_bodies": 78,
+      "duplicate_nonempty_body_groups": 0,
+      "author_countries_reported": {
+        "US": 138
+      },
+      "unique_sku_ids": 17,
+      "log_reported_total": 138,
+      "read_count_matches_public_feed_report": true,
+      "previous_web_global_count": 138,
+      "difference_from_previous_web_count": 0,
+      "complete_business_sample": null,
+      "valid_review_denominator": null,
+      "independent_buyers": null,
+      "sku_color_size_mapping_from_actor": null,
+      "notes": "数量覆盖匹配本次Actor公开流报告；不证明平台所有历史/已删除/不可见评价。有效性和买家身份仍需核验。"
+    }
+  ],
+  "all_fields": [
+    "authorAvatar",
+    "authorCountry",
+    "authorHandle",
+    "authorName",
+    "authorVerified",
+    "content",
+    "images",
+    "inputUrl",
+    "productId",
+    "productMainImage",
+    "productTitle",
+    "productUrl",
+    "rating",
+    "reviewId",
+    "scrapedAt",
+    "skuId",
+    "sourceShopId",
+    "status",
+    "timestamp"
+  ],
+  "stable_buyer_id_field_returned": false,
+  "demand_cards_generated": 0,
+  "sourcing_queries": 0,
+  "raw_source_sha256": "33bbbc353b402b8bf5cf24026d2f9aa8035d0d0ba41f099e9a9284d1ca92d737"
+}

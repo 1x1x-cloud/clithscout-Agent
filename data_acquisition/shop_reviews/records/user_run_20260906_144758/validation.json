@@ -1,0 +1,17 @@
+{
+  "verified_at_utc": "2026-09-06T14:53:23.1437570Z",
+  "json_files_parsed": [
+    "analysis.json",
+    "demand_cards.json",
+    "evidence.json",
+    "next_input_two_star.json",
+    "raw_reviews.json"
+  ],
+  "csv_rows_checked": 16,
+  "source_hashes_match": true,
+  "scope": "Import integrity, ID/product references, original text preservation, fixed-window filtering, evidence references and record consistency; no independent source-page, buyer identity or supplier verification.",
+  "errors": [],
+  "passed": true,
+  "local_markdown_links_checked": 50,
+  "missing_local_links": []
+}

@@ -1,0 +1,17 @@
+{
+  "verified_at": "2026-09-06 09:21:46 UTC",
+  "csv_rows": 6,
+  "checked_csv_cells": 78,
+  "evidence_records": 9,
+  "demand_cards": 3,
+  "unique_product_ids": 6,
+  "excluded_returned_products_or_skus": 4,
+  "held_for_review": 2,
+  "eligible_test_products": 0,
+  "complete_cli_response_roundtrip": true,
+  "unknown_verified_stock_kept_null": true,
+  "evidence_references_valid": true,
+  "errors": [],
+  "scope": "Artifact consistency and documented decisions only. Current purchase demand, supplier inventory, whole-market coverage, US delivery, CTR/CTOR, and a working end-to-end Agent remain unverified."
+}
+

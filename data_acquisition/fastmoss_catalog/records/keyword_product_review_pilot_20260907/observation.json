@@ -1,0 +1,48 @@
+{
+  "kind": "人工浏览器取证的商品定位及评价可读性试查，非完整采集或生产输入",
+  "observed_on": "2026-09-07",
+  "registered_at": "2026-09-07T04:58:27.139Z",
+  "timezone": "Asia/Shanghai",
+  "source_chain": "FastMoss 美国关键词快照 → 关键词关联广告 → 广告详情商品 → TikTok Shop US原页",
+  "scope": {
+    "keywords": [
+      "dress",
+      "bra",
+      "jeans"
+    ],
+    "products": 3,
+    "review_records": 12,
+    "complete_review_products": 0,
+    "new_actor_runs": 0,
+    "sourcing_queries": 0,
+    "new_demand_cards": 0
+  },
+  "first_page_transmission": {
+    "registered_at": "2026-09-07T04:54:10.862Z",
+    "file": "source_reviews.transcribed.json",
+    "canonical_json_utf16_units": 3146,
+    "fnv1a_utf16": "20e3288e"
+  },
+  "second_page_transmission": {
+    "registered_at": "2026-09-07T04:58:27.139Z",
+    "file": "bra_page_02.transcribed.json",
+    "canonical_json_utf16_units": 766,
+    "fnv1a_utf16": "eb30a3c0"
+  },
+  "notes": [
+    "转录来自真实DOM快照解析，非完整DOM或API响应；原始字段保留快照的引号表示，规范化另行处理。",
+    "false的verified_purchase_label仅表示读取段落未显示真实购买标记，不代表证实未购买。",
+    "昵称均遮蔽；评价ID、稳定买家ID、SKU ID、日期时区未取得。",
+    "全星级筛选可见不等于所有评价已收齐，全球评价总数不等于美国当期有效分母。",
+    "原页主图与颜色图片仅保存实际DOM URL，未下载、上传或做1688搜索。",
+    "浏览器文胸从第1页翻至第2页并读到不同记录，证明本次翻页成功，不证明全部38页均可读。",
+    "三个落地链接都使用男士T恤slug，实际原页标题/ID/类目分别是连衣裙、文胸、牛仔裤。slug差异原因未知。"
+  ],
+  "protected_files_before": {
+    "workflow_execution/run_configuration/config/current_round.json": "6e21689ac1a74922484fcc218b2816bf6004b5c854bfee79d413fcacaef3beec",
+    "data_acquisition/social_trends/records/fastmoss_us_keywords_100_20260907/raw_keyword_table.json": "9f0b8a883a20c0b513b77432f31c7e4e0f37e9e205a54465fa7b95d6dc3110c6",
+    "data_acquisition/social_trends/records/fastmoss_us_keywords_100_20260907/keywords.json": "faefbce3c35b4da2629f6b6cc71042f52196826de3b824eaf9409cdee0b59b1a",
+    "data_acquisition/fastmoss_catalog/records/products.json": "ebde2b1871f3c5fed00ccce828f8d18d53299dfeb1479c4d035c4a6ab3c4fdd0",
+    "data_acquisition/shop_reviews/records/user_run_20260906_144758/raw_reviews.json": "e5410e6a32533cd8362050e5a5bf350b22253dccd4b342bda798a968a328989f"
+  }
+}

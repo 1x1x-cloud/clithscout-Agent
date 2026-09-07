@@ -1,0 +1,13 @@
+{
+  "requested_url": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/ODS5841.jpg?v=1780996154",
+  "checked_at": "2026-09-06T17:42:05.114501+00:00",
+  "method": "GET",
+  "source_file": "brand_full_product.json",
+  "source_json_path": ".data.description img[src]",
+  "status": 200,
+  "final_url": "https://cdn.shopify.com/s/files/1/0748/9457/3625/files/ODS5841.jpg?v=1780996154",
+  "content_type": "image/jpeg",
+  "body_file": "brand_description_size_image.jpg",
+  "bytes": 328552,
+  "sha256": "3adf03398e9b72824ebe509ea9b099c90e2978bec01a311c0f2bf6faddac39f3"
+}

@@ -1,0 +1,27 @@
+{
+  "historical_replays": [
+    {
+      "previous": "D:\\clothscout\\workflow_execution\\run_history\\records\\20260906T165943Z_fc9a7de8",
+      "replay": "D:\\clothscout\\quality_assurance\\delivery_checks\\records\\default_jpeg_input_20260907\\legacy_replays\\20260906T173013Z_fab969c4",
+      "checks": {
+        "exit_zero": true,
+        "completed": true,
+        "same_product_matches": true,
+        "payloads_and_timestamps_preserved": true
+      }
+    },
+    {
+      "previous": "D:\\clothscout\\workflow_execution\\run_history\\records\\20260906T154237Z_38cd565c",
+      "replay": "D:\\clothscout\\quality_assurance\\delivery_checks\\records\\default_jpeg_input_20260907\\legacy_replays\\20260906T173014Z_755f0999",
+      "checks": {
+        "exit_zero": true,
+        "completed": true,
+        "same_product_matches": true,
+        "payloads_and_timestamps_preserved": true
+      }
+    }
+  ],
+  "vendor_and_original_reviews_unchanged": true,
+  "protected_files": 48,
+  "new_1688_searches": 0
+}

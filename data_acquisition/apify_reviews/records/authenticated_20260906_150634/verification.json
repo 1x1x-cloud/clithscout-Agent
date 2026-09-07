@@ -1,0 +1,22 @@
+{
+  "checked_at_utc": "2026-09-06T15:06:34.257316+00:00",
+  "run_id": "BxW4clbdEnaMPvPbW",
+  "credential_present": true,
+  "credential_exposed": false,
+  "http_requests": [
+    {
+      "path": "actor-runs/BxW4clbdEnaMPvPbW",
+      "method": "GET",
+      "status": 400,
+      "error_type": "http-error"
+    }
+  ],
+  "new_actor_runs_started": 0,
+  "request_methods": [
+    "GET"
+  ],
+  "errors": [
+    "Apify GET failed with HTTP 400"
+  ],
+  "authenticated_read_passed": false
+}

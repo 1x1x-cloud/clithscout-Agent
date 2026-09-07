@@ -1,0 +1,6 @@
+{
+  "checked_at": "2026-09-07T03:03:56.838601+00:00",
+  "passed": true,
+  "errors": [],
+  "scope": "Record integrity, excerpts, references, time separation and conservative candidate gate; not source truth or extraction accuracy."
+}

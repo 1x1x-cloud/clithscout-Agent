@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "documents_checked": 8,
+  "missing_links": [],
+  "protected_files_unchanged": true,
+  "changed_existing_files": [
+    "demand_discovery/analysis_workflow/src/analyze.py",
+    "demand_discovery/demand_cards/src/builder.py",
+    "human_review/review_queue/src/builder.py",
+    "product_sourcing/query_planning/src/image_planner.py",
+    "product_sourcing/query_planning/src/planner.py",
+    "project_governance/business_rules/docs/2026-09-06-clothing-demand-agent-v1-design.md",
+    "project_governance/project_state/docs/TASK_STATE.md",
+    "project_governance/user_guide/docs/START_HERE.md",
+    "quality_assurance/migration_validation/src/verify.py",
+    "quality_assurance/record_validation/src/validator.py",
+    "quality_assurance/regression/tests/test_image_input.py",
+    "quality_assurance/regression/tests/test_image_sku.py",
+    "quality_assurance/regression/tests/test_pipeline.py",
+    "report_delivery/markdown_report/src/render.py",
+    "workflow_execution/cli/src/main.py",
+    "workflow_execution/launcher/scripts/run.ps1",
+    "workflow_execution/pipeline/src/orchestrator.py"
+  ]
+}

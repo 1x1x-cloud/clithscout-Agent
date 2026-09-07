@@ -1,0 +1,990 @@
+[
+  {
+    "signal_id": "bra_lift",
+    "product_id": "1732510609891758832",
+    "title": "文胸托举/提升不足",
+    "support_strength": "explicit",
+    "supports": [
+      {
+        "review_id": "7680670162944722701",
+        "product_id": "1732510609891758832",
+        "sku_id": "1732510617633002224",
+        "timestamp": "2026-09-01T20:43:08.280Z",
+        "quote": "doesnt hold my breast up",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/28",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7680569329080813326",
+        "product_id": "1732510609891758832",
+        "sku_id": "1732510617633067760",
+        "timestamp": "2026-09-01T14:12:01.961Z",
+        "quote": "dud not give the lift",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/30",
+        "disposition": "text_valid"
+      }
+    ],
+    "opposing_or_contextual_evidence": [
+      {
+        "review_id": "7682092889813911309",
+        "sku_id": "1732510617632936688",
+        "timestamp": "2026-09-05T16:44:02.980Z",
+        "quote": "This bra is life changing , specially the front closure . I sink in the sofa a lot , regular back clip made my skin itchy , that is why I ordered this front closure one . Not only make put on lots easier , but also solve my back itchy . Materiel is  soft and supportive. I am 36B, M size fit perfect !",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/6",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7681730615874094862",
+        "sku_id": "1732510617632740080",
+        "timestamp": "2026-09-04T17:18:13.830Z",
+        "quote": "AMAZING! it’s just right! It fits good in all the right places and just the right amount of support",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/12",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7681695140016310030",
+        "sku_id": "1732510617633002224",
+        "timestamp": "2026-09-04T15:00:38.710Z",
+        "quote": "Great fit  comfortable will buy another color   Smooths sides and back   A touch of lift looks great under tshirt",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/15",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7680761146839746317",
+        "sku_id": "1732510617632936688",
+        "timestamp": "2026-09-02T02:36:14.763Z",
+        "quote": "Very comfy!! Good buy!\nMaterial & Fabric: Feels great!\nComfort: Not binding\nSupport: Good",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/26",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7680745250311243534",
+        "sku_id": "1732510617632936688",
+        "timestamp": "2026-09-02T01:34:22.415Z",
+        "quote": "This bra is sooo comfortable and fits perfectly. It doesn’t show through my shirt. It is really supportive too!",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/27",
+        "disposition": "text_valid"
+      }
+    ],
+    "opposition_limit": "相反体验/合身背景来自同商品但可能不同SKU、身体和情境；不抵消原负面反馈，也不作为故障率证明。",
+    "raw_support_record_count": 2,
+    "deduplicated_support_text_count": 2,
+    "confirmed_problem_support_text_count": 2,
+    "independent_buyer_count": null,
+    "text_valid_sample_count": 25,
+    "effective_sample_count": null,
+    "problem_ratio": null,
+    "text_only_diagnostic_fraction": {
+      "numerator": 2,
+      "denominator": 25,
+      "value": 0.08,
+      "use": "仅诊断已读正文的结构，非业务有效问题占比；身份/线程、完整性与未知语义尚未全部核实。"
+    },
+    "gates": {
+      "text_sample_at_least_5": true,
+      "distinct_problem_texts_at_least_3": false,
+      "independent_buyers": "unknown",
+      "problem_ratio": "unknown"
+    },
+    "approved": false,
+    "status": "待补证据",
+    "missing": "需确认目标提升效果、所购规格及胸部/下围测量；不能从相似款标题判断。"
+  },
+  {
+    "signal_id": "bra_containment",
+    "product_id": "1732510609891758832",
+    "title": "文胸包容/收拢不足",
+    "support_strength": "explicit",
+    "supports": [
+      {
+        "review_id": "7680670162944722701",
+        "product_id": "1732510609891758832",
+        "sku_id": "1732510617633002224",
+        "timestamp": "2026-09-01T20:43:08.280Z",
+        "quote": "doesnt hold my breast up or in",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/28",
+        "disposition": "text_valid"
+      }
+    ],
+    "opposing_or_contextual_evidence": [],
+    "opposition_limit": "相反体验/合身背景来自同商品但可能不同SKU、身体和情境；不抵消原负面反馈，也不作为故障率证明。",
+    "raw_support_record_count": 1,
+    "deduplicated_support_text_count": 1,
+    "confirmed_problem_support_text_count": 1,
+    "independent_buyer_count": null,
+    "text_valid_sample_count": 25,
+    "effective_sample_count": null,
+    "problem_ratio": null,
+    "text_only_diagnostic_fraction": {
+      "numerator": 1,
+      "denominator": 25,
+      "value": 0.04,
+      "use": "仅诊断已读正文的结构，非业务有效问题占比；身份/线程、完整性与未知语义尚未全部核实。"
+    },
+    "gates": {
+      "text_sample_at_least_5": true,
+      "distinct_problem_texts_at_least_3": false,
+      "independent_buyers": "unknown",
+      "problem_ratio": "unknown"
+    },
+    "approved": false,
+    "status": "待补证据",
+    "missing": "需说明溢出/收拢位置及期望包容范围；不与覆盖或提升合成一个统计问题。"
+  },
+  {
+    "signal_id": "bra_coverage",
+    "product_id": "1732510609891758832",
+    "title": "文胸覆盖不足",
+    "support_strength": "explicit",
+    "supports": [
+      {
+        "review_id": "7680595825213540109",
+        "product_id": "1732510609891758832",
+        "sku_id": "1732510617632609008",
+        "timestamp": "2026-09-01T15:54:51.125Z",
+        "quote": "Awful coverage",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/29",
+        "disposition": "text_valid"
+      }
+    ],
+    "opposing_or_contextual_evidence": [],
+    "opposition_limit": "相反体验/合身背景来自同商品但可能不同SKU、身体和情境；不抵消原负面反馈，也不作为故障率证明。",
+    "raw_support_record_count": 1,
+    "deduplicated_support_text_count": 1,
+    "confirmed_problem_support_text_count": 1,
+    "independent_buyer_count": null,
+    "text_valid_sample_count": 25,
+    "effective_sample_count": null,
+    "problem_ratio": null,
+    "text_only_diagnostic_fraction": {
+      "numerator": 1,
+      "denominator": 25,
+      "value": 0.04,
+      "use": "仅诊断已读正文的结构，非业务有效问题占比；身份/线程、完整性与未知语义尚未全部核实。"
+    },
+    "gates": {
+      "text_sample_at_least_5": true,
+      "distinct_problem_texts_at_least_3": false,
+      "independent_buyers": "unknown",
+      "problem_ratio": "unknown"
+    },
+    "approved": false,
+    "status": "待补证据",
+    "missing": "需明确覆盖部位、所购颜色尺码和目标覆盖。"
+  },
+  {
+    "signal_id": "bra_discomfort",
+    "product_id": "1732510609891758832",
+    "title": "文胸穿着不舒适",
+    "support_strength": "explicit",
+    "supports": [
+      {
+        "review_id": "7681056933931403022",
+        "product_id": "1732510609891758832",
+        "sku_id": "1732510617632674544",
+        "timestamp": "2026-09-02T21:44:01.841Z",
+        "quote": "Uncomfortable",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/21",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7680595825213540109",
+        "product_id": "1732510609891758832",
+        "sku_id": "1732510617632609008",
+        "timestamp": "2026-09-01T15:54:51.125Z",
+        "quote": "very uncomfortable",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/29",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7680569329080813326",
+        "product_id": "1732510609891758832",
+        "sku_id": "1732510617633067760",
+        "timestamp": "2026-09-01T14:12:01.961Z",
+        "quote": "It was uncomfortable because it was too tight",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/30",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7680396546785822478",
+        "product_id": "1732510609891758832",
+        "sku_id": "1732510617633067760",
+        "timestamp": "2026-09-01T03:01:59.713Z",
+        "quote": "Not very comfortable",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/34",
+        "disposition": "text_valid"
+      }
+    ],
+    "opposing_or_contextual_evidence": [
+      {
+        "review_id": "7682027470236993294",
+        "sku_id": "1732510617632609008",
+        "timestamp": "2026-09-05T12:30:35.372Z",
+        "quote": "Great fit and very comfortable also adds much needed cleavage.",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/7",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7682012126864623374",
+        "sku_id": "1732510617632543472",
+        "timestamp": "2026-09-05T11:30:57.379Z",
+        "quote": "Excelente  comfy soft affordable price and the best part, you can use it with so many different outfits",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/8",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7681870717184395022",
+        "sku_id": "1732510617632805616",
+        "timestamp": "2026-09-05T02:22:18.891Z",
+        "quote": "Soft and comfortable with nice and interesting details. Unique design and fits well. Perfect for different dresses. Can be used on multiple occasions.",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/10",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7681851535449442062",
+        "sku_id": "1732510617632805616",
+        "timestamp": "2026-09-05T01:07:43.870Z",
+        "quote": "Super comfortable, seamless, and feels amazing to the touch, like jelly. The front closure has a very strong magnetic clasp. The size is also perfect; it's rare to find a bra that fits my small bust so well. It's fantastic!",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/11",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7681717226366125837",
+        "sku_id": "1732510617632936688",
+        "timestamp": "2026-09-04T16:26:12.438Z",
+        "quote": "It fits the body perfectly. The size is accurate. It doesn't show through clothing. It is very comfortable and soft.",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/13",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7681695140016310030",
+        "sku_id": "1732510617633002224",
+        "timestamp": "2026-09-04T15:00:38.710Z",
+        "quote": "Great fit  comfortable will buy another color   Smooths sides and back   A touch of lift looks great under tshirt",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/15",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7680761981967664910",
+        "sku_id": "1732510617632871152",
+        "timestamp": "2026-09-02T02:39:20.777Z",
+        "quote": "This is a very soft and comfortable bra! I love the lace on the back, its so pretty too!",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/25",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7680761146839746317",
+        "sku_id": "1732510617632936688",
+        "timestamp": "2026-09-02T02:36:14.763Z",
+        "quote": "Very comfy!! Good buy!\nMaterial & Fabric: Feels great!\nComfort: Not binding\nSupport: Good",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/26",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7680745250311243534",
+        "sku_id": "1732510617632936688",
+        "timestamp": "2026-09-02T01:34:22.415Z",
+        "quote": "This bra is sooo comfortable and fits perfectly. It doesn’t show through my shirt. It is really supportive too!",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/27",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7680670162944722701",
+        "sku_id": "1732510617633002224",
+        "timestamp": "2026-09-01T20:43:08.280Z",
+        "quote": "Its comfortable, but definitely doesnt hold my breast up or in.",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/28",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7680449818321536781",
+        "sku_id": "1732510617633002224",
+        "timestamp": "2026-09-01T06:28:26.063Z",
+        "quote": "This is probably the most comfortable bra I’ve ever owned. The magnet clasps are very strong.",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/33",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7680355433628469006",
+        "sku_id": "1732510617633002224",
+        "timestamp": "2026-09-01T00:21:56.966Z",
+        "quote": "Love this bra its sooo comfortable I never want to wear anything else and just ordered me a second one",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/35",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7680044702342645518",
+        "sku_id": "1732510617632674544",
+        "timestamp": "2026-08-31T04:16:00.356Z",
+        "quote": "So super comfortable you wouldn’t even know you’re wearing a bra. I love it. I’ve ordered two more highly recommend.",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/37",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7679956738765981453",
+        "sku_id": "1732510617633002224",
+        "timestamp": "2026-08-30T22:34:43.520Z",
+        "quote": "Feels comfortable and I would like to see more.color options if possible",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/39",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7679956704881739534",
+        "sku_id": "1732510617632674544",
+        "timestamp": "2026-08-30T22:34:32.006Z",
+        "quote": "Feels comfortable and I would like to see more.color options if possible",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/40",
+        "disposition": "excluded_duplicate_body"
+      }
+    ],
+    "opposition_limit": "相反体验/合身背景来自同商品但可能不同SKU、身体和情境；不抵消原负面反馈，也不作为故障率证明。",
+    "raw_support_record_count": 4,
+    "deduplicated_support_text_count": 4,
+    "confirmed_problem_support_text_count": 4,
+    "independent_buyer_count": null,
+    "text_valid_sample_count": 25,
+    "effective_sample_count": null,
+    "problem_ratio": null,
+    "text_only_diagnostic_fraction": {
+      "numerator": 4,
+      "denominator": 25,
+      "value": 0.16,
+      "use": "仅诊断已读正文的结构，非业务有效问题占比；身份/线程、完整性与未知语义尚未全部核实。"
+    },
+    "gates": {
+      "text_sample_at_least_5": true,
+      "distinct_problem_texts_at_least_3": true,
+      "independent_buyers": "unknown",
+      "problem_ratio": "unknown"
+    },
+    "approved": false,
+    "status": "待补证据",
+    "missing": "按共同症状归并；原因不同或未知，不声称同一设计缺陷。"
+  },
+  {
+    "signal_id": "bra_tight",
+    "product_id": "1732510609891758832",
+    "title": "文胸过紧/扣合困难",
+    "support_strength": "explicit",
+    "supports": [
+      {
+        "review_id": "7680569329080813326",
+        "product_id": "1732510609891758832",
+        "sku_id": "1732510617633067760",
+        "timestamp": "2026-09-01T14:12:01.961Z",
+        "quote": "It barely closed with the clasps",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/30",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7680569329080813326",
+        "product_id": "1732510609891758832",
+        "sku_id": "1732510617633067760",
+        "timestamp": "2026-09-01T14:12:01.961Z",
+        "quote": "too tight",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/30",
+        "disposition": "text_valid"
+      }
+    ],
+    "opposing_or_contextual_evidence": [
+      {
+        "review_id": "7682092889813911309",
+        "sku_id": "1732510617632936688",
+        "timestamp": "2026-09-05T16:44:02.980Z",
+        "quote": "This bra is life changing , specially the front closure . I sink in the sofa a lot , regular back clip made my skin itchy , that is why I ordered this front closure one . Not only make put on lots easier , but also solve my back itchy . Materiel is  soft and supportive. I am 36B, M size fit perfect !",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/6",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7682027470236993294",
+        "sku_id": "1732510617632609008",
+        "timestamp": "2026-09-05T12:30:35.372Z",
+        "quote": "Great fit and very comfortable also adds much needed cleavage.",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/7",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7681870717184395022",
+        "sku_id": "1732510617632805616",
+        "timestamp": "2026-09-05T02:22:18.891Z",
+        "quote": "Soft and comfortable with nice and interesting details. Unique design and fits well. Perfect for different dresses. Can be used on multiple occasions.",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/10",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7681851535449442062",
+        "sku_id": "1732510617632805616",
+        "timestamp": "2026-09-05T01:07:43.870Z",
+        "quote": "Super comfortable, seamless, and feels amazing to the touch, like jelly. The front closure has a very strong magnetic clasp. The size is also perfect; it's rare to find a bra that fits my small bust so well. It's fantastic!",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/11",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7681730615874094862",
+        "sku_id": "1732510617632740080",
+        "timestamp": "2026-09-04T17:18:13.830Z",
+        "quote": "AMAZING! it’s just right! It fits good in all the right places and just the right amount of support",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/12",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7681717226366125837",
+        "sku_id": "1732510617632936688",
+        "timestamp": "2026-09-04T16:26:12.438Z",
+        "quote": "It fits the body perfectly. The size is accurate. It doesn't show through clothing. It is very comfortable and soft.",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/13",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7681695140016310030",
+        "sku_id": "1732510617633002224",
+        "timestamp": "2026-09-04T15:00:38.710Z",
+        "quote": "Great fit  comfortable will buy another color   Smooths sides and back   A touch of lift looks great under tshirt",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/15",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7681532661290305293",
+        "sku_id": "1732510617633002224",
+        "timestamp": "2026-09-04T04:30:09.312Z",
+        "quote": "Perfect fit",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/17",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7680761146839746317",
+        "sku_id": "1732510617632936688",
+        "timestamp": "2026-09-02T02:36:14.763Z",
+        "quote": "Very comfy!! Good buy!\nMaterial & Fabric: Feels great!\nComfort: Not binding\nSupport: Good",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/26",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7680745250311243534",
+        "sku_id": "1732510617632936688",
+        "timestamp": "2026-09-02T01:34:22.415Z",
+        "quote": "This bra is sooo comfortable and fits perfectly. It doesn’t show through my shirt. It is really supportive too!",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/27",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7680015838256482062",
+        "sku_id": "1732510617632936688",
+        "timestamp": "2026-08-31T02:24:23.866Z",
+        "quote": "My wife loves the fit and the material. She looks great in it",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/38",
+        "disposition": "text_valid"
+      }
+    ],
+    "opposition_limit": "相反体验/合身背景来自同商品但可能不同SKU、身体和情境；不抵消原负面反馈，也不作为故障率证明。",
+    "raw_support_record_count": 1,
+    "deduplicated_support_text_count": 1,
+    "confirmed_problem_support_text_count": 1,
+    "independent_buyer_count": null,
+    "text_valid_sample_count": 25,
+    "effective_sample_count": null,
+    "problem_ratio": null,
+    "text_only_diagnostic_fraction": {
+      "numerator": 1,
+      "denominator": 25,
+      "value": 0.04,
+      "use": "仅诊断已读正文的结构，非业务有效问题占比；身份/线程、完整性与未知语义尚未全部核实。"
+    },
+    "gates": {
+      "text_sample_at_least_5": true,
+      "distinct_problem_texts_at_least_3": false,
+      "independent_buyers": "unknown",
+      "problem_ratio": "unknown"
+    },
+    "approved": false,
+    "status": "待补证据",
+    "missing": "仅1条明确反馈；38DD换L记录只是待确认相关背景，不能凑成2条过紧。"
+  },
+  {
+    "signal_id": "bra_molding",
+    "product_id": "1732510609891758832",
+    "title": "自述术后重建情境下模杯塑形不适",
+    "support_strength": "explicit",
+    "supports": [
+      {
+        "review_id": "7681458188278548238",
+        "product_id": "1732510609891758832",
+        "sku_id": "1732510617633002224",
+        "timestamp": "2026-09-03T23:40:59.131Z",
+        "quote": "the molding would not be ideal for someone else in my situation",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/18",
+        "disposition": "text_valid"
+      }
+    ],
+    "opposing_or_contextual_evidence": [],
+    "opposition_limit": "相反体验/合身背景来自同商品但可能不同SKU、身体和情境；不抵消原负面反馈，也不作为故障率证明。",
+    "raw_support_record_count": 1,
+    "deduplicated_support_text_count": 1,
+    "confirmed_problem_support_text_count": 1,
+    "independent_buyer_count": null,
+    "text_valid_sample_count": 25,
+    "effective_sample_count": null,
+    "problem_ratio": null,
+    "text_only_diagnostic_fraction": {
+      "numerator": 1,
+      "denominator": 25,
+      "value": 0.04,
+      "use": "仅诊断已读正文的结构，非业务有效问题占比；身份/线程、完整性与未知语义尚未全部核实。"
+    },
+    "gates": {
+      "text_sample_at_least_5": true,
+      "distinct_problem_texts_at_least_3": false,
+      "independent_buyers": "unknown",
+      "problem_ratio": "unknown"
+    },
+    "approved": false,
+    "status": "待补证据",
+    "missing": "只保留评价者自述情境；适用结构、实测及专业适用性未知，不作医疗建议。"
+  },
+  {
+    "signal_id": "bra_shape",
+    "product_id": "1732510609891758832",
+    "title": "文胸穿着塑形不美观",
+    "support_strength": "explicit",
+    "supports": [
+      {
+        "review_id": "7681056933931403022",
+        "product_id": "1732510609891758832",
+        "sku_id": "1732510617632674544",
+        "timestamp": "2026-09-02T21:44:01.841Z",
+        "quote": "not flattering shape wise",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/21",
+        "disposition": "text_valid"
+      }
+    ],
+    "opposing_or_contextual_evidence": [
+      {
+        "review_id": "7682027470236993294",
+        "sku_id": "1732510617632609008",
+        "timestamp": "2026-09-05T12:30:35.372Z",
+        "quote": "Great fit and very comfortable also adds much needed cleavage.",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/7",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7680015838256482062",
+        "sku_id": "1732510617632936688",
+        "timestamp": "2026-08-31T02:24:23.866Z",
+        "quote": "My wife loves the fit and the material. She looks great in it",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/38",
+        "disposition": "text_valid"
+      }
+    ],
+    "opposition_limit": "相反体验/合身背景来自同商品但可能不同SKU、身体和情境；不抵消原负面反馈，也不作为故障率证明。",
+    "raw_support_record_count": 1,
+    "deduplicated_support_text_count": 1,
+    "confirmed_problem_support_text_count": 1,
+    "independent_buyer_count": null,
+    "text_valid_sample_count": 25,
+    "effective_sample_count": null,
+    "problem_ratio": null,
+    "text_only_diagnostic_fraction": {
+      "numerator": 1,
+      "denominator": 25,
+      "value": 0.04,
+      "use": "仅诊断已读正文的结构，非业务有效问题占比；身份/线程、完整性与未知语义尚未全部核实。"
+    },
+    "gates": {
+      "text_sample_at_least_5": true,
+      "distinct_problem_texts_at_least_3": false,
+      "independent_buyers": "unknown",
+      "problem_ratio": "unknown"
+    },
+    "approved": false,
+    "status": "待补证据",
+    "missing": "需目标轮廓和具体不满部位；不与术后结构适用性合并。"
+  },
+  {
+    "signal_id": "bra_removable_pads",
+    "product_id": "1732510609891758832",
+    "title": "对可拆胸垫配置不满",
+    "support_strength": "explicit",
+    "supports": [
+      {
+        "review_id": "7681280219873003278",
+        "product_id": "1732510609891758832",
+        "sku_id": "1732510617632936688",
+        "timestamp": "2026-09-03T12:10:30.051Z",
+        "quote": "Poor quality, slippery, removable breast pads. Junk!",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/19",
+        "disposition": "text_valid"
+      }
+    ],
+    "opposing_or_contextual_evidence": [],
+    "opposition_limit": "相反体验/合身背景来自同商品但可能不同SKU、身体和情境；不抵消原负面反馈，也不作为故障率证明。",
+    "raw_support_record_count": 1,
+    "deduplicated_support_text_count": 1,
+    "confirmed_problem_support_text_count": 1,
+    "independent_buyer_count": null,
+    "text_valid_sample_count": 25,
+    "effective_sample_count": null,
+    "problem_ratio": null,
+    "text_only_diagnostic_fraction": {
+      "numerator": 1,
+      "denominator": 25,
+      "value": 0.04,
+      "use": "仅诊断已读正文的结构，非业务有效问题占比；身份/线程、完整性与未知语义尚未全部核实。"
+    },
+    "gates": {
+      "text_sample_at_least_5": true,
+      "distinct_problem_texts_at_least_3": false,
+      "independent_buyers": "unknown",
+      "problem_ratio": "unknown"
+    },
+    "approved": false,
+    "status": "待补证据",
+    "missing": "可拆胸垫被置于负面评价；固定胸垫只是待核对替代方向，未证实移位。"
+  },
+  {
+    "signal_id": "bra_slippery",
+    "product_id": "1732510609891758832",
+    "title": "滑感问题，对象未定位",
+    "support_strength": "uncertain",
+    "supports": [
+      {
+        "review_id": "7681280219873003278",
+        "product_id": "1732510609891758832",
+        "sku_id": "1732510617632936688",
+        "timestamp": "2026-09-03T12:10:30.051Z",
+        "quote": "slippery",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/19",
+        "disposition": "text_valid"
+      }
+    ],
+    "opposing_or_contextual_evidence": [],
+    "opposition_limit": "相反体验/合身背景来自同商品但可能不同SKU、身体和情境；不抵消原负面反馈，也不作为故障率证明。",
+    "raw_support_record_count": 1,
+    "deduplicated_support_text_count": 1,
+    "confirmed_problem_support_text_count": 0,
+    "independent_buyer_count": null,
+    "text_valid_sample_count": 25,
+    "effective_sample_count": null,
+    "problem_ratio": null,
+    "text_only_diagnostic_fraction": {
+      "numerator": 1,
+      "denominator": 25,
+      "value": 0.04,
+      "use": "仅诊断已读正文的结构，非业务有效问题占比；身份/线程、完整性与未知语义尚未全部核实。"
+    },
+    "gates": {
+      "text_sample_at_least_5": true,
+      "distinct_problem_texts_at_least_3": false,
+      "independent_buyers": "unknown",
+      "problem_ratio": "unknown"
+    },
+    "approved": false,
+    "status": "待补证据",
+    "missing": "需分清胸垫滑动、面料滑还是整件滑落；不并入面料或胸垫故障。"
+  },
+  {
+    "signal_id": "bra_humid",
+    "product_id": "1732510609891758832",
+    "title": "湿热出汗情境穿着不适",
+    "support_strength": "explicit",
+    "supports": [
+      {
+        "review_id": "7680569329080813326",
+        "product_id": "1732510609891758832",
+        "sku_id": "1732510617633067760",
+        "timestamp": "2026-09-01T14:12:01.961Z",
+        "quote": "not if you’re sweaty in a hot humid climate",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/30",
+        "disposition": "text_valid"
+      }
+    ],
+    "opposing_or_contextual_evidence": [],
+    "opposition_limit": "相反体验/合身背景来自同商品但可能不同SKU、身体和情境；不抵消原负面反馈，也不作为故障率证明。",
+    "raw_support_record_count": 1,
+    "deduplicated_support_text_count": 1,
+    "confirmed_problem_support_text_count": 1,
+    "independent_buyer_count": null,
+    "text_valid_sample_count": 25,
+    "effective_sample_count": null,
+    "problem_ratio": null,
+    "text_only_diagnostic_fraction": {
+      "numerator": 1,
+      "denominator": 25,
+      "value": 0.04,
+      "use": "仅诊断已读正文的结构，非业务有效问题占比；身份/线程、完整性与未知语义尚未全部核实。"
+    },
+    "gates": {
+      "text_sample_at_least_5": true,
+      "distinct_problem_texts_at_least_3": false,
+      "independent_buyers": "unknown",
+      "problem_ratio": "unknown"
+    },
+    "approved": false,
+    "status": "待补证据",
+    "missing": "原文确认情境不满，但没有透气/速干测试，不推断材质原因。"
+  },
+  {
+    "signal_id": "bra_colors",
+    "product_id": "1732510609891758832",
+    "title": "希望更多颜色选项",
+    "support_strength": "explicit",
+    "supports": [
+      {
+        "review_id": "7679956738765981453",
+        "product_id": "1732510609891758832",
+        "sku_id": "1732510617633002224",
+        "timestamp": "2026-08-30T22:34:43.520Z",
+        "quote": "I would like to see more.color options if possible",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/39",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7679956704881739534",
+        "product_id": "1732510609891758832",
+        "sku_id": "1732510617632674544",
+        "timestamp": "2026-08-30T22:34:32.006Z",
+        "quote": "I would like to see more.color options if possible",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/40",
+        "disposition": "excluded_duplicate_body"
+      }
+    ],
+    "opposing_or_contextual_evidence": [],
+    "opposition_limit": "相反体验/合身背景来自同商品但可能不同SKU、身体和情境；不抵消原负面反馈，也不作为故障率证明。",
+    "raw_support_record_count": 2,
+    "deduplicated_support_text_count": 1,
+    "confirmed_problem_support_text_count": 1,
+    "independent_buyer_count": null,
+    "text_valid_sample_count": 25,
+    "effective_sample_count": null,
+    "problem_ratio": null,
+    "text_only_diagnostic_fraction": {
+      "numerator": 1,
+      "denominator": 25,
+      "value": 0.04,
+      "use": "仅诊断已读正文的结构，非业务有效问题占比；身份/线程、完整性与未知语义尚未全部核实。"
+    },
+    "gates": {
+      "text_sample_at_least_5": true,
+      "distinct_problem_texts_at_least_3": false,
+      "independent_buyers": "unknown",
+      "problem_ratio": "unknown"
+    },
+    "approved": false,
+    "status": "待补证据",
+    "missing": "2条原记录正文相同，仅1份正文支持；期望颜色及当前可选颜色未知。"
+  },
+  {
+    "signal_id": "bra_size_up",
+    "product_id": "1732510609891758832",
+    "title": "买M后计划换L的尺码线索",
+    "support_strength": "inferred",
+    "supports": [
+      {
+        "review_id": "7680856331680319246",
+        "product_id": "1732510609891758832",
+        "sku_id": "1732510617632936688",
+        "timestamp": "2026-09-02T08:45:26.133Z",
+        "quote": "I got the medium but I back ordering the larges.",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/24",
+        "disposition": "text_valid"
+      }
+    ],
+    "opposing_or_contextual_evidence": [
+      {
+        "review_id": "7682092889813911309",
+        "sku_id": "1732510617632936688",
+        "timestamp": "2026-09-05T16:44:02.980Z",
+        "quote": "This bra is life changing , specially the front closure . I sink in the sofa a lot , regular back clip made my skin itchy , that is why I ordered this front closure one . Not only make put on lots easier , but also solve my back itchy . Materiel is  soft and supportive. I am 36B, M size fit perfect !",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/6",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7681717226366125837",
+        "sku_id": "1732510617632936688",
+        "timestamp": "2026-09-04T16:26:12.438Z",
+        "quote": "It fits the body perfectly. The size is accurate. It doesn't show through clothing. It is very comfortable and soft.",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/13",
+        "disposition": "text_valid"
+      }
+    ],
+    "opposition_limit": "相反体验/合身背景来自同商品但可能不同SKU、身体和情境；不抵消原负面反馈，也不作为故障率证明。",
+    "raw_support_record_count": 1,
+    "deduplicated_support_text_count": 1,
+    "confirmed_problem_support_text_count": 0,
+    "independent_buyer_count": null,
+    "text_valid_sample_count": 25,
+    "effective_sample_count": null,
+    "problem_ratio": null,
+    "text_only_diagnostic_fraction": {
+      "numerator": 1,
+      "denominator": 25,
+      "value": 0.04,
+      "use": "仅诊断已读正文的结构，非业务有效问题占比；身份/线程、完整性与未知语义尚未全部核实。"
+    },
+    "gates": {
+      "text_sample_at_least_5": true,
+      "distinct_problem_texts_at_least_3": false,
+      "independent_buyers": "unknown",
+      "problem_ratio": "unknown"
+    },
+    "approved": false,
+    "status": "待补证据",
+    "missing": "可能需要更大码是推断，原文未明确偏小，不作为明确过紧分子。"
+  },
+  {
+    "signal_id": "dress_snug",
+    "product_id": "1732357239054307594",
+    "title": "连衣裙贴身感，是否过紧未确认",
+    "support_strength": "uncertain",
+    "supports": [
+      {
+        "review_id": "7680736993038436109",
+        "product_id": "1732357239054307594",
+        "sku_id": "1732357231801372938",
+        "timestamp": "2026-09-02T01:02:57.370Z",
+        "quote": "Snug & cute!",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/119",
+        "disposition": "text_valid"
+      }
+    ],
+    "opposing_or_contextual_evidence": [
+      {
+        "review_id": "7681689016258430734",
+        "sku_id": "1732357231801307402",
+        "timestamp": "2026-09-04T14:36:48.551Z",
+        "quote": "True to size and fits well",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/117",
+        "disposition": "text_valid"
+      },
+      {
+        "review_id": "7681688957369681678",
+        "sku_id": "1732357239054373130",
+        "timestamp": "2026-09-04T14:36:36.628Z",
+        "quote": "True to size and fits well",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/118",
+        "disposition": "excluded_duplicate_body"
+      },
+      {
+        "review_id": "7679851210942007054",
+        "sku_id": "1732397129995686154",
+        "timestamp": "2026-08-30T15:45:05.630Z",
+        "quote": "fits sooo well! got so many compliments i bought it in black as well",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/122",
+        "disposition": "text_valid"
+      }
+    ],
+    "opposition_limit": "相反体验/合身背景来自同商品但可能不同SKU、身体和情境；不抵消原负面反馈，也不作为故障率证明。",
+    "raw_support_record_count": 1,
+    "deduplicated_support_text_count": 1,
+    "confirmed_problem_support_text_count": 0,
+    "independent_buyer_count": null,
+    "text_valid_sample_count": 3,
+    "effective_sample_count": null,
+    "problem_ratio": null,
+    "text_only_diagnostic_fraction": {
+      "numerator": 1,
+      "denominator": 3,
+      "value": 0.3333333333333333,
+      "use": "仅诊断已读正文的结构，非业务有效问题占比；身份/线程、完整性与未知语义尚未全部核实。"
+    },
+    "gates": {
+      "text_sample_at_least_5": false,
+      "distinct_problem_texts_at_least_3": false,
+      "independent_buyers": "unknown",
+      "problem_ratio": "unknown"
+    },
+    "approved": false,
+    "status": "待补证据",
+    "missing": "不能将snug自动归为too tight；没有明确当期负面问题。"
+  },
+  {
+    "signal_id": "jeans_high_waist",
+    "product_id": "1731650530027868452",
+    "title": "牛仔裤腰位过高",
+    "support_strength": "explicit",
+    "supports": [
+      {
+        "review_id": "7681812881478731534",
+        "product_id": "1731650530027868452",
+        "sku_id": "1731650530027999524",
+        "timestamp": "2026-09-04T22:37:22.326Z",
+        "quote": "Pants are very high waisted",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/233",
+        "disposition": "text_valid"
+      }
+    ],
+    "opposing_or_contextual_evidence": [],
+    "opposition_limit": "相反体验/合身背景来自同商品但可能不同SKU、身体和情境；不抵消原负面反馈，也不作为故障率证明。",
+    "raw_support_record_count": 1,
+    "deduplicated_support_text_count": 1,
+    "confirmed_problem_support_text_count": 1,
+    "independent_buyer_count": null,
+    "text_valid_sample_count": 2,
+    "effective_sample_count": null,
+    "problem_ratio": null,
+    "text_only_diagnostic_fraction": {
+      "numerator": 1,
+      "denominator": 2,
+      "value": 0.5,
+      "use": "仅诊断已读正文的结构，非业务有效问题占比；身份/线程、完整性与未知语义尚未全部核实。"
+    },
+    "gates": {
+      "text_sample_at_least_5": false,
+      "distinct_problem_texts_at_least_3": false,
+      "independent_buyers": "unknown",
+      "problem_ratio": "unknown"
+    },
+    "approved": false,
+    "status": "待补证据",
+    "missing": "目标前后裆长、腰线及所购尺码待补；不能据此说裤腿过长。"
+  },
+  {
+    "signal_id": "jeans_silhouette",
+    "product_id": "1731650530027868452",
+    "title": "牛仔裤臀部显长、穿着外观与图不符",
+    "support_strength": "explicit",
+    "supports": [
+      {
+        "review_id": "7681812881478731534",
+        "product_id": "1731650530027868452",
+        "sku_id": "1731650530027999524",
+        "timestamp": "2026-09-04T22:37:22.326Z",
+        "quote": "nothing like picture  and make your butt look long",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/233",
+        "disposition": "text_valid"
+      }
+    ],
+    "opposing_or_contextual_evidence": [
+      {
+        "review_id": "7681046428524955406",
+        "sku_id": "1732490582602060068",
+        "timestamp": "2026-09-02T21:03:12.574Z",
+        "quote": "La manera como se queda muy lindos detalles genial",
+        "source_ref": "data_acquisition/apify_reviews/records/keyword_products_apify_20260907/api_reviews.json#/237",
+        "disposition": "text_valid"
+      }
+    ],
+    "opposition_limit": "相反体验/合身背景来自同商品但可能不同SKU、身体和情境；不抵消原负面反馈，也不作为故障率证明。",
+    "raw_support_record_count": 1,
+    "deduplicated_support_text_count": 1,
+    "confirmed_problem_support_text_count": 1,
+    "independent_buyer_count": null,
+    "text_valid_sample_count": 2,
+    "effective_sample_count": null,
+    "problem_ratio": null,
+    "text_only_diagnostic_fraction": {
+      "numerator": 1,
+      "denominator": 2,
+      "value": 0.5,
+      "use": "仅诊断已读正文的结构，非业务有效问题占比；身份/线程、完整性与未知语义尚未全部核实。"
+    },
+    "gates": {
+      "text_sample_at_least_5": false,
+      "distinct_problem_texts_at_least_3": false,
+      "independent_buyers": "unknown",
+      "problem_ratio": "unknown"
+    },
+    "approved": false,
+    "status": "待补证据",
+    "missing": "属于评价者外观反馈；广告图、臀部/裆长实测缺失，未独立验证图片不符。"
+  }
+]

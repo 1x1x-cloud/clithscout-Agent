@@ -1,0 +1,498 @@
+{
+  "checked_at": "2026-09-06T17:48:42.440294+00:00",
+  "scope": "Evidence integrity, anchored identity, transcriptions, conversion, conflicts, null handling and documentation links. No product/fit validation.",
+  "all_passed": true,
+  "check_count": 41,
+  "checks": [
+    {
+      "name": "review_anchor_exact_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "raw_reviews_unchanged_during_dossier_write",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "catalog_anchor_exact",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "catalog_unchanged_during_dossier_write",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "identity_matches_review",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "canonical_url_matches_catalog",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "image_integrity_tiktok_description_40.jpg",
+      "passed": true,
+      "details": {
+        "size": [
+          756,
+          580
+        ],
+        "sha256": "9a79062632f6b1c8fdb422d89c62f2822425a942268ba9866d17c0c1ab45a9ba"
+      }
+    },
+    {
+      "name": "image_integrity_tiktok_description_41.jpg",
+      "passed": true,
+      "details": {
+        "size": [
+          600,
+          2250
+        ],
+        "sha256": "82e3131cdce6ba4e2c5926a43634f507c147e73d0ef9686be386515b39cc2595"
+      }
+    },
+    {
+      "name": "chart_source_tiktok_A",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "rows_units_tiktok_A",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "cm_conversion_tiktok_A_S_bust",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "cm_conversion_tiktok_A_S_length",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "cm_conversion_tiktok_A_M_bust",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "cm_conversion_tiktok_A_M_length",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "cm_conversion_tiktok_A_L_bust",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "cm_conversion_tiktok_A_L_length",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "cm_conversion_tiktok_A_XL_bust",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "cm_conversion_tiktok_A_XL_length",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "cm_conversion_tiktok_A_XXL_bust",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "cm_conversion_tiktok_A_XXL_length",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "chart_source_tiktok_B",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "rows_units_tiktok_B",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "cm_conversion_tiktok_B_S_bust",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "cm_conversion_tiktok_B_S_length",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "cm_conversion_tiktok_B_M_bust",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "cm_conversion_tiktok_B_M_length",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "cm_conversion_tiktok_B_L_bust",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "cm_conversion_tiktok_B_L_length",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "cm_conversion_tiktok_B_XL_bust",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "cm_conversion_tiktok_B_XL_length",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "cm_conversion_tiktok_B_XXL_bust",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "cm_conversion_tiktok_B_XXL_length",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "all_7_conflicts_retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "report_table_matches_json",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "no_unverified_sku_values",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "not_importable_as_confirmed_sku",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "two_visual_transcriptions_agree",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "brand_archived_files_hashes_match",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "report_local_links_resolve",
+      "passed": true,
+      "details": [
+        {
+          "document": "REPORT.md",
+          "link": "tiktok_page_evidence.json",
+          "exists": true
+        },
+        {
+          "document": "REPORT.md",
+          "link": "review_anchor.json",
+          "exists": true
+        },
+        {
+          "document": "REPORT.md",
+          "link": "tiktok_description_40.jpg",
+          "exists": true
+        },
+        {
+          "document": "REPORT.md",
+          "link": "tiktok_description_41.jpg",
+          "exists": true
+        },
+        {
+          "document": "REPORT.md",
+          "link": "tiktok_description_requests.json",
+          "exists": true
+        },
+        {
+          "document": "REPORT.md",
+          "link": "visual_transcription_review.json",
+          "exists": true
+        },
+        {
+          "document": "REPORT.md",
+          "link": "size_basis.json",
+          "exists": true
+        },
+        {
+          "document": "REPORT.md",
+          "link": "brand_research.md",
+          "exists": true
+        },
+        {
+          "document": "REPORT.md",
+          "link": "../../../../project_governance/project_state/docs/TASK_STATE.md",
+          "exists": true
+        },
+        {
+          "document": "REPORT.md",
+          "link": "access_limitations.json",
+          "exists": true
+        },
+        {
+          "document": "REPORT.md",
+          "link": "validation.json",
+          "exists": true
+        },
+        {
+          "document": "brand_research.md",
+          "link": "brand_product_page.html",
+          "exists": true
+        },
+        {
+          "document": "brand_research.md",
+          "link": "brand_description_size_image.jpg",
+          "exists": true
+        },
+        {
+          "document": "brand_research.md",
+          "link": "brand_handle_matched_chart.json",
+          "exists": true
+        },
+        {
+          "document": "brand_research.md",
+          "link": "brand_description_size_image.jpg",
+          "exists": true
+        },
+        {
+          "document": "brand_research.md",
+          "link": "brand_handle_matched_chart.json",
+          "exists": true
+        },
+        {
+          "document": "brand_research.md",
+          "link": "brand_description_size_image.jpg",
+          "exists": true
+        },
+        {
+          "document": "brand_research.md",
+          "link": "brand_description_size_image.jpg",
+          "exists": true
+        },
+        {
+          "document": "brand_research.md",
+          "link": "brand_handle_matched_chart.json",
+          "exists": true
+        },
+        {
+          "document": "brand_research.md",
+          "link": "brand_product_data.json",
+          "exists": true
+        },
+        {
+          "document": "brand_research.md",
+          "link": "brand_handle_matched_chart.json",
+          "exists": true
+        },
+        {
+          "document": "brand_research.md",
+          "link": "brand_full_product.json",
+          "exists": true
+        },
+        {
+          "document": "brand_research.md",
+          "link": "brand_product_data.json",
+          "exists": true
+        },
+        {
+          "document": "brand_research.md",
+          "link": "brand_full_product.json",
+          "exists": true
+        },
+        {
+          "document": "brand_research.md",
+          "link": "brand_page_selected_variant.json",
+          "exists": true
+        },
+        {
+          "document": "brand_research.md",
+          "link": "brand_product_page_request.json",
+          "exists": true
+        },
+        {
+          "document": "brand_research.md",
+          "link": "brand_description_size_image_request.json",
+          "exists": true
+        },
+        {
+          "document": "brand_research.md",
+          "link": "brand_validation.json",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "name": "state_refs_resolve",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "cached_freshness_retained",
+      "passed": true,
+      "details": null
+    }
+  ],
+  "files": [
+    {
+      "file": "access_limitations.json",
+      "bytes": 1627,
+      "sha256": "bf87473086c7acc9c8e307e3557feda0568d3a3ce0e2b66f6d1c1f85dad4a4d1"
+    },
+    {
+      "file": "brand_catalog_variants.json",
+      "bytes": 38195,
+      "sha256": "ceb8d1ab13745b282013d5cad50b2dea1da1e9d8d8613394b2ba0e6addd2a1d3"
+    },
+    {
+      "file": "brand_description_size_image.jpg",
+      "bytes": 328552,
+      "sha256": "3adf03398e9b72824ebe509ea9b099c90e2978bec01a311c0f2bf6faddac39f3"
+    },
+    {
+      "file": "brand_description_size_image_request.json",
+      "bytes": 580,
+      "sha256": "64d8cab85a7f3bd8766602395dd11f75c8320a3dcf8a24865ce68959483b07ed"
+    },
+    {
+      "file": "brand_full_product.json",
+      "bytes": 51697,
+      "sha256": "abc768e4f31da2bfd54b91cde8059d11f2df3b6716941afa3613f8094e5a6caf"
+    },
+    {
+      "file": "brand_handle_matched_chart.json",
+      "bytes": 6185,
+      "sha256": "626f819af6a6376fd36872c9c4f9cd3c20fc586d7ea81971bf21557c9e573f06"
+    },
+    {
+      "file": "brand_ld_json_script_146.json",
+      "bytes": 648,
+      "sha256": "204107c5db6847c6a0bb89fdcf063234cf0e6de7eea6a78bd1fd5e98107a354c"
+    },
+    {
+      "file": "brand_ld_json_script_173.json",
+      "bytes": 7661,
+      "sha256": "01c93502289d9b062d6a12590532d9bdc749860fa8fcfb5d5d0db0e2be811482"
+    },
+    {
+      "file": "brand_page_selected_variant.json",
+      "bytes": 1801,
+      "sha256": "8a8feb9c208c8c0b8c396e5c07c9350ad1b3e18431765277238a3671fc258237"
+    },
+    {
+      "file": "brand_product_data.json",
+      "bytes": 61244,
+      "sha256": "4a1635b27666d68a97306c062e4700766d84c0d15b3792bd6e6eb1af08869a95"
+    },
+    {
+      "file": "brand_product_page.html",
+      "bytes": 8973804,
+      "sha256": "fadcf0da7964d59d442bf1604a1374f59b1b55ea58ee63c9de96da6d1064b461"
+    },
+    {
+      "file": "brand_product_page_request.json",
+      "bytes": 4403,
+      "sha256": "4c9a984e96621b66fc5a9f2551712610b3336b689ad91fa21d07072bf4cc265e"
+    },
+    {
+      "file": "brand_research.md",
+      "bytes": 7078,
+      "sha256": "ac18a17e8bd3a1905d3ce80d261bda34389d22682f6e2edb8c78bc27f06df1f8"
+    },
+    {
+      "file": "brand_size_chart_transcription.json",
+      "bytes": 1724,
+      "sha256": "9c7ba17aca23c0653c9a02ca344f1e09e1a26431ffa15973806d21b5353d9b02"
+    },
+    {
+      "file": "brand_validation.json",
+      "bytes": 5062,
+      "sha256": "6d8f2f379402196377adb85617788d92e28600dfc2fae8ab00ff1ab76b081b6e"
+    },
+    {
+      "file": "REPORT.md",
+      "bytes": 5665,
+      "sha256": "021dd5e6215058a4cc18338e1e52f5967bd9ef03ee6f4797f437b5b9ceb1f00d"
+    },
+    {
+      "file": "review_anchor.json",
+      "bytes": 1059,
+      "sha256": "2cb4e85211a725d437b50c3c1d001315c2b5c52dd70eb9219e737bb65fd10dc4"
+    },
+    {
+      "file": "size_basis.json",
+      "bytes": 6328,
+      "sha256": "8c21788eeac3b71d349bc3c6268c523057d591a2953f91f51db9563aa2bf0743"
+    },
+    {
+      "file": "tiktok_description_40.jpg",
+      "bytes": 30769,
+      "sha256": "9a79062632f6b1c8fdb422d89c62f2822425a942268ba9866d17c0c1ab45a9ba"
+    },
+    {
+      "file": "tiktok_description_41.jpg",
+      "bytes": 218606,
+      "sha256": "82e3131cdce6ba4e2c5926a43634f507c147e73d0ef9686be386515b39cc2595"
+    },
+    {
+      "file": "tiktok_description_requests.json",
+      "bytes": 1210,
+      "sha256": "090e4d39c5eff93ce0a981f652ff9777f46ea4c27dfdd56c9fb72e724ec2c3f1"
+    },
+    {
+      "file": "tiktok_page_evidence.json",
+      "bytes": 3101,
+      "sha256": "3526343f718ff28264ee734a72bff66cd13bab727bc22a415dc3eecd062423e3"
+    },
+    {
+      "file": "tiktok_product_page_request.json",
+      "bytes": 424,
+      "sha256": "41705bc1f65f42366fb252f1b960fa95fa879e8a00d5a14ad58613ae638c5cdc"
+    },
+    {
+      "file": "visual_transcription_review.json",
+      "bytes": 528,
+      "sha256": "a5ba6f2f9c25de02e1a556909ace48d0d8a4d8f763752e93e458f45ec00924e7"
+    }
+  ],
+  "sku_size_basis_complete": false,
+  "unresolved": [
+    "Purchased SKU color/size mapping",
+    "Applicable chart and measurement protocol",
+    "Review target measurements"
+  ],
+  "paid_calls": 0,
+  "sourcing_searches": 0,
+  "supplier_messages": 0,
+  "production_changes": 0
+}

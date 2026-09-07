@@ -1,0 +1,109 @@
+
+      {
+        "@context": "http://schema.org/",
+        "@type": "Product",
+
+        "name": "Striped Halter Sleeveless Tank Causal Golden Button Decor Breathable Knit Top",
+        "url": "https:\/\/www.chicme.com\/products\/striped-halter-sleeveless-tank-causal-golden-button-decor-breathable-knit-top",
+        "image": [
+            "https:\/\/cdn.shopify.com\/s\/files\/1\/0748\/9457\/3625\/files\/kh_2_f0e9981c-6893-43b5-9b4d-b11181080671.jpg?v=1778139985\u0026width=1920"
+          ],
+        "description": "FABRIC - Breathable Viscose Knit: Crafted from 100% viscose, this premium knit fabric offers a silky-soft, lightweight handfeel with excellent breathability, delivering a comfortable, skin-friendly fit that gently skims the body without restriction, ensuring a cool and refined wearing experience throughout warm summer conditions.\nSILHOUETTE - Elegant Slim-Fit Frame: Designed with a refined slim-fit silhouette and a classic halter neckline, this top softly contours the body while maintaining ease of wear, enhancing the shoulder line and elongating the visual proportions for a balanced, figure-flattering effect that offers a streamlined and structured appearance. \nDESIGN - Gold Button \u0026amp; Striped Accent: Elevated by polished gold-tone button detailing and a timeless stripe pattern, this top reinterprets a classic essential with a refined aesthetic. The sleeveless cut and fine ribbed texture contribute to a structured yet understated finish, while the craftsmanship and overall quality exceed standard expectations.\nSTYLING - Polished Coastal Aesthetic: This striped camisole pairs seamlessly with tailored trousers, linen separates, denim pieces, or skirts. It may be layered under blazers for a refined office ensemble or styled independently for relaxed seasonal occasions, offering versatile styling adaptability across multiple settings.\nOCCASIONS - Seamless Multi-Scene Utility: Suitable for daily wear, summer wardrobes, vacation styling, brunch occasions, café settings, office layering, shopping activities, and social gatherings, providing consistent adaptability across both casual and semi-formal scenarios.",
+        "sku": "ODS5841-kh-S",
+        "brand": {
+          "@type": "Brand",
+          "name": "Chicme"
+        },
+        "offers": [{
+              "@type" : "Offer","sku": "ODS5841-kh-S","availability" : "http://schema.org/InStock",
+              "price" : 19.99,
+              "priceCurrency" : "USD",
+              "url" : "https:\/\/www.chicme.com\/products\/striped-halter-sleeveless-tank-causal-golden-button-decor-breathable-knit-top?variant=45633561919545"
+            },
+{
+              "@type" : "Offer","sku": "ODS5841-kh-M","availability" : "http://schema.org/InStock",
+              "price" : 19.99,
+              "priceCurrency" : "USD",
+              "url" : "https:\/\/www.chicme.com\/products\/striped-halter-sleeveless-tank-causal-golden-button-decor-breathable-knit-top?variant=45633561952313"
+            },
+{
+              "@type" : "Offer","sku": "ODS5841-kh-L","availability" : "http://schema.org/InStock",
+              "price" : 19.99,
+              "priceCurrency" : "USD",
+              "url" : "https:\/\/www.chicme.com\/products\/striped-halter-sleeveless-tank-causal-golden-button-decor-breathable-knit-top?variant=45633561985081"
+            },
+{
+              "@type" : "Offer","sku": "ODS5841-kh-XL","availability" : "http://schema.org/InStock",
+              "price" : 19.99,
+              "priceCurrency" : "USD",
+              "url" : "https:\/\/www.chicme.com\/products\/striped-halter-sleeveless-tank-causal-golden-button-decor-breathable-knit-top?variant=45633562017849"
+            },
+{
+              "@type" : "Offer","sku": "ODS5841-kh-XXL","availability" : "http://schema.org/InStock",
+              "price" : 19.99,
+              "priceCurrency" : "USD",
+              "url" : "https:\/\/www.chicme.com\/products\/striped-halter-sleeveless-tank-causal-golden-button-decor-breathable-knit-top?variant=45907083395129"
+            },
+{
+              "@type" : "Offer","sku": "ODS5841-bK-S","availability" : "http://schema.org/InStock",
+              "price" : 19.99,
+              "priceCurrency" : "USD",
+              "url" : "https:\/\/www.chicme.com\/products\/striped-halter-sleeveless-tank-causal-golden-button-decor-breathable-knit-top?variant=45642446766137"
+            },
+{
+              "@type" : "Offer","sku": "ODS5841-bK-M","availability" : "http://schema.org/InStock",
+              "price" : 19.99,
+              "priceCurrency" : "USD",
+              "url" : "https:\/\/www.chicme.com\/products\/striped-halter-sleeveless-tank-causal-golden-button-decor-breathable-knit-top?variant=45642446798905"
+            },
+{
+              "@type" : "Offer","sku": "ODS5841-bK-L","availability" : "http://schema.org/InStock",
+              "price" : 19.99,
+              "priceCurrency" : "USD",
+              "url" : "https:\/\/www.chicme.com\/products\/striped-halter-sleeveless-tank-causal-golden-button-decor-breathable-knit-top?variant=45642446831673"
+            },
+{
+              "@type" : "Offer","sku": "ODS5841-bK-XL","availability" : "http://schema.org/InStock",
+              "price" : 19.99,
+              "priceCurrency" : "USD",
+              "url" : "https:\/\/www.chicme.com\/products\/striped-halter-sleeveless-tank-causal-golden-button-decor-breathable-knit-top?variant=45642446864441"
+            },
+{
+              "@type" : "Offer","sku": "ODS5841-bk-XXL","availability" : "http://schema.org/InStock",
+              "price" : 19.99,
+              "priceCurrency" : "USD",
+              "url" : "https:\/\/www.chicme.com\/products\/striped-halter-sleeveless-tank-causal-golden-button-decor-breathable-knit-top?variant=45907083460665"
+            },
+{
+              "@type" : "Offer","sku": "ODS5841-pi-S","availability" : "http://schema.org/OutOfStock",
+              "price" : 19.99,
+              "priceCurrency" : "USD",
+              "url" : "https:\/\/www.chicme.com\/products\/striped-halter-sleeveless-tank-causal-golden-button-decor-breathable-knit-top?variant=45643705417785"
+            },
+{
+              "@type" : "Offer","sku": "ODS5841-pi-M","availability" : "http://schema.org/OutOfStock",
+              "price" : 19.99,
+              "priceCurrency" : "USD",
+              "url" : "https:\/\/www.chicme.com\/products\/striped-halter-sleeveless-tank-causal-golden-button-decor-breathable-knit-top?variant=45643705450553"
+            },
+{
+              "@type" : "Offer","sku": "ODS5841-pi-L","availability" : "http://schema.org/OutOfStock",
+              "price" : 19.99,
+              "priceCurrency" : "USD",
+              "url" : "https:\/\/www.chicme.com\/products\/striped-halter-sleeveless-tank-causal-golden-button-decor-breathable-knit-top?variant=45643705483321"
+            },
+{
+              "@type" : "Offer","sku": "ODS5841-pi-XL","availability" : "http://schema.org/OutOfStock",
+              "price" : 19.99,
+              "priceCurrency" : "USD",
+              "url" : "https:\/\/www.chicme.com\/products\/striped-halter-sleeveless-tank-causal-golden-button-decor-breathable-knit-top?variant=45643705516089"
+            },
+{
+              "@type" : "Offer","sku": "ODS5841-pi-XXL","availability" : "http://schema.org/InStock",
+              "price" : 19.99,
+              "priceCurrency" : "USD",
+              "url" : "https:\/\/www.chicme.com\/products\/striped-halter-sleeveless-tank-causal-golden-button-decor-breathable-knit-top?variant=45907083493433"
+            }
+]
+      }
+    

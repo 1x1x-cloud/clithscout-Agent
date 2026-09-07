@@ -1,0 +1,1773 @@
+{
+  "created_at": "2026-09-06T16:12:23.949430+00:00",
+  "source_root": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans",
+  "target_root": "D:\\clothscout",
+  "archive": "project_governance/migration/backup/original_project.zip",
+  "archive_sha256": "6f4545d6bc7599aeb61556599721ad4f0457c8e2da5b93851c42be137d6bcd20",
+  "source_files": [
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\.gitignore",
+      "archive_member": "clothing_agent/.gitignore",
+      "source_sha256": "862263fa1f46c20f0d1e4dac5ffcc75abd55c08211b2c3864c5f8764b9d87793",
+      "bytes": 19,
+      "destination": null,
+      "preservation": "recovery_archive_original_and_modular_replacement"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\__init__.py",
+      "archive_member": "clothing_agent/__init__.py",
+      "source_sha256": "3e5b4df806952a97ab10c1dc14557fb458d05c5d6dbbea4240965445c7ce10d6",
+      "bytes": 98,
+      "destination": null,
+      "preservation": "recovery_archive_original_and_modular_replacement"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\__main__.py",
+      "archive_member": "clothing_agent/__main__.py",
+      "source_sha256": "ddec5bd487a20acea413838d71048d1a7e8544085d1eab5fe4dda6c85100250e",
+      "bytes": 3371,
+      "destination": null,
+      "preservation": "recovery_archive_original_and_modular_replacement"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\analysis.py",
+      "archive_member": "clothing_agent/analysis.py",
+      "source_sha256": "0d5506d480568ef8527e31e79f5b31174aa286fc510cf65e9e74ad9b181883de",
+      "bytes": 13183,
+      "destination": null,
+      "preservation": "recovery_archive_original_and_modular_replacement"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\config\\current_round.json",
+      "archive_member": "clothing_agent/config/current_round.json",
+      "source_sha256": "e0da7b2061f8bb12b88f068bcf2f20e7fee8a429707a54279d60fd65231a9586",
+      "bytes": 698,
+      "destination": null,
+      "preservation": "recovery_archive_original_and_modular_replacement"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\matching.py",
+      "archive_member": "clothing_agent/matching.py",
+      "source_sha256": "8e8411b54140ad8aa7883df1701f40bde624247e486b7418335a4c09e0a11464",
+      "bytes": 4532,
+      "destination": null,
+      "preservation": "recovery_archive_original_and_modular_replacement"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\pipeline.py",
+      "archive_member": "clothing_agent/pipeline.py",
+      "source_sha256": "89e53e75fa66b6a26885f4564fc1868d553ad04e7858ca2d2bac84e21af2ab24",
+      "bytes": 13598,
+      "destination": null,
+      "preservation": "recovery_archive_original_and_modular_replacement"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\providers.py",
+      "archive_member": "clothing_agent/providers.py",
+      "source_sha256": "e96e1a1ad01627a5eaa650427a58f339ec439ce114f8eafa90f403d2c70fcd68",
+      "bytes": 6472,
+      "destination": null,
+      "preservation": "recovery_archive_original_and_modular_replacement"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\README.md",
+      "archive_member": "clothing_agent/README.md",
+      "source_sha256": "027ca8896a2fe39f5912c9f6ccef60b220386cb36df651660ad60d93212de7e7",
+      "bytes": 5985,
+      "destination": null,
+      "preservation": "recovery_archive_original_and_modular_replacement"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\run.ps1",
+      "archive_member": "clothing_agent/run.ps1",
+      "source_sha256": "c0123aabda745dc4b0ebc0f3b6ed5aa15806d97f8228b04856b24928200adefc",
+      "bytes": 879,
+      "destination": null,
+      "preservation": "recovery_archive_original_and_modular_replacement"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154040Z_1fe9d31f\\analysis.json",
+      "archive_member": "clothing_agent/runs/20260906T154040Z_1fe9d31f/analysis.json",
+      "source_sha256": "833b2f8bee13078ba67f8ecb1d28d2f6d250b6360b60507e6465862b6d82fb2f",
+      "bytes": 23299,
+      "destination": "workflow_execution/run_history/records/20260906T154040Z_1fe9d31f/analysis.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154040Z_1fe9d31f\\demand_cards.json",
+      "archive_member": "clothing_agent/runs/20260906T154040Z_1fe9d31f/demand_cards.json",
+      "source_sha256": "d39d213e9bdbf395a98e2e501b294ae366ca3059357cacc65ba5fd84c1d802ad",
+      "bytes": 4207,
+      "destination": "workflow_execution/run_history/records/20260906T154040Z_1fe9d31f/demand_cards.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154040Z_1fe9d31f\\evidence.json",
+      "archive_member": "clothing_agent/runs/20260906T154040Z_1fe9d31f/evidence.json",
+      "source_sha256": "56f93392dc59c42c1c6188323f37c31764b993b80d38566f50a8a7e319bae0bc",
+      "bytes": 17480,
+      "destination": "workflow_execution/run_history/records/20260906T154040Z_1fe9d31f/evidence.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154040Z_1fe9d31f\\manifest.json",
+      "archive_member": "clothing_agent/runs/20260906T154040Z_1fe9d31f/manifest.json",
+      "source_sha256": "20875326ac83ea951477a87e4933ca1d43eb2d7c2858afd12a1a14ef9974aa7a",
+      "bytes": 3360,
+      "destination": "workflow_execution/run_history/records/20260906T154040Z_1fe9d31f/manifest.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154040Z_1fe9d31f\\manual_review.json",
+      "archive_member": "clothing_agent/runs/20260906T154040Z_1fe9d31f/manual_review.json",
+      "source_sha256": "a33b28ab0fad63bade89668772b66662561a5670be96091c7c03e44cf38d8b93",
+      "bytes": 2377,
+      "destination": "workflow_execution/run_history/records/20260906T154040Z_1fe9d31f/manual_review.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154040Z_1fe9d31f\\product_matches.json",
+      "archive_member": "clothing_agent/runs/20260906T154040Z_1fe9d31f/product_matches.json",
+      "source_sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "bytes": 4,
+      "destination": "workflow_execution/run_history/records/20260906T154040Z_1fe9d31f/product_matches.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154040Z_1fe9d31f\\raw_reviews.json",
+      "archive_member": "clothing_agent/runs/20260906T154040Z_1fe9d31f/raw_reviews.json",
+      "source_sha256": "72b23ebe06c0661b2ae2fd72499d6f3dc493bd4fb2a475f22c08cd58e5e9ffb5",
+      "bytes": 21061,
+      "destination": "workflow_execution/run_history/records/20260906T154040Z_1fe9d31f/raw_reviews.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154040Z_1fe9d31f\\REPORT.md",
+      "archive_member": "clothing_agent/runs/20260906T154040Z_1fe9d31f/REPORT.md",
+      "source_sha256": "a37d6bea4044fad5b4cd37f5afdfe46edd4a9e1aee350f97bdae5e7f9064d2e8",
+      "bytes": 2330,
+      "destination": "workflow_execution/run_history/records/20260906T154040Z_1fe9d31f/REPORT.md",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154040Z_1fe9d31f\\search_plan.json",
+      "archive_member": "clothing_agent/runs/20260906T154040Z_1fe9d31f/search_plan.json",
+      "source_sha256": "f6bb1d4e83851769b39794ae18bee95b73f98d61f800cdb5e2a1f589f1a5339a",
+      "bytes": 561,
+      "destination": "workflow_execution/run_history/records/20260906T154040Z_1fe9d31f/search_plan.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154040Z_1fe9d31f\\source.json",
+      "archive_member": "clothing_agent/runs/20260906T154040Z_1fe9d31f/source.json",
+      "source_sha256": "526ae3596740ab89664fd9464efe769ba045337b8e612a92b3225f63892be09a",
+      "bytes": 289,
+      "destination": "workflow_execution/run_history/records/20260906T154040Z_1fe9d31f/source.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154040Z_1fe9d31f\\source_reviews.json",
+      "archive_member": "clothing_agent/runs/20260906T154040Z_1fe9d31f/source_reviews.json",
+      "source_sha256": "e5410e6a32533cd8362050e5a5bf350b22253dccd4b342bda798a968a328989f",
+      "bytes": 21059,
+      "destination": "workflow_execution/run_history/records/20260906T154040Z_1fe9d31f/source_reviews.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154040Z_1fe9d31f\\validation.json",
+      "archive_member": "clothing_agent/runs/20260906T154040Z_1fe9d31f/validation.json",
+      "source_sha256": "d324ef83a6a897f66090aca83772345fae32347afe35e275c136cc79204bd95b",
+      "bytes": 239,
+      "destination": "workflow_execution/run_history/records/20260906T154040Z_1fe9d31f/validation.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154237Z_38cd565c\\analysis.json",
+      "archive_member": "clothing_agent/runs/20260906T154237Z_38cd565c/analysis.json",
+      "source_sha256": "8504e0c7f8dc1489df020df4f6f75f85efd36ec88def91b929347ef7ebf685e3",
+      "bytes": 23978,
+      "destination": "workflow_execution/run_history/records/20260906T154237Z_38cd565c/analysis.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154237Z_38cd565c\\demand_cards.json",
+      "archive_member": "clothing_agent/runs/20260906T154237Z_38cd565c/demand_cards.json",
+      "source_sha256": "9272a0814fe23caa5b65253abdca186cd9ca2986922b78cfb20ae1eb9509c5d6",
+      "bytes": 4812,
+      "destination": "workflow_execution/run_history/records/20260906T154237Z_38cd565c/demand_cards.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154237Z_38cd565c\\evidence.json",
+      "archive_member": "clothing_agent/runs/20260906T154237Z_38cd565c/evidence.json",
+      "source_sha256": "38b47dca9cc9033c4498045cfa37b921801c56386c4958391c59925db0ee7f55",
+      "bytes": 17532,
+      "destination": "workflow_execution/run_history/records/20260906T154237Z_38cd565c/evidence.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154237Z_38cd565c\\manifest.json",
+      "archive_member": "clothing_agent/runs/20260906T154237Z_38cd565c/manifest.json",
+      "source_sha256": "3d491a0fba38acc169a0f731a47b381bf2c76cbc311ae2a513caa24df9d9f498",
+      "bytes": 3369,
+      "destination": "workflow_execution/run_history/records/20260906T154237Z_38cd565c/manifest.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154237Z_38cd565c\\manual_review.json",
+      "archive_member": "clothing_agent/runs/20260906T154237Z_38cd565c/manual_review.json",
+      "source_sha256": "366fc5971a58c61dd946ae0911a9d019afc7e604f092a8665c93796236510e16",
+      "bytes": 3377,
+      "destination": "workflow_execution/run_history/records/20260906T154237Z_38cd565c/manual_review.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154237Z_38cd565c\\product_matches.json",
+      "archive_member": "clothing_agent/runs/20260906T154237Z_38cd565c/product_matches.json",
+      "source_sha256": "fec8428c89b111b8637064a19c6eec2abb46a6e1002503d3072bd729727034be",
+      "bytes": 9629,
+      "destination": "workflow_execution/run_history/records/20260906T154237Z_38cd565c/product_matches.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154237Z_38cd565c\\raw_reviews.json",
+      "archive_member": "clothing_agent/runs/20260906T154237Z_38cd565c/raw_reviews.json",
+      "source_sha256": "889c492ef8a4d91e69da9ac0a94e65c7905ea7213b9223a1c146db8468afe7e1",
+      "bytes": 21061,
+      "destination": "workflow_execution/run_history/records/20260906T154237Z_38cd565c/raw_reviews.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154237Z_38cd565c\\REPORT.md",
+      "archive_member": "clothing_agent/runs/20260906T154237Z_38cd565c/REPORT.md",
+      "source_sha256": "65e5249e25521e37d911f59dd9d343f8bb11f220fedebba9318213a8622771a3",
+      "bytes": 4402,
+      "destination": "workflow_execution/run_history/records/20260906T154237Z_38cd565c/REPORT.md",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154237Z_38cd565c\\search_plan.json",
+      "archive_member": "clothing_agent/runs/20260906T154237Z_38cd565c/search_plan.json",
+      "source_sha256": "f257eb7e16d1deb30623309b01ffaef97ae62d3c226d71307f74a9623e4502c7",
+      "bytes": 721,
+      "destination": "workflow_execution/run_history/records/20260906T154237Z_38cd565c/search_plan.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154237Z_38cd565c\\searches\\Q-70db439e53847f70.json",
+      "archive_member": "clothing_agent/runs/20260906T154237Z_38cd565c/searches/Q-70db439e53847f70.json",
+      "source_sha256": "a1d3ae847bae9bd9f6335241ff6888c92ce96a140e7b5d9fb76c33b75d9c58aa",
+      "bytes": 7045,
+      "destination": "workflow_execution/run_history/records/20260906T154237Z_38cd565c/searches/Q-70db439e53847f70.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154237Z_38cd565c\\source.json",
+      "archive_member": "clothing_agent/runs/20260906T154237Z_38cd565c/source.json",
+      "source_sha256": "71e49ed14c450e67245f56f4f9f00a7db050a66e2edbc96a3cca598d28dc51a0",
+      "bytes": 1074,
+      "destination": "workflow_execution/run_history/records/20260906T154237Z_38cd565c/source.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154237Z_38cd565c\\validation.json",
+      "archive_member": "clothing_agent/runs/20260906T154237Z_38cd565c/validation.json",
+      "source_sha256": "9d1a92489704d6596b8de5f04782a2b8208d2a41d2cdb4be6c86bdea79e93b8d",
+      "bytes": 239,
+      "destination": "workflow_execution/run_history/records/20260906T154237Z_38cd565c/validation.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154800Z_7affd736\\analysis.json",
+      "archive_member": "clothing_agent/runs/20260906T154800Z_7affd736/analysis.json",
+      "source_sha256": "3e5f5bc9754d47f80eefd08ce0117e1a5ef7e28e6ae420da4c626589bf4bfecc",
+      "bytes": 23957,
+      "destination": "workflow_execution/run_history/records/20260906T154800Z_7affd736/analysis.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154800Z_7affd736\\demand_cards.json",
+      "archive_member": "clothing_agent/runs/20260906T154800Z_7affd736/demand_cards.json",
+      "source_sha256": "9272a0814fe23caa5b65253abdca186cd9ca2986922b78cfb20ae1eb9509c5d6",
+      "bytes": 4812,
+      "destination": "workflow_execution/run_history/records/20260906T154800Z_7affd736/demand_cards.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154800Z_7affd736\\evidence.json",
+      "archive_member": "clothing_agent/runs/20260906T154800Z_7affd736/evidence.json",
+      "source_sha256": "01a468e1f59d51355044fc2f68a0ca001c0251892b7badfa0765d7e401e1035d",
+      "bytes": 17511,
+      "destination": "workflow_execution/run_history/records/20260906T154800Z_7affd736/evidence.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154800Z_7affd736\\manifest.json",
+      "archive_member": "clothing_agent/runs/20260906T154800Z_7affd736/manifest.json",
+      "source_sha256": "536f39a9bf19c05ff9c2aeddd62d2beded8f06ae127fa5f3d6a50859cb98394a",
+      "bytes": 3557,
+      "destination": "workflow_execution/run_history/records/20260906T154800Z_7affd736/manifest.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154800Z_7affd736\\manual_review.json",
+      "archive_member": "clothing_agent/runs/20260906T154800Z_7affd736/manual_review.json",
+      "source_sha256": "339de6b35d462884f995d5409984b353051dc3cf4e62fea5d57d4279794877b7",
+      "bytes": 3353,
+      "destination": "workflow_execution/run_history/records/20260906T154800Z_7affd736/manual_review.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154800Z_7affd736\\product_matches.json",
+      "archive_member": "clothing_agent/runs/20260906T154800Z_7affd736/product_matches.json",
+      "source_sha256": "13753a81c88637c6fcef423e07072a4b06f36637c2e144f386839073bb563355",
+      "bytes": 9635,
+      "destination": "workflow_execution/run_history/records/20260906T154800Z_7affd736/product_matches.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154800Z_7affd736\\raw_reviews.json",
+      "archive_member": "clothing_agent/runs/20260906T154800Z_7affd736/raw_reviews.json",
+      "source_sha256": "889c492ef8a4d91e69da9ac0a94e65c7905ea7213b9223a1c146db8468afe7e1",
+      "bytes": 21061,
+      "destination": "workflow_execution/run_history/records/20260906T154800Z_7affd736/raw_reviews.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154800Z_7affd736\\REPORT.md",
+      "archive_member": "clothing_agent/runs/20260906T154800Z_7affd736/REPORT.md",
+      "source_sha256": "abf979b4fd1fde5a8a361cb03f59c06c74937655545953e28a0f180fd679582a",
+      "bytes": 4404,
+      "destination": "workflow_execution/run_history/records/20260906T154800Z_7affd736/REPORT.md",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154800Z_7affd736\\search_plan.json",
+      "archive_member": "clothing_agent/runs/20260906T154800Z_7affd736/search_plan.json",
+      "source_sha256": "f257eb7e16d1deb30623309b01ffaef97ae62d3c226d71307f74a9623e4502c7",
+      "bytes": 721,
+      "destination": "workflow_execution/run_history/records/20260906T154800Z_7affd736/search_plan.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154800Z_7affd736\\searches\\Q-70db439e53847f70.json",
+      "archive_member": "clothing_agent/runs/20260906T154800Z_7affd736/searches/Q-70db439e53847f70.json",
+      "source_sha256": "fd46d7ef6f72ec2e43ebb55f796c2eb8cb53e28ae0ca8bfe6d5df3a2ca8df37d",
+      "bytes": 7101,
+      "destination": "workflow_execution/run_history/records/20260906T154800Z_7affd736/searches/Q-70db439e53847f70.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154800Z_7affd736\\source.json",
+      "archive_member": "clothing_agent/runs/20260906T154800Z_7affd736/source.json",
+      "source_sha256": "48cde52d304f72b8b6ddfd80c795600937a2cef54d83f2e9787bea56a33eec0e",
+      "bytes": 240,
+      "destination": "workflow_execution/run_history/records/20260906T154800Z_7affd736/source.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154800Z_7affd736\\source_reviews.json",
+      "archive_member": "clothing_agent/runs/20260906T154800Z_7affd736/source_reviews.json",
+      "source_sha256": "889c492ef8a4d91e69da9ac0a94e65c7905ea7213b9223a1c146db8468afe7e1",
+      "bytes": 21061,
+      "destination": "workflow_execution/run_history/records/20260906T154800Z_7affd736/source_reviews.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154800Z_7affd736\\validation.json",
+      "archive_member": "clothing_agent/runs/20260906T154800Z_7affd736/validation.json",
+      "source_sha256": "6d1bce4ef43f2766a8bac17f087e95574da78a06cd121e311555035fe20271c0",
+      "bytes": 239,
+      "destination": "workflow_execution/run_history/records/20260906T154800Z_7affd736/validation.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T155145Z_5091a730\\analysis.json",
+      "archive_member": "clothing_agent/runs/20260906T155145Z_5091a730/analysis.json",
+      "source_sha256": "3e5f5bc9754d47f80eefd08ce0117e1a5ef7e28e6ae420da4c626589bf4bfecc",
+      "bytes": 23957,
+      "destination": "workflow_execution/run_history/records/20260906T155145Z_5091a730/analysis.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T155145Z_5091a730\\demand_cards.json",
+      "archive_member": "clothing_agent/runs/20260906T155145Z_5091a730/demand_cards.json",
+      "source_sha256": "9272a0814fe23caa5b65253abdca186cd9ca2986922b78cfb20ae1eb9509c5d6",
+      "bytes": 4812,
+      "destination": "workflow_execution/run_history/records/20260906T155145Z_5091a730/demand_cards.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T155145Z_5091a730\\evidence.json",
+      "archive_member": "clothing_agent/runs/20260906T155145Z_5091a730/evidence.json",
+      "source_sha256": "01a468e1f59d51355044fc2f68a0ca001c0251892b7badfa0765d7e401e1035d",
+      "bytes": 17511,
+      "destination": "workflow_execution/run_history/records/20260906T155145Z_5091a730/evidence.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T155145Z_5091a730\\manifest.json",
+      "archive_member": "clothing_agent/runs/20260906T155145Z_5091a730/manifest.json",
+      "source_sha256": "6ee612afdb3cef481d52d0d90ca4851f8b7ba6ed76e5e91b020b362edf930703",
+      "bytes": 3652,
+      "destination": "workflow_execution/run_history/records/20260906T155145Z_5091a730/manifest.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T155145Z_5091a730\\manual_review.json",
+      "archive_member": "clothing_agent/runs/20260906T155145Z_5091a730/manual_review.json",
+      "source_sha256": "339de6b35d462884f995d5409984b353051dc3cf4e62fea5d57d4279794877b7",
+      "bytes": 3353,
+      "destination": "workflow_execution/run_history/records/20260906T155145Z_5091a730/manual_review.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T155145Z_5091a730\\product_matches.json",
+      "archive_member": "clothing_agent/runs/20260906T155145Z_5091a730/product_matches.json",
+      "source_sha256": "13753a81c88637c6fcef423e07072a4b06f36637c2e144f386839073bb563355",
+      "bytes": 9635,
+      "destination": "workflow_execution/run_history/records/20260906T155145Z_5091a730/product_matches.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T155145Z_5091a730\\raw_reviews.json",
+      "archive_member": "clothing_agent/runs/20260906T155145Z_5091a730/raw_reviews.json",
+      "source_sha256": "889c492ef8a4d91e69da9ac0a94e65c7905ea7213b9223a1c146db8468afe7e1",
+      "bytes": 21061,
+      "destination": "workflow_execution/run_history/records/20260906T155145Z_5091a730/raw_reviews.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T155145Z_5091a730\\REPORT.md",
+      "archive_member": "clothing_agent/runs/20260906T155145Z_5091a730/REPORT.md",
+      "source_sha256": "1cf15a7e2ce4ab46b0ec7b297bcfdeb309eecb0ffe37eed91729866fb3779fca",
+      "bytes": 4404,
+      "destination": "workflow_execution/run_history/records/20260906T155145Z_5091a730/REPORT.md",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T155145Z_5091a730\\search_plan.json",
+      "archive_member": "clothing_agent/runs/20260906T155145Z_5091a730/search_plan.json",
+      "source_sha256": "f257eb7e16d1deb30623309b01ffaef97ae62d3c226d71307f74a9623e4502c7",
+      "bytes": 721,
+      "destination": "workflow_execution/run_history/records/20260906T155145Z_5091a730/search_plan.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T155145Z_5091a730\\searches\\Q-70db439e53847f70.json",
+      "archive_member": "clothing_agent/runs/20260906T155145Z_5091a730/searches/Q-70db439e53847f70.json",
+      "source_sha256": "9b26f7ad03abf65061e2b596853b52e088bc955327be9dcfcc1034d56100829c",
+      "bytes": 7101,
+      "destination": "workflow_execution/run_history/records/20260906T155145Z_5091a730/searches/Q-70db439e53847f70.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T155145Z_5091a730\\source.json",
+      "archive_member": "clothing_agent/runs/20260906T155145Z_5091a730/source.json",
+      "source_sha256": "48cde52d304f72b8b6ddfd80c795600937a2cef54d83f2e9787bea56a33eec0e",
+      "bytes": 240,
+      "destination": "workflow_execution/run_history/records/20260906T155145Z_5091a730/source.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T155145Z_5091a730\\source_reviews.json",
+      "archive_member": "clothing_agent/runs/20260906T155145Z_5091a730/source_reviews.json",
+      "source_sha256": "889c492ef8a4d91e69da9ac0a94e65c7905ea7213b9223a1c146db8468afe7e1",
+      "bytes": 21061,
+      "destination": "workflow_execution/run_history/records/20260906T155145Z_5091a730/source_reviews.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T155145Z_5091a730\\validation.json",
+      "archive_member": "clothing_agent/runs/20260906T155145Z_5091a730/validation.json",
+      "source_sha256": "b7a98a2bfade3beb90d49c1c1a8d58e94a3c9e1d8d4810066035751b1f6baaf9",
+      "bytes": 239,
+      "destination": "workflow_execution/run_history/records/20260906T155145Z_5091a730/validation.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\tests\\test_pipeline.py",
+      "archive_member": "clothing_agent/tests/test_pipeline.py",
+      "source_sha256": "12b8b09de38907d5e83c1f35ca2ad5d19c367c1fe7b0bbcacf985bdd37116315",
+      "bytes": 11137,
+      "destination": null,
+      "preservation": "recovery_archive_original_and_modular_replacement"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\verification\\20260906T154920862933Z\\tests.txt",
+      "archive_member": "clothing_agent/verification/20260906T154920862933Z/tests.txt",
+      "source_sha256": "d62d126ba9e4eb457ef79d4f05b1c4064032a95211ec3f13b7b5a81aa3278a0a",
+      "bytes": 2035,
+      "destination": "quality_assurance/delivery_checks/records/legacy/20260906T154920862933Z/tests.txt",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\verification\\20260906T154920862933Z\\verification.json",
+      "archive_member": "clothing_agent/verification/20260906T154920862933Z/verification.json",
+      "source_sha256": "41e4b2de19509f1204b6eb4e1b0f34234d11e2c0047765beb4745ad745d086e7",
+      "bytes": 1408,
+      "destination": "quality_assurance/delivery_checks/records/legacy/20260906T154920862933Z/verification.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\verify_delivery.py",
+      "archive_member": "clothing_agent/verify_delivery.py",
+      "source_sha256": "5f47244ded6b1270762cdf5b5ed39dd6753079d258146e7b4b4ab9d3fc317c7e",
+      "bytes": 4371,
+      "destination": null,
+      "preservation": "recovery_archive_original_and_modular_replacement"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\CONTINUE_CLOTHING_AGENT.md",
+      "archive_member": "CONTINUE_CLOTHING_AGENT.md",
+      "source_sha256": "0ac421d38d2e78ddd76cf04dd1b28920dfb48c7919804fad449c73034e28df6b",
+      "bytes": 810,
+      "destination": null,
+      "preservation": "recovery_archive_original_and_modular_replacement"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\docs\\superpowers\\plans\\2026-09-06-clothing-review-pipeline.md",
+      "archive_member": "docs/superpowers/plans/2026-09-06-clothing-review-pipeline.md",
+      "source_sha256": "4c74782abfddbe404da4b0654e7020789921f2af90ec8fae71d1fb9987439939",
+      "bytes": 4161,
+      "destination": "project_governance/implementation_history/docs/2026-09-06-clothing-review-pipeline.md",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\docs\\superpowers\\specs\\2026-09-06-clothing-demand-agent-v1-design.md",
+      "archive_member": "docs/superpowers/specs/2026-09-06-clothing-demand-agent-v1-design.md",
+      "source_sha256": "6cccdb8f7ee6b2c5442e25c2dcbd04c939845e7ab83cd56b647316724444613d",
+      "bytes": 11383,
+      "destination": "project_governance/business_rules/docs/2026-09-06-clothing-demand-agent-v1-design.md",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\ACCEPTANCE_REVIEW.md",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/ACCEPTANCE_REVIEW.md",
+      "source_sha256": "78b4a35f6b64835ef21145ba9fbafad7fbd7df9aee35ffbc54785f7916a7fe28",
+      "bytes": 11222,
+      "destination": "quality_assurance/source_acceptance/records/ACCEPTANCE_REVIEW.md",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\apify_api_connection_2026-09-06\\authenticated_20260906_150508\\verification.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/apify_api_connection_2026-09-06/authenticated_20260906_150508/verification.json",
+      "source_sha256": "00b1a768e2fc7854bbd77b57d3f609f8d177300d45f4faceb653c47106c57b1a",
+      "bytes": 398,
+      "destination": "data_acquisition/apify_reviews/records/authenticated_20260906_150508/verification.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\apify_api_connection_2026-09-06\\authenticated_20260906_150634\\verification.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/apify_api_connection_2026-09-06/authenticated_20260906_150634/verification.json",
+      "source_sha256": "93470f3e40ad83bd4aa3e3f59b46b5881403083b2ea6798aea17fe21a5683180",
+      "bytes": 499,
+      "destination": "data_acquisition/apify_reviews/records/authenticated_20260906_150634/verification.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\apify_api_connection_2026-09-06\\authenticated_20260906_150751\\verification.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/apify_api_connection_2026-09-06/authenticated_20260906_150751/verification.json",
+      "source_sha256": "4be63fb244fa10172b3e4349825cc51a14e01c0d740b6627690ba5d5b802edc2",
+      "bytes": 781,
+      "destination": "data_acquisition/apify_reviews/records/authenticated_20260906_150751/verification.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\apify_api_connection_2026-09-06\\authenticated_20260906_152135\\api_reviews.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/apify_api_connection_2026-09-06/authenticated_20260906_152135/api_reviews.json",
+      "source_sha256": "889c492ef8a4d91e69da9ac0a94e65c7905ea7213b9223a1c146db8468afe7e1",
+      "bytes": 21061,
+      "destination": "data_acquisition/apify_reviews/records/authenticated_20260906_152135/api_reviews.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\apify_api_connection_2026-09-06\\authenticated_20260906_152135\\dataset_selected_fields.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/apify_api_connection_2026-09-06/authenticated_20260906_152135/dataset_selected_fields.json",
+      "source_sha256": "733ada920bcfff3c203f24bf5a94af3b22b3781d4fa37d3cae7a9b796e2a72c9",
+      "bytes": 144,
+      "destination": "data_acquisition/apify_reviews/records/authenticated_20260906_152135/dataset_selected_fields.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\apify_api_connection_2026-09-06\\authenticated_20260906_152135\\run_selected_fields.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/apify_api_connection_2026-09-06/authenticated_20260906_152135/run_selected_fields.json",
+      "source_sha256": "53dd617f4d9fa592e8a0899cae520880039c902207ca38ce4e90db4c6c34ea76",
+      "bytes": 411,
+      "destination": "data_acquisition/apify_reviews/records/authenticated_20260906_152135/run_selected_fields.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\apify_api_connection_2026-09-06\\authenticated_20260906_152135\\verification.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/apify_api_connection_2026-09-06/authenticated_20260906_152135/verification.json",
+      "source_sha256": "4d2d340f8c728fa54b8936b317c2bae43371757ed7dd4db141c4be6a44ffb9bf",
+      "bytes": 1828,
+      "destination": "data_acquisition/apify_reviews/records/authenticated_20260906_152135/verification.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\apify_api_connection_2026-09-06\\configure_apify_token.ps1",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/apify_api_connection_2026-09-06/configure_apify_token.ps1",
+      "source_sha256": "e8c9df02276bde4d0c440a8ce656a19aad55de449cb7f4cce797efe060c46bc3",
+      "bytes": 4288,
+      "destination": "data_acquisition/apify_reviews/records/configure_apify_token.ps1",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\apify_api_connection_2026-09-06\\credential_diagnosis.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/apify_api_connection_2026-09-06/credential_diagnosis.json",
+      "source_sha256": "ece41c02ea766a37c65c59b55e01854108dc8eb6ef678f10106a79bce560f25c",
+      "bytes": 1318,
+      "destination": "data_acquisition/apify_reviews/records/credential_diagnosis.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\apify_api_connection_2026-09-06\\README.md",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/apify_api_connection_2026-09-06/README.md",
+      "source_sha256": "5636f5660a786094efbbd0696e28ee44b1975819c7f6339c32d9c7accc279659",
+      "bytes": 4734,
+      "destination": "data_acquisition/apify_reviews/records/README.md",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\apify_api_connection_2026-09-06\\run_probe.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/apify_api_connection_2026-09-06/run_probe.json",
+      "source_sha256": "d6c0402f7876b0164abd4dc70f47a029e4abde970565be6716dd86225901b11a",
+      "bytes": 508,
+      "destination": "data_acquisition/apify_reviews/records/run_probe.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\apify_api_connection_2026-09-06\\store_apify_token.py",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/apify_api_connection_2026-09-06/store_apify_token.py",
+      "source_sha256": "bb5966eb9628c05f95dbd7025d7a7717f8a1d9c9c2af88bd7c6dc729c401564b",
+      "bytes": 922,
+      "destination": "data_acquisition/apify_reviews/records/store_apify_token.py",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\apify_api_connection_2026-09-06\\token_input_status.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/apify_api_connection_2026-09-06/token_input_status.json",
+      "source_sha256": "ad70c9e5b5a35585b27afd5af853284b7d436b9fc5b1b24f27de2356063a217b",
+      "bytes": 118,
+      "destination": "data_acquisition/apify_reviews/records/token_input_status.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\apify_api_connection_2026-09-06\\verify_existing_run.py",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/apify_api_connection_2026-09-06/verify_existing_run.py",
+      "source_sha256": "4032031f5f1b6b323375eee2f5fced6e7c7f645569280188f2f9acc396a93d5c",
+      "bytes": 7268,
+      "destination": "data_acquisition/apify_reviews/records/verify_existing_run.py",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\category_601152_2026-09-06\\products.csv",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/category_601152_2026-09-06/products.csv",
+      "source_sha256": "c30d1b24adaabb9dabb45ac6c81d3d166b4c95a3880ce664b515a0b0dd837ea9",
+      "bytes": 34965,
+      "destination": "data_acquisition/tiktok_catalog/records/products.csv",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\category_601152_2026-09-06\\products.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/category_601152_2026-09-06/products.json",
+      "source_sha256": "7beae1e03976d4cf1ac70accb2e13a5f1208a62642b888a824f5d024ab0da827",
+      "bytes": 92873,
+      "destination": "data_acquisition/tiktok_catalog/records/products.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\category_601152_2026-09-06\\raw_batch_01.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/category_601152_2026-09-06/raw_batch_01.json",
+      "source_sha256": "060cb4b9e6e850b8c78faac939f8aeaca666384f05d296a9b439b2b7a222736a",
+      "bytes": 16525,
+      "destination": "data_acquisition/tiktok_catalog/records/raw_batch_01.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\category_601152_2026-09-06\\raw_batch_02.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/category_601152_2026-09-06/raw_batch_02.json",
+      "source_sha256": "6c09943606d11de44e8f5ca55f3e1229b17375bd5517841955c97d6bacf1052c",
+      "bytes": 15776,
+      "destination": "data_acquisition/tiktok_catalog/records/raw_batch_02.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\category_601152_2026-09-06\\README.md",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/category_601152_2026-09-06/README.md",
+      "source_sha256": "37940976fe3140891657e8a074eb7e7a75676f6ca6c628e8655015dcaa957ca9",
+      "bytes": 3265,
+      "destination": "data_acquisition/tiktok_catalog/records/README.md",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\category_601152_2026-09-06\\validation.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/category_601152_2026-09-06/validation.json",
+      "source_sha256": "9f5094564143543f19fde28bbd4afce060d87cb186957b5aec3c9305558f2be7",
+      "bytes": 965,
+      "destination": "data_acquisition/tiktok_catalog/records/validation.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\evidence_sources.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/evidence_sources.json",
+      "source_sha256": "4316844ffaf74c42f5a2b2f2731aa2d0ff98dcc76c7412e3468d7622552430cc",
+      "bytes": 5926,
+      "destination": "quality_assurance/source_acceptance/records/evidence_sources.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\data_issues.csv",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/fastmoss_visible_2026-09-06/data_issues.csv",
+      "source_sha256": "54971cc02a633b3323cde8bd485200f8433a9b67f23f445406303e0285938c1a",
+      "bytes": 4628,
+      "destination": "data_acquisition/fastmoss_catalog/records/data_issues.csv",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\observations.csv",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/fastmoss_visible_2026-09-06/observations.csv",
+      "source_sha256": "2da52fbbca05398acee7bcc518cdbd0a1d4bfa539b76e0b1880d15f073de6c51",
+      "bytes": 72637,
+      "destination": "data_acquisition/fastmoss_catalog/records/observations.csv",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\products.csv",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/fastmoss_visible_2026-09-06/products.csv",
+      "source_sha256": "f8b97b53e63484f1865797c9534525726a16d3e4cc82154497fb5d54e9b0e286",
+      "bytes": 85831,
+      "destination": "data_acquisition/fastmoss_catalog/records/products.csv",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\products.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/fastmoss_visible_2026-09-06/products.json",
+      "source_sha256": "ebde2b1871f3c5fed00ccce828f8d18d53299dfeb1479c4d035c4a6ab3c4fdd0",
+      "bytes": 210454,
+      "destination": "data_acquisition/fastmoss_catalog/records/products.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\raw_page_01.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/fastmoss_visible_2026-09-06/raw_page_01.json",
+      "source_sha256": "7503fc6f607b82e02ef5f4a9efe656abaee5f14adc562cd13c4efc5c94afbbaf",
+      "bytes": 6546,
+      "destination": "data_acquisition/fastmoss_catalog/records/raw_page_01.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\raw_page_02.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/fastmoss_visible_2026-09-06/raw_page_02.json",
+      "source_sha256": "97e91aa6ca00fed860cd43b3157ec6564a23166400f75874ce03c29f64e7aa86",
+      "bytes": 6510,
+      "destination": "data_acquisition/fastmoss_catalog/records/raw_page_02.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\raw_page_03.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/fastmoss_visible_2026-09-06/raw_page_03.json",
+      "source_sha256": "829c5a819d99b4689f275ffbc34708598d6ea08f26928025185811c37e7e2326",
+      "bytes": 6411,
+      "destination": "data_acquisition/fastmoss_catalog/records/raw_page_03.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\raw_page_04.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/fastmoss_visible_2026-09-06/raw_page_04.json",
+      "source_sha256": "5c7bd6b6099520f3941ad2a53fd5ae595cf88c17c38334d903e46d5638500c02",
+      "bytes": 6673,
+      "destination": "data_acquisition/fastmoss_catalog/records/raw_page_04.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\raw_page_05.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/fastmoss_visible_2026-09-06/raw_page_05.json",
+      "source_sha256": "3c25d89767bbdac340d406ed771a2b92cd313ecb56d40a37f1031240f89727a9",
+      "bytes": 6591,
+      "destination": "data_acquisition/fastmoss_catalog/records/raw_page_05.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\raw_page_06.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/fastmoss_visible_2026-09-06/raw_page_06.json",
+      "source_sha256": "16e60539e265cb9ed19e44201d506d629dfa5972b0711e5fe8b6b53ab39f2956",
+      "bytes": 6523,
+      "destination": "data_acquisition/fastmoss_catalog/records/raw_page_06.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\raw_page_07.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/fastmoss_visible_2026-09-06/raw_page_07.json",
+      "source_sha256": "3074978ba2951a2ff5c56d94143e297d901047cd9dbfa3cf53081dae8ddc96fb",
+      "bytes": 6212,
+      "destination": "data_acquisition/fastmoss_catalog/records/raw_page_07.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\raw_page_08.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/fastmoss_visible_2026-09-06/raw_page_08.json",
+      "source_sha256": "24b240b6fa26fb596bba9b01387cb3c775fa26e24745cc867e7ff48d386e8b62",
+      "bytes": 6697,
+      "destination": "data_acquisition/fastmoss_catalog/records/raw_page_08.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\raw_page_09.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/fastmoss_visible_2026-09-06/raw_page_09.json",
+      "source_sha256": "c9c87b7fe36bc1f16dd47a5d4cf486fd3599429c411faa5e32f477470157f1c0",
+      "bytes": 6648,
+      "destination": "data_acquisition/fastmoss_catalog/records/raw_page_09.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\raw_page_10.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/fastmoss_visible_2026-09-06/raw_page_10.json",
+      "source_sha256": "cb4317ec4d6155fe938ee2a060b55148061cbc7bf54f679feb022e11e2b1215f",
+      "bytes": 6699,
+      "destination": "data_acquisition/fastmoss_catalog/records/raw_page_10.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\README.md",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/fastmoss_visible_2026-09-06/README.md",
+      "source_sha256": "05cbb86a880a756c5e8cc0473b6e802ee41db67590892ffa93b3d1958345b598",
+      "bytes": 4404,
+      "destination": "data_acquisition/fastmoss_catalog/records/README.md",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\validate_export.ps1",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/fastmoss_visible_2026-09-06/validate_export.ps1",
+      "source_sha256": "bb232ae7ce9db988235aec90824e9e9c854ba9cb6642a986402bac2068440bc2",
+      "bytes": 6427,
+      "destination": "data_acquisition/fastmoss_catalog/records/validate_export.ps1",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\validation.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/fastmoss_visible_2026-09-06/validation.json",
+      "source_sha256": "a37dd755b09e8fdc70d13a13cb8a1e5290f47f7a1b9383c926e70908886497e3",
+      "bytes": 4468,
+      "destination": "data_acquisition/fastmoss_catalog/records/validation.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\field_dictionary.csv",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/field_dictionary.csv",
+      "source_sha256": "792c08aa370ce487cb3c4ded6eb48a9300dd5e8fbcd41c415b0cb3ca0ac00e1b",
+      "bytes": 8213,
+      "destination": "project_governance/business_rules/schemas/field_dictionary.csv",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\four_platform_trends_2026-09-06\\browser_diagnostic.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/four_platform_trends_2026-09-06/browser_diagnostic.json",
+      "source_sha256": "5a69ff4d736c217def00101b90ace8aa204f8af7981c588062fbfcb523d31d75",
+      "bytes": 2372,
+      "destination": "data_acquisition/social_trends/records/browser_diagnostic.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\four_platform_trends_2026-09-06\\official_sources\\CAPABILITIES.md",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/four_platform_trends_2026-09-06/official_sources/CAPABILITIES.md",
+      "source_sha256": "eb9a03184929aa78d2e4a57cbe8b9ce2e70d20d9f2b36d69a8762aff6a795c69",
+      "bytes": 8187,
+      "destination": "data_acquisition/social_trends/records/official_sources/CAPABILITIES.md",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\four_platform_trends_2026-09-06\\official_sources\\sources.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/four_platform_trends_2026-09-06/official_sources/sources.json",
+      "source_sha256": "9541237a607068200a68de75df407af4d05591348c88eb0c232e0403f603c03f",
+      "bytes": 14764,
+      "destination": "data_acquisition/social_trends/records/official_sources/sources.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\four_platform_trends_2026-09-06\\public_probes.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/four_platform_trends_2026-09-06/public_probes.json",
+      "source_sha256": "1d2692a30a91ce14a893731d07bed120a8efa24aa68e49b3ace8e6960fd320a5",
+      "bytes": 3748,
+      "destination": "data_acquisition/social_trends/records/public_probes.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\four_platform_trends_2026-09-06\\REPORT.md",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/four_platform_trends_2026-09-06/REPORT.md",
+      "source_sha256": "b8ceda6e8999a8250c70fc661251ce1f6cc3a20d6b582fdd6c30c7fbc00dc414",
+      "bytes": 4952,
+      "destination": "data_acquisition/social_trends/records/REPORT.md",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\four_platform_trends_2026-09-06\\validation.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/four_platform_trends_2026-09-06/validation.json",
+      "source_sha256": "37b0bf46cc52b18d55091cdb1bbdf16dd0fb18b23788d4f501178e51567f3c58",
+      "bytes": 682,
+      "destination": "data_acquisition/social_trends/records/validation.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\inspected_records.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/inspected_records.json",
+      "source_sha256": "838d9cc87480cb3a9f2bf14524bf4efd424241878b52bf002935421c81759ce2",
+      "bytes": 2637,
+      "destination": "quality_assurance/source_acceptance/records/inspected_records.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\non_browser_options_2026-09-06\\REPORT.md",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/non_browser_options_2026-09-06/REPORT.md",
+      "source_sha256": "7a5745f2a16fad970c93a11b7ba77bd52e4730658895aaaae5c21c3c02d89587",
+      "bytes": 7106,
+      "destination": "data_acquisition/provider_research/records/REPORT.md",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\non_browser_options_2026-09-06\\sources.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/non_browser_options_2026-09-06/sources.json",
+      "source_sha256": "8103457ee09409749406faeafdd1cf09e6cffc56d4c1f92f297142418fcc3fe8",
+      "bytes": 5802,
+      "destination": "data_acquisition/provider_research/records/sources.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\non_browser_options_2026-09-06\\tiktok_instagram\\REPORT.md",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/non_browser_options_2026-09-06/tiktok_instagram/REPORT.md",
+      "source_sha256": "6baa759836255f2a799c7c41a58783e7ee837de85451064ab2d3132205f311ee",
+      "bytes": 6666,
+      "destination": "data_acquisition/provider_research/records/tiktok_instagram/REPORT.md",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\non_browser_options_2026-09-06\\tiktok_instagram\\sources.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/non_browser_options_2026-09-06/tiktok_instagram/sources.json",
+      "source_sha256": "2e4758c46cf617cf85ffb080bb906cb9dc1f78291e60e80cf39400c3c4c7ce07",
+      "bytes": 8844,
+      "destination": "data_acquisition/provider_research/records/tiktok_instagram/sources.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\non_browser_options_2026-09-06\\validation.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/non_browser_options_2026-09-06/validation.json",
+      "source_sha256": "117eaffcd971c5f9db0b8936a10e8dc220bf546f2e708880bf12a68bef497483",
+      "bytes": 631,
+      "destination": "data_acquisition/provider_research/records/validation.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\followup_2026-09-06\\demand_research\\evidence.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/pilot_7d_1688_2026-09-06/followup_2026-09-06/demand_research/evidence.json",
+      "source_sha256": "2a7b7f81fa2ef8414a64fecf63f0281bbdb8e75e89980fb6bd80c78520ab0786",
+      "bytes": 11340,
+      "destination": "product_sourcing/manual_pilot/records/followup_2026-09-06/demand_research/evidence.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\followup_2026-09-06\\demand_research\\REPORT.md",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/pilot_7d_1688_2026-09-06/followup_2026-09-06/demand_research/REPORT.md",
+      "source_sha256": "06b39bc9e1be776410d8e79cfa3a5e836799fdb60fee05f5e75835bf28774238",
+      "bytes": 5364,
+      "destination": "product_sourcing/manual_pilot/records/followup_2026-09-06/demand_research/REPORT.md",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\followup_2026-09-06\\historical_file_hashes.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/pilot_7d_1688_2026-09-06/followup_2026-09-06/historical_file_hashes.json",
+      "source_sha256": "9640f1e748ca3ee6e6a0193cccfcf1285f348a77abcf9e21965a6a275eb4299e",
+      "bytes": 1784,
+      "destination": "product_sourcing/manual_pilot/records/followup_2026-09-06/historical_file_hashes.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\followup_2026-09-06\\recovery_checks.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/pilot_7d_1688_2026-09-06/followup_2026-09-06/recovery_checks.json",
+      "source_sha256": "75b483d42781b15ba8b366c923a4f0e5188c874a3d58a43857260596c0abe48d",
+      "bytes": 2853,
+      "destination": "product_sourcing/manual_pilot/records/followup_2026-09-06/recovery_checks.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\followup_2026-09-06\\REPORT.md",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/pilot_7d_1688_2026-09-06/followup_2026-09-06/REPORT.md",
+      "source_sha256": "ec78905d462b7b71c6a57073a0406b2e07e857b7f45a34f1e01b20b093e7fa1e",
+      "bytes": 3327,
+      "destination": "product_sourcing/manual_pilot/records/followup_2026-09-06/REPORT.md",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\followup_2026-09-06\\sku_review.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/pilot_7d_1688_2026-09-06/followup_2026-09-06/sku_review.json",
+      "source_sha256": "f0cfd7176d8604d7508e9b1623760649d3acdbe0f6c85881feb1512e61f722c7",
+      "bytes": 2367,
+      "destination": "product_sourcing/manual_pilot/records/followup_2026-09-06/sku_review.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\followup_2026-09-06\\validation.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/pilot_7d_1688_2026-09-06/followup_2026-09-06/validation.json",
+      "source_sha256": "3750a1ef9a825ebee58f1c014a6c086c753e12fd2fa64201f5ea1e1d62ccc93a",
+      "bytes": 592,
+      "destination": "product_sourcing/manual_pilot/records/followup_2026-09-06/validation.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\products_review.csv",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/pilot_7d_1688_2026-09-06/products_review.csv",
+      "source_sha256": "4388bc37e30cb3be2d71493c5a04abbfbd4632eaea8ced921ba1a70affb4b797",
+      "bytes": 3289,
+      "destination": "product_sourcing/manual_pilot/records/products_review.csv",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\provider_output.md",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/pilot_7d_1688_2026-09-06/provider_output.md",
+      "source_sha256": "e2598a451bb5225eb69b744ac53292d15264a23fb731a2df095cc9bc122cfa6b",
+      "bytes": 2460,
+      "destination": "product_sourcing/manual_pilot/records/provider_output.md",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\REPORT.md",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/pilot_7d_1688_2026-09-06/REPORT.md",
+      "source_sha256": "b8aa06464892119f245a4906c4f86dab4e977637357600b8730ef11ff2978c9c",
+      "bytes": 6005,
+      "destination": "product_sourcing/manual_pilot/records/REPORT.md",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\response_initial.transcribed.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/pilot_7d_1688_2026-09-06/response_initial.transcribed.json",
+      "source_sha256": "1f9d7d61dbed2e33d6f9e5faea5c344bba9f85b45ba1652a9422b39e8899bb99",
+      "bytes": 2598,
+      "destination": "product_sourcing/manual_pilot/records/response_initial.transcribed.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\response_refined.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/pilot_7d_1688_2026-09-06/response_refined.json",
+      "source_sha256": "eae984c9210ecd035afa0d7c5b59df703769c45d54525d12762a95c56e157e32",
+      "bytes": 5980,
+      "destination": "product_sourcing/manual_pilot/records/response_refined.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\trial.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/pilot_7d_1688_2026-09-06/trial.json",
+      "source_sha256": "8f2e831b8cf0472db96fc8cbedc8e609440c7e8b4dd8065d6dcceeeb5344e2d3",
+      "bytes": 22461,
+      "destination": "product_sourcing/manual_pilot/records/trial.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\validation.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/pilot_7d_1688_2026-09-06/validation.json",
+      "source_sha256": "ba99b8c074df37426f22c7cc2c6ad75286c998ec10e1ca27d9b44dd24513004f",
+      "bytes": 610,
+      "destination": "product_sourcing/manual_pilot/records/validation.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pinterest_keyword_trends_2026-09-06\\keywords.csv",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/pinterest_keyword_trends_2026-09-06/keywords.csv",
+      "source_sha256": "b3b61cbf0472f85794a68c9fa7a5a15ae9db25ddacc09adcd343a657e0bea5a7",
+      "bytes": 10200,
+      "destination": "data_acquisition/pinterest_keywords/records/keywords.csv",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pinterest_keyword_trends_2026-09-06\\README.md",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/pinterest_keyword_trends_2026-09-06/README.md",
+      "source_sha256": "b940019a6ad64b6cd35e9ff570bc2044592cae2cc129db39e382a381aeda0860",
+      "bytes": 2933,
+      "destination": "data_acquisition/pinterest_keywords/records/README.md",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pinterest_keyword_trends_2026-09-06\\sample.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/pinterest_keyword_trends_2026-09-06/sample.json",
+      "source_sha256": "a09c0edd8cf994a679690e55a327b4d5fe57dd37043d3ac1c4b6758f80b620a0",
+      "bytes": 37683,
+      "destination": "data_acquisition/pinterest_keywords/records/sample.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pinterest_keyword_trends_2026-09-06\\validation.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/pinterest_keyword_trends_2026-09-06/validation.json",
+      "source_sha256": "2fbede8b67e45aada89b401b9b7fb24c322ada58f5b252966c377332d0aa265f",
+      "bytes": 509,
+      "destination": "data_acquisition/pinterest_keywords/records/validation.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pinterest_sweater_jeans_2026-09-06\\README.md",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/pinterest_sweater_jeans_2026-09-06/README.md",
+      "source_sha256": "98782794525e031b15541fc881857e45a05701e4c2b7f45575b60fe330d30513",
+      "bytes": 1111,
+      "destination": "data_acquisition/pinterest_saves/records/README.md",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pinterest_sweater_jeans_2026-09-06\\sample.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/pinterest_sweater_jeans_2026-09-06/sample.json",
+      "source_sha256": "0f852e6fbc50792c11b4fa033a28920f0bfd9cb322c92313aafcbc220206da7d",
+      "bytes": 3599,
+      "destination": "data_acquisition/pinterest_saves/records/sample.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pinterest_sweater_jeans_2026-09-06\\source_screenshot.png",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/pinterest_sweater_jeans_2026-09-06/source_screenshot.png",
+      "source_sha256": "da8a4cc0cb39d4df32a70dfb326130ecacce1a6f5aa32fe0cbdee5699fb40514",
+      "bytes": 1430225,
+      "destination": "data_acquisition/pinterest_saves/records/source_screenshot.png",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pinterest_sweater_jeans_2026-09-06\\validation.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/pinterest_sweater_jeans_2026-09-06/validation.json",
+      "source_sha256": "c354951b56f04c17900a168ec1f8a8ebe59f835750969bc3a0c9508647e2866e",
+      "bytes": 560,
+      "destination": "data_acquisition/pinterest_saves/records/validation.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\real_sample_demo_2026-09-06\\README.md",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/real_sample_demo_2026-09-06/README.md",
+      "source_sha256": "24f1c6ddb30d922677a74da037abfa8c6a4b3adaa903f551cc44c9f923e033b6",
+      "bytes": 888,
+      "destination": "demand_discovery/historical_examples/records/README.md",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\real_sample_demo_2026-09-06\\sample.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/real_sample_demo_2026-09-06/sample.json",
+      "source_sha256": "7fbda24d605c0408f0bfe1df0093730eb484d1c5d718f6710fec21bba9df3a56",
+      "bytes": 3613,
+      "destination": "demand_discovery/historical_examples/records/sample.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\shop_negative_reviews_2026-09-06\\REPORT.md",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/shop_negative_reviews_2026-09-06/REPORT.md",
+      "source_sha256": "ccf7326ba53d272e02c3df412f55dfcfa722742803ec42a59fe16706cba80446",
+      "bytes": 6109,
+      "destination": "data_acquisition/shop_reviews/records/REPORT.md",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\shop_negative_reviews_2026-09-06\\user_run_20260906_144758\\analysis.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/shop_negative_reviews_2026-09-06/user_run_20260906_144758/analysis.json",
+      "source_sha256": "07ed6cdaa88fbaead6de594fc2540a2d88c96e76c87d5b492f07ecb8ea4450ba",
+      "bytes": 4792,
+      "destination": "data_acquisition/shop_reviews/records/user_run_20260906_144758/analysis.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\shop_negative_reviews_2026-09-06\\user_run_20260906_144758\\analyze.py",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/shop_negative_reviews_2026-09-06/user_run_20260906_144758/analyze.py",
+      "source_sha256": "e9553cdaff2b7cabd078edcffc4fe04e02851bb5e5696bba79c8d620175d75c4",
+      "bytes": 13857,
+      "destination": "data_acquisition/shop_reviews/records/user_run_20260906_144758/analyze.py",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\shop_negative_reviews_2026-09-06\\user_run_20260906_144758\\demand_cards.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/shop_negative_reviews_2026-09-06/user_run_20260906_144758/demand_cards.json",
+      "source_sha256": "e5c9995dd361f35b2f8d6584cd918e30901e67ae5c83d212c847ee279f515462",
+      "bytes": 2371,
+      "destination": "data_acquisition/shop_reviews/records/user_run_20260906_144758/demand_cards.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\shop_negative_reviews_2026-09-06\\user_run_20260906_144758\\evidence.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/shop_negative_reviews_2026-09-06/user_run_20260906_144758/evidence.json",
+      "source_sha256": "b9546bea8958475cf4a54cd7d71d3d0b4a0af1932e6902dd9233fd1912fe76a3",
+      "bytes": 18047,
+      "destination": "data_acquisition/shop_reviews/records/user_run_20260906_144758/evidence.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\shop_negative_reviews_2026-09-06\\user_run_20260906_144758\\next_input_two_star.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/shop_negative_reviews_2026-09-06/user_run_20260906_144758/next_input_two_star.json",
+      "source_sha256": "9ca4558a7ad1044e8157fc8d1c5161df5466eb3158874358a6bd59daa774d8b9",
+      "bytes": 249,
+      "destination": "data_acquisition/shop_reviews/records/user_run_20260906_144758/next_input_two_star.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\shop_negative_reviews_2026-09-06\\user_run_20260906_144758\\raw_reviews.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/shop_negative_reviews_2026-09-06/user_run_20260906_144758/raw_reviews.json",
+      "source_sha256": "e5410e6a32533cd8362050e5a5bf350b22253dccd4b342bda798a968a328989f",
+      "bytes": 21059,
+      "destination": "data_acquisition/shop_reviews/records/user_run_20260906_144758/raw_reviews.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\shop_negative_reviews_2026-09-06\\user_run_20260906_144758\\REPORT.md",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/shop_negative_reviews_2026-09-06/user_run_20260906_144758/REPORT.md",
+      "source_sha256": "efd4f7e27cdb290c73c53ed6fa616e0b1687420a25c5541284dadd2ddee94369",
+      "bytes": 6229,
+      "destination": "data_acquisition/shop_reviews/records/user_run_20260906_144758/REPORT.md",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\shop_negative_reviews_2026-09-06\\user_run_20260906_144758\\review_analysis.csv",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/shop_negative_reviews_2026-09-06/user_run_20260906_144758/review_analysis.csv",
+      "source_sha256": "740ef9f574bcb18407e781d51310136dbc24a02bc6fd7233e7965b9d5cd4cdff",
+      "bytes": 4635,
+      "destination": "data_acquisition/shop_reviews/records/user_run_20260906_144758/review_analysis.csv",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\shop_negative_reviews_2026-09-06\\user_run_20260906_144758\\run_screenshot.png",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/shop_negative_reviews_2026-09-06/user_run_20260906_144758/run_screenshot.png",
+      "source_sha256": "eed57792ea7c489191601d2031cdca463e4065b639a2e6980fa73144a474f050",
+      "bytes": 634331,
+      "destination": "data_acquisition/shop_reviews/records/user_run_20260906_144758/run_screenshot.png",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\shop_negative_reviews_2026-09-06\\user_run_20260906_144758\\validation.json",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/shop_negative_reviews_2026-09-06/user_run_20260906_144758/validation.json",
+      "source_sha256": "6590e8ea2839c294f4a5a3edbb22fbdcb36bf2fc9e2cdf3f6daaf0cb07f86220",
+      "bytes": 603,
+      "destination": "data_acquisition/shop_reviews/records/user_run_20260906_144758/validation.json",
+      "preservation": "mapped_file_and_recovery_archive"
+    },
+    {
+      "source": "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\TASK_STATE.md",
+      "archive_member": "tiktok_us_data_acceptance_2026-09-05/TASK_STATE.md",
+      "source_sha256": "66b2dfb6af5d416738773f76b32315810a2d02f6dbbc8cb3ecc5f6ab377b6820",
+      "bytes": 24701,
+      "destination": "project_governance/project_state/docs/TASK_STATE.md",
+      "preservation": "mapped_file_and_recovery_archive"
+    }
+  ],
+  "original_sources_deleted": false,
+  "source_to_destination": {
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154040Z_1fe9d31f\\analysis.json": "workflow_execution/run_history/records/20260906T154040Z_1fe9d31f/analysis.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154040Z_1fe9d31f\\demand_cards.json": "workflow_execution/run_history/records/20260906T154040Z_1fe9d31f/demand_cards.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154040Z_1fe9d31f\\evidence.json": "workflow_execution/run_history/records/20260906T154040Z_1fe9d31f/evidence.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154040Z_1fe9d31f\\manifest.json": "workflow_execution/run_history/records/20260906T154040Z_1fe9d31f/manifest.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154040Z_1fe9d31f\\manual_review.json": "workflow_execution/run_history/records/20260906T154040Z_1fe9d31f/manual_review.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154040Z_1fe9d31f\\product_matches.json": "workflow_execution/run_history/records/20260906T154040Z_1fe9d31f/product_matches.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154040Z_1fe9d31f\\raw_reviews.json": "workflow_execution/run_history/records/20260906T154040Z_1fe9d31f/raw_reviews.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154040Z_1fe9d31f\\REPORT.md": "workflow_execution/run_history/records/20260906T154040Z_1fe9d31f/REPORT.md",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154040Z_1fe9d31f\\search_plan.json": "workflow_execution/run_history/records/20260906T154040Z_1fe9d31f/search_plan.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154040Z_1fe9d31f\\source.json": "workflow_execution/run_history/records/20260906T154040Z_1fe9d31f/source.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154040Z_1fe9d31f\\source_reviews.json": "workflow_execution/run_history/records/20260906T154040Z_1fe9d31f/source_reviews.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154040Z_1fe9d31f\\validation.json": "workflow_execution/run_history/records/20260906T154040Z_1fe9d31f/validation.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154237Z_38cd565c\\analysis.json": "workflow_execution/run_history/records/20260906T154237Z_38cd565c/analysis.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154237Z_38cd565c\\demand_cards.json": "workflow_execution/run_history/records/20260906T154237Z_38cd565c/demand_cards.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154237Z_38cd565c\\evidence.json": "workflow_execution/run_history/records/20260906T154237Z_38cd565c/evidence.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154237Z_38cd565c\\manifest.json": "workflow_execution/run_history/records/20260906T154237Z_38cd565c/manifest.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154237Z_38cd565c\\manual_review.json": "workflow_execution/run_history/records/20260906T154237Z_38cd565c/manual_review.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154237Z_38cd565c\\product_matches.json": "workflow_execution/run_history/records/20260906T154237Z_38cd565c/product_matches.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154237Z_38cd565c\\raw_reviews.json": "workflow_execution/run_history/records/20260906T154237Z_38cd565c/raw_reviews.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154237Z_38cd565c\\REPORT.md": "workflow_execution/run_history/records/20260906T154237Z_38cd565c/REPORT.md",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154237Z_38cd565c\\search_plan.json": "workflow_execution/run_history/records/20260906T154237Z_38cd565c/search_plan.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154237Z_38cd565c\\searches\\Q-70db439e53847f70.json": "workflow_execution/run_history/records/20260906T154237Z_38cd565c/searches/Q-70db439e53847f70.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154237Z_38cd565c\\source.json": "workflow_execution/run_history/records/20260906T154237Z_38cd565c/source.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154237Z_38cd565c\\validation.json": "workflow_execution/run_history/records/20260906T154237Z_38cd565c/validation.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154800Z_7affd736\\analysis.json": "workflow_execution/run_history/records/20260906T154800Z_7affd736/analysis.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154800Z_7affd736\\demand_cards.json": "workflow_execution/run_history/records/20260906T154800Z_7affd736/demand_cards.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154800Z_7affd736\\evidence.json": "workflow_execution/run_history/records/20260906T154800Z_7affd736/evidence.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154800Z_7affd736\\manifest.json": "workflow_execution/run_history/records/20260906T154800Z_7affd736/manifest.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154800Z_7affd736\\manual_review.json": "workflow_execution/run_history/records/20260906T154800Z_7affd736/manual_review.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154800Z_7affd736\\product_matches.json": "workflow_execution/run_history/records/20260906T154800Z_7affd736/product_matches.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154800Z_7affd736\\raw_reviews.json": "workflow_execution/run_history/records/20260906T154800Z_7affd736/raw_reviews.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154800Z_7affd736\\REPORT.md": "workflow_execution/run_history/records/20260906T154800Z_7affd736/REPORT.md",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154800Z_7affd736\\search_plan.json": "workflow_execution/run_history/records/20260906T154800Z_7affd736/search_plan.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154800Z_7affd736\\searches\\Q-70db439e53847f70.json": "workflow_execution/run_history/records/20260906T154800Z_7affd736/searches/Q-70db439e53847f70.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154800Z_7affd736\\source.json": "workflow_execution/run_history/records/20260906T154800Z_7affd736/source.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154800Z_7affd736\\source_reviews.json": "workflow_execution/run_history/records/20260906T154800Z_7affd736/source_reviews.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T154800Z_7affd736\\validation.json": "workflow_execution/run_history/records/20260906T154800Z_7affd736/validation.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T155145Z_5091a730\\analysis.json": "workflow_execution/run_history/records/20260906T155145Z_5091a730/analysis.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T155145Z_5091a730\\demand_cards.json": "workflow_execution/run_history/records/20260906T155145Z_5091a730/demand_cards.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T155145Z_5091a730\\evidence.json": "workflow_execution/run_history/records/20260906T155145Z_5091a730/evidence.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T155145Z_5091a730\\manifest.json": "workflow_execution/run_history/records/20260906T155145Z_5091a730/manifest.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T155145Z_5091a730\\manual_review.json": "workflow_execution/run_history/records/20260906T155145Z_5091a730/manual_review.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T155145Z_5091a730\\product_matches.json": "workflow_execution/run_history/records/20260906T155145Z_5091a730/product_matches.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T155145Z_5091a730\\raw_reviews.json": "workflow_execution/run_history/records/20260906T155145Z_5091a730/raw_reviews.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T155145Z_5091a730\\REPORT.md": "workflow_execution/run_history/records/20260906T155145Z_5091a730/REPORT.md",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T155145Z_5091a730\\search_plan.json": "workflow_execution/run_history/records/20260906T155145Z_5091a730/search_plan.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T155145Z_5091a730\\searches\\Q-70db439e53847f70.json": "workflow_execution/run_history/records/20260906T155145Z_5091a730/searches/Q-70db439e53847f70.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T155145Z_5091a730\\source.json": "workflow_execution/run_history/records/20260906T155145Z_5091a730/source.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T155145Z_5091a730\\source_reviews.json": "workflow_execution/run_history/records/20260906T155145Z_5091a730/source_reviews.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\runs\\20260906T155145Z_5091a730\\validation.json": "workflow_execution/run_history/records/20260906T155145Z_5091a730/validation.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\verification\\20260906T154920862933Z\\tests.txt": "quality_assurance/delivery_checks/records/legacy/20260906T154920862933Z/tests.txt",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\verification\\20260906T154920862933Z\\verification.json": "quality_assurance/delivery_checks/records/legacy/20260906T154920862933Z/verification.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\docs\\superpowers\\plans\\2026-09-06-clothing-review-pipeline.md": "project_governance/implementation_history/docs/2026-09-06-clothing-review-pipeline.md",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\docs\\superpowers\\specs\\2026-09-06-clothing-demand-agent-v1-design.md": "project_governance/business_rules/docs/2026-09-06-clothing-demand-agent-v1-design.md",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\ACCEPTANCE_REVIEW.md": "quality_assurance/source_acceptance/records/ACCEPTANCE_REVIEW.md",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\apify_api_connection_2026-09-06\\authenticated_20260906_150508\\verification.json": "data_acquisition/apify_reviews/records/authenticated_20260906_150508/verification.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\apify_api_connection_2026-09-06\\authenticated_20260906_150634\\verification.json": "data_acquisition/apify_reviews/records/authenticated_20260906_150634/verification.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\apify_api_connection_2026-09-06\\authenticated_20260906_150751\\verification.json": "data_acquisition/apify_reviews/records/authenticated_20260906_150751/verification.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\apify_api_connection_2026-09-06\\authenticated_20260906_152135\\api_reviews.json": "data_acquisition/apify_reviews/records/authenticated_20260906_152135/api_reviews.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\apify_api_connection_2026-09-06\\authenticated_20260906_152135\\dataset_selected_fields.json": "data_acquisition/apify_reviews/records/authenticated_20260906_152135/dataset_selected_fields.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\apify_api_connection_2026-09-06\\authenticated_20260906_152135\\run_selected_fields.json": "data_acquisition/apify_reviews/records/authenticated_20260906_152135/run_selected_fields.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\apify_api_connection_2026-09-06\\authenticated_20260906_152135\\verification.json": "data_acquisition/apify_reviews/records/authenticated_20260906_152135/verification.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\apify_api_connection_2026-09-06\\configure_apify_token.ps1": "data_acquisition/apify_reviews/records/configure_apify_token.ps1",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\apify_api_connection_2026-09-06\\credential_diagnosis.json": "data_acquisition/apify_reviews/records/credential_diagnosis.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\apify_api_connection_2026-09-06\\README.md": "data_acquisition/apify_reviews/records/README.md",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\apify_api_connection_2026-09-06\\run_probe.json": "data_acquisition/apify_reviews/records/run_probe.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\apify_api_connection_2026-09-06\\store_apify_token.py": "data_acquisition/apify_reviews/records/store_apify_token.py",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\apify_api_connection_2026-09-06\\token_input_status.json": "data_acquisition/apify_reviews/records/token_input_status.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\apify_api_connection_2026-09-06\\verify_existing_run.py": "data_acquisition/apify_reviews/records/verify_existing_run.py",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\category_601152_2026-09-06\\products.csv": "data_acquisition/tiktok_catalog/records/products.csv",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\category_601152_2026-09-06\\products.json": "data_acquisition/tiktok_catalog/records/products.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\category_601152_2026-09-06\\raw_batch_01.json": "data_acquisition/tiktok_catalog/records/raw_batch_01.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\category_601152_2026-09-06\\raw_batch_02.json": "data_acquisition/tiktok_catalog/records/raw_batch_02.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\category_601152_2026-09-06\\README.md": "data_acquisition/tiktok_catalog/records/README.md",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\category_601152_2026-09-06\\validation.json": "data_acquisition/tiktok_catalog/records/validation.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\evidence_sources.json": "quality_assurance/source_acceptance/records/evidence_sources.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\data_issues.csv": "data_acquisition/fastmoss_catalog/records/data_issues.csv",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\observations.csv": "data_acquisition/fastmoss_catalog/records/observations.csv",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\products.csv": "data_acquisition/fastmoss_catalog/records/products.csv",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\products.json": "data_acquisition/fastmoss_catalog/records/products.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\raw_page_01.json": "data_acquisition/fastmoss_catalog/records/raw_page_01.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\raw_page_02.json": "data_acquisition/fastmoss_catalog/records/raw_page_02.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\raw_page_03.json": "data_acquisition/fastmoss_catalog/records/raw_page_03.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\raw_page_04.json": "data_acquisition/fastmoss_catalog/records/raw_page_04.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\raw_page_05.json": "data_acquisition/fastmoss_catalog/records/raw_page_05.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\raw_page_06.json": "data_acquisition/fastmoss_catalog/records/raw_page_06.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\raw_page_07.json": "data_acquisition/fastmoss_catalog/records/raw_page_07.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\raw_page_08.json": "data_acquisition/fastmoss_catalog/records/raw_page_08.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\raw_page_09.json": "data_acquisition/fastmoss_catalog/records/raw_page_09.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\raw_page_10.json": "data_acquisition/fastmoss_catalog/records/raw_page_10.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\README.md": "data_acquisition/fastmoss_catalog/records/README.md",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\validate_export.ps1": "data_acquisition/fastmoss_catalog/records/validate_export.ps1",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\fastmoss_visible_2026-09-06\\validation.json": "data_acquisition/fastmoss_catalog/records/validation.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\field_dictionary.csv": "project_governance/business_rules/schemas/field_dictionary.csv",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\four_platform_trends_2026-09-06\\browser_diagnostic.json": "data_acquisition/social_trends/records/browser_diagnostic.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\four_platform_trends_2026-09-06\\official_sources\\CAPABILITIES.md": "data_acquisition/social_trends/records/official_sources/CAPABILITIES.md",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\four_platform_trends_2026-09-06\\official_sources\\sources.json": "data_acquisition/social_trends/records/official_sources/sources.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\four_platform_trends_2026-09-06\\public_probes.json": "data_acquisition/social_trends/records/public_probes.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\four_platform_trends_2026-09-06\\REPORT.md": "data_acquisition/social_trends/records/REPORT.md",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\four_platform_trends_2026-09-06\\validation.json": "data_acquisition/social_trends/records/validation.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\inspected_records.json": "quality_assurance/source_acceptance/records/inspected_records.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\non_browser_options_2026-09-06\\REPORT.md": "data_acquisition/provider_research/records/REPORT.md",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\non_browser_options_2026-09-06\\sources.json": "data_acquisition/provider_research/records/sources.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\non_browser_options_2026-09-06\\tiktok_instagram\\REPORT.md": "data_acquisition/provider_research/records/tiktok_instagram/REPORT.md",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\non_browser_options_2026-09-06\\tiktok_instagram\\sources.json": "data_acquisition/provider_research/records/tiktok_instagram/sources.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\non_browser_options_2026-09-06\\validation.json": "data_acquisition/provider_research/records/validation.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\followup_2026-09-06\\demand_research\\evidence.json": "product_sourcing/manual_pilot/records/followup_2026-09-06/demand_research/evidence.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\followup_2026-09-06\\demand_research\\REPORT.md": "product_sourcing/manual_pilot/records/followup_2026-09-06/demand_research/REPORT.md",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\followup_2026-09-06\\historical_file_hashes.json": "product_sourcing/manual_pilot/records/followup_2026-09-06/historical_file_hashes.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\followup_2026-09-06\\recovery_checks.json": "product_sourcing/manual_pilot/records/followup_2026-09-06/recovery_checks.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\followup_2026-09-06\\REPORT.md": "product_sourcing/manual_pilot/records/followup_2026-09-06/REPORT.md",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\followup_2026-09-06\\sku_review.json": "product_sourcing/manual_pilot/records/followup_2026-09-06/sku_review.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\followup_2026-09-06\\validation.json": "product_sourcing/manual_pilot/records/followup_2026-09-06/validation.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\products_review.csv": "product_sourcing/manual_pilot/records/products_review.csv",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\provider_output.md": "product_sourcing/manual_pilot/records/provider_output.md",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\REPORT.md": "product_sourcing/manual_pilot/records/REPORT.md",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\response_initial.transcribed.json": "product_sourcing/manual_pilot/records/response_initial.transcribed.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\response_refined.json": "product_sourcing/manual_pilot/records/response_refined.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\trial.json": "product_sourcing/manual_pilot/records/trial.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pilot_7d_1688_2026-09-06\\validation.json": "product_sourcing/manual_pilot/records/validation.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pinterest_keyword_trends_2026-09-06\\keywords.csv": "data_acquisition/pinterest_keywords/records/keywords.csv",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pinterest_keyword_trends_2026-09-06\\README.md": "data_acquisition/pinterest_keywords/records/README.md",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pinterest_keyword_trends_2026-09-06\\sample.json": "data_acquisition/pinterest_keywords/records/sample.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pinterest_keyword_trends_2026-09-06\\validation.json": "data_acquisition/pinterest_keywords/records/validation.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pinterest_sweater_jeans_2026-09-06\\README.md": "data_acquisition/pinterest_saves/records/README.md",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pinterest_sweater_jeans_2026-09-06\\sample.json": "data_acquisition/pinterest_saves/records/sample.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pinterest_sweater_jeans_2026-09-06\\source_screenshot.png": "data_acquisition/pinterest_saves/records/source_screenshot.png",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\pinterest_sweater_jeans_2026-09-06\\validation.json": "data_acquisition/pinterest_saves/records/validation.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\real_sample_demo_2026-09-06\\README.md": "demand_discovery/historical_examples/records/README.md",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\real_sample_demo_2026-09-06\\sample.json": "demand_discovery/historical_examples/records/sample.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\shop_negative_reviews_2026-09-06\\REPORT.md": "data_acquisition/shop_reviews/records/REPORT.md",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\shop_negative_reviews_2026-09-06\\user_run_20260906_144758\\analysis.json": "data_acquisition/shop_reviews/records/user_run_20260906_144758/analysis.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\shop_negative_reviews_2026-09-06\\user_run_20260906_144758\\analyze.py": "data_acquisition/shop_reviews/records/user_run_20260906_144758/analyze.py",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\shop_negative_reviews_2026-09-06\\user_run_20260906_144758\\demand_cards.json": "data_acquisition/shop_reviews/records/user_run_20260906_144758/demand_cards.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\shop_negative_reviews_2026-09-06\\user_run_20260906_144758\\evidence.json": "data_acquisition/shop_reviews/records/user_run_20260906_144758/evidence.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\shop_negative_reviews_2026-09-06\\user_run_20260906_144758\\next_input_two_star.json": "data_acquisition/shop_reviews/records/user_run_20260906_144758/next_input_two_star.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\shop_negative_reviews_2026-09-06\\user_run_20260906_144758\\raw_reviews.json": "data_acquisition/shop_reviews/records/user_run_20260906_144758/raw_reviews.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\shop_negative_reviews_2026-09-06\\user_run_20260906_144758\\REPORT.md": "data_acquisition/shop_reviews/records/user_run_20260906_144758/REPORT.md",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\shop_negative_reviews_2026-09-06\\user_run_20260906_144758\\review_analysis.csv": "data_acquisition/shop_reviews/records/user_run_20260906_144758/review_analysis.csv",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\shop_negative_reviews_2026-09-06\\user_run_20260906_144758\\run_screenshot.png": "data_acquisition/shop_reviews/records/user_run_20260906_144758/run_screenshot.png",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\shop_negative_reviews_2026-09-06\\user_run_20260906_144758\\validation.json": "data_acquisition/shop_reviews/records/user_run_20260906_144758/validation.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\tiktok_us_data_acceptance_2026-09-05\\TASK_STATE.md": "project_governance/project_state/docs/TASK_STATE.md",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\.gitignore": "product_sourcing/1688_skill/vendor/1688-product-find/.gitignore",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\cli.py": "product_sourcing/1688_skill/vendor/1688-product-find/cli.py",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\README.md": "product_sourcing/1688_skill/vendor/1688-product-find/README.md",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\requirements.txt": "product_sourcing/1688_skill/vendor/1688-product-find/requirements.txt",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\SKILL.md": "product_sourcing/1688_skill/vendor/1688-product-find/SKILL.md",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\references\\skill埋点说明.md": "product_sourcing/1688_skill/vendor/1688-product-find/references/skill埋点说明.md",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\references\\capabilities\\compare.md": "product_sourcing/1688_skill/vendor/1688-product-find/references/capabilities/compare.md",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\references\\capabilities\\configure.md": "product_sourcing/1688_skill/vendor/1688-product-find/references/capabilities/configure.md",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\references\\capabilities\\image_search.md": "product_sourcing/1688_skill/vendor/1688-product-find/references/capabilities/image_search.md",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\references\\capabilities\\link_search.md": "product_sourcing/1688_skill/vendor/1688-product-find/references/capabilities/link_search.md",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\references\\capabilities\\text_search.md": "product_sourcing/1688_skill/vendor/1688-product-find/references/capabilities/text_search.md",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\references\\common\\error-handling.md": "product_sourcing/1688_skill/vendor/1688-product-find/references/common/error-handling.md",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\authorize.py": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/authorize.py",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\callback_server.py": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/callback_server.py",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\encrypted_store.py": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/encrypted_store.py",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\env_writer.py": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/env_writer.py",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\main.py": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/main.py",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\pkce.py": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/pkce.py",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\scope_manager.py": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/scope_manager.py",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\secure_store.py": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/secure_store.py",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\settings.py": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/settings.py",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\token_manager.py": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/token_manager.py",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\_auth.py": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/_auth.py",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\_const.py": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/_const.py",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\_errors.py": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/_errors.py",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\_http.py": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/_http.py",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\_image.py": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/_image.py",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\_output.py": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/_output.py",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\_tracker.py": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/_tracker.py",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\capabilities\\compare\\cmd.py": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/capabilities/compare/cmd.py",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\capabilities\\compare\\service.py": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/capabilities/compare/service.py",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\capabilities\\compare\\__init__.py": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/capabilities/compare/__init__.py",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\capabilities\\configure\\cmd.py": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/capabilities/configure/cmd.py",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\capabilities\\configure\\service.py": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/capabilities/configure/service.py",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\capabilities\\configure\\__init__.py": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/capabilities/configure/__init__.py",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\capabilities\\image_search\\cmd.py": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/capabilities/image_search/cmd.py",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\capabilities\\image_search\\service.py": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/capabilities/image_search/service.py",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\capabilities\\image_search\\__init__.py": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/capabilities/image_search/__init__.py",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\capabilities\\link_search\\cmd.py": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/capabilities/link_search/cmd.py",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\capabilities\\link_search\\service.py": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/capabilities/link_search/service.py",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\capabilities\\link_search\\__init__.py": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/capabilities/link_search/__init__.py",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\capabilities\\text_search\\cmd.py": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/capabilities/text_search/cmd.py",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\capabilities\\text_search\\service.py": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/capabilities/text_search/service.py",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\capabilities\\text_search\\__init__.py": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/capabilities/text_search/__init__.py",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\templates\\callback.html": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/templates/callback.html",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\scripts\\templates\\product_list.html": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/templates/product_list.html",
+    "C:\\Users\\86130\\.codex\\skills\\1688-product-find\\tests\\testcases.json": "product_sourcing/1688_skill/vendor/1688-product-find/tests/testcases.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\CONTINUE_CLOTHING_AGENT.md": "project_governance/user_guide/docs/START_HERE.md",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\README.md": "project_governance/user_guide/docs/START_HERE.md",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\run.ps1": "workflow_execution/launcher/scripts/run.ps1",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\config\\current_round.json": "workflow_execution/run_configuration/config/current_round.json",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\tests\\test_pipeline.py": "quality_assurance/regression/tests/test_pipeline.py",
+    "C:\\Users\\86130\\Documents\\ChatGPT\\yuans\\clothing_agent\\verify_delivery.py": "quality_assurance/migration_validation/src/verify.py"
+  },
+  "generated_files": [
+    "data_acquisition/apify_reviews/src/client.py",
+    "demand_discovery/analysis_workflow/src/analyze.py",
+    "demand_discovery/demand_cards/src/builder.py",
+    "demand_discovery/pain_classification/src/classifier.py",
+    "demand_discovery/pain_classification/src/rules.py",
+    "evidence_processing/garment_context/src/classifier.py",
+    "evidence_processing/review_deduplication/src/grouping.py",
+    "evidence_processing/review_normalization/src/normalizer.py",
+    "human_review/review_queue/src/builder.py",
+    "product_matching/sku_comparison/src/comparison.py",
+    "product_sourcing/query_planning/src/planner.py",
+    "product_sourcing/result_parsing/src/parser.py",
+    "product_sourcing/skill_adapter/src/client.py",
+    "project_governance/business_rules/docs/2026-09-06-clothing-demand-agent-v1-design.md",
+    "project_governance/implementation_history/docs/2026-09-06-clothing-review-pipeline.md",
+    "project_governance/migration/docs/COMPLETION.md",
+    "project_governance/migration/src/check_credentials.py",
+    "project_governance/migration/src/complete_delivery.py",
+    "project_governance/migration/src/finalize.py",
+    "project_governance/migration/src/fix_acceptance.py",
+    "project_governance/migration/src/fix_registry.py",
+    "project_governance/migration/src/install_support.py",
+    "project_governance/migration/src/migrate.py",
+    "project_governance/migration/src/test_entrypoint.py",
+    "project_governance/migration/src/verify.py",
+    "project_governance/project_state/docs/TASK_STATE.md",
+    "project_governance/user_guide/docs/START_HERE.md",
+    "project_governance/workspace_registry/config/index_policy.json",
+    "project_governance/workspace_registry/config/modules.json",
+    "project_governance/workspace_registry/docs/MODULE_INDEX.md",
+    "quality_assurance/migration_validation/src/verify.py",
+    "quality_assurance/record_validation/src/validator.py",
+    "quality_assurance/regression/src/runner.py",
+    "quality_assurance/regression/tests/test_entrypoint.py",
+    "quality_assurance/regression/tests/test_pipeline.py",
+    "report_delivery/markdown_report/src/render.py",
+    "runtime_support/json_storage/src/storage.py",
+    "runtime_support/project_paths/src/paths.py",
+    "runtime_support/provider_errors/src/errors.py",
+    "runtime_support/python_environment/config/requirements.lock.txt",
+    "runtime_support/python_environment/config/requirements.txt",
+    "runtime_support/text_identity/src/identity.py",
+    "runtime_support/time_windows/src/clock.py",
+    "workflow_execution/cli/src/main.py",
+    "workflow_execution/launcher/scripts/launch.py",
+    "workflow_execution/launcher/scripts/run.ps1",
+    "workflow_execution/pipeline/src/orchestrator.py",
+    "workflow_execution/run_configuration/config/current_round.json",
+    "workflow_execution/run_configuration/src/validation.py"
+  ],
+  "excluded_and_retained_in_source": [
+    "paimon_model",
+    "selection-agent-website (separate onboarding website)",
+    ".selection-site-npm-cache",
+    ".git (shared repository)",
+    ".venv-1688-pilot (environment rebuilt)",
+    "optix7cache.db"
+  ],
+  "credential_migration": "No credential export; reuse same Windows user keyring and existing 1688 credential store",
+  "modular_replacements": {
+    "clothing_agent/analysis.py": [
+      "evidence_processing/review_normalization",
+      "evidence_processing/review_deduplication",
+      "evidence_processing/garment_context",
+      "demand_discovery/pain_classification",
+      "demand_discovery/demand_cards",
+      "demand_discovery/analysis_workflow",
+      "workflow_execution/run_configuration",
+      "runtime_support/text_identity",
+      "runtime_support/time_windows"
+    ],
+    "clothing_agent/providers.py": [
+      "data_acquisition/apify_reviews",
+      "product_sourcing/skill_adapter",
+      "product_sourcing/result_parsing",
+      "runtime_support/provider_errors"
+    ],
+    "clothing_agent/matching.py": [
+      "product_sourcing/query_planning",
+      "product_matching/sku_comparison"
+    ],
+    "clothing_agent/pipeline.py": [
+      "workflow_execution/pipeline",
+      "human_review/review_queue",
+      "report_delivery/markdown_report",
+      "quality_assurance/record_validation",
+      "runtime_support/json_storage"
+    ],
+    "CONTINUE_CLOTHING_AGENT.md": [
+      "project_governance/user_guide/docs/START_HERE.md"
+    ],
+    "clothing_agent/README.md": [
+      "project_governance/user_guide/docs/START_HERE.md"
+    ],
+    "clothing_agent/run.ps1": [
+      "workflow_execution/launcher/scripts/run.ps1"
+    ],
+    "clothing_agent/config/current_round.json": [
+      "workflow_execution/run_configuration/config/current_round.json"
+    ],
+    "clothing_agent/tests/test_pipeline.py": [
+      "quality_assurance/regression/tests/test_pipeline.py"
+    ],
+    "clothing_agent/verify_delivery.py": [
+      "quality_assurance/migration_validation/src/verify.py"
+    ],
+    "clothing_agent/__main__.py": [
+      "workflow_execution/cli/src/main.py"
+    ],
+    "clothing_agent/__init__.py": [
+      "workflow_execution/pipeline/src/orchestrator.py"
+    ],
+    "clothing_agent/.gitignore": [
+      "project_governance/workspace_registry/config/index_policy.json"
+    ]
+  },
+  "vendor_files": [
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/.gitignore",
+      "sha256": "347ac406171fca58c263c4cf6d5b5711ed246bb03706ccea98e99332bbe0765e"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/cli.py",
+      "sha256": "faca39cb58d49703d2ea7c051d90ffe9f128cbddf32cc7b545f9c6288f450cd2"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/README.md",
+      "sha256": "4d81203d3d2f176e0a41914964c50dfe099e237895ddf867d65fe8bb10b480fd"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/requirements.txt",
+      "sha256": "e9682560bf38498644a08b24c8ff8e09c18fa29031b2426049e1bb76ac9aad36"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/SKILL.md",
+      "sha256": "940c61a3376d4bc9845df9c5b9e066e0839de82fe9c86d2433d2eeea783274a4"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/references/skill埋点说明.md",
+      "sha256": "6944f7c8bc4e00b059358df796e02e128a277077ce9ef784104d8d55778741f9"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/references/capabilities/compare.md",
+      "sha256": "10f909c0f58c24f71e3b2d85bc44f3944015eb24af28a8ed9f8c24dcd1b3e231"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/references/capabilities/configure.md",
+      "sha256": "9bfea881d39574a58c8dea898ee1789d90a700e8821bacfcb71ea8c2f53629d0"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/references/capabilities/image_search.md",
+      "sha256": "63fd24ddf20a8c8040de003c213d0d4a571361f0753cb4f5839117e3e29867e1"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/references/capabilities/link_search.md",
+      "sha256": "36f5c8e99bd1837f2861fb2f1fe158a555328dfb8d459fa8f5a49fcfaa6a4a39"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/references/capabilities/text_search.md",
+      "sha256": "25953804aa57b1e9fc919a4cdb58c6a5dabf284d326b8c4566005578acfa3274"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/references/common/error-handling.md",
+      "sha256": "5ca4fdd239ee344e644373e7ef96f8b3dd0e6a5ddca5fb1632e41320b2e1d443"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/authorize.py",
+      "sha256": "e51cd8c0e78e2b604c55d4b72f370ce05bd1e78650338ba824924a5a5e946c7a"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/callback_server.py",
+      "sha256": "b79c57b73e7220bb70ee16cd3cfcc191114ba9827db51973e23b5335ceba5e39"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/encrypted_store.py",
+      "sha256": "64f5c52e617f0654ad0faa0808a5661246eef56d849cbe5f80541c9a4b898229"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/env_writer.py",
+      "sha256": "aec114f388a95dddb26d5baa2b146b90efa01362fa2cda4d278c750a5d2aceb3"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/main.py",
+      "sha256": "5fc42342ea309d5cf5fd78cbb25ad2ec199987c460e2efd41a62a621683d0d16"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/pkce.py",
+      "sha256": "2a5677b5cc842d5516987055fdc991cdfaaef46904bbbb40842e72503aaef976"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/scope_manager.py",
+      "sha256": "818c86772c142b603154e004efc468e7e34d3c95e405228a054722b4ca28f02f"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/secure_store.py",
+      "sha256": "d9358c71edd875ae92ddf98d9e3ad721915e7a95af4785c365db7e1ce29ed865"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/settings.py",
+      "sha256": "1aaef0721ed8abf7ef91d3f81996078f221c0218eed637c3c9909c659f7cfd17"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/token_manager.py",
+      "sha256": "f2f21d9297cdc27aabdb5ea4d61f6be44ace54160495e968bc8828ceaef09265"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/_auth.py",
+      "sha256": "d2f2b5d9da7c151c78e5fe920a41f558add5e30e71b3229b1b51b54971cf2f14"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/_const.py",
+      "sha256": "77248f9b41d176bb14e8cb30115e3c94199c016ed67d3caece918906a7ae6b19"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/_errors.py",
+      "sha256": "e9831cba35d0f409c3987ebf6fce104dd2729af7e090164d1da06f04db85daab"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/_http.py",
+      "sha256": "2cfe1c57e6d9dcde487a726f33bdc2067f4068dde970a72ca630ebc74b972009"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/_image.py",
+      "sha256": "8f4054bfbbf8b80b740fff7d9c299d127395c9732741101eb2a54986d3723229"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/_output.py",
+      "sha256": "6387d6541338daf447195d362b5d0034f459fd1b7e5ae2fef06d23f2777e32b3"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/_tracker.py",
+      "sha256": "f5dd6f015d8d2707a040767c5c52627db251a0c70015602d83c54fc4d008198b"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/capabilities/compare/cmd.py",
+      "sha256": "091a0f5c237af991fde352b921ac8411ffa4c86024f1c2177a5ac808223e1516"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/capabilities/compare/service.py",
+      "sha256": "0237185cde7e498b41f8f1abd389d5dfc26ca9e6e800eb89575a390505009c69"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/capabilities/compare/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/capabilities/configure/cmd.py",
+      "sha256": "87024a646d56f37943e637d944ea71b3c037dfcbfbea33845a63219d4d7b072b"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/capabilities/configure/service.py",
+      "sha256": "efa4b0f8329b68c6f48206ca9182f6a83b91e4076819bf600ecefae7f456c07f"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/capabilities/configure/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/capabilities/image_search/cmd.py",
+      "sha256": "f520dbb8aaa38ccf4cfe258a24bccb0bdc96f95e1a844eec35c4a0a7c3fb1ea1"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/capabilities/image_search/service.py",
+      "sha256": "0dbc39cd946a6740ffba9bd8496886e94cdb96997221c6fd947223bda228e3bd"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/capabilities/image_search/__init__.py",
+      "sha256": "3313f1cbea8f78368253ce98b459a12794d0538c533e3525c21a5d87ede96385"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/capabilities/link_search/cmd.py",
+      "sha256": "57daf8a111f6f913742a0b50df4f2962bed2e1715304b35cb7d50c09d7444a64"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/capabilities/link_search/service.py",
+      "sha256": "2b5a52c2776a3c368b169bc50ee870229b58c5252c3cd3ab4b283374fae9dc3d"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/capabilities/link_search/__init__.py",
+      "sha256": "e659439c10ff219362df46aae477f7dd0b519f94112739d833ccba64658ba3e2"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/capabilities/text_search/cmd.py",
+      "sha256": "ee3af960fbcce8663b8e866af35c8ce890086ba1d315a7c8f22ab8e05c69b8ed"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/capabilities/text_search/service.py",
+      "sha256": "0b6b674a877e5569ec8cf34e57ccf3117f5ed81d0a5afe9de2894f10af4fa3e9"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/capabilities/text_search/__init__.py",
+      "sha256": "71be59c0d736fc2b9d2f4bfe7280b3315883826dfd20460c494f9f1f067aacdc"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/templates/callback.html",
+      "sha256": "49fce45d73aec0a328f3faa94a051987a6a8c3a46362f5cd33cb82db44b4f4d4"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/scripts/templates/product_list.html",
+      "sha256": "ed032a63fd1af26fe73289a46b7a2c355e8c3ed9787cc2cf8a5734ca95c856f0"
+    },
+    {
+      "destination": "product_sourcing/1688_skill/vendor/1688-product-find/tests/testcases.json",
+      "sha256": "cfe74a253460b13c514de6bf9f3a6f227502ddfbf593f8edc838143fa6ff76db"
+    }
+  ],
+  "source_pointer_updates": [
+    {
+      "source": "CONTINUE_CLOTHING_AGENT.md",
+      "before_sha256": "0ac421d38d2e78ddd76cf04dd1b28920dfb48c7919804fad449c73034e28df6b",
+      "after_sha256": "c7e20c9195f3c13279aeca3bb60ba4a2d51d7ab30209b49876a6e3eb5ccd317f",
+      "reason": "Authorized migration pointer; original bytes retained in verified ZIP"
+    },
+    {
+      "source": "tiktok_us_data_acceptance_2026-09-05/TASK_STATE.md",
+      "before_sha256": "66b2dfb6af5d416738773f76b32315810a2d02f6dbbc8cb3ecc5f6ab377b6820",
+      "after_sha256": "c7e20c9195f3c13279aeca3bb60ba4a2d51d7ab30209b49876a6e3eb5ccd317f",
+      "reason": "Authorized migration pointer; original bytes retained in verified ZIP"
+    }
+  ],
+  "completed_at": "2026-09-06T16:26:44.981127+00:00",
+  "verification_record": "quality_assurance/migration_validation/records/20260906T162416547718Z/verification.json",
+  "credential_check": "quality_assurance/migration_validation/records/credential_availability.json",
+  "core_modules": 11,
+  "submodules": 45
+}

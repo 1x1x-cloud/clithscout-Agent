@@ -1,0 +1,21 @@
+{
+  "status": "scope_configuration_only_no_vector_database",
+  "canonical_rules": [
+    "project_governance/business_rules/docs/",
+    "project_governance/business_rules/schemas/",
+    "demand_discovery/pain_classification/src/rules.py"
+  ],
+  "active_state": "project_governance/project_state/docs/TASK_STATE.md",
+  "code_glob": "*/*/src/*.py",
+  "exclude": [
+    "**/records/**",
+    "**/backup/**",
+    "**/vendor/**",
+    "**/venv/**",
+    "**/tests/**",
+    "**/__pycache__/**",
+    "project_governance/migration/**",
+    "project_governance/implementation_history/**"
+  ],
+  "evidence_policy": "Source evidence is retrieved by manifest/reference when needed, not merged into current rule definitions"
+}

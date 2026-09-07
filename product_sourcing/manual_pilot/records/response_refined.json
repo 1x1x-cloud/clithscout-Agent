@@ -1,0 +1,150 @@
+{
+  "success": true,
+  "markdown": "✅ 搜索「秋季日常休闲套装 上衣和长裤成套 国内现货 排除泳衣和训练紧身衣」找到 3 个商品\n\n| 序号 | 商品名称 | 价格 | 供应商 | 服务与卖点 | 链接 |\n|:-:|:-----|------:|:------|:------|:----:|\n| 1 | 秋季男士牛仔外套春秋新款韩版修身帅气潮流套装夹克男两件套衣服 | ￥59.0 | 揭阳市揭东区.. | 🛡️ 后天达、先采后付、退货包运费<br>🏷️ 长袖、牛仔布、外套 | [详情](https://detail.1688.com/offer/973685282286.html) |\n| 2 | 红色拉链连帽卫衣开衫外套女秋季穿搭套装宽松休闲阔腿长裤两件套 | ￥179.9 | 广州市白云区.. | 🛡️ 48小时发货、退货包运费<br>🏷️ 做旧、牛仔布、水洗 | [详情](https://detail.1688.com/offer/981636127760.html) |\n| 3 | 早秋新款法式轻奢风马甲背心内搭长袖衬衫上衣女高腰休闲裤套2026 | ￥65.0 | 广州增城南枝.. | 🛡️ 48小时发货<br>🏷️ 轻奢风、串珠、涤纶 | [详情](https://detail.1688.com/offer/1075438743756.html) |\n\n---\n\n共找到 **3** 个商品，你可以：\n\n- 回复 **「生成钉钉表格」** → 团队协作管理\n",
+  "data": {
+    "data": {
+      "success": true,
+      "query": "秋季日常休闲套装 上衣和长裤成套 国内现货 排除泳衣和训练紧身衣",
+      "similar_products": [
+        {
+          "product_id": "973685282286",
+          "title": "秋季男士牛仔外套春秋新款韩版修身帅气潮流套装夹克男两件套衣服",
+          "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01H92eVQ1jVmlwNawWE_!!2165944554-0-cib.jpg",
+          "detail_url": "https://detail.1688.com/offer/973685282286.html?&object_id=973685282286",
+          "similarity_score": 0.7648893750000001,
+          "price": 59.0,
+          "sku_id": 6091860530314,
+          "sku_title": "深蓝色【单裤子】 XL",
+          "yx_index": 4.37,
+          "quantity_begin": 1,
+          "unit": "",
+          "supplier": "揭阳市揭东区锡场镇古仔服装经营部",
+          "sold_count": 30,
+          "stock_amount": 9000,
+          "user_id": "",
+          "member_id": "",
+          "category_id": null,
+          "promotion_tags": [],
+          "service_infos": [
+            {
+              "color": "#22AC60",
+              "type": "预计达",
+              "value": "后天达"
+            },
+            {
+              "type": "赊账服务",
+              "value": "先采后付"
+            },
+            {
+              "type": "保险",
+              "value": "退货包运费"
+            }
+          ],
+          "selling_points": [
+            {
+              "type": "industryCPV",
+              "value": "长袖"
+            },
+            {
+              "type": "industryCPV",
+              "value": "牛仔布"
+            },
+            {
+              "type": "industryCPV",
+              "value": "外套"
+            }
+          ]
+        },
+        {
+          "product_id": "981636127760",
+          "title": "红色拉链连帽卫衣开衫外套女秋季穿搭套装宽松休闲阔腿长裤两件套",
+          "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01q3X0hE1Dfnjc1dwAA_!!2220161010244-0-cib.jpg",
+          "detail_url": "https://detail.1688.com/offer/981636127760.html?&object_id=981636127760",
+          "similarity_score": 0.75059875,
+          "price": 179.9,
+          "sku_id": 5941886432557,
+          "sku_title": "上衣+裤子（优质保障现货款） S",
+          "yx_index": 1.62,
+          "quantity_begin": 1,
+          "unit": "",
+          "supplier": "广州市白云区觅星服装店(个体工商户)",
+          "sold_count": 0,
+          "stock_amount": 53934,
+          "user_id": "",
+          "member_id": "",
+          "category_id": null,
+          "promotion_tags": [],
+          "service_infos": [
+            {
+              "color": "#22AC60",
+              "type": "发货保障",
+              "value": "48小时发货"
+            },
+            {
+              "type": "保险",
+              "value": "退货包运费"
+            }
+          ],
+          "selling_points": [
+            {
+              "type": "industryCPV",
+              "value": "做旧"
+            },
+            {
+              "type": "industryCPV",
+              "value": "牛仔布"
+            },
+            {
+              "type": "industryCPV",
+              "value": "水洗"
+            }
+          ]
+        },
+        {
+          "product_id": "1075438743756",
+          "title": "早秋新款法式轻奢风马甲背心内搭长袖衬衫上衣女高腰休闲裤套2026",
+          "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01ZQzAJC2XOZL1chua_!!2221117953371-0-cib.jpg",
+          "detail_url": "https://detail.1688.com/offer/1075438743756.html?&object_id=1075438743756",
+          "similarity_score": 0.7265168750000001,
+          "price": 65.0,
+          "sku_id": 6128212696633,
+          "sku_title": "绑带背心 3XL",
+          "yx_index": 4.36,
+          "quantity_begin": 1,
+          "unit": "",
+          "supplier": "广州增城南枝衣社服装店（个体工商户）",
+          "sold_count": 0,
+          "stock_amount": 0,
+          "user_id": "",
+          "member_id": "",
+          "category_id": null,
+          "promotion_tags": [],
+          "service_infos": [
+            {
+              "color": "#22AC60",
+              "type": "发货保障",
+              "value": "48小时发货"
+            }
+          ],
+          "selling_points": [
+            {
+              "type": "industryCPV",
+              "value": "轻奢风"
+            },
+            {
+              "type": "industryCPV",
+              "value": "串珠"
+            },
+            {
+              "type": "industryCPV",
+              "value": "涤纶"
+            }
+          ]
+        }
+      ],
+      "search_type": "text_search",
+      "total_results": 3
+    }
+  }
+}
+

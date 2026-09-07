@@ -1,0 +1,15 @@
+{
+  "checked_at_utc": "2026-09-06T15:05:09.098398+00:00",
+  "run_id": "BxW4clbdEnaMPvPbW",
+  "credential_present": false,
+  "credential_exposed": false,
+  "http_requests": [],
+  "new_actor_runs_started": 0,
+  "request_methods": [
+    "GET"
+  ],
+  "errors": [
+    "Project Apify credential is still absent from Windows Credential Manager."
+  ],
+  "authenticated_read_passed": false
+}

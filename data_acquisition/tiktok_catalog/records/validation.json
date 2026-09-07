@@ -1,0 +1,41 @@
+{
+  "captured_products": 100,
+  "unique_product_ids": 100,
+  "field_presence": {
+    "product_id": 100,
+    "product_url": 100,
+    "title_display": 100,
+    "price_display": 100,
+    "sold_display": 100,
+    "rating_display": 98,
+    "store_or_brand_display": 25,
+    "original_price_display": 40,
+    "discount_display": 40
+  },
+  "source_transfer_checksum_match": true,
+  "disk_roundtrip_validation": {
+    "json_rows": 100,
+    "csv_rows": 100,
+    "raw_rows": 100,
+    "unique_ids": 100,
+    "all_product_ids_are_strings": true,
+    "csv_matches_json_fields": true,
+    "json_matches_raw_url_and_text": true,
+    "errors": []
+  },
+  "missing_rating_positions": [
+    14,
+    78
+  ],
+  "limitations": [
+    "image_urls_for_all_products",
+    "shipping_markers_for_all_products",
+    "all_product_details",
+    "video_metrics",
+    "product_impressions",
+    "product_clicks",
+    "click_attributed_orders",
+    "sales_count_period",
+    "price_sku_basis"
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "metadata": {
+    "source_url": "https://www.fastmoss.com/zh/creativecenter/keyword-trends?region=US&page=1&pagesize=100",
+    "recorded_at": "2026-09-07T04:18:50.248Z",
+    "market": "US",
+    "market_evidence": "radio 美国 checked",
+    "scope": "current visible page 1, 100 rows, general US keyword list; no apparel platform filter verified",
+    "metric_type": "ad_placement_heat_index",
+    "metric_definition_ref": "../../../provider_research/records/tiktok_shop_search_keywords_20260907/fastmoss_account_check/REPORT.md",
+    "period_text": "近30天TikTok平台获取的新视频",
+    "period_start": null,
+    "period_end": null,
+    "source_timezone": null,
+    "source_updated_at": null,
+    "mapped_to_historical_review_window": false,
+    "raw_ref": "raw_keyword_table.json"
+  },
+  "groups": [
+    {
+      "group": "dress",
+      "label": "连衣裙",
+      "first_list_position": 11,
+      "members": [
+        {
+          "observation_id": "fm-us-100-20260907-011",
+          "keyword": "dress",
+          "heat_index": 1420,
+          "list_position": 11
+        }
+      ],
+      "combined_heat_index": null,
+      "grouping_basis": "按词义合并单复数/词形，成员指标分别保留，不相加",
+      "state": "待具体商品和评论证据",
+      "clothing_material_context_observed": false,
+      "next_step": "核对关联内容与具体商品，取得同商品全星级有效评价及独立买家依据；达到现行需求卡门槛后再找货"
+    },
+    {
+      "group": "bra",
+      "label": "文胸",
+      "first_list_position": 23,
+      "members": [
+        {
+          "observation_id": "fm-us-100-20260907-023",
+          "keyword": "bra",
+          "heat_index": 827,
+          "list_position": 23
+        }
+      ],
+      "combined_heat_index": null,
+      "grouping_basis": "按词义合并单复数/词形，成员指标分别保留，不相加",
+      "state": "待具体商品和评论证据",
+      "clothing_material_context_observed": false,
+      "next_step": "核对关联内容与具体商品，取得同商品全星级有效评价及独立买家依据；达到现行需求卡门槛后再找货"
+    },
+    {
+      "group": "jeans",
+      "label": "牛仔裤",
+      "first_list_position": 26,
+      "members": [
+        {
+          "observation_id": "fm-us-100-20260907-026",
+          "keyword": "jean",
+          "heat_index": 816,
+          "list_position": 26
+        },
+        {
+          "observation_id": "fm-us-100-20260907-028",
+          "keyword": "jeans",
+          "heat_index": 783,
+          "list_position": 28
+        }
+      ],
+      "combined_heat_index": null,
+      "grouping_basis": "按词义合并单复数/词形，成员指标分别保留，不相加",
+      "state": "待具体商品和评论证据",
+      "clothing_material_context_observed": false,
+      "next_step": "核对关联内容与具体商品，取得同商品全星级有效评价及独立买家依据；达到现行需求卡门槛后再找货"
+    },
+    {
+      "group": "pants",
+      "label": "裤装",
+      "first_list_position": 41,
+      "members": [
+        {
+          "observation_id": "fm-us-100-20260907-041",
+          "keyword": "pant",
+          "heat_index": 605,
+          "list_position": 41
+        },
+        {
+          "observation_id": "fm-us-100-20260907-050",
+          "keyword": "pants",
+          "heat_index": 567,
+          "list_position": 50
+        }
+      ],
+      "combined_heat_index": null,
+      "grouping_basis": "按词义合并单复数/词形，成员指标分别保留，不相加",
+      "state": "待具体商品和评论证据",
+      "clothing_material_context_observed": false,
+      "next_step": "核对关联内容与具体商品，取得同商品全星级有效评价及独立买家依据；达到现行需求卡门槛后再找货"
+    },
+    {
+      "group": "swimsuit",
+      "label": "泳装",
+      "first_list_position": 57,
+      "members": [
+        {
+          "observation_id": "fm-us-100-20260907-057",
+          "keyword": "swimsuit",
+          "heat_index": 518,
+          "list_position": 57
+        }
+      ],
+      "combined_heat_index": null,
+      "grouping_basis": "按词义合并单复数/词形，成员指标分别保留，不相加",
+      "state": "待具体商品和评论证据",
+      "clothing_material_context_observed": false,
+      "next_step": "核对关联内容与具体商品，取得同商品全星级有效评价及独立买家依据；达到现行需求卡门槛后再找货"
+    },
+    {
+      "group": "shorts",
+      "label": "短裤",
+      "first_list_position": 65,
+      "members": [
+        {
+          "observation_id": "fm-us-100-20260907-065",
+          "keyword": "shorts",
+          "heat_index": 488,
+          "list_position": 65
+        }
+      ],
+      "combined_heat_index": null,
+      "grouping_basis": "按词义合并单复数/词形，成员指标分别保留，不相加",
+      "state": "待具体商品和评论证据",
+      "clothing_material_context_observed": false,
+      "next_step": "核对关联内容与具体商品，取得同商品全星级有效评价及独立买家依据；达到现行需求卡门槛后再找货"
+    },
+    {
+      "group": "shapewear",
+      "label": "塑身衣",
+      "first_list_position": 77,
+      "members": [
+        {
+          "observation_id": "fm-us-100-20260907-077",
+          "keyword": "shapewear",
+          "heat_index": 433,
+          "list_position": 77
+        }
+      ],
+      "combined_heat_index": null,
+      "grouping_basis": "按词义合并单复数/词形，成员指标分别保留，不相加",
+      "state": "待具体商品和评论证据",
+      "clothing_material_context_observed": false,
+      "next_step": "核对关联内容与具体商品，取得同商品全星级有效评价及独立买家依据；达到现行需求卡门槛后再找货"
+    },
+    {
+      "group": "leggings",
+      "label": "紧身裤",
+      "first_list_position": 100,
+      "members": [
+        {
+          "observation_id": "fm-us-100-20260907-100",
+          "keyword": "leggings",
+          "heat_index": 389,
+          "list_position": 100
+        }
+      ],
+      "combined_heat_index": null,
+      "grouping_basis": "按词义合并单复数/词形，成员指标分别保留，不相加",
+      "state": "待具体商品和评论证据",
+      "clothing_material_context_observed": true,
+      "next_step": "核对关联内容与具体商品，取得同商品全星级有效评价及独立买家依据；达到现行需求卡门槛后再找货"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+
+  {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Chicme",
+    
+      "logo": "https:\/\/cdn.shopify.com\/s\/files\/1\/0748\/9457\/3625\/files\/ChicMe_Logotype_Black.png?v=1763453776\u0026width=500",
+    
+    "sameAs": [
+      "",
+      "https:\/\/www.facebook.com\/ChicMefusion\/",
+      "https:\/\/www.pinterest.com\/ChicMeOfficial\/",
+      "https:\/\/www.instagram.com\/chicmeofficial\/",
+      "https:\/\/www.tiktok.com\/@chicme_official",
+      "",
+      "",
+      "https:\/\/www.youtube.com\/channel\/UCgQcY5TwEY800_DDp_OSZNA",
+      ""
+    ],
+    "url": "https:\/\/www.chicme.com"
+  }

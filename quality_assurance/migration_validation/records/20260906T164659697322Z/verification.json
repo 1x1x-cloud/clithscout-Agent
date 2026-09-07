@@ -1,0 +1,34 @@
+{
+  "checked_at": "2026-09-06T16:47:01.429087+00:00",
+  "passed": true,
+  "checks": {
+    "archive_hash": true,
+    "all_original_files_preserved": true,
+    "vendor_inventory_present": true,
+    "root_contains_only_registered_modules_and_agent_instructions": true,
+    "core_levels_have_only_submodule_directories": true,
+    "submodule_registry_matches": true,
+    "active_paths_are_project_relative_and_exist": true,
+    "regression_tests": true,
+    "reviews_preserved_in_both_modes": true,
+    "demand_cards_unchanged": true,
+    "matching_decisions_unchanged": true,
+    "procurement_candidates_unchanged": true,
+    "active_imports_from_new_root": true,
+    "current_entry_links_resolve": true
+  },
+  "original_files": 155,
+  "vendor_files": 47,
+  "core_modules": 11,
+  "submodules": 45,
+  "functional_tests": 43,
+  "test_failures": 0,
+  "test_errors": 0,
+  "runs": [
+    "workflow_execution\\run_history\\records\\20260906T164701Z_4d1e36fa",
+    "workflow_execution\\run_history\\records\\20260906T164701Z_b8bd06ff"
+  ],
+  "missing_links": [],
+  "errors": [],
+  "limits": "Offline migration and snapshot checks; no new collection, sourcing, inventory or semantic accuracy validation."
+}

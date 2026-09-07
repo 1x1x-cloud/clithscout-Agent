@@ -1,0 +1,41 @@
+[
+  {
+    "query_id": "QI-e7836515fe670108",
+    "search_type": "image",
+    "image": "https://example.invalid/synthetic-main.jpg",
+    "image_candidates_as_reported": [
+      "https://example.invalid/synthetic-main.jpg"
+    ],
+    "source_product_id": "synthetic-product",
+    "source_sku_ids": [
+      "sku0",
+      "sku1",
+      "sku2"
+    ],
+    "evidence_ids": [
+      "EV-bf0911e8ed2fb52e",
+      "EV-dd1331737999d045",
+      "EV-f9a65b6151b5ded0"
+    ],
+    "review_ids": [
+      "r0",
+      "r1",
+      "r2"
+    ],
+    "source_urls": [
+      "https://example.invalid/pants"
+    ],
+    "demand_ids": [
+      "S1-414e298ca798ef31"
+    ],
+    "status": "ready",
+    "reason": null,
+    "purpose": "原商品主图召回相似款，再按差评与具体SKU核对规格",
+    "query_basis": "评价来源 productMainImage；URL引用未归档图片像素；图片相似不证明同款或痛点解决",
+    "limit": 3,
+    "purchase_amount": 1,
+    "purchase_amount_basis": "CLI报价输入，不是采购决定",
+    "score_level": "high",
+    "tags": "4306497"
+  }
+]

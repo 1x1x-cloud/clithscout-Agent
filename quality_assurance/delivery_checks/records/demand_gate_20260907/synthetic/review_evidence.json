@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "samples": [
+    {
+      "product_id": "synthetic-product",
+      "market": "US",
+      "window": {
+        "start": "2026-08-30T09:05:42Z",
+        "end": "2026-09-06T09:05:42Z"
+      },
+      "rating_scope": "all",
+      "complete": true,
+      "review_ids": [
+        "r0",
+        "r1",
+        "r2",
+        "r3",
+        "r4"
+      ],
+      "source_ref": "https://example.invalid/complete-synthetic-export",
+      "checked_at": "2026-09-07T00:00:00Z"
+    }
+  ],
+  "reviews": [
+    {
+      "product_id": "synthetic-product",
+      "review_id": "r0",
+      "substantive": true,
+      "buyer_id": "buyer0",
+      "buyer_identity_verified": true,
+      "source_ref": "https://example.invalid/complete-synthetic-export",
+      "checked_at": "2026-09-07T00:00:00Z"
+    },
+    {
+      "product_id": "synthetic-product",
+      "review_id": "r1",
+      "substantive": true,
+      "buyer_id": "buyer1",
+      "buyer_identity_verified": true,
+      "source_ref": "https://example.invalid/complete-synthetic-export",
+      "checked_at": "2026-09-07T00:00:00Z"
+    },
+    {
+      "product_id": "synthetic-product",
+      "review_id": "r2",
+      "substantive": true,
+      "buyer_id": "buyer2",
+      "buyer_identity_verified": true,
+      "source_ref": "https://example.invalid/complete-synthetic-export",
+      "checked_at": "2026-09-07T00:00:00Z"
+    },
+    {
+      "product_id": "synthetic-product",
+      "review_id": "r3",
+      "substantive": true,
+      "buyer_id": "buyer3",
+      "buyer_identity_verified": true,
+      "source_ref": "https://example.invalid/complete-synthetic-export",
+      "checked_at": "2026-09-07T00:00:00Z"
+    },
+    {
+      "product_id": "synthetic-product",
+      "review_id": "r4",
+      "substantive": true,
+      "buyer_id": "buyer4",
+      "buyer_identity_verified": true,
+      "source_ref": "https://example.invalid/complete-synthetic-export",
+      "checked_at": "2026-09-07T00:00:00Z"
+    }
+  ]
+}

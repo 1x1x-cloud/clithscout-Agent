@@ -1,0 +1,19 @@
+{
+  "validated_at": "2026-09-07T04:08:28.937738+00:00",
+  "keyword_rows": 10,
+  "unique_keywords": 10,
+  "raw_fields_reconciled_between_json_csv_and_transcription": 70,
+  "generic_promotion_rows": 8,
+  "other_context_unverified_rows": 1,
+  "seasonal_context_rows": 1,
+  "confirmed_apparel_keywords": 0,
+  "demand_cards": 0,
+  "new_product_queries": 0,
+  "growth_values_unknown": true,
+  "validation_limit": "核对落盘转录与派生JSON/CSV一致性；未取得网页端原始序列指纹，不声称浏览器至文件逐字节一致；未验证供应商数值真实性。",
+  "sha256": {
+    "first_page.transcribed.json": "689a5f0e9e0aa15f2d52c6b5bed85a38e70aad7099a16f0c9d660bc7cd6206e2",
+    "keywords.json": "412dd7a62951873212257cf5d347356ac4db6b24be3757068cf4ef8c1c14d159",
+    "keywords.csv": "63b936ca8c2e7368eced2020573c7d123a379f7c1c16361941e440d200d5c0a5"
+  }
+}

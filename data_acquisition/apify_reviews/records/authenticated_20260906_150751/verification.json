@@ -1,0 +1,31 @@
+{
+  "checked_at_utc": "2026-09-06T15:07:51.540495+00:00",
+  "run_id": "BxW4clbdEnaMPvPbW",
+  "credential_present": true,
+  "credential_exposed": false,
+  "http_requests": [
+    {
+      "path": "actor-runs/BxW4clbdEnaMPvPbW",
+      "method": "GET",
+      "status": 400,
+      "error_content_type": null,
+      "safe_error_excerpt": "",
+      "error_type": "http-error"
+    }
+  ],
+  "new_actor_runs_started": 0,
+  "request_methods": [
+    "GET"
+  ],
+  "errors": [
+    "Apify GET failed with HTTP 400"
+  ],
+  "credential_shape": {
+    "leading_or_trailing_whitespace": false,
+    "contains_line_break": false,
+    "contains_non_ascii": false,
+    "has_apify_api_prefix": false,
+    "has_bearer_prefix": false
+  },
+  "authenticated_read_passed": false
+}

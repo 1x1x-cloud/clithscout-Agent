@@ -1,0 +1,50 @@
+{
+  "checked_at": "2026-09-06T16:54:56.248199+00:00",
+  "implementation_status": "offline_verified_live_pending_approval",
+  "functional_tests": 48,
+  "test_failures": 0,
+  "test_errors": 0,
+  "regression_and_migration": "quality_assurance/migration_validation/records/20260906T165419105146Z/verification.json",
+  "real_reviews_offline_run": "workflow_execution/run_history/records/20260906T165456Z_0cad29d5",
+  "real_main_image_matches_source_fields": true,
+  "real_image_queries_executed": 0,
+  "planned_source_product_id": "1732331935794958838",
+  "planned_source_sku_ids": [
+    "1732475515663127030"
+  ],
+  "synthetic_example_run": "quality_assurance/delivery_checks/records/image_sku_20260907/synthetic/runs/20260906T165455Z_344d750c",
+  "synthetic_results_are_not_market_observations": true,
+  "review": {
+    "initial_findings": {
+      "P2": 2,
+      "P3": 1
+    },
+    "fixed_and_regression_tested": 3,
+    "bounded_recheck_remaining_material_findings": 0
+  },
+  "live_attempt": {
+    "process_started": false,
+    "status": "automatic_approval_rejected",
+    "reason": "Authorization and sensitivity/scope of sending product main image and associated data to 1688 not explicitly confirmed",
+    "next_action": "Ask user approval for one image URL search, maximum three results"
+  },
+  "modified_existing_files": [
+    "evidence_processing/review_normalization/src/normalizer.py",
+    "human_review/review_queue/src/builder.py",
+    "product_sourcing/query_planning/src/planner.py",
+    "product_sourcing/result_parsing/src/parser.py",
+    "product_sourcing/skill_adapter/src/client.py",
+    "report_delivery/markdown_report/src/render.py",
+    "workflow_execution/cli/src/main.py",
+    "workflow_execution/pipeline/src/orchestrator.py",
+    "workflow_execution/run_configuration/src/validation.py",
+    "workflow_execution/launcher/scripts/run.ps1",
+    "project_governance/user_guide/docs/START_HERE.md"
+  ],
+  "limits": [
+    "Remote image pixels not archived",
+    "No real image search results obtained",
+    "Real measurements, material composition and target specifications missing",
+    "No new Actor runs, supply verification or actual fit/performance validation"
+  ]
+}

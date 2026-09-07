@@ -1,0 +1,84 @@
+{
+  "sample_id": "demo-petite-inseam-001",
+  "sample_kind": "public_page_observation",
+  "purpose": "Historical real-source example for validating demand extraction; not a current-period market recommendation.",
+  "method": "S1",
+  "source_url": "https://www.reddit.com/r/PetiteFashionAdvice/comments/1r5pl33/410_short_torso_need_true_extrashort_inseam/",
+  "platform": "Reddit",
+  "community": "r/PetiteFashionAdvice",
+  "source_title": "4’10”, short torso + need true extra-short inseam",
+  "source_content_type": "discussion_post_with_visible_replies",
+  "verified_at_utc": "2026-09-06 08:20:19 UTC",
+  "retrieval_method": "Web page text read; only accessible main post and replies were inspected, not all comments.",
+  "published_at": null,
+  "published_date_from_search": "2026-02-15",
+  "source_date_display": "6mo ago",
+  "date_note": "Search result showed 2026-02-15. Opened page used a relative date; exact timestamp not verified.",
+  "excerpt_original": "Petite sizing often still ends up too long on me.",
+  "excerpt_locator": "Opening paragraph of the main post",
+  "extraction": {
+    "stated_problem": "发帖人称小个子尺码的裤子仍然过长，额外改短增加成本。",
+    "stated_product_requirements": [
+      {
+        "attribute": "inseam",
+        "value": "26–27 inches",
+        "evidence_locator": "Main post, opening paragraph and first requested-item bullet"
+      },
+      {
+        "attribute": "rise_preference",
+        "value": "mid-rise or low-rise",
+        "evidence_locator": "Main post, second paragraph"
+      },
+      {
+        "attribute": "product_types",
+        "value": [
+          "jeans",
+          "work pants / trousers"
+        ],
+        "evidence_locator": "Main post, requested-item bullets"
+      },
+      {
+        "attribute": "alteration_preference",
+        "value": "fits without tailoring",
+        "evidence_locator": "Main post, closing request"
+      }
+    ],
+    "purchase_budget": null,
+    "material_requirement": null,
+    "quantity_requirement": null
+  },
+  "counter_evidence": {
+    "observation": "可见回复提供已有品牌/款式建议；原帖作者对某一建议款式回复称所需洗水色缺货。",
+    "implications": [
+      "不能仅凭此帖断言全市场没有合适商品。",
+      "某一用户当时遇到某款某色缺货，不代表该款今天缺货，也不代表整个品类供给不足。"
+    ],
+    "alternatives_currently_verified": false
+  },
+  "target_market": "US",
+  "author_market": null,
+  "market_note": "No direct author country verification; do not infer US location from language or mentioned retailers.",
+  "observation_window": null,
+  "market_window_eligibility": "not_evaluated",
+  "next_checks": [
+    "由用户确认实际采集观察窗口。",
+    "核对其他独立讨论是否重复出现相同组合需求，保留不支持该需求的案例。",
+    "检查具体商品的内长与腰高、SKU、价格和当前采购/交付条件。"
+  ],
+  "status": "historical_extraction_demo_only",
+  "verified_available_supply": [],
+  "business_outcomes": {
+    "impressions": null,
+    "clicks": null,
+    "click_attributed_orders": null,
+    "ctr": null,
+    "click_to_order_rate": null
+  },
+  "limitations": [
+    "Self-reported discussion, not independently verified purchase history.",
+    "Single discussion thread is not representative market demand.",
+    "Current search volume, trend growth, procurement availability and conversion performance were not measured."
+  ],
+  "business_spec": "../../docs/superpowers/specs/2026-09-06-clothing-demand-agent-v1-design.md"
+}
+

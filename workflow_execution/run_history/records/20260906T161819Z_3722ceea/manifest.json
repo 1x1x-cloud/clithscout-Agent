@@ -1,0 +1,99 @@
+{
+  "version": "0.1.0-migrated",
+  "run_id": "20260906T161819Z_3722ceea",
+  "started_at": "2026-09-06T16:18:19.748230+00:00",
+  "status": "completed",
+  "config": {
+    "market": "US",
+    "scope": "clothing",
+    "window": {
+      "start": "2026-08-30T09:05:42Z",
+      "end": "2026-09-06T09:05:42Z"
+    },
+    "configuration_basis": "TASK_STATE.md section 3: existing round snapshot, never silently rolled forward",
+    "limits": {
+      "max_reviews": 1000,
+      "max_queries": 1,
+      "products_per_query": 3
+    },
+    "limits_basis": "Technical download/search caps for this implementation validation; not business evidence thresholds",
+    "apify_existing_run_id": "BxW4clbdEnaMPvPbW",
+    "local_review_file": "tiktok_us_data_acceptance_2026-09-05/shop_negative_reviews_2026-09-06/user_run_20260906_144758/raw_reviews.json",
+    "1688_cli": "C:/Users/86130/.codex/skills/1688-product-find/cli.py"
+  },
+  "steps": {
+    "read": "completed",
+    "analyze": "completed",
+    "search": "completed",
+    "compare": "completed"
+  },
+  "errors": [],
+  "new_actor_runs_started": 0,
+  "supply_absent": false,
+  "search_mode": "replay",
+  "replay_provenance": "D:\\clothscout\\workflow_execution\\run_history\\records\\20260906T154237Z_38cd565c",
+  "source_code_sha256": {
+    "data_acquisition\\apify_reviews\\src\\client.py": "835d815639d0261ed5d263a64b6bc4ead7e95bc3972dbc9636171ce59014d0e0",
+    "demand_discovery\\analysis_workflow\\src\\analyze.py": "e95a1ab40f196085d549661e4bc1213803070d18a56b4d01ea0f573d63c0a333",
+    "demand_discovery\\demand_cards\\src\\builder.py": "3cc68422f8b8c941dd767a498d5f43edd96fc96147d0b118db24f27988212660",
+    "demand_discovery\\pain_classification\\src\\classifier.py": "edc28ff95f0521773dea144fa8df702aecd403494f52d29dde8b7784cf602bfd",
+    "demand_discovery\\pain_classification\\src\\rules.py": "b1b9177a8f4cf1a631a983792e6e759abc47a5e74d43dba6c2d041b8f7a50cf4",
+    "evidence_processing\\garment_context\\src\\classifier.py": "01f8235b1404d36b73420ea1df5ea2e15520baf918551400172569f004942559",
+    "evidence_processing\\review_deduplication\\src\\grouping.py": "a1b148d9b6a9be28ff831c50db8e09b84402551c32c94088ac7462048f0d4407",
+    "evidence_processing\\review_normalization\\src\\normalizer.py": "31cfe507f7093ba373257ea97eaf5cb4b9b8eeedeb0c1fd15c812bd683c462a8",
+    "human_review\\review_queue\\src\\builder.py": "2fa5f2668d3a1c69fb25270f0a9360ad80122140d3b1be77750b96e4cddbc1fc",
+    "product_matching\\sku_comparison\\src\\comparison.py": "2c91824c180562c3c8e40da95d9f99a7dd9d665b1113ac58d7181751231a14b8",
+    "product_sourcing\\query_planning\\src\\planner.py": "878fd9117fa0b23ce4016163c3e1165a477ffd5c0c11b6b3435b0accdcd5e7a0",
+    "product_sourcing\\result_parsing\\src\\parser.py": "40993dc812e978e557b9f2964d10918039498626ffceec6a97f96bf9006beec0",
+    "product_sourcing\\skill_adapter\\src\\client.py": "394545118e7ad8c8ab52554dd536a60131510eefe8ada3a62355c81baa80e07a",
+    "project_governance\\migration\\src\\migrate.py": "3b9131ed3fc054f8e708fd4a21997afc0e695ef5d8230701c148cdf9fc8b5a60",
+    "quality_assurance\\migration_validation\\src\\verify.py": "6a2869cb9dfb5a038bad42b2315bae1b58364e2d7c5d54b98f0e07cd90b91b6d",
+    "quality_assurance\\record_validation\\src\\validator.py": "2e13cc0ed51ee8f19d4aecd921c7eef67bd06f3f392b92f50b6c22d780d7a169",
+    "quality_assurance\\regression\\src\\runner.py": "4a539918331570dbe04985edb3342ed67957dd640a9a1c133559b25813f82b50",
+    "report_delivery\\markdown_report\\src\\render.py": "8efaff25d78ba2aaa058c7accefb2935ecff30ff8277a7ed11163e15c3636fad",
+    "runtime_support\\json_storage\\src\\storage.py": "5492e8f736016d015ecdbd5bb17a21e10e8555947027ee38cf76b864be505e81",
+    "runtime_support\\project_paths\\src\\paths.py": "ff437c8fd3f086c38cd9470db5b3341a99555927f84bdab37d6e54b71d186ff3",
+    "runtime_support\\provider_errors\\src\\errors.py": "a6b8c0e1c6ecdc4e3d8e39cefea8e1a9c17f7261c444bf0e7273e648f4ce9abe",
+    "runtime_support\\text_identity\\src\\identity.py": "62b0e7284a8362573ac99b37aec59eda2575def8808fd75fccec75d0d2271226",
+    "runtime_support\\time_windows\\src\\clock.py": "53461b6256a9ac1765095b9160504748d9cd031c017f107d51f62b8b9781b7da",
+    "workflow_execution\\cli\\src\\main.py": "a3101dba71939f3d32fb25daae2ee8e316ed54364d5454b6b70cc4ee2fb8f0b0",
+    "workflow_execution\\pipeline\\src\\orchestrator.py": "6ef70705364abb0e7dfe3dfeca7adb1294a8d83b0ebfada0dd91954eeed06769",
+    "workflow_execution\\run_configuration\\src\\validation.py": "bdc7ee2c032e2cd98e34cf17ddd034f06d0a194be2bf4673db19e82d5a9b5555"
+  },
+  "counts": {
+    "raw_rows": 16,
+    "in_window_rows": 1,
+    "outside_window_rows": 15,
+    "unknown_time_rows": 0,
+    "duplicate_rows": 0,
+    "id_conflict_rows": 0,
+    "kinds": {
+      "manual_review": 6,
+      "specific_complaint": 4,
+      "delivery": 4,
+      "empty": 2
+    },
+    "independent_buyers": null,
+    "negative_review_rate": null,
+    "current_cards": 1,
+    "unhandled_rows": 6,
+    "search_calls": 1,
+    "product_matches": 3,
+    "qualified_candidates": 0
+  },
+  "finished_at": "2026-09-06T16:18:19.793010+00:00",
+  "artifact_sha256": {
+    "analysis.json": "3e5f5bc9754d47f80eefd08ce0117e1a5ef7e28e6ae420da4c626589bf4bfecc",
+    "demand_cards.json": "9272a0814fe23caa5b65253abdca186cd9ca2986922b78cfb20ae1eb9509c5d6",
+    "evidence.json": "01a468e1f59d51355044fc2f68a0ca001c0251892b7badfa0765d7e401e1035d",
+    "manual_review.json": "339de6b35d462884f995d5409984b353051dc3cf4e62fea5d57d4279794877b7",
+    "product_matches.json": "13753a81c88637c6fcef423e07072a4b06f36637c2e144f386839073bb563355",
+    "raw_reviews.json": "889c492ef8a4d91e69da9ac0a94e65c7905ea7213b9223a1c146db8468afe7e1",
+    "REPORT.md": "c00c6e0ac8bbac234fc2ad52ffe3b057edcb56bd3abb0b324c700dae05923544",
+    "search_plan.json": "f257eb7e16d1deb30623309b01ffaef97ae62d3c226d71307f74a9623e4502c7",
+    "source.json": "58b3020509f06dd3a6010e82c244b69473596879378485b338ba73d1b5f37649",
+    "source_reviews.json": "889c492ef8a4d91e69da9ac0a94e65c7905ea7213b9223a1c146db8468afe7e1",
+    "validation.json": "d97aa8aff29b925d24d0779f641cb54c6f4cde4f2f69ed65f790e83f1bc941f2",
+    "searches/Q-70db439e53847f70.json": "78150e33dd5589b01541748e40a685f120bd3d4838f3d2e2aa16baa3e8a9ca35"
+  }
+}

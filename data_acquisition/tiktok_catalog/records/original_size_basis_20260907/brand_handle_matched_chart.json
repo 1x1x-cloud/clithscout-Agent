@@ -1,0 +1,241 @@
+{
+  "source_file": "brand_product_page.html",
+  "script_attributes": " type=\"application/json\" data-cfasync='false' class='mpSizeChart-script'",
+  "json_path": ".campaignsList[1][516]",
+  "chart": {
+    "id": "tcVgs3uRVHAT1rktUE3Z",
+    "name": "ODS5841",
+    "status": true,
+    "displayType": "AUTOMATED",
+    "priority": 0,
+    "createdAt": "2026-03-25T07:18:42.957Z",
+    "updatedAt": "2026-06-09T07:15:09.027Z",
+    "contentConfigs": [
+      {
+        "typeConfig": "advanced_table",
+        "tableData": {
+          "columns": [
+            {
+              "id": "col1",
+              "name": "Size",
+              "type": "key",
+              "order": 0
+            },
+            {
+              "id": "col4",
+              "name": "",
+              "order": 1,
+              "type": "value"
+            },
+            {
+              "id": "col2",
+              "name": "Product Measurement",
+              "type": "value",
+              "order": 2
+            },
+            {
+              "id": "col3",
+              "name": "",
+              "type": "value",
+              "order": 3
+            }
+          ],
+          "rows": [
+            {
+              "id": "row1",
+              "order": 0,
+              "col1": "Size",
+              "col2": "Bust",
+              "col3": "Length",
+              "col4": "US Size"
+            },
+            {
+              "id": "row6",
+              "order": 1,
+              "col1": "S",
+              "col2": "33.5",
+              "col3": "19.3",
+              "col4": "6-8"
+            },
+            {
+              "id": "row2",
+              "order": 2,
+              "col1": "M",
+              "col2": "35.0",
+              "col3": "19.7",
+              "col4": "10"
+            },
+            {
+              "id": "row3",
+              "order": 3,
+              "col1": "L",
+              "col2": "37.4",
+              "col3": "20.3",
+              "col4": "12-14"
+            },
+            {
+              "id": "row4",
+              "order": 4,
+              "col1": "XL",
+              "col2": "39.8",
+              "col3": "20.9",
+              "col4": "16"
+            },
+            {
+              "id": "row5",
+              "order": 5,
+              "col1": "XXL",
+              "col2": "42.1",
+              "col3": "21.5",
+              "col4": "18"
+            }
+          ],
+          "isConvertUnit": true,
+          "defaultUnit": "Inch",
+          "sizeRange": "columns",
+          "mergeCells": [
+            {
+              "row": "row0",
+              "col": "col1",
+              "rowspan": 1,
+              "colspan": 2
+            },
+            {
+              "row": "row0",
+              "col": "col2",
+              "rowspan": 1,
+              "colspan": 2
+            }
+          ]
+        },
+        "tableId": 1774422993135
+      },
+      {
+        "value": "",
+        "typeConfig": "advanced_table",
+        "tableData": {
+          "columns": [
+            {
+              "id": "col1",
+              "name": "Size",
+              "type": "key",
+              "order": 0
+            },
+            {
+              "id": "col2",
+              "name": "",
+              "type": "value",
+              "order": 1
+            },
+            {
+              "id": "col3",
+              "name": "Body Measurement",
+              "type": "value",
+              "order": 2
+            },
+            {
+              "id": "col4",
+              "name": "",
+              "type": "value",
+              "order": 3
+            }
+          ],
+          "rows": [
+            {
+              "id": "row1",
+              "order": 0,
+              "col1": "Size",
+              "col2": "US Size",
+              "col3": "Bust",
+              "col4": "Length"
+            },
+            {
+              "id": "row6",
+              "order": 1,
+              "col1": "S",
+              "col2": "6-8",
+              "col3": "33.9-35.8",
+              "col4": "5′2\"-5′4\""
+            },
+            {
+              "id": "row2",
+              "order": 2,
+              "col1": "M",
+              "col2": "10",
+              "col3": "36.2-37.8",
+              "col4": "5′4\"-5′6\""
+            },
+            {
+              "id": "row3",
+              "order": 3,
+              "col1": "L",
+              "col2": "12-14",
+              "col3": "38.2-40.6",
+              "col4": "5′6\"-5′7\""
+            },
+            {
+              "id": "row4",
+              "order": 4,
+              "col1": "XL",
+              "col2": "16",
+              "col3": "40.9-42.1",
+              "col4": "5′8\"-5′9\""
+            },
+            {
+              "id": "row5",
+              "order": 5,
+              "col1": "XXL",
+              "col2": "18",
+              "col3": "42.5-43.7",
+              "col4": "5′8\"-5′9\""
+            }
+          ],
+          "isConvertUnit": true,
+          "defaultUnit": "Inch",
+          "sizeRange": "columns",
+          "mergeCells": [
+            {
+              "row": "row0",
+              "col": "col1",
+              "rowspan": 1,
+              "colspan": 2
+            },
+            {
+              "row": "row0",
+              "col": "col3",
+              "rowspan": 1,
+              "colspan": 2
+            }
+          ]
+        },
+        "tableId": 1780983991981
+      }
+    ],
+    "sizeRecommend": {
+      "type": "manual",
+      "sourceTable": "",
+      "measurement": {
+        "select": [],
+        "type": "bodyMeasurement",
+        "fitPreference": true,
+        "primary": "",
+        "havePrimary": false,
+        "extra": {
+          "unit": "Centimeter",
+          "value": 6
+        }
+      }
+    },
+    "conditions": {
+      "conditions": [
+        {
+          "type": "HANDLE",
+          "value": "striped-halter-sleeveless-tank-causal-golden-button-decor-breathable-knit-top",
+          "operation": "EQUALS"
+        }
+      ],
+      "type": "ALL"
+    },
+    "countries_all": true
+  }
+}

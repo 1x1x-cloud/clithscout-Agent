@@ -1,0 +1,1421 @@
+{
+  "recorded_at": "2026-09-07T04:18:50.248Z",
+  "capture_kind": "parsed_successful_dom_snapshot",
+  "source_url": "https://www.fastmoss.com/zh/creativecenter/keyword-trends?region=US&page=1&pagesize=100",
+  "market_evidence": "radio 美国 checked",
+  "page_size_evidence": "100 条/页",
+  "period_text": "近30天TikTok平台获取的新视频",
+  "headers": [
+    "排名",
+    "关键词",
+    "趋势",
+    "热度指数",
+    "曝光量",
+    "点赞量",
+    "分享",
+    "评论",
+    "操作"
+  ],
+  "rows": [
+    {
+      "cells": [
+        "",
+        "free shipping",
+        "",
+        "2880",
+        "1140.00万",
+        "4.06万",
+        "632",
+        "414",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=free%20shipping&region=US"
+    },
+    {
+      "cells": [
+        "",
+        "for free",
+        "",
+        "2740",
+        "5870.00万",
+        "11.09万",
+        "776",
+        "1165",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=for%20free&region=US"
+    },
+    {
+      "cells": [
+        "",
+        "free",
+        "",
+        "2390",
+        "2330.00万",
+        "4.56万",
+        "269",
+        "619",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=free&region=US"
+    },
+    {
+      "cells": [
+        "4",
+        "this game",
+        "",
+        "2230",
+        "641.00万",
+        "4.54万",
+        "140",
+        "600",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=this%20game&region=US"
+    },
+    {
+      "cells": [
+        "5",
+        "try it",
+        "",
+        "2000",
+        "6470.00万",
+        "4.05万",
+        "553",
+        "564",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=try%20it&region=US"
+    },
+    {
+      "cells": [
+        "6",
+        "learn more",
+        "",
+        "1680",
+        "3210.00万",
+        "4.19万",
+        "781",
+        "891",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=learn%20more&region=US"
+    },
+    {
+      "cells": [
+        "7",
+        "summer",
+        "",
+        "1620",
+        "359.00万",
+        "1.65万",
+        "248",
+        "126",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=summer&region=US"
+    },
+    {
+      "cells": [
+        "8",
+        "had to try",
+        "",
+        "1590",
+        "126.00万",
+        "4678",
+        "26",
+        "170",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=had%20to%20try&region=US"
+    },
+    {
+      "cells": [
+        "9",
+        "shop now",
+        "",
+        "1530",
+        "3080.00万",
+        "4.03万",
+        "511",
+        "213",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=shop%20now&region=US"
+    },
+    {
+      "cells": [
+        "10",
+        "you try it",
+        "",
+        "1460",
+        "55.80万",
+        "2096",
+        "18",
+        "134",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=you%20try%20it&region=US"
+    },
+    {
+      "cells": [
+        "11",
+        "dress",
+        "",
+        "1420",
+        "566.00万",
+        "10.25万",
+        "233",
+        "147",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=dress&region=US"
+    },
+    {
+      "cells": [
+        "12",
+        "men",
+        "",
+        "1320",
+        "292.00万",
+        "3246",
+        "84",
+        "68",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=men&region=US"
+    },
+    {
+      "cells": [
+        "13",
+        "50 %off",
+        "",
+        "1240",
+        "6030.00万",
+        "15.59万",
+        "1209",
+        "1143",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=50%20%25off&region=US"
+    },
+    {
+      "cells": [
+        "14",
+        "great deal",
+        "",
+        "1190",
+        "484.00万",
+        "6386",
+        "387",
+        "238",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=great%20deal&region=US"
+    },
+    {
+      "cells": [
+        "15",
+        "play now",
+        "",
+        "1170",
+        "5110.00万",
+        "3.49万",
+        "228",
+        "392",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=play%20now&region=US"
+    },
+    {
+      "cells": [
+        "16",
+        "harder than you think",
+        "",
+        "995",
+        "675.00万",
+        "1.60万",
+        "72",
+        "414",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=harder%20than%20you%20think&region=US"
+    },
+    {
+      "cells": [
+        "17",
+        "limited time",
+        "",
+        "941",
+        "3740.00万",
+        "2.65万",
+        "574",
+        "362",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=limited%20time&region=US"
+    },
+    {
+      "cells": [
+        "18",
+        "love this game",
+        "",
+        "908",
+        "168.00万",
+        "2884",
+        "6",
+        "72",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=love%20this%20game&region=US"
+    },
+    {
+      "cells": [
+        "19",
+        "for any occasion",
+        "",
+        "907",
+        "51.80万",
+        "622",
+        "26",
+        "12",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=for%20any%20occasion&region=US"
+    },
+    {
+      "cells": [
+        "20",
+        "shoe",
+        "",
+        "864",
+        "565.00万",
+        "1.17万",
+        "206",
+        "156",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=shoe&region=US"
+    },
+    {
+      "cells": [
+        "21",
+        "skincare",
+        "",
+        "841",
+        "185.00万",
+        "4236",
+        "82",
+        "108",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=skincare&region=US"
+    },
+    {
+      "cells": [
+        "22",
+        "pillow",
+        "",
+        "832",
+        "90.70万",
+        "1752",
+        "104",
+        "22",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=pillow&region=US"
+    },
+    {
+      "cells": [
+        "23",
+        "bra",
+        "",
+        "827",
+        "251.00万",
+        "2.10万",
+        "290",
+        "268",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=bra&region=US"
+    },
+    {
+      "cells": [
+        "24",
+        "right now",
+        "",
+        "823",
+        "616.00万",
+        "1.63万",
+        "333",
+        "271",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=right%20now&region=US"
+    },
+    {
+      "cells": [
+        "25",
+        "download now",
+        "",
+        "819",
+        "832.00万",
+        "1.74万",
+        "192",
+        "198",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=download%20now&region=US"
+    },
+    {
+      "cells": [
+        "26",
+        "jean",
+        "",
+        "816",
+        "160.00万",
+        "5948",
+        "76",
+        "54",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=jean&region=US"
+    },
+    {
+      "cells": [
+        "27",
+        "shoes",
+        "",
+        "795",
+        "421.00万",
+        "1.06万",
+        "160",
+        "136",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=shoes&region=US"
+    },
+    {
+      "cells": [
+        "28",
+        "jeans",
+        "",
+        "783",
+        "159.00万",
+        "5926",
+        "76",
+        "54",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=jeans&region=US"
+    },
+    {
+      "cells": [
+        "29",
+        "this app",
+        "",
+        "770",
+        "1660.00万",
+        "3.93万",
+        "420",
+        "1150",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=this%20app&region=US"
+    },
+    {
+      "cells": [
+        "30",
+        "click to learn more",
+        "",
+        "735",
+        "815.00万",
+        "7844",
+        "200",
+        "324",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=click%20to%20learn%20more&region=US"
+    },
+    {
+      "cells": [
+        "31",
+        "amazing deal",
+        "",
+        "730",
+        "296.00万",
+        "4302",
+        "218",
+        "131",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=amazing%20deal&region=US"
+    },
+    {
+      "cells": [
+        "32",
+        "try this",
+        "",
+        "724",
+        "1080.00万",
+        "10.25万",
+        "942",
+        "415",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=try%20this&region=US"
+    },
+    {
+      "cells": [
+        "33",
+        "going to love this game",
+        "",
+        "724",
+        "86.90万",
+        "2450",
+        "6",
+        "64",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=going%20to%20love%20this%20game&region=US"
+    },
+    {
+      "cells": [
+        "34",
+        "wig",
+        "",
+        "705",
+        "60.10万",
+        "4930",
+        "118",
+        "54",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=wig&region=US"
+    },
+    {
+      "cells": [
+        "35",
+        "check the",
+        "",
+        "695",
+        "316.00万",
+        "1.09万",
+        "421",
+        "228",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=check%20the&region=US"
+    },
+    {
+      "cells": [
+        "36",
+        "swipe left to learn more",
+        "",
+        "688",
+        "150.00万",
+        "5030",
+        "102",
+        "184",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=swipe%20left%20to%20learn%20more&region=US"
+    },
+    {
+      "cells": [
+        "37",
+        "puzzles",
+        "",
+        "666",
+        "38.60万",
+        "1048",
+        "6",
+        "6",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=puzzles&region=US"
+    },
+    {
+      "cells": [
+        "38",
+        "for summer",
+        "",
+        "663",
+        "172.00万",
+        "6391",
+        "210",
+        "68",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=for%20summer&region=US"
+    },
+    {
+      "cells": [
+        "39",
+        "puzzle game",
+        "",
+        "652",
+        "76.30万",
+        "1038",
+        "2",
+        "28",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=puzzle%20game&region=US"
+    },
+    {
+      "cells": [
+        "40",
+        "click to",
+        "",
+        "631",
+        "1090.00万",
+        "1.17万",
+        "211",
+        "371",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=click%20to&region=US"
+    },
+    {
+      "cells": [
+        "41",
+        "pant",
+        "",
+        "605",
+        "90.80万",
+        "1980",
+        "78",
+        "32",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=pant&region=US"
+    },
+    {
+      "cells": [
+        "42",
+        "spring",
+        "",
+        "603",
+        "560.00万",
+        "9411",
+        "357",
+        "148",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=spring&region=US"
+    },
+    {
+      "cells": [
+        "43",
+        "any occasion",
+        "",
+        "601",
+        "50.70万",
+        "616",
+        "26",
+        "12",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=any%20occasion&region=US"
+    },
+    {
+      "cells": [
+        "44",
+        "help you",
+        "",
+        "597",
+        "3970.00万",
+        "1.67万",
+        "275",
+        "123",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=help%20you&region=US"
+    },
+    {
+      "cells": [
+        "45",
+        "tracking calories",
+        "",
+        "592",
+        "478.00万",
+        "1.29万",
+        "38",
+        "80",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=tracking%20calories&region=US"
+    },
+    {
+      "cells": [
+        "46",
+        "easy and fun",
+        "",
+        "592",
+        "478.00万",
+        "1.29万",
+        "40",
+        "80",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=easy%20and%20fun&region=US"
+    },
+    {
+      "cells": [
+        "47",
+        "try it now",
+        "",
+        "592",
+        "74.00万",
+        "1732",
+        "41",
+        "24",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=try%20it%20now&region=US"
+    },
+    {
+      "cells": [
+        "48",
+        "try boo now",
+        "",
+        "570",
+        "27.00万",
+        "372",
+        "2",
+        "12",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=try%20boo%20now&region=US"
+    },
+    {
+      "cells": [
+        "49",
+        "find out",
+        "",
+        "569",
+        "1380.00万",
+        "3.87万",
+        "329",
+        "263",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=find%20out&region=US"
+    },
+    {
+      "cells": [
+        "50",
+        "pants",
+        "",
+        "567",
+        "67.90万",
+        "1918",
+        "74",
+        "32",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=pants&region=US"
+    },
+    {
+      "cells": [
+        "51",
+        "your free",
+        "",
+        "557",
+        "5350.00万",
+        "4.73万",
+        "529",
+        "128",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=your%20free&region=US"
+    },
+    {
+      "cells": [
+        "52",
+        "use code",
+        "",
+        "546",
+        "5030.00万",
+        "14.30万",
+        "362",
+        "446",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=use%20code&region=US"
+    },
+    {
+      "cells": [
+        "53",
+        "sign up",
+        "",
+        "543",
+        "2830.00万",
+        "2.91万",
+        "327",
+        "358",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=sign%20up&region=US"
+    },
+    {
+      "cells": [
+        "54",
+        "buy now",
+        "",
+        "541",
+        "32.20万",
+        "486",
+        "16",
+        "16",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=buy%20now&region=US"
+    },
+    {
+      "cells": [
+        "55",
+        "acne",
+        "",
+        "524",
+        "618.00万",
+        "7113",
+        "144",
+        "76",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=acne&region=US"
+    },
+    {
+      "cells": [
+        "56",
+        "it now",
+        "",
+        "518",
+        "442.00万",
+        "5335",
+        "65",
+        "159",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=it%20now&region=US"
+    },
+    {
+      "cells": [
+        "57",
+        "swimsuit",
+        "",
+        "518",
+        "81.60万",
+        "3822",
+        "104",
+        "52",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=swimsuit&region=US"
+    },
+    {
+      "cells": [
+        "58",
+        "ring",
+        "",
+        "513",
+        "270.00万",
+        "4516",
+        "82",
+        "44",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=ring&region=US"
+    },
+    {
+      "cells": [
+        "59",
+        "your phone",
+        "",
+        "509",
+        "3210.00万",
+        "2.40万",
+        "617",
+        "431",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=your%20phone&region=US"
+    },
+    {
+      "cells": [
+        "60",
+        "grow your",
+        "",
+        "509",
+        "1050.00万",
+        "1.53万",
+        "298",
+        "182",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=grow%20your&region=US"
+    },
+    {
+      "cells": [
+        "61",
+        "free to play",
+        "",
+        "492",
+        "1710.00万",
+        "2.27万",
+        "244",
+        "625",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=free%20to%20play&region=US"
+    },
+    {
+      "cells": [
+        "62",
+        "casual game",
+        "",
+        "492",
+        "32.60万",
+        "314",
+        "2",
+        "22",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=casual%20game&region=US"
+    },
+    {
+      "cells": [
+        "63",
+        "play this",
+        "",
+        "490",
+        "96.00万",
+        "2566",
+        "20",
+        "198",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=play%20this&region=US"
+    },
+    {
+      "cells": [
+        "64",
+        "my friends",
+        "",
+        "490",
+        "99.90万",
+        "4848",
+        "26",
+        "112",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=my%20friends&region=US"
+    },
+    {
+      "cells": [
+        "65",
+        "shorts",
+        "",
+        "488",
+        "84.90万",
+        "2312",
+        "44",
+        "40",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=shorts&region=US"
+    },
+    {
+      "cells": [
+        "66",
+        "feel good",
+        "",
+        "482",
+        "16.90万",
+        "198",
+        "2",
+        "6",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=feel%20good&region=US"
+    },
+    {
+      "cells": [
+        "67",
+        "bag",
+        "",
+        "480",
+        "47.70万",
+        "1220",
+        "28",
+        "16",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=bag&region=US"
+    },
+    {
+      "cells": [
+        "68",
+        "miss out",
+        "",
+        "480",
+        "589.00万",
+        "1.47万",
+        "230",
+        "254",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=miss%20out&region=US"
+    },
+    {
+      "cells": [
+        "69",
+        "for women",
+        "",
+        "479",
+        "90.60万",
+        "2493",
+        "101",
+        "52",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=for%20women&region=US"
+    },
+    {
+      "cells": [
+        "70",
+        "don’t miss",
+        "",
+        "477",
+        "1600.00万",
+        "2.07万",
+        "463",
+        "241",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=don%E2%80%99t%20miss&region=US"
+    },
+    {
+      "cells": [
+        "71",
+        "play this game",
+        "",
+        "477",
+        "90.70万",
+        "2448",
+        "20",
+        "198",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=play%20this%20game&region=US"
+    },
+    {
+      "cells": [
+        "72",
+        "get started",
+        "",
+        "471",
+        "2420.00万",
+        "2.15万",
+        "1014",
+        "288",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=get%20started&region=US"
+    },
+    {
+      "cells": [
+        "73",
+        "casual",
+        "",
+        "462",
+        "37.20万",
+        "2388",
+        "80",
+        "30",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=casual&region=US"
+    },
+    {
+      "cells": [
+        "74",
+        "black friday",
+        "",
+        "461",
+        "109.00万",
+        "5408",
+        "227",
+        "71",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=black%20friday&region=US"
+    },
+    {
+      "cells": [
+        "75",
+        "every day",
+        "",
+        "446",
+        "1160.00万",
+        "1.27万",
+        "178",
+        "195",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=every%20day&region=US"
+    },
+    {
+      "cells": [
+        "76",
+        "flash sale",
+        "",
+        "440",
+        "262.00万",
+        "5056",
+        "118",
+        "73",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=flash%20sale&region=US"
+    },
+    {
+      "cells": [
+        "77",
+        "shapewear",
+        "",
+        "433",
+        "132.00万",
+        "7300",
+        "180",
+        "150",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=shapewear&region=US"
+    },
+    {
+      "cells": [
+        "78",
+        "good deal",
+        "",
+        "419",
+        "161.00万",
+        "2678",
+        "144",
+        "116",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=good%20deal&region=US"
+    },
+    {
+      "cells": [
+        "79",
+        "check the product page",
+        "",
+        "419",
+        "159.00万",
+        "2058",
+        "68",
+        "74",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=check%20the%20product%20page&region=US"
+    },
+    {
+      "cells": [
+        "80",
+        "check the product",
+        "",
+        "418",
+        "159.00万",
+        "2061",
+        "68",
+        "74",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=check%20the%20product&region=US"
+    },
+    {
+      "cells": [
+        "81",
+        "glass",
+        "",
+        "413",
+        "2430.00万",
+        "8881",
+        "322",
+        "192",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=glass&region=US"
+    },
+    {
+      "cells": [
+        "82",
+        "free now",
+        "",
+        "413",
+        "159.00万",
+        "3218",
+        "148",
+        "12",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=free%20now&region=US"
+    },
+    {
+      "cells": [
+        "83",
+        "24 hours",
+        "",
+        "412",
+        "256.00万",
+        "3576",
+        "70",
+        "108",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=24%20hours&region=US"
+    },
+    {
+      "cells": [
+        "84",
+        "glasses",
+        "",
+        "410",
+        "2430.00万",
+        "8788",
+        "322",
+        "192",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=glasses&region=US"
+    },
+    {
+      "cells": [
+        "85",
+        "first order",
+        "",
+        "409",
+        "4550.00万",
+        "15.32万",
+        "324",
+        "352",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=first%20order&region=US"
+    },
+    {
+      "cells": [
+        "86",
+        "sunglass",
+        "",
+        "405",
+        "89.30万",
+        "1586",
+        "26",
+        "16",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=sunglass&region=US"
+    },
+    {
+      "cells": [
+        "87",
+        "sunglasses",
+        "",
+        "404",
+        "89.30万",
+        "1586",
+        "26",
+        "16",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=sunglasses&region=US"
+    },
+    {
+      "cells": [
+        "88",
+        "get up",
+        "",
+        "404",
+        "2410.00万",
+        "7.29万",
+        "370",
+        "160",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=get%20up&region=US"
+    },
+    {
+      "cells": [
+        "89",
+        "kids",
+        "",
+        "404",
+        "1620.00万",
+        "2.14万",
+        "250",
+        "712",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=kids&region=US"
+    },
+    {
+      "cells": [
+        "90",
+        "watch now",
+        "",
+        "403",
+        "31.80万",
+        "1101",
+        "2",
+        "10",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=watch%20now&region=US"
+    },
+    {
+      "cells": [
+        "91",
+        "your home",
+        "",
+        "402",
+        "211.00万",
+        "2514",
+        "115",
+        "60",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=your%20home&region=US"
+    },
+    {
+      "cells": [
+        "92",
+        "go viral",
+        "",
+        "400",
+        "1180.00万",
+        "1.16万",
+        "468",
+        "80",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=go%20viral&region=US"
+    },
+    {
+      "cells": [
+        "93",
+        "get yours",
+        "",
+        "400",
+        "1040.00万",
+        "1.61万",
+        "206",
+        "297",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=get%20yours&region=US"
+    },
+    {
+      "cells": [
+        "94",
+        "for men",
+        "",
+        "399",
+        "148.00万",
+        "2075",
+        "132",
+        "57",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=for%20men&region=US"
+    },
+    {
+      "cells": [
+        "95",
+        "buy 1 get 1 free",
+        "",
+        "398",
+        "236.00万",
+        "3377",
+        "58",
+        "75",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=buy%201%20get%201%20free&region=US"
+    },
+    {
+      "cells": [
+        "96",
+        "pass level 3",
+        "",
+        "394",
+        "163.00万",
+        "2990",
+        "10",
+        "86",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=pass%20level%203&region=US"
+    },
+    {
+      "cells": [
+        "97",
+        "dental implants",
+        "",
+        "394",
+        "37.00万",
+        "844",
+        "36",
+        "52",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=dental%20implants&region=US"
+    },
+    {
+      "cells": [
+        "98",
+        "don’t miss out",
+        "",
+        "393",
+        "329.00万",
+        "1.05万",
+        "126",
+        "123",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=don%E2%80%99t%20miss%20out&region=US"
+    },
+    {
+      "cells": [
+        "99",
+        "find the",
+        "",
+        "389",
+        "413.00万",
+        "1.14万",
+        "74",
+        "85",
+        "查看素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=find%20the&region=US"
+    },
+    {
+      "cells": [
+        "100",
+        "leggings",
+        "",
+        "389",
+        "53.30万",
+        "2346",
+        "112",
+        "56",
+        "收起素材 查看更多"
+      ],
+      "keyword_href": "/zh/creativecenter/search?page=1&words=leggings&region=US"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "sample_id": "pinterest-us-sweater-jeans-20260906",
+  "sample_kind": "user_provided_screenshot_observation",
+  "source_platform": "Pinterest Trends",
+  "source_entry_url": "https://trends.pinterest.com/",
+  "source_locator": "趋势概览 → 焦点趋势（时尚） → Sweater and Jeans Outfits",
+  "source_image": "source_screenshot.png",
+  "source_image_original_filename": "codex-clipboard-03f0eaec-837d-4af6-854d-882c4ce9023d.png",
+  "extracted_at_utc": "2026-09-06 08:46:49 UTC",
+  "screenshot_clock_display": "2026/9/6 16:45",
+  "source_data_updated_at": null,
+  "topic": "Sweater and Jeans Outfits",
+  "topic_translation": "毛衣与牛仔裤穿搭",
+  "region_display": "美国",
+  "market": "US",
+  "metric": {
+    "label_raw": "Pin 图收藏次数",
+    "comparison_label_raw": "与上月相比",
+    "change_display_raw": "↑2,500%",
+    "change_percent_display": 2500,
+    "current_raw_count": null,
+    "previous_raw_count": null,
+    "period_start": null,
+    "period_end": null,
+    "baseline_period_start": null,
+    "baseline_period_end": null,
+    "timezone": null
+  },
+  "chart": {
+    "title_raw": "一段时间内收藏的 Pin 图",
+    "scale_label_raw": "索引从 0 到 100",
+    "visible_y_axis_labels": [
+      0,
+      50,
+      100
+    ],
+    "visible_x_axis_labels": [
+      "2026年6月",
+      "2026年7月",
+      "2026年9月"
+    ],
+    "qualitative_observation": "截图中曲线末段明显上升，右端接近100。",
+    "observation_kind": "visual_description_not_digitized",
+    "data_points": [],
+    "precise_start_date": null,
+    "precise_end_date": null
+  },
+  "related_searches_label_raw": "参与此趋势的用户通常会搜索：",
+  "related_searches": [
+    "sweater and jeans outfit",
+    "sweater and jeans",
+    "jeans and sweatshirt outfit",
+    "sweater jeans outfit",
+    "sweater with jeans",
+    "cardigan and jeans outfit",
+    "sweater outfit casual",
+    "sweater jeans",
+    "sweater and jeans outfit men",
+    "black sweater and jeans",
+    "jeans and sweater outfit",
+    "jeans and sweater"
+  ],
+  "related_searches_note": "These are displayed associated queries, without per-query search volume or growth values in this screenshot.",
+  "possible_followup_queries": [
+    "cardigan and jeans outfit",
+    "sweater and jeans outfit men"
+  ],
+  "possible_followup_queries_status": "Suggested investigation branches; neither is confirmed to outperform the other.",
+  "interpretation": {
+    "supported": [
+      "美国地区页面展示该穿搭主题的收藏趋势及月比较增长展示值。",
+      "可作为服装相关趋势线索。"
+    ],
+    "hypotheses_requiring_validation": [
+      "该上升可能与换季有关，需可比历史数据检验。"
+    ],
+    "not_established": [
+      "绝对收藏规模",
+      "具体日期的增速/加速度",
+      "搜索量增长2500%",
+      "任何具体商品的销量/点击率/点击下单率",
+      "需求尚未被供给满足",
+      "现货采购可行性",
+      "近期TikTok/Instagram/X/Reddit同步上升"
+    ]
+  },
+  "status": "trend_lead_saved_further_validation_required",
+  "acquisition_method": "Visual transcription of the user-attached screenshot. No live Pinterest DOM, API or raw chart export was read in this step.",
+  "observation_window_confirmed_by_user": false,
+  "procurement_status": "not_checked",
+  "product_impressions": null,
+  "product_clicks": null,
+  "click_attributed_orders": null,
+  "ctr": null,
+  "click_to_order_rate": null,
+  "business_spec": "../../docs/superpowers/specs/2026-09-06-clothing-demand-agent-v1-design.md"
+}
+
